@@ -1,0 +1,149 @@
+{
+    "faculty_details": [
+        {
+            "department": "Chemistry",
+            "faculty_members": [
+                {
+                    "name": "DR. S. JAYASREE AMALAN",
+                    "dob": "05-06-1985",
+                    "date_of_joining": "03-02-2021",
+                    "aicte_id": "19508453408",
+                    "phd_thesis_title": "CHEMISTRY",
+                    "year_of_starting": "2008",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "MOHAIDEEN COLLEGE",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "MOHAIDEEN COLLEGE",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "MOHAIDEEN COLLEGE",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "PROFESSOR",
+                            "previous_position": "OTHERS-KHADHIR"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. B. KALPANA",
+                    "dob": "31-08-1978",
+                    "date_of_joining": "14-06-2007",
+                    "aicte_id": "1452585675",
+                    "phd_thesis_title": "DOCTOR OF PHILOSOPHY",
+                    "year_of_starting": "2002",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "OTHERS-PACHIAYAPAS",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "OTHERS-UNIVERSITY OF MADRAS",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "OTHERS-PACHAIYAPPAS",
+                            "year_of_passing": "2022"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "PROFESSOR",
+                            "previous_position": "OTHERS-BHARATHIDASAN"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. .. DEEPA PARTHASARATHY",
+                    "dob": "05-08-1979",
+                    "date_of_joining": "16-04-2012",
+                    "aicte_id": "11490490243",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2004",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "OTHERS-BHARATHI WOMENS COLLEGE",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "OTHERS-BHARATHI WOMENS COLLEGE",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "OTHERS-BHARATHI WOMENS COLLEGE",
+                            "year_of_passing": "2009"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "PROFESSOR",
+                            "previous_position": "OTHERS-BHARATHIDASAN"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. A. GOMATHI",
+                    "dob": "20-07-1983",
+                    "date_of_joining": "01-03-2014",
+                    "aicte_id": "12190883464",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2009",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "ORGANIC CHEMISTRY",
+                            "college_name": "VELLORE INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "ORGANIC CHEMISTRY",
+                            "college_name": "VELLORE INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ORGANIC CHEMISTRY",
+                            "college_name": "VELLORE INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "PROFESSOR",
+                            "previous_position": "OTHERS-VIT"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,270 @@
+{
+    "faculty_details": [
+        {
+            "department": "Computer Science and Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. R. AHILA",
+                    "dob": "22-06-1974",
+                    "date_of_joining": "03-02-2021",
+                    "aicte_id": " ",
+                    "phd_thesis_title": "MODIFIED ARTIFICIAL NEURAL NETWORK BASED CLASSIFICATION TECHNIQUES FOR POWER QUALITY DISTURBANCES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.E.",
+                            "specialization": "SCIENCE AND ENGINEERING",
+                            "college_name": "SUNDARANAR UNIVERSITY",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "SCIENCE AND ENGINEERING",
+                            "college_name": "SUNDARANAR UNIVERSITY",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "21 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. G. SIMI MARGARAT",
+                    "dob": "16-06-1981",
+                    "date_of_joining": "02-11-2021",
+                    "aicte_id": "12721375196",
+                    "phd_thesis_title": "CSE",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.C.A.",
+                            "specialization": "COMPUTER APPLICATIONS",
+                            "college_name": "PANIMALAR INSTITUTE OF COMPUTER SCIENCE AND TECHNOLOGY",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "CSE",
+                            "college_name": "SCIENCE AND TECHNOLOGY",
+                            "year_of_passing": "2007"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "16 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. D R. ANITA SOFIA LIZ",
+                    "dob": "24-09-1982",
+                    "date_of_joining": "02-01-2018",
+                    "aicte_id": "13243263577",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "P S R ENGINEERING COLLEGE",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "ADITANAR COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "13 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. P. KAVITHA",
+                    "dob": "28-06-1981",
+                    "date_of_joining": "08-04-2013",
+                    "aicte_id": "1742319494",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS AND COMMUNICATION TECHNOLOGY",
+                            "college_name": "PSNA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "PSNA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2009"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "10 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. K. MANIKANDAN",
+                    "dob": "26-07-1989",
+                    "date_of_joining": "11-04-2016",
+                    "aicte_id": "13736607970",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "SREE SASTHA INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "KARPAGAM UNIVERSITY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. R. ANITHA",
+                    "dob": "12-06-1981",
+                    "date_of_joining": "12-12-2008",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "R V S COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "SRM UNIVERSITY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "12 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. SANTHOSH",
+                    "dob": "22-12-1982",
+                    "date_of_joining": "17-08-2011",
+                    "aicte_id": "1758514225",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "SRI BALAJI CHOCKALINGAM ENGINEERING COLLEGE",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "SATHYA BHAMA UNIVERSITY",
+                            "year_of_passing": "2008"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "7 Years",
+                            "previous_position": "7 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. V. SARANYA",
+                    "dob": "08-06-1991",
+                    "date_of_joining": "29-11-2021",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "SRI VENKATESWARA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "SRI VENKATESWARA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. P B. EDWIN PRABHAKAR",
+                    "dob": "02-06-1969",
+                    "date_of_joining": "22-02-2021",
+                    "aicte_id": "1434070448",
+                    "phd_thesis_title": "AODV ROUTING ALGORITHAM USING ROUTE STABILITY ALONG WITH CRYPTOGRAPHIC TECHNIQUES IN MOBILE ADHOC NETWORKS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.S",
+                            "specialization": "TECHNOLOGY",
+                            "college_name": "SOFTWARE TECHNOLOGY UNIVERSITY THIRUCHIRAPPALI",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "BHARATHIDHASAN INSTITUTE OF HIGHER EDUCATION AND RESEARCH",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "22 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

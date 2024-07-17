@@ -1,0 +1,72 @@
+{
+    "faculty_details": [
+        {
+            "department": "Computer Science",
+            "faculty_members": [
+                {
+                    "name": "MR. P. RAMACHANDIRAN",
+                    "dob": "28-04-1991",
+                    "date_of_joining": "15-05-2023",
+                    "aicte_id": "137129475481",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Computer Science and Engineering",
+                            "college_name": "AGNI COLLEGE OF SCIENCE AND TECHNOLOGY",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Computer Science and Engineering",
+                            "college_name": "OTHERS-ANNAMALAI",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "Computer Science",
+            "faculty_members": [
+                {
+                    "name": "MR. S. SRIDHAR",
+                    "dob": "04-06-1990",
+                    "date_of_joining": "17-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Computer Science and Engineering",
+                            "college_name": "ANNA UNIVERSITY REGIONAL CAMPUS, COIMBATORE",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Computer Science and Engineering",
+                            "college_name": "AKSHAYA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "faculty_details": [
+        {
+            "department": "General Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. V S. SARAVANAN",
+                    "dob": "27-07-1978",
+                    "date_of_joining": "14-11-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "TAMIL",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "OTHERS - TAMIL",
+                            "college_name": "HINDU COLLEGE",
+                            "year_of_passing": "1999"
+                        },
+                        {
+                            "degree": "M.A.",
+                            "specialization": "OTHERS - TAMIL",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "OTHERS - TAMIL",
+                            "college_name": "MANOMANIAM SUNDRANAR UNIVERSITY",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": " ",
+            "faculty_members": [
+                {
+                    "name": "DR. P T. RANI",
+                    "dob": "22-06-1975",
+                    "date_of_joining": "10-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "LIFE RITUALS OF VILAVANKODE LOCAL PEOPLE OF KANYAKUMARI DISTRICT",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "OTHERS - OTHERS",
+                            "college_name": "MANONMANIAM SUNDARANAR UNIVERSITY",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.A.",
+                            "specialization": "TAMIL",
+                            "college_name": "SUNDRANAR UNIVERSITY",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "OTHERS - OTHERS",
+                            "college_name": "UNIVERSITY OF MADRAS",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

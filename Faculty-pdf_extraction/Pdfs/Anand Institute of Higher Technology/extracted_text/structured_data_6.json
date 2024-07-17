@@ -1,0 +1,247 @@
+{
+    "faculty_details": [
+        {
+            "department": "BioTechnology",
+            "faculty_members": [
+                {
+                    "name": "DR. J. MADHUSUDHANAN",
+                    "dob": "09-06-1978",
+                    "date_of_joining": "16-08-2021",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "CARRIER BASED DRUG DELIVERY USING FOLATE MODIFIED POLYMER BASED NANOPARTICLE AND PLASMID DNA IN CANCER TREATMENT",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "KAMARAJ UNIVERSITY",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "17 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. E. KOWSALYA",
+                    "dob": "10-07-1982",
+                    "date_of_joining": "14-09-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "ENGINEERING",
+                            "college_name": "PALLAVAN COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "14 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. M. KALAIDEVI",
+                    "dob": "28-08-1997",
+                    "date_of_joining": "02-03-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "SHRI ANDAL ALAGAR COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2018"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "KARPAGA VINAYAGA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. K. RAVICHANDIRAN",
+                    "dob": "25-06-1993",
+                    "date_of_joining": "14-11-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "SHRI ANDAL ALAGAR COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "SRM INSTITUTE OF SCIENCE AND TECHNOLOGY",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. S S. SURUTHI",
+                    "dob": "07-09-1995",
+                    "date_of_joining": "02-03-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "VEL TECH HIGH TECH DR RANGARAJAN DR SAKUNTHALA ENGINEERING COLLEGE (AUTONOMOUS)",
+                            "year_of_passing": "2017"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "SRI VENKATESWARA COLLEGE OF ENGINEERING (AUTONOMOUS)",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. T S. SWETHA",
+                    "dob": "15-12-1996",
+                    "date_of_joining": "18-10-2021",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "KARPAGA VINAYAGA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2018"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "KARPAGA VINAYAGA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. K K. PRASHANTH",
+                    "dob": "28-08-1995",
+                    "date_of_joining": "02-03-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "VEL TECH HIGH TECH DR RANGARAJAN DR SAKUNTHALA ENGINEERING COLLEGE (AUTONOMOUS)",
+                            "year_of_passing": "2017"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "KARPAGA VINAYAGA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. V. GANDHIRAJ",
+                    "dob": "09-06-1980",
+                    "date_of_joining": "17-02-2023",
+                    "aicte_id": "1435520509",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "INFORMATICS",
+                            "college_name": "SCIENCE COLLEGE",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "AGRICULTURE",
+                            "college_name": "INSTITUD",
+                            "year_of_passing": "2002"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "18 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

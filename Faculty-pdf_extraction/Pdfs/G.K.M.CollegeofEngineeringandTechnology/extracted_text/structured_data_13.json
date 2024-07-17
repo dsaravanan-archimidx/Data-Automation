@@ -1,0 +1,38 @@
+{
+    "faculty_details": [
+        {
+            "department": "Computer Science and Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. R. INDRA GANDHI",
+                    "dob": "19-11-1975",
+                    "date_of_joining": "02-08-2010",
+                    "aicte_id": "455875501",
+                    "phd_thesis_title": "COMPUTER APPLICATIONS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "OTHERS - COMPUTER",
+                            "college_name": "OTHERS-BHARATHI",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "OTHERS-MTU",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "12 Years",
+                            "previous_position": "9 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

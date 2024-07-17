@@ -1,0 +1,276 @@
+{
+    "faculty_details": [
+        {
+            "department": "Computer Science and Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. N. PARTHEEBAN",
+                    "dob": "01-06-1977",
+                    "date_of_joining": "02-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "AN INTELLIGENT CONTENT RECOMMENDATION SYSTEM FOR EFFECTIVE E-LEARNING USING KNOWLEDGE BASED APPROACH",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "ADHIPARASAKTHI ENGINEERING COLLEGE",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "SOFTWARE ENGINEERING",
+                            "college_name": "BHARATH UNIVERSITY",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "20 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. A. DANIEL",
+                    "dob": "27-06-1988",
+                    "date_of_joining": "02-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "HYBRID APPROACHES TO OPTIMIZE THE PERFORMANCE OF LOAD BALANCING AND TASK SCHEDULING IN CLOUD ENVIRONMENT",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "TRICHY ENGINEERING COLLEGE",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "OTHERS",
+                            "college_name": "VENKATESHWARA UNIVERSITY",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "12 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. G N K. SURESH BABU",
+                    "dob": "08-04-1966",
+                    "date_of_joining": "07-03-2020",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "ON AN EFFICIENT WEB CACHING AND PREFETCHING ALGORITHM TO IMPROVE WEB PERFORMANCE",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "MASTER OF BUSINESS ADMINISTRATION",
+                            "college_name": "TAMIL NADU OPEN UNIVERSITY",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "ST PETERS UNIVERSITY",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "DATA MINING",
+                            "college_name": "SRI SAIKHARENDRA UNIVERSITY",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "20 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. M. ANITHA",
+                    "dob": "19-09-1984",
+                    "date_of_joining": "15-11-2021",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "INFORMATION TECHNOLOGY",
+                            "college_name": "SYED AMMAL ENGINEERING COLLEGE",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "SRI LAKSHMI AMMAL ENGINEERING COLLEGE",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. K. ANANDHI",
+                    "dob": "10-09-1990",
+                    "date_of_joining": "29-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "INFORMATION TECHNOLOGY",
+                            "college_name": "KINGS ENGINEERING COLLEGE",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "INFORMATION TECHNOLOGY",
+                            "college_name": "VEL TECH HIGH TECH DR RANGARAJAN DR SAKUNTHALA TECHNOLOGY ENGINEERING COLLEGE",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. J. RAJESH PUSHPA",
+                    "dob": "23-05-1982",
+                    "date_of_joining": "09-03-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "INFORMATION TECHNOLOGY",
+                            "college_name": "MADURAI KAMARAJ TECHNOLOGY",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "SHRI ANDAL ALAGAR COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. M. VANITHA",
+                    "dob": "06-06-1982",
+                    "date_of_joining": "17-08-2022",
+                    "aicte_id": "2183639750",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "THIAGARAJA COLLEGE",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "6 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. D. SHANTHI",
+                    "dob": "20-03-1985",
+                    "date_of_joining": "01-09-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "SRM",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. S. EBENAZER ROSELIN",
+                    "dob": "18-10-1990",
+                    "date_of_joining": "08-12-2014",
+                    "aicte_id": "12498855143",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "INFORMATION TECHNOLOGY",
+                            "college_name": "KING COLLEGE OF TECHNOLOGY",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "INFORMATION TECHNOLOGY",
+                            "college_name": "VEL TECH HIGH TECH DR RANGARAJAN DR SAKUNTHALA TECHNOLOGY ENGINEERING COLLEGE",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "8 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

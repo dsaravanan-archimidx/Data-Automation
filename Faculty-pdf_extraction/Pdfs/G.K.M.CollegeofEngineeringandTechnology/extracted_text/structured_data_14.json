@@ -1,0 +1,72 @@
+{
+    "faculty_details": [
+        {
+            "department": "Civil Engineering",
+            "faculty_members": [
+                {
+                    "name": "MR. M. LAMBODHARAN",
+                    "dob": "06-06-1984",
+                    "date_of_joining": "11-07-2011",
+                    "aicte_id": "757557773",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Civil Engineering",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Construction Engineering and Management",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2008"
+                        }
+                    ],
+                    "designation": "Assistant Professor",
+                    "academic_experience": [
+                        {
+                            "current_position": "11 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "Civil Engineering",
+            "faculty_members": [
+                {
+                    "name": "MR. R. SURESH KUMAR",
+                    "dob": "09-06-1990",
+                    "date_of_joining": "15-12-2014",
+                    "aicte_id": "2710157144",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Civil Engineering",
+                            "college_name": "SETHU INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Engineering and Management",
+                            "college_name": "THIAGARAJAR INFRASTRUCTURE COLLEGE",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "Assistant Professor",
+                    "academic_experience": [
+                        {
+                            "current_position": "8 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

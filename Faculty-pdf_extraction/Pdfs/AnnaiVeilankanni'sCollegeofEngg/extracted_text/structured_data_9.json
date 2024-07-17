@@ -1,0 +1,114 @@
+{
+    "faculty_details": [
+        {
+            "department": "Mathematics",
+            "faculty_members": [
+                {
+                    "name": "MRS. E. CHITRA",
+                    "dob": "27-06-1985",
+                    "date_of_joining": "01-02-2019",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "MEENAKSHI COLLEGE FOR WOMEN",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "MEENAKSHI COLLEGE FOR WOMEN",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. J. GAYATHRI",
+                    "dob": "25-10-1974",
+                    "date_of_joining": "02-07-2018",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "APPLIED SCIENCE",
+                            "college_name": "VAISHNAV COLLEGE",
+                            "year_of_passing": "1995"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "VAISHNAV COLLEGE",
+                            "year_of_passing": "1997"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. V. MONISHA",
+                    "dob": "02-11-1992",
+                    "date_of_joining": "01-02-2019",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "HOLY CROSS TRICHY",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "HEBER TRICHY",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

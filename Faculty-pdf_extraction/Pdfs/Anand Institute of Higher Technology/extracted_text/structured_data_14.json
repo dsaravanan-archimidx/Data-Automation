@@ -1,0 +1,289 @@
+{
+    "faculty_details": [
+        {
+            "department": "Mathematics",
+            "faculty_members": [
+                {
+                    "name": "DR. S. SIVAGURUNATHAN",
+                    "dob": "28-05-1969",
+                    "date_of_joining": "10-08-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "GRAPH THEORY",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "KAMARAJ UNIVERSITY",
+                            "year_of_passing": "1989"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "KAMRAJ UNIVERSITY",
+                            "year_of_passing": "1991"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "IIT KANPUR",
+                            "year_of_passing": "1996"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "8 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. D. YOKESH",
+                    "dob": "20-05-1981",
+                    "date_of_joining": "17-10-2022",
+                    "aicte_id": "11415283963",
+                    "phd_thesis_title": "DIFFERENTIAL IN GRAPHS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "GOVT ARTS COLLEGE",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "DB JAIN COLLEGE",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "UNIVERSITY OF MADRAS",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "9 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. J. ARIVUKKARASU",
+                    "dob": "15-09-1980",
+                    "date_of_joining": "27-02-2023",
+                    "aicte_id": "19324854091",
+                    "phd_thesis_title": "A STUDY SOME FEATURES OF SOME LATTICES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "RAJAH SERFOJI COLLEGE",
+                            "year_of_passing": "2000"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "AVVM SRI PUSHPAM COLLEGE",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "AVVM SRI PUSHPAM COLLEGE",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "12 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. K. RAMALAKSHMI",
+                    "dob": "02-08-1984",
+                    "date_of_joining": "08-08-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "CREEPING FLOW OF NEWTONIAN AND NON NEWTONIAN FLUID PAST SPHERICAL BODIES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "MANOMANIAR COLLEGE",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "SUNDARANAR UNIVERSITY",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "FLUID MECHANICS",
+                            "college_name": "VIT UNIVERSITY",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. M. SHOBANA",
+                    "dob": "24-06-1981",
+                    "date_of_joining": "08-08-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "CVG VISALAKSHI COLLEGE FOR WOMEN",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "GOUNDER MAHALINGAM COLLEGE",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "NALLAMUTHU COLLEGE",
+                            "year_of_passing": "2005"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "11 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. P. ASVINI",
+                    "dob": "25-12-1980",
+                    "date_of_joining": "08-08-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "GOVT ARTS COLLEGE",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "ARINGAR ANNA ARTS AND SCIENCE COLLEGE",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "KAMARAJ UNIVERSITY",
+                            "year_of_passing": "2005"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "11 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. T. MANIKANDAN",
+                    "dob": "18-06-1995",
+                    "date_of_joining": "22-08-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "SCAS",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "SCAS",
+                            "year_of_passing": "2018"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "PRIST",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. V. ELUMALAI",
+                    "dob": "27-02-1990",
+                    "date_of_joining": "02-07-2018",
+                    "aicte_id": "OTHERS",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "GOVERNMENT ARTS COLLEGE",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "ARTS COLLEGE",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "VIVEKANANDA COLLEGE",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

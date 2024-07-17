@@ -1,0 +1,429 @@
+{
+    "faculty_details": [
+        {
+            "department": "Name of the Degree & Course: M.B.A.-Master of Business Administration",
+            "faculty_members": [
+                {
+                    "name": "DR. RS. LEKSHMI",
+                    "dob": "28-05-1978",
+                    "date_of_joining": "01-08-2022",
+                    "aicte_id": "1478755165",
+                    "phd_thesis_title": "SHOPPERS BEHAVIOUR IN MALLS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.B.A.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2018"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "ADMINISTRATION",
+                            "college_name": "ENGINEERING COLLEGE (AUTONOMOUS)",
+                            "year_of_passing": "2000"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ADMINISTRATION",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "21 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. S. AJIT",
+                    "dob": "29-09-1977",
+                    "date_of_joining": "07-06-2006",
+                    "aicte_id": "455122183",
+                    "phd_thesis_title": "A STUDY ON THE EFFECTIVENESS OF FEAR APPEAL ADVERTISEMENTS AMONG CONSUMERS IN CHENNAI CITY",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS ENGINEERING",
+                            "college_name": "COLLEGE OG ENGG AND TECHNOLOGY",
+                            "year_of_passing": "1999"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "AMERICAN COLLEGE",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MANAGEMENT",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "17 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. N. MADHUMITHAA",
+                    "dob": "20-02-1989",
+                    "date_of_joining": "07-06-2006",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "A STUDY ON CROSS CULTURAL INFLUENCE ON BUSINESS RELATIONSHIP OF AUTO COMPONENT MSMES IN CHENNAI",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.B.A.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "CHRASTIAN",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "OTHERS-ABDHUR RAHANAN",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MANAGEMENT",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. G. NIRMALA",
+                    "dob": "05-04-1980",
+                    "date_of_joining": "06-10-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "A STUDY ON THE FACTORS INFLUENCING ONLINE BUYING BEHAVIOR WITH SPECIAL REFERENCE TO ELECTRONIC GADGETS IN CHENNAI",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.COM.",
+                            "specialization": "COMMERCE",
+                            "college_name": "COLLEGE OF WOMEN",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "COLLEGE OF WOMEN",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ADMINISTRATION",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "14 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. ARAVINTH",
+                    "dob": "08-11-1990",
+                    "date_of_joining": "01-07-2019",
+                    "aicte_id": "17501098412",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.COM.",
+                            "specialization": "COMMERCE",
+                            "college_name": "COLLEGE OF ARTS AND SCIENCE",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "MANAGEMENT",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. U. MADHANRAJAN",
+                    "dob": "09-11-1982",
+                    "date_of_joining": "08-11-2021",
+                    "aicte_id": "13541928353",
+                    "phd_thesis_title": "FRONTLINE EMPLOYEES INTENTION TO STAY IN HOTELS EXPLORING THE LINEAR AND NON LINEARS RELATIONSHIPS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.B.A.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "UNIVERSITY OF MADRAS",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MANAGEMENT",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. W. ANITHA",
+                    "dob": "22-10-1994",
+                    "date_of_joining": "01-06-2020",
+                    "aicte_id": "19321195214",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.COM.",
+                            "specialization": "SECRETARYSHIP",
+                            "college_name": "WOMENS COLLEGE",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2017"
+                        },
+                        {
+                            "degree": "",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. A. JEBAKERUPA ROSLIN",
+                    "dob": "16-10-1982",
+                    "date_of_joining": "17-07-2012",
+                    "aicte_id": "1489598111",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.B.A.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "SARASWATHI COLLEGE OF ARTS SCIECENCE",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "VHNSN COLLEGE OF ARTS AND SCIENCE",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "10 Years",
+                            "previous_position": "6 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. R. KARTHICK",
+                    "dob": "25-05-1987",
+                    "date_of_joining": "01-08-2019",
+                    "aicte_id": "17501098419",
+                    "phd_thesis_title": "CUSTOMER LOYALTY TOWARDS CAR INSURANCE AT TIER II CITIES IN TAMILNADU",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.B.A.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "VELAMMAL COLLEGE OF ENGINEERING AND TECHNOLOGY (AUTONOMOUS)--",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2018"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "MANAGEMENT",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. K. DHEENADHAYALAN",
+                    "dob": "21-10-1991",
+                    "date_of_joining": "01-08-2019",
+                    "aicte_id": "17502205958",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.COM.",
+                            "specialization": "COMMERCE",
+                            "college_name": "OTHERS-PKN ARTS AND SCIENCE",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "FINANCE",
+                            "college_name": "OTHERS-VHNSN COLLEGE",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. K. SAMPATH",
+                    "dob": "27-06-1979",
+                    "date_of_joining": "01-09-2021",
+                    "aicte_id": "17481005962",
+                    "phd_thesis_title": "A STUDY ON HUMAN RESOURCE DEVELOPMENT PRACTICES AND ITS CONSEQUENCES IN COMMERCIAL BANK WITH SPECIAL REFERENCE TO MADURAI DISTRICT",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "ENGINEERING",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "2000"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "ADMINISTRATION",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ADMINISTRATION",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "18 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. DAVID. SURENTHRAN",
+                    "dob": "11-03-1984",
+                    "date_of_joining": "01-08-2013",
+                    "aicte_id": "12184485083",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "MARKETING AND FINANCE",
+                            "college_name": "COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "9 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

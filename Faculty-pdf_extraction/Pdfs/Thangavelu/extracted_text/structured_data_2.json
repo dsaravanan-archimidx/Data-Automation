@@ -1,0 +1,450 @@
+{
+    "faculty_details": [
+        {
+            "department": "Computer Science and Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. C. SUNIL KUMAR",
+                    "dob": "16-07-1977",
+                    "date_of_joining": "15-05-2023",
+                    "aicte_id": "11575250573",
+                    "phd_thesis_title": "A FRAMEWORK FOR INTEGRATION AND STANDARDIZATION OF DATA FROM HETEROGENEOUS SOURCES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Computer Science and Engineering",
+                            "college_name": "VIT",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "CSE",
+                            "college_name": "SRM University",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "Engineering",
+                            "college_name": "JNTUH",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "19 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. A. SRINIVASAN",
+                    "dob": "17-05-1977",
+                    "date_of_joining": "20-12-2017",
+                    "aicte_id": "12303413090",
+                    "phd_thesis_title": "DYNAMIC BIT RATE ANALYSIS TO SUPPORT ADAPTIVE VIDEO STREAMING THROUGH WIRELESS NETWORKS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Electronics",
+                            "college_name": "SAPTHAGIRI COLLEGE OF ENGINEERING",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "C ENO GM IP NU ET EE RR IN S GCIENCE AND O ENTH GE INR ES E-C RR INE GSA CN OT LLEGE",
+                            "college_name": "ENGINEERING",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "Information Technology",
+                            "college_name": "COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "13 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. K. NALINI",
+                    "dob": "11-07-1983",
+                    "date_of_joining": "08-05-2023",
+                    "aicte_id": "",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Computer Science and Engineering",
+                            "college_name": "PAAVAI COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "OTHERS",
+                            "college_name": "PRIST UNIVERSITY",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "14 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. C N. RAVI",
+                    "dob": "15-06-1976",
+                    "date_of_joining": "15-12-2011",
+                    "aicte_id": "1769320356",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Computer Science and Engineering",
+                            "college_name": "HINDUSTHAN COLLEGE OF ENGINEERING AND TECHNOLOGY(AUTONOMOUS)",
+                            "year_of_passing": "1997"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "CSE",
+                            "college_name": "BHARATH UNIVERSITY",
+                            "year_of_passing": "2005"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "8 Years",
+                            "previous_position": "13 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. D. BEULAH PRETTY",
+                    "dob": "08-01-1975",
+                    "date_of_joining": "01-07-2013",
+                    "aicte_id": "13604639812",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "Computer Science",
+                            "college_name": "MAHARAJA COLLEGE FOR WOMEN",
+                            "year_of_passing": "1997"
+                        },
+                        {
+                            "degree": "M.C.A.",
+                            "specialization": "Master of Computer Applications",
+                            "college_name": "NEHRU MEMORIAL COLLEGE",
+                            "year_of_passing": "2000"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "9 Years",
+                            "previous_position": "13 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. E S. KARTHIK KUMAR",
+                    "dob": "21-03-1980",
+                    "date_of_joining": "08-05-2023",
+                    "aicte_id": "",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Electronics and Communication Engineering",
+                            "college_name": "K L N COLLEGE OF ENGINEERING (AUTONOMOUS)",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Applied Electronics",
+                            "college_name": "GUINDY",
+                            "year_of_passing": "2004"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "14 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. ANANDKUMAR. D",
+                    "dob": "09-01-1984",
+                    "date_of_joining": "01-07-2017",
+                    "aicte_id": "",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "Information Technology",
+                            "college_name": "MADRAS INSTITUTE OF TECHNOLOGY CHROMPET",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Computer Science and Engineering",
+                            "college_name": "SRI KRISHNA ENGINEERING COLLEGE",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. J. SAKTHI KUMAR",
+                    "dob": "08-07-1985",
+                    "date_of_joining": "01-03-2019",
+                    "aicte_id": "",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Electronics and Instrumentation Engineering",
+                            "college_name": "VMKV ENGINEERING COLLEGE",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Mechatronics",
+                            "college_name": "KONGU ENGINEERING COLLEGE (AUTONOMOUS)",
+                            "year_of_passing": "2008"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. J. JOHNYSEBASTINE",
+                    "dob": "11-09-1990",
+                    "date_of_joining": "03-05-2023",
+                    "aicte_id": "",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "Information Technology",
+                            "college_name": "ST JOSEPH'S COLLEGE OF ENGINEERING (AUTONOMOUS)",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. M. ANITHA",
+                    "dob": "08-06-1992",
+                    "date_of_joining": "10-05-2023",
+                    "aicte_id": "",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Electronics and Electrical Engineering",
+                            "college_name": "G K M COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Power Systems",
+                            "college_name": "T J INSTITUTE OF ENGINEERING TECHNOLOGY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "-1 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. R. SAKTHIDEVI",
+                    "dob": "03-11-1988",
+                    "date_of_joining": "01-07-2017",
+                    "aicte_id": "",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Computer Science and Engineering",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Computer Science and Engineering",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. S. KALAIVANI",
+                    "dob": "17-08-1989",
+                    "date_of_joining": "02-01-2017",
+                    "aicte_id": "",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "Information Technology",
+                            "college_name": "ANNA UNIVESITY REGIONAL CAMPUS,TIRUCHIRAPPALLI",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Computer Science and Engineering",
+                            "college_name": "ANNA UNIVESITY REGIONAL CAMPUS, COIMBATORE",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. M. POONGODI",
+                    "dob": "27-05-1983",
+                    "date_of_joining": "08-05-2023",
+                    "aicte_id": "",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "Information Technology",
+                            "college_name": "ARULMIGU MEENAKSHI AMMAN COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Software Engineering",
+                            "college_name": "VELAMMAL ENGINEERING COLLEGE (AUTONOMOUS)",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. A C. BHARATH",
+                    "dob": "06-03-1986",
+                    "date_of_joining": "02-01-2015",
+                    "aicte_id": "",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Computer Science and Engineering",
+                            "college_name": "A V C COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "DBMS",
+                            "college_name": "SRM UNIVERSITY",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "8 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. M. KABILAN",
+                    "dob": "22-06-1982",
+                    "date_of_joining": "03-05-2023",
+                    "aicte_id": "",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Computer Science and Engineering",
+                            "college_name": "SARASWATHI VELU COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "DBMS",
+                            "college_name": "SRM UNIVERSITY",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

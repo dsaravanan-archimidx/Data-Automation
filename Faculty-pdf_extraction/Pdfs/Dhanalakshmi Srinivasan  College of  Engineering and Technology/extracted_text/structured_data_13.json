@@ -1,0 +1,375 @@
+{
+    "faculty_details": [
+        {
+            "department": "Computer Science",
+            "faculty_members": [
+                {
+                    "name": "DR. PON. ARIVANATHAM",
+                    "dob": "11-04-1972",
+                    "date_of_joining": "09-03-2022",
+                    "aicte_id": "1233444270",
+                    "phd_thesis_title": "A MEMORY EFFICIENT PARALLEL STRING MATCHING AND ADVANCED ALGORITHMS FOR SCALABLE DEEP POCKET INSPECTION",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "MADHURAI KAMARAJ",
+                            "year_of_passing": "1993"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "13 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. P. MANIKANDAN",
+                    "dob": "02-06-1979",
+                    "date_of_joining": "30-01-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "MULTIOBJECTICE DATA CLUSTERING APPROACH BASED ON CUCKOO SEARCH AND PARTICLE SWARM OPTIMIZATION",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "AMIRTA INSTITUTE OF SCIENCE AND TECHNOLOGY",
+                            "year_of_passing": "2000"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "SSN COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "INFORMATION AND COMMUNICATION ENGINEERING",
+                            "college_name": "NATIONAL ENGINEERING COLLEGE (AUTONOMOUS)",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "15 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. S. KANNAN",
+                    "dob": "25-07-1977",
+                    "date_of_joining": "30-01-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "MULTIMODE BIOMETRIC AUTHENTICATION USING FUSION APPROACH",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "THIAGARAJAR COLLEGE OF ENGINEERING (AN AUTONOMOUS)",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "JAYAMATHA ENGINEERING COLLEGE",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "INFORMATION AND COMMUNICATION ENGINEERING",
+                            "college_name": "NATIONAL ENGINEERING COLLEGE (AUTONOMOUS)",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "15 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. M. JOYPRIYANKA",
+                    "dob": "20-04-1997",
+                    "date_of_joining": "16-09-2021",
+                    "aicte_id": "11341065331",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "PANIMALAR INSTITUTE OF ENGINEERING TECHNOLOGY",
+                            "year_of_passing": "2018"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "D M I COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. S. NITHIYAANANTHI",
+                    "dob": "28-10-1990",
+                    "date_of_joining": "03-01-2023",
+                    "aicte_id": "4336764321",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "SRI RAMANUJAR ENGINEERING COLLEGE",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "SAVEETHA ENGINEERING AND ENGINEERING COLLEGE (AUTONOMOUS)",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. R. SWARNA TEJA",
+                    "dob": "07-03-1994",
+                    "date_of_joining": "14-09-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "INFORMATION TECHNOLOGY",
+                            "college_name": "G PULLA REDDY ENGINEERING COLLEGE",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "ARTIFICIAL INTELLIGENCE",
+                            "college_name": "JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. M P. SUJATHA",
+                    "dob": "16-03-1976",
+                    "date_of_joining": "17-12-2021",
+                    "aicte_id": "479754159",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+                            "college_name": "SHRI ANGALAMMAN COLLEGE OF ENGINEERING",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2004"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "17 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. V G. DHANYA",
+                    "dob": "01-11-1984",
+                    "date_of_joining": "22-09-2021",
+                    "aicte_id": "11341065693",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "TOC H INSTITUTE OF SCIENCE AND TECHNOLOGY",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "K C G COLLEGE OF TECHNOLOGY (AUTONOMOUS)",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. R. SATHYA SEELAN",
+                    "dob": "16-04-1990",
+                    "date_of_joining": "03-02-2023",
+                    "aicte_id": "43371935393",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "INFORMATION TECHNOLOGY",
+                            "college_name": "KAMBAN ENGINEERING COLLEGE",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "SAVEETHA ENGINEERING AND ENGINEERING COLLEGE (AUTONOMOUS)",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. E. MEGANATHAN",
+                    "dob": "10-06-1990",
+                    "date_of_joining": "04-06-2021",
+                    "aicte_id": "11340712138",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "ADHIPARASAKTHI ENGINEERING COLLEGE",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "T J S ENGINEERING COLLEGE",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. V. JASMIN SUJI",
+                    "dob": "08-06-1990",
+                    "date_of_joining": "03-02-2023",
+                    "aicte_id": "43371935238",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "ST XAVIER'S CATHOLIC COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "RAJALAKSHMI ENGINEERING COLLEGE (AUTONOMOUS)",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. S. PREETHI",
+                    "dob": "24-06-1991",
+                    "date_of_joining": "03-02-2023",
+                    "aicte_id": "9435969825",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

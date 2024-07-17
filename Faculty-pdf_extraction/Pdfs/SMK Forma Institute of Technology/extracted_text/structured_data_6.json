@@ -1,0 +1,96 @@
+{
+    "faculty_details": [
+        {
+            "department": "Mechanical Engineering",
+            "faculty_members": [
+                {
+                    "name": "MR. T. SRIDHAR",
+                    "dob": "09-06-1982",
+                    "date_of_joining": "12-09-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Mechanical Engineering",
+                            "college_name": "KANCHI PALLAVAN ENGINEERING COLLEGE",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Design Engineering and Technology",
+                            "college_name": "ALAGAPPA CHETTIAR GOVERNMENT COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "11 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. J. DINAKARAN THIRUMALAI",
+                    "dob": "04-06-1982",
+                    "date_of_joining": "24-06-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Mechanical Engineering",
+                            "college_name": "INTERNAL COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Combustion Engineering",
+                            "college_name": "ENGINEERING GUINDY",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "11 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. M. DHANDAYUTHAPANI MISRIMAL NAVAJEE",
+                    "dob": "24-04-1987",
+                    "date_of_joining": "01-08-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Mechanical Engineering",
+                            "college_name": "MUNOTH JAIN ENGINEERING COLLEGE",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "CAD/CAM Engineering",
+                            "college_name": "MADHA ENGINEERING COLLEGE",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "8 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

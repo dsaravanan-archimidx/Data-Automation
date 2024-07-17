@@ -1,0 +1,415 @@
+{
+    "faculty_details": [
+        {
+            "department": "Electronics and Communication Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. S. KUZHALOLI",
+                    "dob": "01-07-1981",
+                    "date_of_joining": "04-07-2015",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "INVESTIGATION OF CDMA TECHNOLOGY IN INDUSTRIAL APPLICATIONS",
+                    "year_of_starting": "2002",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+                            "college_name": "I F E T COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "INSTRUMENTATION",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2004"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "7 Years",
+                            "previous_position": "11 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. J P. JOSH KUMAR",
+                    "dob": "13-09-1982",
+                    "date_of_joining": "27-12-2012",
+                    "aicte_id": "PH.D.",
+                    "phd_thesis_title": "PERFORMANCE IMPROVEMENT OF REACTIVE ROUTING PROTOCOLS IN WIRELESS MOBILE AD HOC NETWORKS",
+                    "year_of_starting": "2003",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+                            "college_name": "RAJAS ENGINEERING COLLEGE",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "VLSI DESIGN",
+                            "college_name": "SANTHOSH TEACHNICAL INSTITUTE",
+                            "year_of_passing": "2005"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "10 Years",
+                            "previous_position": "6 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. R. MAHESWARI",
+                    "dob": "17-05-1978",
+                    "date_of_joining": "10-03-2003",
+                    "aicte_id": "-",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "1999",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+                            "college_name": "MOOKAMBIGAI COLLEGE OF ENGINEERING",
+                            "year_of_passing": "1999"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "PRODUCT DESIGN AND DEVELOPMENT",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2007"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "19 Years",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. J. RAJESWARI",
+                    "dob": "14-07-1991",
+                    "date_of_joining": "18-08-2017",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "ELECTROENCEPHALOGRAM BASED DIAGNOSIS CLASSIFICATION AND MUSIC INTERVENTIONS ON OBSTRUCTIVE SLEEP APNEA",
+                    "year_of_starting": "2012",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+                            "college_name": "OXFORD ENGINEERING COLLEGE",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "APPLIED ELECTRONICS",
+                            "college_name": "P.T.S ENGINEERING COLLEGE",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. K. MOHAMED ISMAIL",
+                    "dob": "14-11-1987",
+                    "date_of_joining": "05-06-2015",
+                    "aicte_id": " ",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "2009",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+                            "college_name": "MOHAMED SATHAK A J COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER AND COMMUNICATION",
+                            "college_name": "M N S K COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "7 Years",
+                            "previous_position": "6 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. R. RATHEESH",
+                    "dob": "18-08-1984",
+                    "date_of_joining": "27-04-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "ON DEMAND TRAFFIC BASE JOINT DEVELOPMENT AND SCHEDULING OF BASE STATION AND RELAY STATIONS FOR POWER OPTIMIZATION IN NEXT GENERATION COMMUNICATION NETWORKS",
+                    "year_of_starting": "2008",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+                            "college_name": "OTHERS-VMKV ENGINEERING COLLEGE",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "M I E T ENGINEERING COLLEGE",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "10 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. G. LAXMANAA",
+                    "dob": "12-08-1990",
+                    "date_of_joining": "23-06-2014",
+                    "aicte_id": " ",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "2012",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+                            "college_name": "AGNI SCHOOL OF BUSINESS EXCELLENCE",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "VLSI DESIGN",
+                            "college_name": "SMK FOMRA INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "8 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. B. PRADEEPRAJA",
+                    "dob": "01-06-1977",
+                    "date_of_joining": "29-07-2015",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "1998",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+                            "college_name": "KAMARAJ COLLEGE OF ENGINEERING AND TECHNOLOGY (AUTONOMOUS)",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "WIRELESS TECHNOLOGIES",
+                            "college_name": "THIAGARAJAR COLLEGE OF ENGINEERING (AUTONOMOUS)",
+                            "year_of_passing": "2006"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "7 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. TAMIL VENDAN",
+                    "dob": "25-06-1989",
+                    "date_of_joining": "05-06-2014",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "2010",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+                            "college_name": "ANJALAI AMMAL MAHALINGAM ENGINEERING COLLEGE",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "VLSI DESIGN",
+                            "college_name": "SMK FOMRA INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "8 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. OHMSHANKAR",
+                    "dob": "22-03-1980",
+                    "date_of_joining": "04-06-2007",
+                    "aicte_id": " ",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "2003",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+                            "college_name": "TAGORE ENGINEERING COLLEGE",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "COMMUNICATION SYSTEM",
+                            "college_name": "PRIST",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "15 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. MUGUNTHAN",
+                    "dob": "20-11-1989",
+                    "date_of_joining": "05-06-2014",
+                    "aicte_id": " ",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "2011",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+                            "college_name": "AGNI COLLEGE OF TECHNOLOGY",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMMUNICATION SYSTEMS",
+                            "college_name": "ANAND INSTITUTE OF HIGHER TECHNOLOGY",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "8 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. N. SUREKA",
+                    "dob": "05-01-1990",
+                    "date_of_joining": "15-11-2021",
+                    "aicte_id": "12198263094",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "2011",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "INSTRUMENTATION",
+                            "college_name": "BHARATH ENGINEERING COLLEGE",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "APPLIED ELECTRONICS",
+                            "college_name": "TAGORE ENGINEERING COLLEGE",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "6 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. P. CHITRA",
+                    "dob": "03-12-1980",
+                    "date_of_joining": "21-03-2015",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "2002",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+                            "college_name": "THANGAVELU ENGINEERING COLLEGE",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "APPLIED ELECTRONICS",
+                            "college_name": "SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2008"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "8 Years",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. NVS. SREE RATHNA LAKSHMI",
+                    "dob": "09-09-1978",
+                    "date_of_joining": "03-06-2013",
+                    "aicte_id": "PH.D.",
+                    "phd_thesis_title": "MUTLIDOMAIN FEATURE FUSION FOR CLASSIFICATION OF MICROCALCIFICATION IN DIGITAL MAMMOGRAMS",
+                    "year_of_starting": "2001",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+                            "college_name": "OTHERS-VMKV ENGINEERING COLLEGE",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "APPLIED ELECTRONICS",
+                            "college_name": "VMKV ENGINEERING COLLEGE",
+                            "year_of_passing": "2005"
+                        }
+                    ],
+                    "designation": "PROFESSOR AND HEAD",
+                    "academic_experience": [
+                        {
+                            "current_position": "15 Years",
+                            "previous_position": "6 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

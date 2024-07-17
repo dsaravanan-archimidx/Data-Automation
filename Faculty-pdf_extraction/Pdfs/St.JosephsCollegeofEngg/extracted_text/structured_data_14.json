@@ -1,0 +1,299 @@
+{
+    "faculty_details": [
+        {
+            "department": " ",
+            "faculty_members": [
+                {
+                    "name": "DR. K. JAWAHARRANI",
+                    "dob": "14-05-1967",
+                    "date_of_joining": "25-06-2001",
+                    "aicte_id": "1455122139",
+                    "phd_thesis_title": "STUDY ON WORK RELATED STRESS AMONG WOMEN",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "HUMAN RESOURCE",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "1989"
+                        },
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "BOTANY",
+                            "college_name": "SFR COLLEGE FOR WOMEN",
+                            "year_of_passing": "1987"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "8 Years",
+                            "previous_position": "24 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. KRISHNAN. JAYASREE",
+                    "dob": "20-03-1966",
+                    "date_of_joining": "17-01-1996",
+                    "aicte_id": "1446165865",
+                    "phd_thesis_title": "A STUDY ON CONSUMER BEHAVIOUR TOWARDS CONSUMER DURABLES IN CHENNAI CITY",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "MARKETING",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "1990"
+                        },
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHS-PHYSICS-CHEMISTRY",
+                            "college_name": "SKE DEGREE COLLEGE",
+                            "year_of_passing": "1987"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "28 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. SP. KARUPPIAH",
+                    "dob": "12-12-1972",
+                    "date_of_joining": "05-07-2007",
+                    "aicte_id": "1452894932",
+                    "phd_thesis_title": "RECOGNITION AND INFERENCE CREVICE PROCESSING ON VARIOUS IMAGES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "MADURAI KAMARAJ UNIVERSITY",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "RMK ENGINEERING COLLEGE",
+                            "year_of_passing": "2007"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "13 Years",
+                            "previous_position": "12 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. R. SUNDARI",
+                    "dob": "10-07-1980",
+                    "date_of_joining": "01-06-2005",
+                    "aicte_id": "1455122175",
+                    "phd_thesis_title": "A STUDY ON BRAND CONSCIOUSNESS OF WOMEN AND ITS EFFECT ON FAMILY BUYING BEHAVIOUR WITH SPECIAL REFERENCE TO PERSONAL CARE PRODUCTS IN CHENNAI CITY",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "FATHIMA COLLEGE",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "B.B.A.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "MOTHER TERESA WOMENS UNIVERSITY",
+                            "year_of_passing": "2001"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "13 Years",
+                            "previous_position": "6 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. R. NADANASABAI",
+                    "dob": "10-03-1974",
+                    "date_of_joining": "04-06-2003",
+                    "aicte_id": "1455122159",
+                    "phd_thesis_title": "A STUDY ON THE IMPACT OF CRM ON CUSTOMER LOYALTY WITH SPECIAL REFERENCE TO CELLULAR USERS IN CHENNAI CITY",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "SYSTEMS MANAGEMENT",
+                            "college_name": "JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY",
+                            "year_of_passing": "1997"
+                        },
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "THIAGARAJAR SCHOOL OF ARTS AND SCIENCE",
+                            "year_of_passing": "1994"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "19 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. S. POOVIZHI",
+                    "dob": "20-08-1991",
+                    "date_of_joining": "01-09-2021",
+                    "aicte_id": "10997370248",
+                    "phd_thesis_title": "INFLUENCE OF SOCIO PSYCHOLOGICAL VARIABLES IN CAREER DECISIONS OF WOMEN MANAGEMENT GRADUATES IN SOUTHERN TAMILNADU",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "ALAGAPPA UNIVERSITY",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "INFORMATION TECHNOLOGY",
+                            "college_name": "SEETHAI AMMAL ARTS AND SCIENCE COLLEGE",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. A. SATHISH",
+                    "dob": "01-05-1986",
+                    "date_of_joining": "11-07-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "DETERMINANTS OF INDIVIDUAL INVESTORS THE CASE OF INDIAN NSE MARKET",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "VELS UNIVERSITY",
+                            "year_of_passing": "2021"
+                        },
+                        {
+                            "degree": "B.B.A.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "T S NARAYANASWAMY COLLEGE OF ARTS AND SCIENCE",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. L. RAJESHKUMAR",
+                    "dob": "28-10-1988",
+                    "date_of_joining": "11-07-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "ENVIRONMENT FRIENDLY PRODUCTS AND BUYER BEHAVIOUR AN IMPACT STUDY WITH SPECIAL REFERENCE TO FMCG IN TIRUNELVELI",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "SUNDERASAN UNIVERSITY",
+                            "year_of_passing": "2018"
+                        },
+                        {
+                            "degree": "B.B.A.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "AMMANIAR UNIVERSITY",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. M. MANIKANDAN",
+                    "dob": "02-09-1987",
+                    "date_of_joining": "20-04-2017",
+                    "aicte_id": "13580150864",
+                    "phd_thesis_title": "CONSUMER BEHAVIOUR OF SELF SERVICE TECHNOLOGIES OF NATIONALIZED BANKS IN SIVAGANGAI DISTRICT",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "MARKETING",
+                            "college_name": "SME SCHOOL OF MANAGEMENT",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "JEPPIAAR ENGINEERING COLLEGE",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. R. MONISHA",
+                    "dob": "30-01-1990",
+                    "date_of_joining": "11-07-2022",
+                    "aicte_id": "10532676901",
+                    "phd_thesis_title": "A STUDY ON BUYING BEHAVIOUR OF ONLINE PURCHASE WITH MEDIATING ROLE OF THE CUSTOMER LOYALTY AMONG SOFTWARE PROFESSIONALS IN CHENNAI",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "VELS UNIVERSITY",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "B.COM.",
+                            "specialization": "COMMERCE",
+                            "college_name": "SDNB VAISHNAV COMMERCE COLLEGE FOR WOMEN",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

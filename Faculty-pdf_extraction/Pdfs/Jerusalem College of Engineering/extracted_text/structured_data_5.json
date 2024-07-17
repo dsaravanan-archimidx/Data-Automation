@@ -1,0 +1,114 @@
+{
+    "faculty_details": [
+        {
+            "department": "Computer Science and Engineering (Cyber Security)",
+            "faculty_members": [
+                {
+                    "name": "DR. R. VANITHA",
+                    "dob": "02-06-1981",
+                    "date_of_joining": "29-12-2018",
+                    "aicte_id": "1478604697",
+                    "phd_thesis_title": "STUDIES ON CLASSIFICATION AND ASSOCIATED RISK FACTOR IDENTIFICATION OF OCULOCUTANEOUS ALBINISM",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "KALASALINGAM COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "CEG, ANNA UNIVERSITY",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "14 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. K. SOWMIYA",
+                    "dob": "27-08-1990",
+                    "date_of_joining": "18-08-2021",
+                    "aicte_id": "19540430168",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "JERUSALEM COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "KARPAGA VINAYAGA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2019"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. D. NITHYA",
+                    "dob": "01-04-1994",
+                    "date_of_joining": "03-12-2018",
+                    "aicte_id": "19317006921",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "JERUSALEM COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "JERUSALEM COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2017"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

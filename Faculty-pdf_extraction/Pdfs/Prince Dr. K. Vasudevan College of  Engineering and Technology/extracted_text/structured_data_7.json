@@ -1,0 +1,96 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-Chemistry",
+            "faculty_members": [
+                {
+                    "name": "MRS. P. SUGANTHI",
+                    "dob": "15-02-1979",
+                    "date_of_joining": "23-08-2010",
+                    "aicte_id": "1456709599",
+                    "phd_thesis_title": "SYNTHESIS OF LIGNOSULFONATE DOPED POLYANILINE AND POLYPYRROLE",
+                    "year_of_starting": "2009",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "OTHERS-TUK ARTS COLLEGE",
+                            "year_of_passing": "1999"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "OTHERS-TUK ARTS COLLEGE",
+                            "year_of_passing": "2001"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "12 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. D. MOHANA SOUNDARI",
+                    "dob": "25-05-1988",
+                    "date_of_joining": "18-11-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "ELECTROCHEMICAL SENSOR REMOVAL OF CHROMIUM AND DEGRADATION OF DYES",
+                    "year_of_starting": "0 Years",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "OTHERS-UNIVERSITY OF MADRAS",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "OTHERS-THIRUVALLUVAR",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. N. SUGUNA",
+                    "dob": "21-05-1988",
+                    "date_of_joining": "02-04-2013",
+                    "aicte_id": "12195496880",
+                    "phd_thesis_title": "8.",
+                    "year_of_starting": "9 Years",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "OTHERS-JAMAL MOHAMED COLLEGE",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "OTHERS-JAMAL MOHAMED",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "9 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

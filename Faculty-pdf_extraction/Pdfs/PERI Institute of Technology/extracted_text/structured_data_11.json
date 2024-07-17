@@ -1,0 +1,44 @@
+{
+    "faculty_details": [
+        {
+            "department": "ELECTRICAL AND ELECTRONICS",
+            "faculty_members": [
+                {
+                    "name": "DR. TN. SURESH AGNI",
+                    "dob": "20-11-1985",
+                    "date_of_joining": "23-03-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "NANO TECHNOLOGY",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "COLLEGE OF TECHNOLOGY",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "NANO SCIENCE AND TECHNOLOGY",
+                            "college_name": "VIT",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "NANO TECHNOLOGY",
+                            "college_name": "VELS UNIV",
+                            "year_of_passing": "2022"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

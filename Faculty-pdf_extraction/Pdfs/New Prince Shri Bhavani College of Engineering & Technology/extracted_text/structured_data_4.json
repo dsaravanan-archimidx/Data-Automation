@@ -1,0 +1,311 @@
+{
+    "faculty_details": [
+        {
+            "department": "Electronics and Communication Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. T. SARAVANAN",
+                    "dob": "02-05-1980",
+                    "date_of_joining": "01-12-2016",
+                    "aicte_id": "13379519897",
+                    "phd_thesis_title": "EMBEDDED CONTROL OF MULTIPLE OUTPUT AC DC CONVERTER",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.E.",
+                            "specialization": "OTHERS - PROCESS CONTROL",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "SRI MUTHUKUMARAN INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "PRINCIPAL",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "14 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. M. JASMIN",
+                    "dob": "23-05-1979",
+                    "date_of_joining": "18-07-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "LOW POWER CODEING AND ERROR CONTROL SCHEMES FOR EFFICIENT REALIZATION OF NETWORK ON CHIP",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "PSNA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2000"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "OTHERS - VLSI",
+                            "college_name": "BHARATH INSTITUTE OF HIGHER EDUCATION AND RESEARCH",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "VLSI DESIGN",
+                            "college_name": "BHARATH INSTITUTE OF HIGHER EDUCATION AND RESEARCH",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "13 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. R. PADMAVATHY",
+                    "dob": "05-06-1978",
+                    "date_of_joining": "10-03-2021",
+                    "aicte_id": "17491011465",
+                    "phd_thesis_title": "STUDIES OF FEATURE SELECTION TECHNIQUE USING IMMUNE SYSTEM PRINCIPLES AND ITS APPLICATION IN BRAIN COMPUTER INTERFACE",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "NATIONAL ENGINEERING COLLEGE",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "13 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. P. PARTHIBAN",
+                    "dob": "24-01-1987",
+                    "date_of_joining": "17-06-2013",
+                    "aicte_id": "12183093463",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "AGNI COLLEGE OF TECHNOLOGY",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMMUNICATION SYSTEMS",
+                            "college_name": "HINDUSTAN UNIVERSITY",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "8 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. MI. ANJU",
+                    "dob": "07-05-1985",
+                    "date_of_joining": "20-08-2011",
+                    "aicte_id": "1761736333",
+                    "phd_thesis_title": "ECE",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "OTHERS -",
+                            "college_name": "COLLEGE OF ELECTRONICS AND ENGINEERING",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "VLSI DESIGN",
+                            "college_name": "KARUNYA UNIVERSITY",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ECE",
+                            "college_name": "TRIKARIPUR",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "9 Years",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. S. ANANTHI",
+                    "dob": "28-01-1980",
+                    "date_of_joining": "06-04-2013",
+                    "aicte_id": "13736931865",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "GOVERNMENT COLLEGE OF ENGINEERING TIRUNELVELI",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMMUNICATION SYSTEMS",
+                            "college_name": "K C G COLLEGE OF TECHNOLOGY",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "14 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. D. GOWRI SHANKAR",
+                    "dob": "06-10-1988",
+                    "date_of_joining": "13-08-2013",
+                    "aicte_id": "12183092933",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "K C G COLLEGE OF TECHNOLOGY",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "EMBEDDED SYSTEM TECHNOLOGY",
+                            "college_name": "SRM UNIVERSITY",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "9 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. V. HEMAMALINI",
+                    "dob": "15-05-1986",
+                    "date_of_joining": "16-06-2010",
+                    "aicte_id": "1443239965",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "PRINCE SHRI VENKATESHWARAA PADMAVATHY ENGINEERING COLLEGE",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "EMBEDDED SYSTEMS",
+                            "college_name": "SRM UNIVERSITY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "10 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. S. SIVAKAMI",
+                    "dob": "07-06-1983",
+                    "date_of_joining": "04-06-2012",
+                    "aicte_id": "11496014813",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "JERUSALEM COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "APPLIED ELECTRONICS",
+                            "college_name": "SRI LAKSHMI AMMAL COLLEGE",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "8 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. G. SHEEBA",
+                    "dob": "21-06-1985",
+                    "date_of_joining": "06-06-2011",
+                    "aicte_id": "1758462299",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "OTHERS-KARUNYA INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "S A ENGINEERING COLLEGE",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "10 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

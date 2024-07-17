@@ -1,0 +1,429 @@
+{
+    "faculty_details": [
+        {
+            "department": "Mathematics",
+            "faculty_members": [
+                {
+                    "name": "DR. S. BAMINI",
+                    "dob": "07-06-1977",
+                    "date_of_joining": "06-01-2023",
+                    "aicte_id": "4338453920",
+                    "phd_thesis_title": "SOME GENERALIZATIONS OF SETS AND MAPS IN SMOOTH DOUBLE FUZZY AND NANO TOPOLOGICAL SPACES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "M K JAIN COLLEGE",
+                            "year_of_passing": "1997"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "SACRED HEART COLLEGE",
+                            "year_of_passing": "2000"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "KANDASWAMI KANDARS",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "18 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. THIRUPATHI",
+                    "dob": "09-05-1992",
+                    "date_of_joining": "06-01-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "SRI VIDYA MANDIR",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "ARTS AND SCIENCE COLLEGE",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "AICTE ID",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. K. PUSHPARAJ",
+                    "dob": "03-06-1984",
+                    "date_of_joining": "01-06-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "ARINGAR ANNA ARTS COLLEGE MUSIRI",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "ARTS AND SCIENCE COLLEGE",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "AICTE ID",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. K. KARTHICK",
+                    "dob": "07-01-1982",
+                    "date_of_joining": "01-06-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "SRI VASAVI COLLEGE",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "ARTS AND SCIENCE COLLEGE",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "PERIYAR EVR COLLEGE",
+                            "year_of_passing": "2005"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "15 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. A. SITHESWARAN",
+                    "dob": "10-05-1991",
+                    "date_of_joining": "06-01-2023",
+                    "aicte_id": "43383130903",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "MUTHAYAMMAL COLLEGE",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "SELVAMM ARTS AND SCIENCE COLLEGE",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "AICTE ID",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. C. KARUNAIVELAN",
+                    "dob": "21-05-1982",
+                    "date_of_joining": "01-06-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "MASTER OF SCIENCE COLLEGE VELLORE",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "VIT UNIVERSITY",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "PHILOSOPHY",
+                            "college_name": "MASTER OF PHILOSOPHY",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. VIJAYARAJ",
+                    "dob": "30-07-1990",
+                    "date_of_joining": "01-06-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "DR RKS ARTS AND SCIENCE COLLEGE",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "EDG VAISHNAV",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "THIRU KOLANJIYAPPAR",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. N. THIVYAPRIYA",
+                    "dob": "04-04-1987",
+                    "date_of_joining": "20-06-2011",
+                    "aicte_id": "1505269113",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "COLLEGE OF ARTS AND SCIENCE FOR WOMEN",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "COLLEGE OF ARTS AND SCIENCE FOR WOMEN",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "COLLEGE OF ARTS AND SCIENCE FOR WOMEN",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "11 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. R. THIRUMAGAL",
+                    "dob": "25-12-1988",
+                    "date_of_joining": "06-01-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "JAWAHAR SCIENCE COLLEGE",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "KUMBAKONAM ARTS AND SCIENCE COLLEGE",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "THIRU KOLANJIYAPPAR",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "7 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. S. MOORTHY",
+                    "dob": "09-05-1987",
+                    "date_of_joining": "06-01-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "SOME CONTRIBUTION ON HYERS ULAM RASSIAS STABILITY OF FRACTIONAL DIFFERENTIAL EQUATIONS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "SACRED HEART COLLEGE",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "SACRED HEART COLLEGE",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "KANDASWAMI KANDARS",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "7 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. A. MURUGAVEL",
+                    "dob": "10-04-1991",
+                    "date_of_joining": "18-10-2022",
+                    "aicte_id": "3642542940",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "PERIYAR ARTS COLLEGE",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "GOVT ARTS COLLEGE",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "AICTE ID",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "6 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. T. JEEVA",
+                    "dob": "04-06-1989",
+                    "date_of_joining": "07-06-2021",
+                    "aicte_id": "11339888348",
+                    "phd_thesis_title": "CONTRIBUTION TO A STUDY ON SOME MARKOVIAN QUEUEING MODELS WITH DIFFERENT TYPES OF VACATION AND SETUP TIME",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "TAGORE ARTS COLLEGE",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "PONDICHERRY UNIVERSITY",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "TBML COLLEGE",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

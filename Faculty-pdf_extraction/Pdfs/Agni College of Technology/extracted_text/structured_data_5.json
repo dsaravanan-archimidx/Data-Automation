@@ -1,0 +1,219 @@
+{
+    "faculty_details": [
+        {
+            "department": "Electrical and Electronics Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. ALAVANDAR. SRINIVASAN",
+                    "dob": "12-12-1978",
+                    "date_of_joining": "31-12-2021",
+                    "aicte_id": "17497859708",
+                    "phd_thesis_title": "INTELLIGENT CONTROL OF ROBOT MANIPULATORS USING SOFT COMPUTING TECHNIQUES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS ENGINEERING AND ENGINEERING TECHNOLOGY",
+                            "college_name": "GOVERNMENT COLLEGE OF ENGINEERING",
+                            "year_of_passing": "1999"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "CONTROL SYSTEMS TECHNOLOGY",
+                            "college_name": "P S G COLLEGE OF TECHNOLOGY",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CONTROL SYSTEMS",
+                            "college_name": "INDIAN INSTITUTE OF TECHNOLOGY MADRAS",
+                            "year_of_passing": "2009"
+                        }
+                    ],
+                    "designation": "PRINCIPAL",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "19 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. A. KALAIMURUGAN",
+                    "dob": "27-05-1977",
+                    "date_of_joining": "01-06-2017",
+                    "aicte_id": "POWER SYSTEMS",
+                    "phd_thesis_title": "PERFORMANCE EVALUATION OF SOLID STATE CIRCUIT BREAKER IN MULTIBUS SYSTEMS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS ENGINEERING",
+                            "college_name": "SAPTHAGIRI COLLEGE OF ENGINEERING",
+                            "year_of_passing": "1999"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "POWER SYSTEMS ENGINEERING",
+                            "college_name": "OTHERS-ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "POWER SYSTEMS ENGINEERING",
+                            "college_name": "OTHERS-SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "16 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. S. ANNAPOORANI",
+                    "dob": "22-01-1981",
+                    "date_of_joining": "01-07-2011",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS ENGINEERING",
+                            "college_name": "RAJALAKSHMI ENGINEERING COLLEGE",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "POWER ELECTRONICS AND DRIVES ENGINEERING",
+                            "college_name": "ADHIPARASAKTHI ENGINEERING COLLEGE",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "",
+                            "college_name": "ASAN MEMORIAL COLLEGE OF ENGINEERING",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "11 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. K. PADMANATHAN",
+                    "dob": "15-05-1984",
+                    "date_of_joining": "11-01-2016",
+                    "aicte_id": "ELECTRICAL AND ELECTRONICS",
+                    "phd_thesis_title": "SOCIAL ECONOMICAL TECHNICAL INVESTIGATION ON SOLAR PV ENERGY CONVERSION SYSTEM FOR INDIAN CONTEXT",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS ENGINEERING AND TECHNOLOGY",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "POWER ELECTRONICS AND DRIVES ENGINEERING",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ELECTRONICS ENGINEERING",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "7 Years",
+                            "previous_position": "7 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. S. ARCHANA",
+                    "dob": "02-05-1991",
+                    "date_of_joining": "19-01-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "ELECTRICAL AND ELECTRONICS ENGINEERING TECHNOLOGY",
+                            "college_name": "OTHERS-VELLORE INSTITUITE OF TECHNOLOGY",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "POWER ELECTRONICS AND DRIVES TECHNOLOGY",
+                            "college_name": "OTHERS-VELLORE INSTITUITE OF TECHNOLOGY",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. J. AMALA PREYADARCHANE",
+                    "dob": "12-01-1990",
+                    "date_of_joining": "06-01-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+                            "college_name": "RAJIV GANDHI COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "APPLIED ELECTRONICS ENGINEERING AND TECHNOLOGY",
+                            "college_name": "C K COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

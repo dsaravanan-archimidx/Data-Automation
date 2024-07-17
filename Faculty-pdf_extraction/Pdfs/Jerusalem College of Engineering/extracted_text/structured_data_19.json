@@ -1,0 +1,114 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-English",
+            "faculty_members": [
+                {
+                    "name": "DR. D. CHARLEY SAMUEL",
+                    "dob": "19-06-1965",
+                    "date_of_joining": "01-08-2019",
+                    "aicte_id": "17707417853",
+                    "phd_thesis_title": "A LEVINASIAN STUDY OF THE SELF AND THE OTHER IN THE SELECT PLAYS OF ARTHUR MILLER",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "BISHOP HEBER COLLEGE",
+                            "year_of_passing": "1985"
+                        },
+                        {
+                            "degree": "M.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "OTHERS-BISHOP HEBER COLLEGE",
+                            "year_of_passing": "1987"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "ENGLISH",
+                            "college_name": "OTHERS-JAMAL MOHAMED COLLEGE",
+                            "year_of_passing": "1989"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "24 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. J. AGNES NIRMALA",
+                    "dob": "09-10-1972",
+                    "date_of_joining": "14-09-2022",
+                    "aicte_id": "143374678782",
+                    "phd_thesis_title": "IMAGE OF INDIAN WOMEN POETS IN THE POST INDEPENDENCE ERA",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "GOVT ARTS COLLEGE FOR WOMEN",
+                            "year_of_passing": "1994"
+                        },
+                        {
+                            "degree": "M.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "OTHERS-LOYOLA COLLEGE",
+                            "year_of_passing": "1996"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "ENGLISH",
+                            "college_name": "OTHERS-MADRAS UNIVERSITY",
+                            "year_of_passing": "2007"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "6 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. K. VAISNAVI",
+                    "dob": "15-03-1997",
+                    "date_of_joining": "01-09-2022",
+                    "aicte_id": "143374678814",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "RAMASWAMY AUTONOMOUS COLLEGE TRICHY",
+                            "year_of_passing": "2017"
+                        },
+                        {
+                            "degree": "M.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "RAMASWAMY AUTONOMOUS COLLEGE",
+                            "year_of_passing": "2019"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "ENGLISH",
+                            "college_name": "OTHERS-SEETHALAKSHMI COLLEGE",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

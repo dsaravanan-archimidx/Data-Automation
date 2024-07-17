@@ -1,0 +1,219 @@
+{
+    "faculty_details": [
+        {
+            "department": "Physics",
+            "faculty_members": [
+                {
+                    "name": "DR. R. AMRUTHA",
+                    "dob": "04-04-1969",
+                    "date_of_joining": "05-09-2005",
+                    "aicte_id": "1458883399",
+                    "phd_thesis_title": "A MOLECULAR ORBITAL CALCULATION OF SOME ORGANIC AND INORGANIC MOLECULES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "MADRAS CHRISTIAN COLLEGE",
+                            "year_of_passing": "1986"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "MADRAS CHRISTIAN COLLEGE",
+                            "year_of_passing": "1989"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "PHYSICS",
+                            "college_name": "MADRAS CHRISTIAN COLLEGE",
+                            "year_of_passing": "2008"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "17 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. SAM. LINU",
+                    "dob": "10-07-1961",
+                    "date_of_joining": "01-09-1998",
+                    "aicte_id": "1458883435",
+                    "phd_thesis_title": "PHYSICS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "STTERESAS COLLEGE",
+                            "year_of_passing": "1981"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "CMS COLLEGE KOTTAYAM",
+                            "year_of_passing": "1983"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "PHYSICS",
+                            "college_name": "MANONMANIAM SUNDARANAR UNIVERSITY",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "24 Years",
+                            "previous_position": "14 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. S. NALINI JAYANTHI",
+                    "dob": "21-04-1980",
+                    "date_of_joining": "23-06-2014",
+                    "aicte_id": "12308119924",
+                    "phd_thesis_title": "GROWTH AND CHARACTERIZATION OF NONLINEAR OPTICAL TLH GCS AND LHP CRYSTALS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "AVC COLLEGE",
+                            "year_of_passing": "2000"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "TBML COLLEGE",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "PHYSICS",
+                            "college_name": "PACHAIYAPPAS COLLEGE",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "8 Years",
+                            "previous_position": "10 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. R. GLADWIN PRADEEP",
+                    "dob": "11-03-1983",
+                    "date_of_joining": "01-08-2013",
+                    "aicte_id": "12194460453",
+                    "phd_thesis_title": "INTEGRABILITY AND NONLOCAL CONNECTIONS OF FINITE DIMENSIONAL DYNAMICAL SYSTEMS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "ST JOSEPHS COLLEGE",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "BHARATHIDASAN UNIVERSITY",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "PHYSICS",
+                            "college_name": "BHARATHIDASAN UNIVERSITY",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "9 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. R G. GEETHU MANI",
+                    "dob": "21-06-1977",
+                    "date_of_joining": "10-09-2007",
+                    "aicte_id": "1458883367",
+                    "phd_thesis_title": "DISTRIBUTED FEEDBACK LASER BASED ON ENERGY TRANSFER BETWEEN A MIXTURE OF DYES IN LIQUID AND SOLID MEDIA",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "NESAMONY MEMORIAL CHRISTIAN COLLEGE",
+                            "year_of_passing": "1999"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "NESAMONY MEMORIAL CHRISTIAN COLLEGE",
+                            "year_of_passing": "1999"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "PHYSICS",
+                            "college_name": "BHARATHIAR UNIVERSITY",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "15 Years",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. S. TAMIL SELVI",
+                    "dob": "31-01-1973",
+                    "date_of_joining": "03-09-2012",
+                    "aicte_id": "11479506202",
+                    "phd_thesis_title": "A STUDY CHAOS IN THE ATMOSPHERIC PHENOMENA",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "VV VANNIAPERUMAL COLLEGE FOR WOMEN",
+                            "year_of_passing": "1993"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "UNIVERSITY OF MADRA",
+                            "year_of_passing": "1995"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "PHYSICS",
+                            "college_name": "BHARATHIYAR UNIVERSITY",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "10 Years",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

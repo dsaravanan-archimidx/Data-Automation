@@ -1,0 +1,38 @@
+{
+    "faculty_details": [
+        {
+            "department": "Biomedical Engineering",
+            "faculty_members": [
+                {
+                    "name": "MS. A. KAVINILAVU",
+                    "dob": "23-06-1993",
+                    "date_of_joining": "03-01-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "1 Years",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "BIOMEDICAL ENGINEERING",
+                            "college_name": "AVINASALINGAM UNIVERSITY",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "NANO TECHNOLOGY",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": " ",
+                            "previous_position": "OTHERS - MEDICAL, OTHERS-SASTRA"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,219 @@
+{
+    "faculty_details": [
+        {
+            "department": "Mechanical Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. C. CHANDRASEKAR CHRISTOPHER",
+                    "dob": "13-06-1965",
+                    "date_of_joining": "24-06-2019",
+                    "aicte_id": "2303192581",
+                    "phd_thesis_title": "PREPARATION AND CHARACTERIZATION OF PEROVSKITE OXIDE SOLID SOLUTIONS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "MECHANICAL",
+                            "college_name": "KARNATAKA STATE OPEN UNIVERSITY",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "MADHURAI KAMARAJ UNIVERSITY",
+                            "year_of_passing": "1987"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "MATERIALS TECHNOLOGY",
+                            "college_name": "BANARAS HINDU UNIVERSITY",
+                            "year_of_passing": "1991"
+                        }
+                    ],
+                    "designation": "PRINCIPAL",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "22 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. J. NITHYANANDAM",
+                    "dob": "05-03-1975",
+                    "date_of_joining": "11-06-2001",
+                    "aicte_id": "455640019",
+                    "phd_thesis_title": "ANALYSIS OF MACHINING PARAMETERS IN MACHINING OF TI 6AI 4V",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "SATHYABAMA ENGINEERING COLLEGE",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER AIDED DESIGN",
+                            "college_name": "SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MACHINING",
+                            "college_name": "SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "16 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. T. SANKARLAL",
+                    "dob": "26-05-1967",
+                    "date_of_joining": "16-06-2003",
+                    "aicte_id": "455520797",
+                    "phd_thesis_title": "Designation & Academic",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING AND TECHNOLOGY",
+                            "college_name": "PSNA COLLEGE OF ENGINEERING",
+                            "year_of_passing": "1988"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "THERMAL POWER EQUIPMENTS",
+                            "college_name": "REGIONAL ENGINEERING COLLEGE TRICHY",
+                            "year_of_passing": "1993"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "DESIGN AND PRODUCTION OF THERMAL POWER EQUIPMENTS",
+                            "college_name": "REGIONAL ENGINEERING COLLEGE TRICHY",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "9 Years",
+                            "previous_position": "19 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. R. DILLI BABU",
+                    "dob": "12-09-1985",
+                    "date_of_joining": "15-06-2015",
+                    "aicte_id": "2643973663",
+                    "phd_thesis_title": "COMPUTER AIDED DESIGN AND TECHNOLOGY",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "T J INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER AIDED DESIGN AND TECHNOLOGY",
+                            "college_name": "G K M COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "COMPUTER AIDED DESIGN AND TECHNOLOGY",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "7 Years",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. R. PRASANNA",
+                    "dob": "18-06-1979",
+                    "date_of_joining": "15-06-2015",
+                    "aicte_id": "",
+                    "phd_thesis_title": "ASSISTANT PROFESSOR",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "K L N COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "REFRIGERATION AND AIR CONDITIONING",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "REFRIGERATION AND AIR CONDITIONING",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "7 Years",
+                            "previous_position": "6 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. A. SIVARANGAR",
+                    "dob": "23-06-1982",
+                    "date_of_joining": "28-06-2010",
+                    "aicte_id": "455709650",
+                    "phd_thesis_title": "ASSISTANT PROFESSOR",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "RIT",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "ENERGY TECHNOLOGY",
+                            "college_name": "PEC",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ENERGY TECHNOLOGY",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "13 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

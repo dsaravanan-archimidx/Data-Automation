@@ -1,0 +1,114 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-English",
+            "faculty_members": [
+                {
+                    "name": "MRS. B. GEETHA",
+                    "dob": "28-10-1974",
+                    "date_of_joining": "16-06-2007",
+                    "aicte_id": "17361732407",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "1998",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "ENGLISH",
+                            "college_name": "MARYS",
+                            "year_of_passing": "1997"
+                        },
+                        {
+                            "degree": "MA",
+                            "specialization": "ENGLISH",
+                            "college_name": "MARYS",
+                            "year_of_passing": " "
+                        },
+                        {
+                            "degree": " ",
+                            "specialization": " ",
+                            "college_name": " ",
+                            "year_of_passing": " "
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "17 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. R. SIVARANJANI",
+                    "dob": "16-03-1996",
+                    "date_of_joining": "15-09-2021",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "2020",
+                    "educational_qualification": [
+                        {
+                            "degree": "PG",
+                            "specialization": "ENGLISH",
+                            "college_name": "UNIVERSITY OF MADRAS",
+                            "year_of_passing": " "
+                        },
+                        {
+                            "degree": " ",
+                            "specialization": " ",
+                            "college_name": " ",
+                            "year_of_passing": " "
+                        },
+                        {
+                            "degree": " ",
+                            "specialization": " ",
+                            "college_name": " ",
+                            "year_of_passing": " "
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. S. ROSHAN FATHIMA",
+                    "dob": "03-09-1997",
+                    "date_of_joining": "01-06-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "2020",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "DEVKUNVAR NANALAL BHATT VASIHANV",
+                            "year_of_passing": "2018"
+                        },
+                        {
+                            "degree": "M.A",
+                            "specialization": "ENGLISH",
+                            "college_name": "UNIVERSITY OF MADRAS",
+                            "year_of_passing": " "
+                        },
+                        {
+                            "degree": " ",
+                            "specialization": " ",
+                            "college_name": " ",
+                            "year_of_passing": " "
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,183 @@
+{
+    "faculty_details": [
+        {
+            "department": "Architecture",
+            "faculty_members": [
+                {
+                    "name": "MRS. S. SASIREKHA",
+                    "dob": "03-11-1976",
+                    "date_of_joining": "24-02-2023",
+                    "aicte_id": "CHENNAI",
+                    "phd_thesis_title": "SUSTANIABLE ARCHITECTURE",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.ARCH.",
+                            "specialization": "ARCHITECTURE",
+                            "college_name": "UNIVERSITY OF MADRAS",
+                            "year_of_passing": "1999"
+                        },
+                        {
+                            "degree": "M.ARCH.",
+                            "specialization": "ARCHITECTURE",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "2001"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "7 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. NADADHUR. SIDDHARTHA",
+                    "dob": "04-05-1985",
+                    "date_of_joining": "10-12-2021",
+                    "aicte_id": "ARCHITECTURE",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.ARCH.",
+                            "specialization": "ARCHITECTURE",
+                            "college_name": "SAR COLLEGE OF ARCHITECTURE",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.ARCH.",
+                            "specialization": "SUSTAINABLE ARCHITECTURE",
+                            "college_name": "GITAM SCHOOL OF ARCHITECTURE",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. J. INNIYA ARUTCHUDAR",
+                    "dob": "05-03-1995",
+                    "date_of_joining": "17-08-2021",
+                    "aicte_id": "",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.ARCH.",
+                            "specialization": "ARCHITECTURE",
+                            "college_name": "PERIYAR MANIAMMAI SCHOOL OF ARCHITECTURE & PLANNING",
+                            "year_of_passing": "2017"
+                        },
+                        {
+                            "degree": "M.ARCH.",
+                            "specialization": "ARCHITECTURE",
+                            "college_name": "",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. T. NARAYANAN",
+                    "dob": "16-06-1990",
+                    "date_of_joining": "26-12-2017",
+                    "aicte_id": "",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.ARCH.",
+                            "specialization": "ARCHITECTURE",
+                            "college_name": "SRM UNIVERSITY",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.ARCH.",
+                            "specialization": "ARCHITECTURE",
+                            "college_name": "HINDUSTAN UNIVERSITY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. VINEETH VISHAL",
+                    "dob": "13-07-1996",
+                    "date_of_joining": "20-07-2022",
+                    "aicte_id": "M.ARCH. LANDSCAPE ARCHITECTURE",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.ARCH.",
+                            "specialization": "ARCHITECTURE",
+                            "college_name": "DA VINCI SCHOOL OF DESIGN AND ARCHITECTURE",
+                            "year_of_passing": "2018"
+                        },
+                        {
+                            "degree": "M.ARCH.",
+                            "specialization": "LANDSCAPE ARCHITECTURE",
+                            "college_name": "DR MGR EDUCATIONAL AND RESEARCH INSTITUTE",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. R. SURESH",
+                    "dob": "11-07-1980",
+                    "date_of_joining": "27-10-2021",
+                    "aicte_id": "CPM",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.ARCH.",
+                            "specialization": "ARCHITECTURE",
+                            "college_name": "MOHAMED SATHAK ENGINEERING COLLEGE",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "M.ARCH.",
+                            "specialization": "",
+                            "college_name": "DR MGR EDUCATIONAL AND RESEARCH INSTITUTE",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

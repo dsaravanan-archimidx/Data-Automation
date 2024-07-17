@@ -1,0 +1,177 @@
+{
+    "faculty_details": [
+        {
+            "department": "Computer Science and Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. P. CALISTA BEBE",
+                    "dob": "13-11-1985",
+                    "date_of_joining": "01-06-2018",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "AUTHENTICATION BASED DAMGARDJURIK KEY MATCHING AND BENALOH CONTROL",
+                    "year_of_starting": "2021",
+                    "educational_qualification": [
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "VELS UNIVERSITY",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. S. JEYANTHI",
+                    "dob": "01-06-1982",
+                    "date_of_joining": "02-01-2017",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "M COA LN LG EA GIY E A FR OK RA WR OA MSI E A NRTS AND SCIENCE",
+                            "year_of_passing": "2002"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. D. JAYALAKSHMI",
+                    "dob": "03-06-1989",
+                    "date_of_joining": "12-09-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.C.A.",
+                            "specialization": "COMPUTER APPLICATIONS",
+                            "college_name": "BHAVANI ARTS AND SCIENCE COLLEGE",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.C.A.",
+                            "specialization": "MASTER OF COMPUTER APPLICATIONS",
+                            "college_name": "JERUSALEM COLLEGE OF ENGINEERING (AUTONOMOUS)",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. A P. SHANMUGA SUNDARAM",
+                    "dob": "29-10-1980",
+                    "date_of_joining": "02-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "MCA",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "APPLIED SCIENCE",
+                            "college_name": "PERIYAR UNIVERSITY",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "M.C.A.",
+                            "specialization": "MASTER OF COMPUTER APPLICATIONS",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "KARPAGAM UNIVERSITY",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "13 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. B. MAHALAKSHMI",
+                    "dob": "21-12-1986",
+                    "date_of_joining": "02-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "MCA",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "CSE",
+                            "college_name": "BHARATHIDASAN UNIVERSITY",
+                            "year_of_passing": "2007"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. G G. GOKILAM",
+                    "dob": "30-09-1982",
+                    "date_of_joining": "02-05-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "CSE",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "CSE",
+                            "college_name": "PRIST UNIVERSITY",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "CS",
+                            "college_name": "PONNIAYA RAMAJAYAM",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CSE",
+                            "college_name": "PRIST UNIVERSITY",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

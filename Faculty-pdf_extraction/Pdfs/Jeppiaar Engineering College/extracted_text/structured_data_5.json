@@ -1,0 +1,254 @@
+{
+    "faculty_details": [
+        {
+            "department": "Computer Science and Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. J. AROKIA RENJIT",
+                    "dob": "30-06-1980",
+                    "date_of_joining": "17-05-2004",
+                    "aicte_id": "426094523",
+                    "phd_thesis_title": "NETWORK INTRUSION DETECTION AND CONTROL USING MULTI AGENT EMPLOYING CLUSTERING AND CLASSIFICATION TECHNIQUES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "SENGUNTHAR ENGINEERING COLLEGE (AUTONOMOUS)",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "OTHERS-SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": " ",
+                            "year_of_passing": " "
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "15 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. D. JEEVITHA",
+                    "dob": "31-08-1985",
+                    "date_of_joining": "03-01-2022",
+                    "aicte_id": "111343228628",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "MEENAKSHI COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "T J INSTITUTE OF ENGINEERING TECHNOLOGY",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": " ",
+                            "college_name": " ",
+                            "year_of_passing": " "
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. LK. SHOBA",
+                    "dob": "16-12-1981",
+                    "date_of_joining": "15-06-2009",
+                    "aicte_id": "429722714",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+                            "college_name": "NOORUL ISLAM COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "INFORMATION TECHNOLOGY",
+                            "college_name": "MADRAS INSTITUTE OF TECHNOLOGY CHROMPET",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": " ",
+                            "college_name": " ",
+                            "year_of_passing": " "
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "14 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. ROJA. S",
+                    "dob": "15-06-1994",
+                    "date_of_joining": "15-06-2022",
+                    "aicte_id": "43363023309",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "ANNAMALAIAR COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "JEPPIAAR ENGINEERING COLLEGE",
+                            "year_of_passing": "2018"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": " ",
+                            "college_name": " ",
+                            "year_of_passing": " "
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. R. INSOL RAJSEKAR",
+                    "dob": "24-06-1988",
+                    "date_of_joining": "15-05-2023",
+                    "aicte_id": "143504595574",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "INFORMATION TECHNOLOGY",
+                            "college_name": "INFANT JESUS COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "INFORMATION TECHNOLOGY",
+                            "college_name": "B.S. ABDUR RAHMAN CRESCENT INSTITUTE OF SCIENCE AND TECHNOLOGY",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": " ",
+                            "college_name": " ",
+                            "year_of_passing": " "
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. J. NITHISHA",
+                    "dob": "16-05-1990",
+                    "date_of_joining": "24-08-2016",
+                    "aicte_id": "3208380141",
+                    "phd_thesis_title": "A NEW SECURED CLOUD DATA STORAGE AND COMMUNICATION SYSTEM USING CRYPTOGRAPHIC TECHNIQUES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "JEPPIAAR ENGINEERING COLLEGE",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "INFORMATION TECHNOLOGY",
+                            "college_name": "ANNA UNIVERSITY REGIONAL CAMPUS, TIRUNELVELI",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": "INFORMATION TECHNOLOGY",
+                            "college_name": " ",
+                            "year_of_passing": "2023"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. R. TAMILROJA",
+                    "dob": "11-04-1989",
+                    "date_of_joining": "03-01-2022",
+                    "aicte_id": "111343454531",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "SSN COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "ALAGAPPA CHETTIAR GOVERNMENT COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": " ",
+                            "college_name": " ",
+                            "year_of_passing": " "
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

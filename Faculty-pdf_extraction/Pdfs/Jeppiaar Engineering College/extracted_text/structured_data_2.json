@@ -1,0 +1,514 @@
+{
+    "faculty_details": [
+        {
+            "department": "Electronics and Communication Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. J. JEBASTINE",
+                    "dob": "16-12-1980",
+                    "date_of_joining": "23-06-2003",
+                    "aicte_id": "430162241",
+                    "phd_thesis_title": "DEVELOPMENT OF ADAPTIVE FILTER ALGORITHMS AND ITS HARDWARE IMPLEMENTATION FOR EFFECTIVE NOISE CANCELLATION IN SPEECH SIGNAL",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "ST JOSEPH'S COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "OTHERS-SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "19 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. R. VIVEK KRISHNA",
+                    "dob": "27-07-1988",
+                    "date_of_joining": "29-06-2015",
+                    "aicte_id": "3004524882",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "INSTRUMENTATION ENGINEERING",
+                            "college_name": "ST JOSEPH'S COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ELECTRONICS AND CONTROL",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "7 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. L. KANAGADURGA",
+                    "dob": "15-04-1984",
+                    "date_of_joining": "10-08-2022",
+                    "aicte_id": "43361646075",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "IDHAYA ENGINEERING COLLEGE FOR WOMEN",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "NETWORKING ENGINEERING AND TECHNOLOGY",
+                            "college_name": "JAYARAM COLLEGE OF COMMUNICATION AND TECHNOLOGY",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. M P. PRABAKARAN",
+                    "dob": "31-07-1985",
+                    "date_of_joining": "10-08-2022",
+                    "aicte_id": "43361646514",
+                    "phd_thesis_title": "A STUDY ON INDOOR OPTICAL WIRELESS COMMUNICATION SYSTEMS WITH DENOISING",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "MAGNA COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "OPTICAL COMMUNICATION ENGINEERING",
+                            "college_name": "A C T COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "WIRELESS COMMUNICATION",
+                            "college_name": "REGIONAL CAMPUS, COIMBATORE",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. E. SAKTHIVEL",
+                    "dob": "10-06-1989",
+                    "date_of_joining": "12-01-2017",
+                    "aicte_id": "3363992270",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "OTHERS-SATHYABAMA",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "EMBEDDED SYSTEMS",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. M. SINUVASAN",
+                    "dob": "22-01-1977",
+                    "date_of_joining": "10-06-2020",
+                    "aicte_id": "1446164616",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "OTHERS-SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "VLSI DESIGN",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. V. NANAMMAL",
+                    "dob": "19-09-1975",
+                    "date_of_joining": "26-06-2012",
+                    "aicte_id": "447657417",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "OTHERS-SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "VLSI DESIGN",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "10 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. TR. CHENTHIL",
+                    "dob": "31-05-1985",
+                    "date_of_joining": "28-07-2008",
+                    "aicte_id": "430144989",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "ST XAVIER'S CATHOLIC COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "APPLIED ELECTRONICS",
+                            "college_name": "ST JOSEPH'S COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2008"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "14 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. P. PRAVINA",
+                    "dob": "14-04-1985",
+                    "date_of_joining": "26-08-2009",
+                    "aicte_id": "143368320034",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "OTHERS-SEETHAIAMMAL ENGINEERING COLLEGE",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "POWER ELECTRONICS AND DRIVES",
+                            "college_name": "PSNA COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2008"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "13 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. M. LOGESWARI",
+                    "dob": "20-08-1992",
+                    "date_of_joining": "10-08-2022",
+                    "aicte_id": "43361645981",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "MADRAS INSTITUTE OF TECHNOLOGY CHROMPET",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "NETWORKING TECHNOLOGY",
+                            "college_name": "JEPPIAAR ENGINEERING COLLEGE",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. GC. JAGAN",
+                    "dob": "11-06-1981",
+                    "date_of_joining": "01-07-2019",
+                    "aicte_id": "430162337",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "NOORUL ISLAM COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "SYSTEMS ENGINEERING",
+                            "college_name": "NOORUL ISLAM COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2006"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "14 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. C. ANITHA",
+                    "dob": "15-09-1982",
+                    "date_of_joining": "01-06-2009",
+                    "aicte_id": "430162645",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "JAYAMATHA ENGINEERING COLLEGE",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "APPLIED ELECTRONICS",
+                            "college_name": "MOHAMED SATHAK ENGINEERING COLLEGE",
+                            "year_of_passing": "2006"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "13 Years",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. Y. ANITHA",
+                    "dob": "18-12-1980",
+                    "date_of_joining": "03-01-2022",
+                    "aicte_id": "11335710075",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "FRANCIS XAVIER ENGINEERING COLLEGE",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "COMMUNICATION SYSTEMS",
+                            "college_name": "ADVANCED ENGINEERING COLLEGE",
+                            "year_of_passing": "2007"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. RANJITH",
+                    "dob": "21-05-1990",
+                    "date_of_joining": "08-09-2014",
+                    "aicte_id": "2470974439",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "OTHERS-SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "VLSI DESIGN",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "8 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. G. BALACHANDRAN",
+                    "dob": "01-06-1981",
+                    "date_of_joining": "25-06-2012",
+                    "aicte_id": "446164838",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "OTHERS-SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "VLSI DESIGN",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "9 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. S. KARTHIKA",
+                    "dob": "04-08-1994",
+                    "date_of_joining": "03-01-2022",
+                    "aicte_id": "9508026983",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "INSTRUMENTATION ENGINEERING",
+                            "college_name": "ANAND INSTITUTE OF HIGHER TECHNOLOGY",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "VLSI DESIGN",
+                            "college_name": "JEPPIAAR ENGINEERING COLLEGE",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. B. ARUN VIJAYAKUMAR",
+                    "dob": "25-05-1981",
+                    "date_of_joining": "07-09-2007",
+                    "aicte_id": "430162333",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "JAYARAM COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "SYSTEMS ENGINEERING",
+                            "college_name": "JAYARAM COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2007"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "13 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

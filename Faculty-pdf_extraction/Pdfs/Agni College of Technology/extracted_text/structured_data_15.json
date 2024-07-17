@@ -1,0 +1,38 @@
+{
+    "faculty_details": [
+        {
+            "department": "ELECTRONICS AND COMMUNICATION",
+            "faculty_members": [
+                {
+                    "name": "MRS. D. MAHESWARI",
+                    "dob": "19-01-1983",
+                    "date_of_joining": "22-11-2010",
+                    "aicte_id": " ",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "2007",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "A V C COLLEGE",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.TEC",
+                            "specialization": "ADVANCED COMMUNICATION SYSTEMS",
+                            "college_name": "SASTRA",
+                            "year_of_passing": "2007"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "15 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

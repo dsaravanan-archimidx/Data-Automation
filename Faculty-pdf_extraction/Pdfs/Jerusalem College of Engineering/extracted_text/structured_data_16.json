@@ -1,0 +1,44 @@
+{
+    "faculty_details": [
+        {
+            "department": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "DR. V. JAMUNA",
+                    "dob": "22-05-1978",
+                    "date_of_joining": "29-07-2013",
+                    "aicte_id": "1473993027",
+                    "phd_thesis_title": "ARTIFICIAL NEURAL NETWORK CONTROLLED ENERGY SAVER FOR INDUCTION MOTOR DRIVE",
+                    "year_of_starting": "2005",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS ENGINEERING AND ENGINEERING TECHNOLOGY",
+                            "college_name": "ST PETER'S COLLEGE",
+                            "year_of_passing": "1999"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ELECTRONICS AND ENGINEERING DRIVES",
+                            "college_name": "JERUSALEM COLLEGE",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ELECTRONICS AND ENGINEERING DRIVES",
+                            "college_name": "JERUSALEM COLLEGE",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "9 Years",
+                            "previous_position": "14 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

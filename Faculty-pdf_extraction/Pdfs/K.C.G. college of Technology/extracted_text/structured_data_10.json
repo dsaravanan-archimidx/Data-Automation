@@ -1,0 +1,289 @@
+{
+    "faculty_details": [
+        {
+            "department": "Mechanical Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. M. ARULPRAKASAJOTHI",
+                    "dob": "18-05-1980",
+                    "date_of_joining": "10-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "PERFORMANCE ANALYSIS ON CONCENTIVE HEAT TRANSFER CHARACTERISTICS OF NANOFLUIDS FOR COOLING APPLICATIONS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "THERMAL POWER",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": "ENGINEERING TECHNOLOGICAL",
+                            "college_name": "JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "16 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. D. EASU",
+                    "dob": "14-05-1973",
+                    "date_of_joining": "16-06-2001",
+                    "aicte_id": "1458287999",
+                    "phd_thesis_title": "A STUDY ON VIBRATION ISOLATION OF SINGLE AND TWO DEGREE OF FREEDOM QUARTER CAR MODEL WITH USE OF HYBRID MAGNET AND MAGNETORHEOLOGICAL FLUID DAMPER",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "VLB JANAKI AMMAL COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "1994"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ENGINEERING DESIGN",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "21 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. JESUDASS THOMAS",
+                    "dob": "10-07-1972",
+                    "date_of_joining": "19-05-2014",
+                    "aicte_id": "12308034403",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "BHARATH ENGINEERING COLLEGE",
+                            "year_of_passing": "1993"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "MANUFACTURING ENGINEERING",
+                            "college_name": "MADRAS INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": " ",
+                            "college_name": " ",
+                            "year_of_passing": " "
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "9 Years",
+                            "previous_position": "15 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. M. VIGNESH KUMAR",
+                    "dob": "17-06-1988",
+                    "date_of_joining": "27-06-2016",
+                    "aicte_id": "13292811856",
+                    "phd_thesis_title": "ENHANCING THE MECHANICAL AND TRIBOLOGICAL PROPERTIES OF CAST ZK60 MAGNESIUM ALLOY BY SURFACE COMPOSITING THROUGH FRICTION STIR PROCESSING",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "JEPPIAAR ENGINEERING COLLEGE",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "ENGINEERING DESIGN",
+                            "college_name": "AMRITA UNIVERSITY",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": "MANUFACTURING ENGINEERING",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. R. CHANDRAMOHAN",
+                    "dob": "01-07-1974",
+                    "date_of_joining": "12-04-2021",
+                    "aicte_id": "12641443727",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "R. V. S COLLEGE OF ENGINEERING",
+                            "year_of_passing": "1995"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "REFRIGERATION",
+                            "college_name": "COIMBATORE INSTITUTE OF TECHNOLOGY (AUTONOMOUS)",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": " ",
+                            "college_name": " ",
+                            "year_of_passing": " "
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "6 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. M. ARUL INIGO RAJA",
+                    "dob": "12-06-1980",
+                    "date_of_joining": "15-06-2012",
+                    "aicte_id": "11479505977",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "J J COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "CAD/CAM",
+                            "college_name": "J J COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": " ",
+                            "college_name": " ",
+                            "year_of_passing": " "
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "10 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. V. GOPAL",
+                    "dob": "04-12-1982",
+                    "date_of_joining": "03-08-2022",
+                    "aicte_id": "12190160580",
+                    "phd_thesis_title": "INVESTIGATION OF WASTE PLASTIC OIL AS FUEL IN A DI DIESEL ENGINE USING DIFFERENT METHODOLOGIES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "THANGAVELU ENGINEERING COLLEGE",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "THERMAL ENGINEERING",
+                            "college_name": "SAKTHI ENGINEERING COLLEGE",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": " ",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "8 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. S. GOPINATH",
+                    "dob": "18-05-1991",
+                    "date_of_joining": "03-09-2009",
+                    "aicte_id": "1458287991",
+                    "phd_thesis_title": "A NOVEL DESIGN OF ASYMMETRIC AND CARTWERE FLEXURE HINGES FOR ACHIEVING PRECISION ROTATIONAL MOVEMENT IN COMPLIANT MECHANISM",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "MAHARAJA ENGINEERING COLLEGE",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER AIDED DESIGN",
+                            "college_name": "ST JOSEPH COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "12 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

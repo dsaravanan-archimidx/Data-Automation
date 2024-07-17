@@ -1,0 +1,79 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-Chemistry",
+            "faculty_members": [
+                {
+                    "name": "MR. A. MOHAMED ABDUL",
+                    "dob": "03-05-1978",
+                    "date_of_joining": "11-05-2011",
+                    "aicte_id": "11",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "GTN ARTS KADHAR COLLEGE",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "OTHERS-NEW CHEMISTRY COLLEGE",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "OTHERS-NEW CHEMISTRY COLLEGE",
+                            "year_of_passing": "2000"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "11 Years",
+                            "previous_position": "11 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. E. VIDHYA",
+                    "dob": "11-06-1991",
+                    "date_of_joining": "01-02-2016",
+                    "aicte_id": "7",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "OTHERS-MADRAS UNIVERSITY",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "OTHERS-VELS CHEMISTRY UNIVERSITY",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "OTHERS-VELS CHEMISTRY UNIVERSITY",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "7 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

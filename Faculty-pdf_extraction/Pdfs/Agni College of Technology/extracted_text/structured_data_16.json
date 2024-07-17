@@ -1,0 +1,44 @@
+{
+    "faculty_details": [
+        {
+            "department": "Computer Science and Engineering",
+            "faculty_members": [
+                {
+                    "name": "MRS. S. SRINIDHI",
+                    "dob": "20-07-1978",
+                    "date_of_joining": "14-07-2022",
+                    "aicte_id": "",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Computer Science",
+                            "college_name": "BHILAIMAHILAMA",
+                            "year_of_passing": "1999"
+                        },
+                        {
+                            "degree": "M.C.A.",
+                            "specialization": "Computer Applications",
+                            "college_name": "MADURAI KAMARAJ UNIVERSITY",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "Information Technology",
+                            "college_name": "SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "13 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

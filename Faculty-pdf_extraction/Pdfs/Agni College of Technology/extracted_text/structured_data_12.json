@@ -1,0 +1,270 @@
+{
+    "faculty_details": [
+        {
+            "department": "Chemical Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. R. BASKARAN",
+                    "dob": "03-05-1971",
+                    "date_of_joining": "01-07-2022",
+                    "aicte_id": "1455426127",
+                    "phd_thesis_title": "THERMOPHYSICAL PROPERTIES OF LIQUID MIXTURES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "CHEMICAL",
+                            "college_name": "OTHERS-SIT TUMKUR",
+                            "year_of_passing": "1995"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMICAL ENGINEERING",
+                            "college_name": "OTHERS-ANNA UNIVERSITY",
+                            "year_of_passing": "2008"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "26 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. S. SHARMILA",
+                    "dob": "08-05-1979",
+                    "date_of_joining": "01-08-2018",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "A STUDY ON THE BIOREMEDIATION OF LEATHER INDUSTRY EFFLUENT USING MARINE ALGAE",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "CHEMICAL ENGINEERING",
+                            "college_name": "PALLAVAN COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "INDUSTRIAL BIO TECHNOLOGY",
+                            "college_name": "OTHERS-BHARATH INSTITUTE OF HIGHER EDUCATION AND RESEARCH",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "14 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. MISHRA. SHYAMSUNDER",
+                    "dob": "07-03-1978",
+                    "date_of_joining": "10-08-2017",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "SYNTHESIS AND EVALUATION OF HYHILIC COMPOSITE MEMBRANES FOR REFINERY EFFLUENT TREATMENT BY ULTRAFILTRATION",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "CHEMICAL ENGINEERING",
+                            "college_name": "OTHERS-NATIONAL INSTITUE OF TECHNOLOGY ROURKELA",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMICAL ENGINEERING",
+                            "college_name": "OTHERS-RAJIV GANDHI PROUDYOGIKI VISHWAVIDYALAYA BHOPAL",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "8 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. N. ARUNODHAYA",
+                    "dob": "22-05-1986",
+                    "date_of_joining": "20-07-2022",
+                    "aicte_id": "13180085458",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "PETROCHEMICAL TECHNOLOGY",
+                            "college_name": "OTHERS-BHARATHIDASAN INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "CHEMICAL ENGINEERING",
+                            "college_name": "ALAGAPPA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "10 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. T. KALAITHANGAM",
+                    "dob": "15-11-1991",
+                    "date_of_joining": "22-03-2022",
+                    "aicte_id": "3396242579",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "CHEMICAL ENGINEERING",
+                            "college_name": "KONGU ENGINEERING COLLEGE (AUTONOMOUS)",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "CHEMICAL ENGINEERING",
+                            "college_name": "KONGU ENGINEERING COLLEGE (AUTONOMOUS)",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. K. VIKRAM",
+                    "dob": "17-05-1981",
+                    "date_of_joining": "19-08-2019",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "CHEMICAL ENGINEERING",
+                            "college_name": "OTHERS-SRM ENGINEERING COLLEGE",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "CHEMICAL ENGINEERING",
+                            "college_name": "ALAGAPPA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2005"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "8 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. C D. KARTHIKA",
+                    "dob": "26-02-1988",
+                    "date_of_joining": "09-05-2019",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "ELECTROCHEMICAL ENGINEERING",
+                            "college_name": "CENTRAL ELECTROCHEMICAL RESEARCH INSTITUTE (CSIR)",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "CHEMICAL ENGINEERING",
+                            "college_name": "ALAGAPPA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. P. MURUGAN",
+                    "dob": "20-01-1986",
+                    "date_of_joining": "18-08-2021",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "AMPHIPHILIC SILICA NANOWIRES STABILIZED PICKERING EMULSION LIQUID MEMBRANE FOR EXTRACTION OF HEAVY METAL IONS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "CHEMICAL ENGINEERING",
+                            "college_name": "ANNAI TERESA COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "ENVIRONMENTAL ENGINEERING-PROCESS ENGINEERING",
+                            "college_name": "OTHERS-NATIONAL INSTITUITE OF TECHNOLOGY CALICUT",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "11 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. CHENNA. SWATHI",
+                    "dob": "15-05-1994",
+                    "date_of_joining": "05-08-2020",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "CHEMICAL ENGINEERING",
+                            "college_name": "OTHERS-IIIT BASAR",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "CHEMICAL ENGINEERING",
+                            "college_name": "OTHERS-UCTOU",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

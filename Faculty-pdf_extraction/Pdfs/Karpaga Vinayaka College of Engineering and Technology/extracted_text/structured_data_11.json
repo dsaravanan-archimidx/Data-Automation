@@ -1,0 +1,294 @@
+{
+    "faculty_details": [
+        {
+            "department": "BioTechnology",
+            "faculty_members": [
+                {
+                    "name": "DR. A. SHEELA DEVI",
+                    "dob": "02-05-1983",
+                    "date_of_joining": "14-12-2007",
+                    "aicte_id": "1406023951",
+                    "phd_thesis_title": "AN INVESTIGATION OF URINARY TRACT INFECTION AND STUDIES ON ANTIBACTERIAL COMPOUNDS OF AVICENNIA MARINA AND INSILICO DRUG DESIGNING THROUGH MOLECULAR DOCKING",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - BIOCHEMISTRY",
+                            "college_name": "OTHERS-SRM ARTS AND SCIENCE COLLEGE",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - BIOCHEMISTRY",
+                            "college_name": "OTHERS-SANKARA ARTS AND SCIENCE COLLEGE",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "RAJALAKSHMI ENGINEERING COLLEGE (AUTONOMOUS)",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "10 Years",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. T. HARCHANA",
+                    "dob": "28-07-1996",
+                    "date_of_joining": "06-01-2022",
+                    "aicte_id": "111326468000",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "KARPAGA VINAYAGA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2017"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "KARPAGA VINAYAGA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. B. ABITHA",
+                    "dob": "26-02-1985",
+                    "date_of_joining": "14-12-2020",
+                    "aicte_id": "17884054514",
+                    "phd_thesis_title": "PHYTOSOCIOLOGICAL PHYTOCHEMICAL AND CONSERVATION STUDIES ON NARAVELIA ZEYLANICA DC AN ENDANGERED MEDICIAL PLANTS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - BIOTECHNOLOGY",
+                            "college_name": "OTHERS-KONGUNADU ARTS AND SCIENCE COLLEGE",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - BIOTECHNOLOGY",
+                            "college_name": "OTHERS-BISHOP HEBER COLLEGE",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "BIO TECHNOLOGY (SS)",
+                            "college_name": "OTHERS-VELLORE INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. J. SUMAIYA FARVEEN",
+                    "dob": "09-01-1993",
+                    "date_of_joining": "06-01-2022",
+                    "aicte_id": "111864348409",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "INDUSTRIAL BIO TECHNOLOGY",
+                            "college_name": "OTHERS-AC TECH CAMPUS",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "KARPAGA VINAYAGA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. F. METILDA VIMALI ROSAN",
+                    "dob": "20-11-1996",
+                    "date_of_joining": "06-01-2022",
+                    "aicte_id": "19605569651",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "KARPAGA VINAYAGA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2018"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "KARPAGA VINAYAGA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. U. USHANI",
+                    "dob": "03-09-1987",
+                    "date_of_joining": "04-01-2021",
+                    "aicte_id": "19525212108",
+                    "phd_thesis_title": "ENHANCEMENT OF ANAEROBIC BIODEGRADABILITY IN MUNICIPAL WASTE ACTIVATED SLUDGE BY IMMOBILIZED BIOLOGICAL DISINTEGRATION",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - BIOTECHNOLOGY",
+                            "college_name": "OTHERS-NOORUL ISLAM COLLEDGE OF ARTS AND SCIENCE",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - BIOTECHNOLOGY",
+                            "college_name": "OTHERS-MOHAMED SATHAK COLLEGE OF ARTS AND SCIENCE",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "ANNA UNIVESITY REGIONAL CAMPUS,TIRUNELVELI",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. K. NAGALAKSHMI",
+                    "dob": "09-12-1984",
+                    "date_of_joining": "16-08-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "ANTIHYPERGLYCEMICACTIVITYOF FREE AND NANOENCAPSULATED 14 DEOXY 1112 DIDEHYDRO ANDROGRAPHOLIDE IN NICOTINAMIDE",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - MICROBIOLOGY",
+                            "college_name": "OTHERS-N S COLLEGE",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - MICROBIOLOGY",
+                            "college_name": "OTHERS-THIAGARAJAN COLLEGE",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "OTHERS-SRM INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. R. PRAVEEN",
+                    "dob": "01-01-1995",
+                    "date_of_joining": "04-11-2019",
+                    "aicte_id": "17346263141",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "KARPAGA VINAYAGA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "KARPAGA VINAYAGA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. R. KRISHNAMOORTHY",
+                    "dob": "11-07-1996",
+                    "date_of_joining": "06-01-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "KARPAGA VINAYAGA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2017"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "KARPAGA VINAYAGA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

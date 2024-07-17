@@ -1,0 +1,149 @@
+{
+    "faculty_details": [
+        {
+            "department": "Mathematics",
+            "faculty_members": [
+                {
+                    "name": "MRS. P. DEVI",
+                    "dob": "26-01-1981",
+                    "date_of_joining": "02-01-2019",
+                    "aicte_id": "13374036366",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "TUCKER COLLEGE",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "MARRYS COLLEGE",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. T. GREETA",
+                    "dob": "31-03-1986",
+                    "date_of_joining": "03-06-2013",
+                    "aicte_id": "12195443020",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "GOVT ARTS COLLEGE FOR WOMEN SALEM",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "THOOTHUKUDI CHRISTIAN COLLEGE",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "9 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. J. JEBA ELIZABETH",
+                    "dob": "13-12-1974",
+                    "date_of_joining": "03-06-2009",
+                    "aicte_id": "1456659905",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "NAZERETH COLLEGE",
+                            "year_of_passing": "1995"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "MARGOSCHIS COLLEGE",
+                            "year_of_passing": "1997"
+                        },
+                        {
+                            "degree": "MPHIL AND SCIENCE",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "13 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. J. VASANTHI",
+                    "dob": "15-07-1977",
+                    "date_of_joining": "26-06-2013",
+                    "aicte_id": "12195467785",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHS",
+                            "college_name": "MEENAKSHI COLLEGE",
+                            "year_of_passing": "1997"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHS",
+                            "college_name": "PACHAIYYAPPAS COLLEGE",
+                            "year_of_passing": "1999"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "9 Years",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

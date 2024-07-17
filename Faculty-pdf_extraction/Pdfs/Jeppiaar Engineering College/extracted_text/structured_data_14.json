@@ -1,0 +1,201 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-Physics",
+            "faculty_members": [
+                {
+                    "name": "DR. G. JAGADEESAN",
+                    "dob": "11-05-1985",
+                    "date_of_joining": "16-07-2014",
+                    "aicte_id": "2404360777",
+                    "phd_thesis_title": "CRYSTAL STRUCTURE AND MOLECULAR DOCKING STUDIES OF SOME BIOLOGICALLY IMPORTANT METHANONE SPIRO PYRROLIDINE PYRAZOLE AND DIAZEPANE DERIVATIVES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "AAA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "AAA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "PHYSICS",
+                            "college_name": "OTHERS-UNIVERSITY OF MADRAS",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "8 Years",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. F. REGAN MARIA SUNDAR RAJ",
+                    "dob": "03-12-1981",
+                    "date_of_joining": "26-08-2009",
+                    "aicte_id": "430243082",
+                    "phd_thesis_title": "INVESTIGATION OF ED BIO WASTE DERIVED MESOPORES CARBON ELECTRODE MATERIAL FOR SUPER CAPACITOR",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "OTHERS-STJOSEPHS COLLEGE",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "OTHERS-STJOSEPHS COLLEGE",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "PHYSICS",
+                            "college_name": "OTHERS-ANNA UNIVERSITY",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "13 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. S R. THILAGAVATHY",
+                    "dob": "08-03-1975",
+                    "date_of_joining": "01-07-2016",
+                    "aicte_id": "3209214320",
+                    "phd_thesis_title": "STUDIES AND CHARACTERIZATION OF ORGANIC NLO CRYSTALS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "OTHERS-BHARATHY WOMENS COLLEGE",
+                            "year_of_passing": "1995"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "OTHERS-QUEEN MARYS COLLEGE",
+                            "year_of_passing": "1997"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "PHYSICS",
+                            "college_name": "OTHERS-BHARATHIAR UNIVERSITY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "14 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. D. SAKTHIVEL",
+                    "dob": "10-06-1989",
+                    "date_of_joining": "03-01-2018",
+                    "aicte_id": "111336271021",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "KAMADHANENU COLLEGE OF ARTS AND SCIENCE",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "AT RH TSE R AS N-K DA SM CIA ED NH CA ENENU COLLEGE OF",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. M. ANITHA",
+                    "dob": "25-02-1986",
+                    "date_of_joining": "03-01-2018",
+                    "aicte_id": "19521856924",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "AUXILLIUM COLLEGE",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "OTHERS-UNIVERSITY OF MADRAS",
+                            "year_of_passing": "2008"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. R. SHARON JENIL",
+                    "dob": "25-05-1995",
+                    "date_of_joining": "03-01-2018",
+                    "aicte_id": "111336148992",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "OTHERS-ANNA ADHARSH",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "MEENAKSHI COLLEGE FOR WOMENS",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

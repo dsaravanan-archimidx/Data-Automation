@@ -1,0 +1,340 @@
+{
+    "faculty_details": [
+        {
+            "department": "Computer Science and Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. A. SAI RAM",
+                    "dob": "11-05-1985",
+                    "date_of_joining": "04-11-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "OPTIMIZING SKYLINE QUERIES USING ADAPTIVE PROPORTIONAL INTEGRAL DERIVATIVE PID FRAMEWORK OVER UNCERTAIN DATASETS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "THIRUMALAI ENGINEERING COLLEGE",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "AMMAN COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "SUNDARANAR UNIVERSITY",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "14 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. M. DHARANI",
+                    "dob": "29-10-1994",
+                    "date_of_joining": "10-11-2020",
+                    "aicte_id": "17900465638",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER AND TECHNOLOGY",
+                            "college_name": "ARUL THARUM VPMM COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "SCIENCE AND ENGINEERING",
+                            "college_name": "VP MUTHAIAH PILLAI MEENAKSHI AMMAL ENGINEERING COLLEGE FOR WOMEN",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. K. LAKSHMI",
+                    "dob": "09-09-1991",
+                    "date_of_joining": "02-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "KARPAGA VINAYAGA COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "KARPAGA VINAYAGA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. P. RAJASEKARAN",
+                    "dob": "07-06-1988",
+                    "date_of_joining": "25-11-2015",
+                    "aicte_id": "17394013400",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "INFORMATION TECHNOLOGY",
+                            "college_name": "KARPAGA VINAYAGA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "KARPAGA VINAYAGA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. M. PAVITHRA",
+                    "dob": "20-01-1993",
+                    "date_of_joining": "06-02-2023",
+                    "aicte_id": "17467613651",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "SRI KRISHNA ENGINEERING COLLEGE",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "SRI KRISHNA ENGINEERING COLLEGE",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. K. PARKAVI",
+                    "dob": "16-05-1987",
+                    "date_of_joining": "17-06-2013",
+                    "aicte_id": "12186289004",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "8 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. G. KARTHIGA",
+                    "dob": "31-12-1990",
+                    "date_of_joining": "06-02-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "KARPAGA VINAYAGA COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "KARPAGA VINAYAGA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. E. RAJESHWARAN",
+                    "dob": "16-06-1991",
+                    "date_of_joining": "06-02-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "ADHIPARASAKTHI ENGINEERING COLLEGE",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "KARPAGA VINAYAGA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. P. JAYALAKSHMI",
+                    "dob": "19-06-1992",
+                    "date_of_joining": "06-02-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "ADHIPARASAKTHI ENGINEERING COLLEGE",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "KARPAGA VINAYAGA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. A. SHAJI",
+                    "dob": "31-05-1991",
+                    "date_of_joining": "06-02-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "VINS CHRISTIAN COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "ST XAVIER'S CATHOLIC COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. R. YOGESH RAJKUMAR",
+                    "dob": "01-07-1984",
+                    "date_of_joining": "06-02-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "ANALYSIS ON EFFECTIVE SECURITY SYSTEM USING MESSAGE STORAGE AND RETRIEVAL IN CLOUD COMPUTING",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "INFORMATION TECHNOLOGY",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "INFORMATION TECHNOLOGY",
+                            "college_name": "SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "BHARATH INSTITUTE OF HIGHER EDUCATION AND RESEARCH",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

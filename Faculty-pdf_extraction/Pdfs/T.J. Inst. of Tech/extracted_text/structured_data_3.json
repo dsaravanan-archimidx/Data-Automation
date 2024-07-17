@@ -1,0 +1,241 @@
+{
+    "faculty_details": [
+        {
+            "department": "Electrical and Electronics Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. Y. PRAKASH",
+                    "dob": "29-11-1972",
+                    "date_of_joining": "19-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "AN EFFICIENT STIMULATED ANNEALING ALGORITHM BASED POWER SYSTEM STABILIZATION",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "1996"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "OTHERS-PRIST UNIVERSITY",
+                            "college_name": "",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "13 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. V V. DHANA SINGH",
+                    "dob": "13-05-1983",
+                    "date_of_joining": "15-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "COIMBATORE INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "OTHERS - EEE",
+                            "college_name": "COIMBATORE INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "-1 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. K. KOVENDAN",
+                    "dob": "17-06-1987",
+                    "date_of_joining": "02-03-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "ADHIPARASAKTHI ENGINEERING COLLEGE",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "POWER ELECTRONICS AND DRIVES",
+                            "college_name": "THANGAVELU ENGINEERING COLLEGE",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. ANANDRAJ",
+                    "dob": "20-02-1987",
+                    "date_of_joining": "30-01-2020",
+                    "aicte_id": "13605142020",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "ANAND INSTITUTE OF HIGHER TECHNOLOGY",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "POWER ELECTRONICS AND DRIVES",
+                            "college_name": "ANAND INSTITUTE OF HIGHER TECHNOLOGY",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "6 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. M. MANIVANNAN",
+                    "dob": "02-06-1984",
+                    "date_of_joining": "23-01-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "J J COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "POWER ELECTRONICS AND DRIVES",
+                            "college_name": "J J COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. K. RUTH",
+                    "dob": "15-06-1980",
+                    "date_of_joining": "02-02-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION",
+                            "college_name": "ANNA UNIVERSITY GUINDY",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "POWER ELECTRONICS AND DRIVES",
+                            "college_name": "THANGAVELU ENGINEERING COLLEGE",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. R. MAGESH KUMAR",
+                    "dob": "15-09-1993",
+                    "date_of_joining": "17-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "R M D ENGINEERING COLLEGE (AUTONOMOUS)",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. L. JAYARAMAN",
+                    "dob": "20-05-1972",
+                    "date_of_joining": "22-08-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "GOVERNMENT COLLEGE OF ENGINEERING SALEM",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "POWER SYSTEMS",
+                            "college_name": "MAHA BARATHI ENGINEERING COLLEGE",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

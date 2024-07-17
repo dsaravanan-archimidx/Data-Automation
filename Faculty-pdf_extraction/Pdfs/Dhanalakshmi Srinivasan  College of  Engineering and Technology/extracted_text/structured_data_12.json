@@ -1,0 +1,282 @@
+{
+    "faculty_details": [
+        {
+            "department": "",
+            "faculty_members": [
+                {
+                    "name": "DR. S. SRIDHAR",
+                    "dob": "04-10-1980",
+                    "date_of_joining": "02-01-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "CRUDE LACCASE BASED BIOREMEDITION ANALYSIS AND ITYS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "LOYOLA COLLEGE",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "B SITH YARATHIDASAN UNIVERSITY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "13 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. D. KAYALVIZHI",
+                    "dob": "25-04-1996",
+                    "date_of_joining": "15-11-2022",
+                    "aicte_id": "43369592871",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "TECHNOLOGY",
+                            "college_name": "GOVERNMENT COLLEGE OF INDUSTRIAL BIO",
+                            "year_of_passing": "2017"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "FOOD TECHNOLOGY",
+                            "college_name": "ALAGAPPA COLLEGE OF TECHNOLOGY",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. M. KAYALVIZHI",
+                    "dob": "07-09-1995",
+                    "date_of_joining": "18-08-2021",
+                    "aicte_id": "9316066486",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "BIOTECHNOLOGY AND TECHNOLOGY",
+                            "college_name": "A C T COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2017"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "FOOD TECHNOLOGY AND TECHNOLOGY",
+                            "college_name": "A C T COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. V. ANITHA",
+                    "dob": "19-08-1993",
+                    "date_of_joining": "20-07-2022",
+                    "aicte_id": "43369592737",
+                    "phd_thesis_title": "LACTUCAXANTHIN MEDIATED MODULATION OF OXIDATIVE STRESS AND RETINAL ANGIOGENESIS IN HYPERGLYCEMIA INDUCED ARPE19 CELL LINE AND RAT MODELS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "AGRICULTURAL AND IRRIGATION ENGINEERING",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "FOOD SCIENCE",
+                            "college_name": "CSIR CENTRAL FOOD TECHNOLOGICAL RESEARCH INSTITUTE",
+                            "year_of_passing": "2017"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "FOOD TECHNOLOGY",
+                            "college_name": "CSIR CENTRAL FOOD TECHNOLOGICAL RESEARCH INSTITUTE",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. D. SANTHANA LAKSHMI",
+                    "dob": "25-10-1996",
+                    "date_of_joining": "01-06-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "ST PETER'S COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2018"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "FOOD TECHNOLOGY",
+                            "college_name": "ALAGAPPA COLLEGE OF TECHNOLOGY",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. R. PRATHIBA",
+                    "dob": "17-06-1994",
+                    "date_of_joining": "02-01-2020",
+                    "aicte_id": "7527787335",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "RAJALAKSHMI ENGINEERING COLLEGE (AUTONOMOUS)",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "SASTRA UNIVERSITY",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. A. ARUNA",
+                    "dob": "31-07-1996",
+                    "date_of_joining": "01-02-2022",
+                    "aicte_id": "9478848789",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2017"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "",
+                            "college_name": "SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. S. SOBANA",
+                    "dob": "11-09-1992",
+                    "date_of_joining": "29-08-2022",
+                    "aicte_id": "43369592711",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "ANDAL ALAGAR COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "KARPAGA VINAYAGA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. KATHIRVELU. THEJESH",
+                    "dob": "22-05-1997",
+                    "date_of_joining": "18-08-2021",
+                    "aicte_id": "11447817929",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "CHEMICAL ENGINEERING",
+                            "college_name": "SATHYABAMA INSTITUTE OF SCIENCE AND TECHNOLOGY",
+                            "year_of_passing": "2019"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "FOOD TECHNOLOGY",
+                            "college_name": "ALAGAPPA COLLEGE OF TECHNOLOGY",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

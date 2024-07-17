@@ -1,0 +1,363 @@
+{
+    "faculty_details": [
+        {
+            "department": "Electronics and Communication Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. B. GOWRI SANKARAN",
+                    "dob": "30-05-1980",
+                    "date_of_joining": "16-12-2020",
+                    "aicte_id": " ",
+                    "phd_thesis_title": "A MULTIRESOLUTION ANALYSIS FOR GRAPHICAL COLOR IMAGE AND COMPRESSION USING HYBRID TRANSFORM",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS AND COMMUNICATION",
+                            "college_name": "VELAMMAL ENGINEERING COLLEGE (AUTONOMOUS)",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "APPLIED ELECTRONICS",
+                            "college_name": "DR MGR UNIVERSITY",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "HIGHER EDUCATION AND RESEARCH",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "18 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. P. SRIDEVI",
+                    "dob": "26-04-1980",
+                    "date_of_joining": "06-05-2016",
+                    "aicte_id": " ",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS AND COMMUNICATION",
+                            "college_name": "ENGINEERING COLLEGE",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "SYSTEMS",
+                            "college_name": "ANNA UNIVESITY REGIONAL CAMPUS,TIRUCHIRAPPALLI",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "15 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. K. LOGESWARI",
+                    "dob": "17-08-1995",
+                    "date_of_joining": "05-11-2020",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS AND COMMUNICATION",
+                            "college_name": "ENGINEERING COLLEGE",
+                            "year_of_passing": "2018"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "VLSI DESIGN",
+                            "college_name": "ENGINEERING COLLEGE",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. V R. YAMINI",
+                    "dob": "13-10-1991",
+                    "date_of_joining": "23-12-2019",
+                    "aicte_id": " ",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS AND COMMUNICATION",
+                            "college_name": "ANNAI TERESA COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "EMBEDDED SYSTEM TECHNOLOGIES",
+                            "college_name": "KRISHNASAMY COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. A. MOHANA",
+                    "dob": "18-10-1987",
+                    "date_of_joining": "02-12-2019",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS AND COMMUNICATION",
+                            "college_name": "T J INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "VLSI DESIGN",
+                            "college_name": "ENGINEERING COLLEGE",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. S. JAYASHREE",
+                    "dob": "22-07-1986",
+                    "date_of_joining": "05-07-2012",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS AND COMMUNICATION",
+                            "college_name": "VELS SRINIVASA ENGINEERING COLLEGE",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "VLSI DESIGN TECHNOLOGY",
+                            "college_name": "K C G COLLEGE OF TECHNOLOGY (AUTONOMOUS)",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "10 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. S. PRAVEENA",
+                    "dob": "04-12-1984",
+                    "date_of_joining": "18-06-2008",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS AND COMMUNICATION",
+                            "college_name": "AVIT",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "APPLIED ELECTRONICS",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "14 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. V. SURIYAKALA",
+                    "dob": "19-11-1983",
+                    "date_of_joining": "03-11-2016",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS AND COMMUNICATION",
+                            "college_name": "ST PETER'S COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "APPLIED ELECTRONICS",
+                            "college_name": "ST PETERS UNIVERSITY",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. A. SUGUNAPRIYA",
+                    "dob": "14-09-1985",
+                    "date_of_joining": "08-07-2019",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS AND COMMUNICATION",
+                            "college_name": "ARUNAI ENGINEERING COLLEGE",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "APPLIED ELECTRONICS",
+                            "college_name": "GOVERNMENT INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "6 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. R. KEERTHANA",
+                    "dob": "19-05-1996",
+                    "date_of_joining": "21-04-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS AND COMMUNICATION",
+                            "college_name": "SRI RAMANUJAR ENGINEERING COLLEGE",
+                            "year_of_passing": "2017"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "SRI RAMANUJAR ENGINEERING COLLEGE",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. V. VAISHALI",
+                    "dob": "10-08-1985",
+                    "date_of_joining": "16-05-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS AND COMMUNICATION",
+                            "college_name": "SRI RAMANUJAR ENGINEERING COLLEGE",
+                            "year_of_passing": "2018"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "VLSI DESIGN",
+                            "college_name": "ENGINEERING COLLEGE",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. RAVIKUMAR. DEEBIGAI",
+                    "dob": "20-02-1987",
+                    "date_of_joining": "03-12-2020",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS AND COMMUNICATION",
+                            "college_name": "SRI RAMANUJAR ENGINEERING COLLEGE",
+                            "year_of_passing": "2018"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "VLSI DESIGN",
+                            "college_name": "ENGINEERING COLLEGE",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

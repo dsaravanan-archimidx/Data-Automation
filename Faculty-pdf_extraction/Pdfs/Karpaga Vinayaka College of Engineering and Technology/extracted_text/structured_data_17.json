@@ -1,0 +1,78 @@
+{
+    "faculty_details": [
+        {
+            "department": "MECHANICAL",
+            "faculty_members": [
+                {
+                    "name": "DR. S. DINESH KUMAR",
+                    "dob": "03-04-1980",
+                    "date_of_joining": "14-06-2013",
+                    "aicte_id": "19524583049",
+                    "phd_thesis_title": "ESTIMATION OF SURFACE ROUGHNESS MEASUREMENT FOR MACHINED COMPONENTS USING MACHINE VISION SYSTEM AND ANN",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "RAJARAJESWARI ENGINEERING COLLEGE",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "CAD/CAM",
+                            "college_name": "OTHERS-ST PETERS ENGINEERING COLLEGE",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": "ENGINEERING",
+                            "college_name": "OTHERS-CMJ UNIVERSITY",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "17 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "MECHANICAL",
+            "faculty_members": [
+                {
+                    "name": "MR. A. AJITHRAM",
+                    "dob": "11-04-1996",
+                    "date_of_joining": "10-08-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "GOVERNMENT COLLEGE OF TECHNOLOGY COIMBATORE",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "DESIGN",
+                            "college_name": "OTHERS-ANNA UNIVERSITY",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

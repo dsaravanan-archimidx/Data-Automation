@@ -1,0 +1,183 @@
+{
+    "faculty_details": [
+        {
+            "department": "Mathematics",
+            "faculty_members": [
+                {
+                    "name": "MR. P. BALAKRISHNAN",
+                    "dob": "29-04-1981",
+                    "date_of_joining": "22-06-2011",
+                    "aicte_id": "716395072",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2002",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHS",
+                            "college_name": "COLLEGE OF ARTS AND SCIENCE",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHS",
+                            "college_name": "KAMARAJ UNIVERSITY",
+                            "year_of_passing": "2004"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "11 Years",
+                            "previous_position": "7 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. P K. SARAVANAN",
+                    "dob": "10-12-1984",
+                    "date_of_joining": "01-09-2010",
+                    "aicte_id": "470119754",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2005",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHS",
+                            "college_name": "KAMARAJ UNIVERSITY",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHS",
+                            "college_name": "HUSSAIN COLLEGE",
+                            "year_of_passing": "2007"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "12 Years",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. N. SUGANYA",
+                    "dob": "08-07-1984",
+                    "date_of_joining": "04-06-2014",
+                    "aicte_id": "12671739593",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2004",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHS",
+                            "college_name": "RAMASWAMY COLLEGE",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHS",
+                            "college_name": "RAMASWAMY COLLEGE",
+                            "year_of_passing": "2006"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "8 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. G. RADHA",
+                    "dob": "06-03-1980",
+                    "date_of_joining": "03-12-2018",
+                    "aicte_id": "43374468264",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2000",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2000"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "ARTS AND SCIENCE",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "2002"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. L. RAMESH",
+                    "dob": "05-03-1986",
+                    "date_of_joining": "22-11-2022",
+                    "aicte_id": "13543732754",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2010",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "ARTS AND SCIENCE",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. B. ANJANA DEVI",
+                    "dob": "02-06-1977",
+                    "date_of_joining": "05-12-2019",
+                    "aicte_id": "7490730855",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "1998",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "COLLEGE FOR WOMEN",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "COLLEGE FOR WOMEN",
+                            "year_of_passing": "2000"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

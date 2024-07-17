@@ -1,0 +1,254 @@
+{
+    "faculty_details": [
+        {
+            "department": "Mathematics",
+            "faculty_members": [
+                {
+                    "name": "DR. G. BALAJI",
+                    "dob": "20-04-1966",
+                    "date_of_joining": "05-09-1995",
+                    "aicte_id": "1437163583",
+                    "phd_thesis_title": "WEIGHTED COMPOSITION OPERATORS ON LORENTZ SPACES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - MATHEMATICS",
+                            "college_name": "GOVT ARTS COLLEGE",
+                            "year_of_passing": "1987"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "GOVT ARTS COLLEGE",
+                            "year_of_passing": "1989"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "29 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. A. VENKATESAN",
+                    "dob": "16-05-1985",
+                    "date_of_joining": "15-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "INDUSTRIES MATHS",
+                            "college_name": "GOVT ARTS AND SCIENCE COLLEGE",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHS",
+                            "college_name": "GOVT ARTS AND SCIENCE COLLEGE",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "MATHS",
+                            "college_name": "GOVT ARTS AND SCIENCE COLLEGE",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. S. MOORTHY",
+                    "dob": "09-05-1987",
+                    "date_of_joining": "15-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "SOME CONTRIBUTION ON HYERS ULAM RASSIAS STABILITY OF FRACTIONAL DIFFERENTIAL EQUATIONS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHS",
+                            "college_name": "SACRED HEART COLLEGE",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHS",
+                            "college_name": "SACRED HEART COLLEGE",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "MATHS",
+                            "college_name": "PERIYAR UNIVERSITY",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. M. ELUMALAI",
+                    "dob": "13-06-1980",
+                    "date_of_joining": "10-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "PERIYAR UNIVERSITY",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "PERIYAR UNIVERSITY",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "PERIYAR UNIVERSITY",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. R. NITHYA",
+                    "dob": "01-06-1985",
+                    "date_of_joining": "22-01-2018",
+                    "aicte_id": "14644149234",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHS",
+                            "college_name": "SIET",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHS",
+                            "college_name": "VELS UNIVERSITY",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. R. RAGHU",
+                    "dob": "10-05-1989",
+                    "date_of_joining": "10-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHS",
+                            "college_name": "RV GOVT ARTS COLLEGE",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHS",
+                            "college_name": "SIVET COLLEGE",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "MATHS",
+                            "college_name": "PRESIDENCY MATHEMATICS COLLEGE",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. U. KALPANA",
+                    "dob": "26-07-1984",
+                    "date_of_joining": "08-12-2010",
+                    "aicte_id": "1435772721",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "PACHAYAPPAS COLLEGE FOR WOMEN",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "PACHAYAPPAS COLLEGE FOR WOMEN",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "PACHAYAPPAS UNIVERSITY",
+                            "year_of_passing": "2008"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "12 Years",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

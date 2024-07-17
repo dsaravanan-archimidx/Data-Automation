@@ -1,0 +1,289 @@
+{
+    "faculty_details": [
+        {
+            "department": "Computer Science",
+            "faculty_members": [
+                {
+                    "name": "MR. GA. SENTHIL",
+                    "dob": "28-05-1970",
+                    "date_of_joining": "03-08-2022",
+                    "aicte_id": "17443468838",
+                    "phd_thesis_title": "AN ENHANCED ENERGY EFFICIENT CLUSTER BASED ROUTING USING HYBRID PARTICLE SWARM OPTIMIZATION FOR IOT SENSOR NETWORKS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Computer Science and Engineering",
+                            "college_name": "INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "1997"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "Information Technology",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "Information Science and Technology",
+                            "college_name": "ADVANCED STUDIES",
+                            "year_of_passing": "2022"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "26 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. S. GEERTHIK",
+                    "dob": "21-03-1988",
+                    "date_of_joining": "26-07-2021",
+                    "aicte_id": "17369451716",
+                    "phd_thesis_title": "A NOVEL APPROACH FOR POSITIONING THE USER ANSWERS AND EXPERT IDENTIFICATION IN COMMUNITY QUESTION ANSWERING SYSTEM",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Computer Science and Engineering",
+                            "college_name": "COLLEGE (AUTONOMOUS)",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Computer Science and Engineering",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "Computer Science and Engineering",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "10 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. V. SABARESAN",
+                    "dob": "19-03-1988",
+                    "date_of_joining": "04-06-2012",
+                    "aicte_id": " ",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "Information Technology",
+                            "college_name": "ENGINEERING COLLEGE",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "Information Technology",
+                            "college_name": "REGIONAL CAMPUS",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "Information Technology",
+                            "college_name": "COIMBATORE",
+                            "year_of_passing": " "
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "10 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. G. LAKSHMI PRIYA",
+                    "dob": "11-06-1988",
+                    "date_of_joining": "27-07-2022",
+                    "aicte_id": "4770849243",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "Information Technology",
+                            "college_name": "ENGINEERING COLLEGE",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Computer Science and Engineering",
+                            "college_name": "AND ENGINEERING",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "Computer Science and Engineering",
+                            "college_name": "ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": " "
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. K. SEETHA",
+                    "dob": "15-04-1990",
+                    "date_of_joining": "06-01-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Information Technology",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Computer Science and Engineering",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "Computer Science and Engineering",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": " "
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. S. NIROSHA",
+                    "dob": "12-01-1990",
+                    "date_of_joining": "06-01-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Computer Science and Engineering",
+                            "college_name": "ENGINEERING COLLEGE",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Computer Science and Engineering",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "Computer Science and Engineering",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": " "
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. R. VIDHYA",
+                    "dob": "14-11-1985",
+                    "date_of_joining": "28-06-2011",
+                    "aicte_id": " ",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Computer Science and Engineering",
+                            "college_name": "KALASALINGAM COLLENGE OF ENGINEERING",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Computer Science and Engineering",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "Computer Science and Engineering",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": " "
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "11 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. P. SUGANTHI",
+                    "dob": "07-06-1981",
+                    "date_of_joining": "02-06-2014",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "Information Technology",
+                            "college_name": "ENGINEERING COLLEGE",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "VLSI Design",
+                            "college_name": "COLLEGE (AUTONOMOUS)",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": " ",
+                            "college_name": " ",
+                            "year_of_passing": " "
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "8 Years",
+                            "previous_position": "7 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

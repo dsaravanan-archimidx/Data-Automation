@@ -1,0 +1,254 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-English",
+            "faculty_members": [
+                {
+                    "name": "DR. JOHN. ANOOJA",
+                    "dob": "27-03-1980",
+                    "date_of_joining": "01-09-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "COMMUNICATIVE COMPETENCY IN ENGLISHAN EXAMINATION OF ITS PROBLEMS AND POSSIBLE SOLUTIONS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "STELLA MARIS COLLEGE",
+                            "year_of_passing": "2000"
+                        },
+                        {
+                            "degree": "M.A",
+                            "specialization": "ENGLISH",
+                            "college_name": "STELLA MARIS COLLEGE",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "ENGLISH",
+                            "college_name": "DRAVIDIAN UNIVERSITY",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "7 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. M. KAMESH",
+                    "dob": "28-09-1994",
+                    "date_of_joining": "06-07-2017",
+                    "aicte_id": "OTHERS",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "PRESIDENCY COLLEGE",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "M.A",
+                            "specialization": "ENGLISH",
+                            "college_name": "ST PETERS INSTITUTE OF HIGHER EDUCATION",
+                            "year_of_passing": "2017"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "ENGLISH",
+                            "college_name": "AVC COLLEGE",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. A. SANGEETHA",
+                    "dob": "10-05-1983",
+                    "date_of_joining": "04-01-2018",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "MCE",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "MA",
+                            "specialization": "ENGLISH",
+                            "college_name": "GOVERNMENT COLLEGE",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "ENGLISH",
+                            "college_name": "UNIVERSITY OF MADRAS",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. M. PRISCILLA",
+                    "dob": "19-12-1992",
+                    "date_of_joining": "08-03-2021",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "UNIVERSITY OF MADRAS",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "MA",
+                            "specialization": "ENGLISH",
+                            "college_name": "MOTHER THERESA UNIVERSITY",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "ENGLISH",
+                            "college_name": "ETHIRAJ COLLEGE FOR WOMEN",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. L G. SUKANYA",
+                    "dob": "15-06-1991",
+                    "date_of_joining": "06-03-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "ST XAVIERS COLLEGE",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "MA",
+                            "specialization": "ENGLISH",
+                            "college_name": "ST XAVIERS COLLEGE",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "ENGLISH",
+                            "college_name": "THIRUVALLUVAR UNIVERSITY",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. V. VEDHACHALAM",
+                    "dob": "13-06-1983",
+                    "date_of_joining": "01-07-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "MA",
+                            "specialization": "ENGLISH",
+                            "college_name": "THIRUVALLUVAR UNIVERSITY",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "ENGLISH",
+                            "college_name": "OTHERS",
+                            "year_of_passing": "OTHERS"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. M B. ANITHA",
+                    "dob": "29-02-1980",
+                    "date_of_joining": "15-07-2010",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "UNIVERSITY OF MADRAS",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "MA",
+                            "specialization": "ENGLISH",
+                            "college_name": "PRESIDENCY COLLEGE",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "ENGLISH",
+                            "college_name": "QUEEN MARYS COLLEGE",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "12 Years",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

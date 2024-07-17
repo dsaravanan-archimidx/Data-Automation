@@ -1,0 +1,317 @@
+{
+    "faculty_details": [
+        {
+            "department": "MECHANICAL",
+            "faculty_members": [
+                {
+                    "name": "DR. M. KOILRAJ",
+                    "dob": "20-07-1971",
+                    "date_of_joining": "06-02-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "FRICTION STIR WELDING OF DISSIMILAR ALUMINIUM ALLOYS2219",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "KARUNYA INSTITUTE OF TECHNOLOGY, COIMBATORE",
+                            "year_of_passing": "1993"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "IIT MADRAS, CHENNAI",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "ANNA UNIVERSITY, CHENNAI",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "21 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. T. RAJESH BABU",
+                    "dob": "09-03-1984",
+                    "date_of_joining": "14-12-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "STUDIES ON WELDING OF POWDER METALLURGICALLY MANUFACTURED BORATED STAINLESS STEEL 304B",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "NAGARJUNA UNIVERSITY",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "MANUFACTURING ENGINEERING",
+                            "college_name": "CEG CAMPUS",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "CEG CAMPUS",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "8 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "MECHANICAL",
+            "faculty_members": [
+                {
+                    "name": "MR. R. PRAVEEN",
+                    "dob": "23-08-1990",
+                    "date_of_joining": "04-01-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "COMBUSTION",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING AND TECHNOLOGY(AUTONOMOUS)",
+                            "college_name": "HINDUSTHAN COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMBUSTION ENGINEERING",
+                            "college_name": "SRI VENKATESWARA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "MECHANICAL",
+            "faculty_members": [
+                {
+                    "name": "MRS. V. PRABAVATHI",
+                    "dob": "10-04-1996",
+                    "date_of_joining": "09-06-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "INDUSTRIAL SAFETY",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING TECHNOLOGY (AUTONOMOUS)",
+                            "college_name": "K S RANGASAMY COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2017"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "INDUSTRIAL SAFETY ENGINEERING",
+                            "college_name": "ARULMURUGAN COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "ELECTRONICS",
+            "faculty_members": [
+                {
+                    "name": "MRS. C. PRIYANKA",
+                    "dob": "06-07-1986",
+                    "date_of_joining": "01-02-2021",
+                    "aicte_id": "19525104228",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "ELECTRONICS AND COMMUNICATION",
+                            "college_name": "JNTU ANANTHAPUR",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "MECHATRONICS",
+                            "college_name": "VIT UNIVERSITY",
+                            "year_of_passing": "2009"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "6 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "AUTOMOBILE",
+            "faculty_members": [
+                {
+                    "name": "MR. C. HARIHARAN",
+                    "dob": "20-02-1997",
+                    "date_of_joining": "10-08-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "AUTOMOBILE ENGINEERING",
+                            "college_name": "KARPAGA VINAYAGA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2018"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "MANUFACTURING ENGINEERING",
+                            "college_name": "KARPAGA VINAYAGA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "ELECTRICAL",
+            "faculty_members": [
+                {
+                    "name": "MR. P. RAMESH P",
+                    "dob": "13-06-1984",
+                    "date_of_joining": "01-03-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS ENGINEERING",
+                            "college_name": "TAMIZHAN COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "POWER ELECTRONICS AND DRIVES ENGINEERING",
+                            "college_name": "TAMIZHAN COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "ELECTRONICS",
+            "faculty_members": [
+                {
+                    "name": "MS. CATHERIN. JENIFER PON",
+                    "dob": "11-12-1991",
+                    "date_of_joining": "15-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "KARUNYA UNIVERSITY",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "INFOMATION AND COMMUNICATION TECHNOLOGY",
+                            "college_name": "PSNA COLLEGE OF ENGINEERING AND TECHNOLOGY (AUTONOMOUS)",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "ELECTRONICS",
+            "faculty_members": [
+                {
+                    "name": "MRS. P. SUVATHI",
+                    "dob": "14-05-1996",
+                    "date_of_joining": "08-02-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "ADHIPARASAKTHI ENGINEERING COLLEGE",
+                            "year_of_passing": "2017"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "EMBEDDED SYSTEM TECHNOLOGIES",
+                            "college_name": "KARPAGA VINAYAGA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

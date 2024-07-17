@@ -1,0 +1,79 @@
+{
+    "faculty_details": [
+        {
+            "department": "Structural Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. HAQUE. MOHAMED ADIL",
+                    "dob": "14-10-1980",
+                    "date_of_joining": "01-06-2019",
+                    "aicte_id": "17373849675",
+                    "phd_thesis_title": "DYNAMICS CHARACTERISTICS AND STABILITY ANALYSIS OF MUNICIPAL SOLID WASTE IN BIOREACTOR LANDFILLS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "CIVIL ENGINEERING",
+                            "college_name": "SRM ENGINEERING COLLEGE",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "MS",
+                            "specialization": "ENGINEERING",
+                            "college_name": "UNIVERSITY OF TEXAS ARLINGTON",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CIVIL ENGINEERING",
+                            "college_name": "UNIVERSITY OF TEXAS ARLINGTON",
+                            "year_of_passing": "2007"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "8 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. B. RIZHA UR RAHMAN",
+                    "dob": "24-11-1991",
+                    "date_of_joining": "07-01-2016",
+                    "aicte_id": "13206231619",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "CIVIL ENGINEERING",
+                            "college_name": "M A R COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "STRUCTURAL ENGINEERING",
+                            "college_name": "MOHAMED SATHAK ENGINEERING COLLEGE",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": " ",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

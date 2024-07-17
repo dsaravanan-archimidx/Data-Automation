@@ -1,0 +1,96 @@
+{
+    "faculty_details": [
+        {
+            "department": "Computer Science and Business Systems",
+            "faculty_members": [
+                {
+                    "name": "MR. D. ANAND JOSEPH",
+                    "dob": "07-07-1983",
+                    "date_of_joining": "28-06-2010",
+                    "aicte_id": "AICTE ID: Previous",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "SCIENCE AND ENGINEERING TECHNOLOGY",
+                            "college_name": "ANAND INSTITUTE OF HIGHER ENGINEERING",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "SCIENCE AND ENGINEERING TECHNOLOGY(AUTONOMOUS)",
+                            "college_name": "HINDUSTHAN COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2009"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "Current 12 Years",
+                            "previous_position": "Previous 2 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. J. RAMYA",
+                    "dob": "19-04-1989",
+                    "date_of_joining": "01-07-2022",
+                    "aicte_id": "AICTE ID: AU1",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "SCIENCE AND ENGINEERING",
+                            "college_name": "SRI BALAJI ENGINEERING COLLEGE",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "SCIENCE AND ENGINEERING",
+                            "college_name": "SHRI ANDAL ALAGAR COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "Current 0 Years",
+                            "previous_position": "Previous 0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. T. BEULAH S VEERASAMY",
+                    "dob": "17-04-1986",
+                    "date_of_joining": "07-12-2022",
+                    "aicte_id": "AICTE ID: AU1",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH",
+                            "specialization": "INFORMATION TECHNOLOGY",
+                            "college_name": "CHETTIAR COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "SCIENCE AND ENGINEERING",
+                            "college_name": "PET ENGINEERING COLLEGE",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "Current 0 Years",
+                            "previous_position": "Previous 4 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

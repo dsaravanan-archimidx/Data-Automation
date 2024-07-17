@@ -1,0 +1,154 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-English",
+            "faculty_members": [
+                {
+                    "name": "DR. U. VENKATESWARA",
+                    "dob": "29-03-1979",
+                    "date_of_joining": "03-02-2009",
+                    "aicte_id": "1453406225",
+                    "phd_thesis_title": "DEVELOPING THE SPEAKING SKILLS OF THE ENGINEERING STUDENTS IN THE ENGLISH CLASS ROOM",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "RKM VIVENKANDA COLLEGE",
+                            "year_of_passing": "1999"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "ENGLISH",
+                            "college_name": "PRESIDENCY COLLEGE",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ENGLISH",
+                            "college_name": "COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "19 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. S. SARAYU PRIYADHARSHINI",
+                    "dob": "19-05-1992",
+                    "date_of_joining": "10-11-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "UNIVERSITY OF MADRAS",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "ENGLISH",
+                            "college_name": "ENGLISH MOTHER THERESA WOMENS",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. P. PRIYADHARSHINI",
+                    "dob": "06-07-1996",
+                    "date_of_joining": "01-04-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "PORTRAYAL OF WOMEN IN THE SELECT WORKS OF NAMITA GOKHALE",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "SRI SARADHA MAHAVIDYALAYAM ARTS AND SCIENCE COLLEGE FOR WOMEN",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. A. SATHIYA JOTHI",
+                    "dob": "15-10-1988",
+                    "date_of_joining": "03-08-2015",
+                    "aicte_id": "12913330537",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "FOTHR WR OSM-Q EU NEEN MARYS COLLEGE",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "7 Years",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. K. ABINAYA",
+                    "dob": "01-11-1991",
+                    "date_of_joining": "08-11-2021",
+                    "aicte_id": "10798124931",
+                    "phd_thesis_title": "TEACHING ENGLISH THROUGH NEUROLINGUISTIC PROGRAMMING AN EXPERIMENTAL STUDY WITH SECONDARY SCHOOL TEACHERS IN CUDDALORE DISTRICT TAMILNADU",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "CAUVERY COLLEGE FOR WOMEN",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "BHARATHIAR UNIVERSITY",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ENGLISH",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

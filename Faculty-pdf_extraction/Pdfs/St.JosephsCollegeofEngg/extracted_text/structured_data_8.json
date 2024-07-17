@@ -1,0 +1,381 @@
+{
+    "faculty_details": [
+        {
+            "department": "Computer Science",
+            "faculty_members": [
+                {
+                    "name": "DR. J. RAMYA",
+                    "dob": "07-04-1976",
+                    "date_of_joining": "16-01-2004",
+                    "aicte_id": "3358594628",
+                    "phd_thesis_title": "AN ADAPTIVE DIGITIZATION OF TAMIL PALM LEAF HISTORICAL DOCUMENTS USING SLIDING WINDOW SEGMENTATION AND MACHINE LEARNING CHARACTER RECOGNITION",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "VVV COLLEGE",
+                            "year_of_passing": "1996"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ENGINEERING",
+                            "college_name": "ST JOSEPHS COLLEGE OF COMPUTER SCIENCE",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ENGINEERING",
+                            "college_name": "JNTU HYDERABAD",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "19 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. B. UMA MAHESWARI",
+                    "dob": "02-04-1975",
+                    "date_of_joining": "27-05-2002",
+                    "aicte_id": "7352634548",
+                    "phd_thesis_title": "MACHINE LEARNING BASED APPROACHES FOR TESTING GRAPHICAL USER INTERFACES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "ADM COLLEGE FOR WOMEN",
+                            "year_of_passing": "1995"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ENGINEERING",
+                            "college_name": "ENGINEERING GUINDY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "19 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. F. SANGEETHA FRANCELIN",
+                    "dob": "16-05-1982",
+                    "date_of_joining": "01-06-2011",
+                    "aicte_id": "454572897",
+                    "phd_thesis_title": "ROUTING AND SERIES OF COLLISIONS AVOIDANCE IN VANET USING TRAFFIC LINK STABILITY PREDICTION METHOD",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "SRM INSTITUTE OF SCIENCE AND TECHNOLOGY",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ENGINEERING",
+                            "college_name": "M S UNIVERSITY",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "11 Years",
+                            "previous_position": "6 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. MP. RAJAKUMAR",
+                    "dob": "05-06-1978",
+                    "date_of_joining": "13-09-2016",
+                    "aicte_id": "2642381941",
+                    "phd_thesis_title": "AN INTELLIGENT ADAPTIVE ECONOMIC SYSTEM USING SOFT COMPUTING TECHNIQUES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "MADURAI KAMARAJ UNIVERSITY",
+                            "year_of_passing": "2000"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "SCIENCE AND TECHNOLOGY",
+                            "college_name": "SATHYABAMA INSTITUTE OF SCIENCE AND TECHNOLOGY",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "SCIENCE AND ENGINEERING",
+                            "college_name": "SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "16 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. S. SATHIYAVATHI",
+                    "dob": "15-01-1990",
+                    "date_of_joining": "02-01-2023",
+                    "aicte_id": "433456477513",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "INFORMATION TECHNOLOGY",
+                            "college_name": "DR PAULS ENGINEERING COLLEGE",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "SCIENCE AND ENGINEERING",
+                            "college_name": "ANNA UNIVESITY REGIONAL CAMPUS, TIRUCHIRAPPALLI",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. PN. JEIPRATHA",
+                    "dob": "31-12-1987",
+                    "date_of_joining": "24-08-2009",
+                    "aicte_id": "454572941",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "SCIENCE AND ENGINEERING",
+                            "college_name": "AMRITA COLLEGE OF SCIENCE AND ENGINEERING",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "SCIENCE AND ENGINEERING",
+                            "college_name": "SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "11 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. K. NARMATHA",
+                    "dob": "18-03-1990",
+                    "date_of_joining": "01-02-2023",
+                    "aicte_id": "4850521700",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "TECHNOLOGY",
+                            "college_name": "SNS COLLEGE OF TECHNOLOGY",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "SYSTEMS ENGINEERING",
+                            "college_name": "KUMARAGURU COLLEGE OF EMBEDDED SYSTEMS",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "8 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. P. VARUN",
+                    "dob": "26-05-1985",
+                    "date_of_joining": "13-06-2012",
+                    "aicte_id": "1417564143",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "INFORMATION TECHNOLOGY",
+                            "college_name": "OTHERS-EVP ENGINEERING COLLEGE",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "INFORMATION TECHNOLOGY",
+                            "college_name": "SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "10 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. S. JANANI",
+                    "dob": "02-07-1988",
+                    "date_of_joining": "02-08-2017",
+                    "aicte_id": "3579006643",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "THIRUMALAI ENGINEERING COLLEGE",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ENGINEERING",
+                            "college_name": "ST JOSEPHS COLLEGE OF COMPUTER SCIENCE",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. VINU",
+                    "dob": "30-03-1991",
+                    "date_of_joining": "23-07-2014",
+                    "aicte_id": "2187757817",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "THEIVANNAI AMMAL WOMENS COLLEGE",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ENGINEERING",
+                            "college_name": "ST JOSEPHS COLLEGE OF COMPUTER SCIENCE",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "8 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. K. SUDHA",
+                    "dob": "25-07-1978",
+                    "date_of_joining": "01-07-2007",
+                    "aicte_id": "3358594534",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "THEIVANNAI AMMAL WOMENS COLLEGE",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ENGINEERING",
+                            "college_name": "ST JOSEPHS COLLEGE OF COMPUTER SCIENCE",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.C.A.",
+                            "specialization": "COMPUTER APPLICATIONS",
+                            "college_name": "THEIVANNAI AMMAL WOMENS COLLEGE",
+                            "year_of_passing": "2001"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "14 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. T. JENITHA",
+                    "dob": "01-07-1989",
+                    "date_of_joining": "01-08-2022",
+                    "aicte_id": "43356289179",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "SAPTHAGIRI COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "ARCHANA INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

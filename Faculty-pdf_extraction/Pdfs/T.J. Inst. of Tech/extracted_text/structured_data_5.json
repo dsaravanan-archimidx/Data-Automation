@@ -1,0 +1,299 @@
+{
+    "faculty_details": [
+        {
+            "department": "General Engineering",
+            "faculty_members": [
+                {
+                    "name": "MR. M. MUNI KALI PAVAN",
+                    "dob": "02-06-1990",
+                    "date_of_joining": "23-11-2020",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "RAMANAMMA ENGINEERING COLLEGE",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "MANUFACTURING TECHNOLOGY",
+                            "college_name": "INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. R. RAMNATH",
+                    "dob": "14-09-1988",
+                    "date_of_joining": "01-03-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "CAD/CAM",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. G. JAGADEESAN",
+                    "dob": "21-06-1982",
+                    "date_of_joining": "02-02-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "COLLEGE OF ENGG",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ENGINEERING SYSTEMS",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. PRAKASH",
+                    "dob": "20-06-1989",
+                    "date_of_joining": "19-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "MANUFACTURING ENGINEERING",
+                            "college_name": "ALAGAR COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. P. VIMALRAJKUMAR",
+                    "dob": "15-03-1989",
+                    "date_of_joining": "15-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "SETHU INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "APPLIED ELECTRONICS",
+                            "college_name": "JAIN ENGINEERING COLLEGE",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. E. VISWANATHAN",
+                    "dob": "17-12-1994",
+                    "date_of_joining": "17-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS AND ELECTRONICS ENGINEERING",
+                            "college_name": "KARPAGA VINAYAGA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "KARPAGA VINAYAGA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. P. SUDHA",
+                    "dob": "23-02-1992",
+                    "date_of_joining": "15-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "INSTRUMENTATION ENGINEERING",
+                            "college_name": "ANAND INSTITUTE OF HIGHER TECHNOLOGY",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "APPLIED ELECTRONICS",
+                            "college_name": "ANNA UNIVERSITY CEG CAMPUS",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. C. DHATCHANAMOORTHY",
+                    "dob": "03-05-1993",
+                    "date_of_joining": "05-05-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "GOVERNMENT VILLUPURAM",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "THERMAL ENGINEERING",
+                            "college_name": "GOVERNMENT COLLEGE OF ENGINEERING SALEM",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. T. POOVENTHAN",
+                    "dob": "10-06-1991",
+                    "date_of_joining": "01-03-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MANUFACTURING ENGINEERING",
+                            "college_name": "ADHIPARASAKTHI COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "MANUFACTURING ENGINEERING",
+                            "college_name": "ADHIPARASAKTHI COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. NANDHAKUMAR",
+                    "dob": "21-07-1991",
+                    "date_of_joining": "15-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+                            "college_name": "MAHENDRA ENGINEERING COLLEGE",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ELECTRONICS AND POWER ELECTRONICS",
+                            "college_name": "NAGARATHNAM COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

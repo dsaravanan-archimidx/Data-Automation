@@ -1,0 +1,154 @@
+{
+    "faculty_details": [
+        {
+            "department": "General Engineering",
+            "faculty_members": [
+                {
+                    "name": "MR. P. SANTHAKUMAR",
+                    "dob": "02-09-1991",
+                    "date_of_joining": "12-11-2018",
+                    "aicte_id": "ADHI COLLEGE OF ENGINEERING",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2013",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ENGINEERING AND DESIGN TECHNOLOGY",
+                            "college_name": "",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. R. DILIP KUMAR",
+                    "dob": "06-12-1988",
+                    "date_of_joining": "14-06-2017",
+                    "aicte_id": "DHANALAKSHMI SRINIVASAN COLLEGE OF ENGINEERING",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2010",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+                            "college_name": "COLLEGE OF ENGINEERING AND TECHNOLOGY(AUTONOMOUS)",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ELECTRONICS AND POWER DRIVES",
+                            "college_name": "",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. S. SELVARANI",
+                    "dob": "25-06-1987",
+                    "date_of_joining": "01-07-2013",
+                    "aicte_id": "ANAND INSTITUTE OF HIGHER TECHNOLOGY",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2008",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+                            "college_name": "SUN COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ELECTRONICS AND POWER DRIVES",
+                            "college_name": "",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "9 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. S. ANANDHI",
+                    "dob": "16-07-1989",
+                    "date_of_joining": "01-02-2018",
+                    "aicte_id": "ANAND INSTITUTE OF HIGHER TECHNOLOGY",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2010",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+                            "college_name": "T J INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ELECTRONICS AND POWER DRIVES",
+                            "college_name": "",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. G. SUGANTHY",
+                    "dob": "12-07-1984",
+                    "date_of_joining": "01-07-2022",
+                    "aicte_id": "PONDICHERY ENGG COLLEGE",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2005",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "CHEMICAL ENGINEERING",
+                            "college_name": "PONDICHERY ENGG COLLEGE",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "ENVIRONMENTAL ENGINEERING",
+                            "college_name": "PONDICHERRY ENGG COLLEGE",
+                            "year_of_passing": "2008"
+                        }
+                    ],
+                    "designation": "OTHERS",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

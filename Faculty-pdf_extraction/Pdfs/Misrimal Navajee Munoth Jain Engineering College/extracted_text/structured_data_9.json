@@ -1,0 +1,218 @@
+{
+    "faculty_details": [
+        {
+            "department": "Information Technology",
+            "faculty_members": [
+                {
+                    "name": "MR. V. JOTHIPRASAD",
+                    "dob": "27-03-1978",
+                    "date_of_joining": "15-06-2012",
+                    "aicte_id": "1451095746",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.Tech.",
+                            "specialization": "Information Technology",
+                            "college_name": "ADTHITANAR COLLEGE",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "M.C.A.",
+                            "specialization": "Computer Applications",
+                            "college_name": "KALASALINGAM COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "M.Tech",
+                            "specialization": "Computer Science and Engineering",
+                            "college_name": "H. SCIENCE AND RESEARCH INSTITUTE",
+                            "year_of_passing": "2005"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "10 Years",
+                            "previous_position": "9 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. V. NANDHINI",
+                    "dob": "15-05-1984",
+                    "date_of_joining": "28-04-2022",
+                    "aicte_id": "458081885",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.Tech.",
+                            "specialization": "Information Technology",
+                            "college_name": "ANAND INSTITUTE OF HIGHER TECHNOLOGY",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Science and Engineering",
+                            "college_name": "G K M COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2009"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "17 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. K. VINODHKUMAR",
+                    "dob": "11-08-1983",
+                    "date_of_joining": "01-03-2023",
+                    "aicte_id": "17586661832",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.Tech.",
+                            "specialization": "Information Technology",
+                            "college_name": "SRINIVASA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.Tech",
+                            "specialization": "Information Technology",
+                            "college_name": "SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "14 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. P. PREETHIKA JEPPIAAR",
+                    "dob": "06-01-1986",
+                    "date_of_joining": "06-06-2011",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.Tech.",
+                            "specialization": "Information Technology",
+                            "college_name": "SRI SIVASUBRAMANIYA NADAR COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Science and Engineering",
+                            "college_name": "SRI SIVASUBRAMANIYA NADAR COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2009"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. T. GAYATHRI DEVI BHARATH",
+                    "dob": "31-05-1985",
+                    "date_of_joining": "29-06-2012",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Communication Engineering",
+                            "college_name": "R V S COLLEGE OF COMPUTER SCIENCE ENGINEERING AND ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Computer Science and Engineering",
+                            "college_name": "R V S COLLEGE OF COMPUTER SCIENCE ENGINEERING AND ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2009"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. A. TAMILARASI",
+                    "dob": "23-07-1983",
+                    "date_of_joining": "17-04-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Science and Engineering",
+                            "college_name": "A C T COLLEGE OF SCIENCE AND ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.Tech",
+                            "specialization": "Information Technology",
+                            "college_name": "COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. K S. NIVAS KUMAR",
+                    "dob": "22-08-1981",
+                    "date_of_joining": "18-04-2016",
+                    "aicte_id": "H. SCIENCE AND UNIVERSITY",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.Tech.",
+                            "specialization": "Information Technology",
+                            "college_name": "UNVERSITY OF MADRAS",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.Tech",
+                            "specialization": "Computer Networks",
+                            "college_name": "H. SCIENCE AND UNIVERSITY",
+                            "year_of_passing": "2005"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "7 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

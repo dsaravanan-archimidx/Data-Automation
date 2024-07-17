@@ -1,0 +1,114 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-Physics",
+            "faculty_members": [
+                {
+                    "name": "DR. K. SURESH KUMAR",
+                    "dob": "30-07-1980",
+                    "date_of_joining": "20-12-2004",
+                    "aicte_id": "1465538656",
+                    "phd_thesis_title": "MODELING AND ANALYSIS OF TRANSIENT THERMAL RESPONSES DURING DISSIMILLAR WELDING OF 316L STAINLESS STEEL AND STEEL USING PULSED ND YAG LASER",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "GOVT ARTS COLLEGE",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "M PHIL",
+                            "specialization": "PHYSICS",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "PHYSICS",
+                            "college_name": "CENTRE FOR ATOMIC RESEARCH",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "8 Years",
+                            "previous_position": "12 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. B. BALAKRISHNAN",
+                    "dob": "09-02-1979",
+                    "date_of_joining": "30-08-2006",
+                    "aicte_id": "1465538408",
+                    "phd_thesis_title": "CRYSTAL STRUCTURE ANALYSIS OF BIOLOGICAL COMPONOUNTS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "PACHAIYAPPAS COLLEGE FOR MEN",
+                            "year_of_passing": "2000"
+                        },
+                        {
+                            "degree": "M PHIL",
+                            "specialization": "PHYSICS",
+                            "college_name": "BHARATHIDASAN UNIVERSITY",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "PHYSICS",
+                            "college_name": "UNIVERSITY OF MADARAS",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "16 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. N. SIDDHARTHAN",
+                    "dob": "09-05-1977",
+                    "date_of_joining": "05-06-2009",
+                    "aicte_id": "1465538416",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "PACHAIYAPPAS COLLEGE FOR MEN",
+                            "year_of_passing": "1997"
+                        },
+                        {
+                            "degree": "M PHIL",
+                            "specialization": "PHYSICS",
+                            "college_name": "SUNDARANAR UNIVERSITY",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "PACHAIYAPPAS COLLEGE",
+                            "year_of_passing": "2000"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "13 Years",
+                            "previous_position": "9 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

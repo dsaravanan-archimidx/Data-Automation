@@ -1,0 +1,499 @@
+{
+    "faculty_details": [
+        {
+            "department": "Mechanical Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. B. JANARTHANAN",
+                    "dob": "05-01-1971",
+                    "date_of_joining": "27-12-2019",
+                    "aicte_id": "12644037533",
+                    "phd_thesis_title": "INTEGRATED LONGITUDINAL AND LATERAL DYNAMICS SIMULATION OF A TRACKED VEHICLE",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Mechanical Engineering",
+                            "college_name": "SATHYABAMA ENGINEERING COLLEGE",
+                            "year_of_passing": "1992"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "Mechanical Engineering",
+                            "college_name": "INDIAN INSTITUTE OF TECHNOLOGY MADRAS",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "Mechanical Engineering",
+                            "college_name": "INDIAN INSTITUTE OF TECHNOLOGY MADRAS",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "25 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. M. SHUNMUGASUNDARAM",
+                    "dob": "25-05-1981",
+                    "date_of_joining": "07-09-2022",
+                    "aicte_id": "13577827013",
+                    "phd_thesis_title": "EFFECTIVE MACHINE PART ALGORITHMS FOR CELLULAR MANUFACTURING SYSTEM BY CONSIDERING OPERATIONAL SEQUENCE DATA",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Mechanical Engineering",
+                            "college_name": "SETHU INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Manufacturing Engineering",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "Mechanical Engineering",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "19 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. S. PRASATH",
+                    "dob": "30-07-1974",
+                    "date_of_joining": "19-07-2007",
+                    "aicte_id": "1478321587",
+                    "phd_thesis_title": "WELDING STUDIES ON DISSIMILAR MAGNESIUM ALLOYS ZM21 AND AZ31",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Mechanical Engineering",
+                            "college_name": "GOVERNMENT INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "1995"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Production Engineering",
+                            "college_name": "ANNAMLAI UNIVERSITY",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "Mechanical Engineering",
+                            "college_name": "GUINDY",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "15 Years",
+                            "previous_position": "9 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S R. MOHAN",
+                    "dob": "02-06-1990",
+                    "date_of_joining": "24-08-2020",
+                    "aicte_id": "13619846210",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Mechanical Engineering",
+                            "college_name": "ADHIPARASAKTHI ENGINEERING COLLEGE",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "CAD CAM",
+                            "college_name": "BSA UNIVERSITY",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "7 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. A A. MUHAMMAD IRFAN",
+                    "dob": "07-06-1990",
+                    "date_of_joining": "13-06-2017",
+                    "aicte_id": "13646294747",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Mechanical Engineering",
+                            "college_name": "COIMBATORE INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Thermal Engineering",
+                            "college_name": "GOVERNMENT COLLEGE OF TECHNOLOGY COIMBATORE",
+                            "year_of_passing": "2017"
+                        },
+                        {
+                            "degree": "",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. M. SURESH",
+                    "dob": "07-06-1967",
+                    "date_of_joining": "19-09-2022",
+                    "aicte_id": "1466647295",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Mechanical Engineering",
+                            "college_name": "GOVERNMENT COLLEGE OF ENGINEERING SALEM",
+                            "year_of_passing": "1988"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Power Engineering",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "1996"
+                        },
+                        {
+                            "degree": "",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "28 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. SYED ABUTHAHIR",
+                    "dob": "19-05-1980",
+                    "date_of_joining": "19-06-2018",
+                    "aicte_id": "17400887718",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Production Engineering",
+                            "college_name": "ADHIYAMAAN COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Manufacturing Engineering",
+                            "college_name": "ANNA UNIVESITY REGIONAL ENGINEERING CAMPUS,TIRUCHIRAPPALLI",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. A. SARAVANAN",
+                    "dob": "04-07-1975",
+                    "date_of_joining": "05-09-2022",
+                    "aicte_id": "136579605893",
+                    "phd_thesis_title": "DESIGN ANALYSIS AND FABRICATION OF REVOLVING CAR SEAT USING COMPOSITE MATERIAL",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Mechanical Engineering",
+                            "college_name": "VLBJANAKIAMMAL COLLEGE OF ENGINEERING",
+                            "year_of_passing": "1999"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Design Engineering",
+                            "college_name": "SONA COLLEGE OF TECHNOLOGY",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "Design and Vibration",
+                            "college_name": "SONA COLLEGE OF TECHNOLOGY",
+                            "year_of_passing": "2022"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. R. SENTHILKUMAR",
+                    "dob": "19-06-1970",
+                    "date_of_joining": "08-07-2019",
+                    "aicte_id": "17374336367",
+                    "phd_thesis_title": "LOW CYCLE FATIQUE BEHAVIOUR OF NANOSCALE ALUMINIUM ALLOY COMPOSITES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Mechanical Engineering",
+                            "college_name": "NATIONAL INSTITUTE OF TECHNOLOGY,TIRUCHIRAPPALLI",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Manufacturing Engineering",
+                            "college_name": "JAYARAM COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "Composite Materials",
+                            "college_name": "JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "12 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. S. YAMINI",
+                    "dob": "23-08-1996",
+                    "date_of_joining": "28-02-2022",
+                    "aicte_id": "111339225932",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Mechanical Engineering",
+                            "college_name": "DHANALAKSHMI SRINIVASAN COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2018"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Machine Design Engineering",
+                            "college_name": "GANDHI INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2020"
+                        },
+                        {
+                            "degree": "",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. D. SAKTHIVEL",
+                    "dob": "23-05-1988",
+                    "date_of_joining": "21-09-2020",
+                    "aicte_id": "1751999778",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Mechanical Engineering",
+                            "college_name": "I F E T COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Design Engineering",
+                            "college_name": "ANNA UNIVESITY REGIONAL CAMPUS,MADURAI",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "7 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. L. THARANIKUMAR",
+                    "dob": "19-04-1987",
+                    "date_of_joining": "28-03-2022",
+                    "aicte_id": "12194554503",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Mechanical Engineering",
+                            "college_name": "KARPAGA VINAYAGA COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Manufacturing Engineering",
+                            "college_name": "MADRAS INSTITUTE OF ENGINEERING TECHNOLOGY CHROMPET",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "9 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. K. KISHORE KUMAR",
+                    "dob": "12-07-1998",
+                    "date_of_joining": "01-03-2023",
+                    "aicte_id": "143374258558",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Mechanical Engineering",
+                            "college_name": "SRM VALLIAMMAI ENGINEERING COLLEGE",
+                            "year_of_passing": "2020"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Manufacturing Engineering",
+                            "college_name": "SRI SIVASUBRAMANIYA NADAR COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2022"
+                        },
+                        {
+                            "degree": "",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. J. MOHAMED YAZZIR",
+                    "dob": "05-05-1989",
+                    "date_of_joining": "24-06-2016",
+                    "aicte_id": "13215504275",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "Mechanical Engineering",
+                            "college_name": "BHARATHIYAR ENGG COLLEGE OF ENGG TECH",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "Product Design and Manufacturing",
+                            "college_name": "PONDICHERRY ENGINEERING COLLEGE",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

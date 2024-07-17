@@ -1,0 +1,73 @@
+{
+    "faculty_details": [
+        {
+            "department": "Computer Science and Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. MV. ISHWARYA",
+                    "dob": "20-04-1985",
+                    "date_of_joining": "03-01-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "PRIVACY PRESERVATION USING SELECTIVE COLLIGATION AND SELECTIVE SCRAMBLING",
+                    "year_of_starting": "2021",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Computer Science and Engineering",
+                            "college_name": "R M K ENGINEERING COLLEGE",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Computer Science and Engineering",
+                            "college_name": "R M K ENGINEERING COLLEGE",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": "Science and Engineering",
+                            "college_name": "HINDUSTHAN COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Year",
+                            "previous_position": "9 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. J. KANIMOZHI",
+                    "dob": "05-04-1990",
+                    "date_of_joining": "06-01-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.Tech.",
+                            "specialization": "Information Technology",
+                            "college_name": "JEPPIAAR ENGINEERING COLLEGE",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.Tech.",
+                            "specialization": "Computer Science and Engineering",
+                            "college_name": "RANGARAJAN DR SAGUNTHALA RD INSTITUTE OF SCIENCE AND TECHNOLOGY",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

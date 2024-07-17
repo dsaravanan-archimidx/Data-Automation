@@ -1,0 +1,494 @@
+{
+    "faculty_details": [
+        {
+            "department": "Electronics",
+            "faculty_members": [
+                {
+                    "name": "DR. C. SRIDHATHAN",
+                    "dob": "25-02-1983",
+                    "date_of_joining": "30-04-2021",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "POWERLINE ENHANCEMENT FOR DISTANCE DATA MONITORING OF HUMAN PHYSICOLOGICAL PARAMETERS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "PADMAVATHY ENGINEERING SCIENCE COLLEGE (AUTONOMOUS)",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "ELECTRONIC",
+                            "college_name": "SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "UNIVERSITY MALAYSIA PAHANG",
+                            "year_of_passing": "2008"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "6 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. S. MARLIN",
+                    "dob": "10-09-1992",
+                    "date_of_joining": "19-12-2016",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ENGINEERING",
+                            "college_name": "T J INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. R. DEIVANAYAKI",
+                    "dob": "18-03-1991",
+                    "date_of_joining": "01-08-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "T J INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "AND DRIVES",
+                            "college_name": "ANAND INSTITUTE OF HIGHER TECHNOLOGY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. K. ARULOLI",
+                    "dob": "08-01-1988",
+                    "date_of_joining": "16-06-2015",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "ADHIPARASAKTHI ENGINEERING COLLEGE",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "AND DRIVES",
+                            "college_name": "EASWARI ENGINEERING COLLEGE (AUTONOMOUS)",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "7 Years",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. T. FERIDINAND SUDHARSAN",
+                    "dob": "31-05-1987",
+                    "date_of_joining": "02-08-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "ST XAVIER'S CATHOLIC COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "INSTRUMENTATION ENGINEERING",
+                            "college_name": "MADRAS INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "9 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. S. GAYATHRI",
+                    "dob": "30-03-1992",
+                    "date_of_joining": "26-04-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION",
+                            "college_name": "PADMAVATHY ENGINEERING COLLEGE (AUTONOMOUS)",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "VLSI DESIGN AND EMBEDDED SYSTEMS",
+                            "college_name": "MADRAS INSTITUTE OF TECHNOLOGY CHROMPET",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "Civil",
+            "faculty_members": [
+                {
+                    "name": "M K. DELBIN DHAYA",
+                    "dob": "21-07-1996",
+                    "date_of_joining": "02-01-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "CIVIL ENGINEERING",
+                            "college_name": "AGNI COLLEGE OF TECHNOLOGY",
+                            "year_of_passing": "2018"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "S. PRABAVATHI",
+                    "dob": "08-05-1994",
+                    "date_of_joining": "06-01-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "CIVIL ENGINEERING",
+                            "college_name": "MEENAKSHI RAMASWAMY ENGINEERING COLLEGE",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "M. REKHA",
+                    "dob": "19-07-1991",
+                    "date_of_joining": "17-03-2022",
+                    "aicte_id": "13302926147",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "CIVIL ENGINEERING AND TECHNOLOGY",
+                            "college_name": "PSNA COLLEGE OF ENGINEERING (AUTONOMOUS)",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ENGINEERING",
+                            "college_name": "MEPCO SCHLENK ENGINEERING COLLEGE (AUTONOMOUS)",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "Mechanical",
+            "faculty_members": [
+                {
+                    "name": "R. RAMESH",
+                    "dob": "16-03-1985",
+                    "date_of_joining": "02-07-2013",
+                    "aicte_id": "M.E.",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL",
+                            "college_name": "THANTHAI PERIYAR GOVERNMENT INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "DESIGN ENGINEERING",
+                            "college_name": "GOVERNMENT COLLEGE OF ENGINEERING TIRUNELVELI",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "9 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "T. BARATHAN",
+                    "dob": "03-05-1989",
+                    "date_of_joining": "05-08-2016",
+                    "aicte_id": "M.TECH.",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL",
+                            "college_name": "THANTHAI PERIYAR GOVERNMENT INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "PETROCHEMICALS ENGINEERING",
+                            "college_name": "CENTRAL INSTITUTE OF PLASTIC TECHNOLOGY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "G. MANOJ KUMAR",
+                    "dob": "28-09-1989",
+                    "date_of_joining": "02-07-2013",
+                    "aicte_id": "MANUFACTURING ENGINEERING",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL",
+                            "college_name": "PALLAVAN COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "MANUFACTURING ENGINEERING",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "9 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "M. BHARATHI",
+                    "dob": "05-06-1983",
+                    "date_of_joining": "02-07-2016",
+                    "aicte_id": "ENGINEERING TECHNOLOGY",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL",
+                            "college_name": "SRI SAI RAM ENGINEERING COLLEGE (AUTONOMOUS)",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ENGINEERING",
+                            "college_name": "MADRAS INSTITUTE OF TECHNOLOGY CHROMPET",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "6 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "V. KANNARASU",
+                    "dob": "02-05-1983",
+                    "date_of_joining": "06-08-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "MECHANICAL",
+                            "college_name": "BHARATHIYAR COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "MS",
+                            "specialization": "CAE",
+                            "college_name": "EDINBURGH NAPIER UNIVERSITY",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "8 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "D. NAVINPRABU",
+                    "dob": "16-07-1989",
+                    "date_of_joining": "24-06-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "AERONAUTICAL ENGINEERING",
+                            "college_name": "EXCEL ENGINEERING COLLEGE (AUTONOMOUS)",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "THERMAL ENGINEERING",
+                            "college_name": "EXCEL ENGINEERING COLLEGE (AUTONOMOUS)",
+                            "year_of_passing": "2022"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "7 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "Civil",
+            "faculty_members": [
+                {
+                    "name": "Y. REKHA",
+                    "dob": "01-05-1976",
+                    "date_of_joining": "09-09-2022",
+                    "aicte_id": "11478682003",
+                    "phd_thesis_title": "NIL",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "CIVIL ENGINEERING",
+                            "college_name": "IRTT",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "WATER RESOURCES",
+                            "college_name": "INTEGRATED UNIVERSITY CEG CAMPUS CHENNAI",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR SR SCALE",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "11 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-English",
+            "faculty_members": [
+                {
+                    "name": "MS. C. NALINI",
+                    "dob": "17-08-1989",
+                    "date_of_joining": "29-01-2015",
+                    "aicte_id": "N/A",
+                    "phd_thesis_title": "N/A",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "COLLEGE FOR WOMEN",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "N/A",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "ENGLISH",
+                            "college_name": "N/A",
+                            "year_of_passing": "N/A"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. R. SURYA",
+                    "dob": "14-12-1988",
+                    "date_of_joining": "03-02-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "REGENERATION AND PRIMAL INNOCENCE IN THE POEMS OF PHILIP LEVINE",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "BA",
+                            "specialization": "ENGLISH",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "MA",
+                            "specialization": "ENGLISH",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "N/A"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ENGLISH",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. R. AARTHI",
+                    "dob": "11-11-1981",
+                    "date_of_joining": "28-06-2007",
+                    "aicte_id": "1497190061",
+                    "phd_thesis_title": "N/A",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "ETHIRAJ COLLEGE",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.A",
+                            "specialization": "ENGLISH",
+                            "college_name": "N/A",
+                            "year_of_passing": "N/A"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "ENGLISH",
+                            "college_name": "N/A",
+                            "year_of_passing": "N/A"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "12 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "faculty_details": [
+        {
+            "department": "Electronics and Communication Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. S. PARASURAMAN",
+                    "dob": "16-06-1978",
+                    "date_of_joining": "17-06-2019",
+                    "aicte_id": "17346448733",
+                    "phd_thesis_title": "PERFORMANCE AND DESIGN ANALYSIS OF MULTIPLE HIGH FREQUENCY ANTENNAS FOR WIRELESS SENSOR APPLICATIONS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "THANGAVELU ENGINEERING COLLEGE",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "APPLIED ELECTRONICS",
+                            "college_name": "AMMAN COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": "DESIGN AND WIRELESS SENSOR NETWORK",
+                            "college_name": "ST PETER'S INSTITUTE OF HIGHER EDUCATION AND RESEARCH",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "16 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. D. KUMUTHA",
+                    "dob": "15-05-1979",
+                    "date_of_joining": "14-03-2023",
+                    "aicte_id": "12191019421",
+                    "phd_thesis_title": "REDUCTION OF PEAK TO AVERAGE POWER RATIO USING BLOCK CODING SCHEMES IN MIMO OFDM SYSTEM",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "THIAGARAJAR COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "WIRELESS COMMUNICATION TECHNOLOGY",
+                            "college_name": "VELLORE INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": "WIRELESS COMMUNICATION TECHNOLOGY",
+                            "college_name": "GANADIPATHY TULSI'S JAIN ENGINEERING COLLEGE",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "13 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. M. SWARNALATHA",
+                    "dob": "08-02-1995",
+                    "date_of_joining": "15-02-2021",
+                    "aicte_id": "17737239193",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING AND ENGINEERING TECHNOLOGY",
+                            "college_name": "G K M COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "SYSTEMS TECHNOLOGY",
+                            "college_name": "VELAMMAL COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. T. KARTHIKA",
+                    "dob": "20-11-1994",
+                    "date_of_joining": "31-01-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING AND TECHNOLOGY",
+                            "college_name": "KARPAGA VINAYAGA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "EMBEDDED SYSTEM TECHNOLOGIES",
+                            "college_name": "KARPAGA VINAYAGA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

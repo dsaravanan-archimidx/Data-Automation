@@ -1,0 +1,271 @@
+{
+    "faculty_details": [
+        {
+            "department": "MECHANICAL",
+            "faculty_members": [
+                {
+                    "name": "DR. L. RANGANATHAN",
+                    "dob": "06-05-1975",
+                    "date_of_joining": "06-04-2020",
+                    "aicte_id": "1428180516",
+                    "phd_thesis_title": "EXPERIMENTAL AND SIMULATION OF THE PERFORMANCE EMISSION AND COMBUSTION CHARACTERISTICS OF VARIOUS BLENDS OF BIO DIESEL IN A DIRECT INJECTION DIESEL ENGINE",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "SRI VENKATESWARA COLLEGE OF ENGINEERING",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "THERMAL ENGINEERING",
+                            "college_name": "RAJALAKSHMI ENGINEERING COLLEGE",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "OTHERS-THE INDIAN ENGINEERING COLLEGE",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "15 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. I. DANIEL LAWRENCE",
+                    "dob": "17-05-1983",
+                    "date_of_joining": "18-07-2022",
+                    "aicte_id": "7473137214",
+                    "phd_thesis_title": "DESIGN OF INDOOR AIR QUALITY CHARACTERISTICS FOR ERGONOMICALLY LIVING SPACE",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "ALAGAPPA CHETTIAR GOVERNMENT COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ENGINEERING DESIGN",
+                            "college_name": "REGIONAL COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "10 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. K. ARUL",
+                    "dob": "02-06-1988",
+                    "date_of_joining": "10-06-2015",
+                    "aicte_id": "12636148385",
+                    "phd_thesis_title": "STUDIES ON DRY WET AND MAGENTORHEOLOGICAL FLUID BASED MINIMUM QUANTITY LUBRICATION FOR MACHINING OF MONEL K500 ALLOY",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "SONA COLLEGE OF TECHNOLOGY",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER INTEGRATED MANUFACTURING",
+                            "college_name": "INSTITUTE OF HIGHER STUDIES",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "OTHERS-ANNA UNIVERSITY",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "7 Years",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. B. DHANASAKKARAVARTHI",
+                    "dob": "03-02-1982",
+                    "date_of_joining": "13-02-2023",
+                    "aicte_id": "1710398488",
+                    "phd_thesis_title": "PRODUCT DESIGN AND DEVELOPMENT",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "SARDAR RAJA COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "PRODUCT DESIGN AND MANUFACTURING",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2008"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "15 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. P. PURUSHOTHAMAN",
+                    "dob": "03-12-1988",
+                    "date_of_joining": "15-06-2015",
+                    "aicte_id": "",
+                    "phd_thesis_title": "EXPERIMENTAL INVESTIGATION OF MELIA DUBIA BIODIESEL AND PEPPERMINT OIL BLENDED DIESEL USING OPTIMIZATION APPROACH IN CRDI ENGINE",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "KRS COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "INTERNAL COMBUSTION ENGINEERING",
+                            "college_name": "UNIVERSITY COLLEGE OF ENGINEERING VILLUPURAM",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "UNIVERSITY COLLEGE OF ENGINEERING VILLUPURAM",
+                            "year_of_passing": "2022"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "7 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. D. KASINATHAN",
+                    "dob": "26-06-1978",
+                    "date_of_joining": "11-07-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "EXPERIMENTAL AND NUMERICAL ANALYSIS OF REFRIGERATION SYSTEM INTEGRATED WITH PCM BASED THERMAL ENERGY STORAGE SYSTEM",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "ADHIPARASAKTHI ENGINEERING COLLEGE",
+                            "year_of_passing": "2000"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "AIR CONDITIONING AND REFRIGERATION ENGINEERING",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2023"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "17 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. K. SARAVANAN",
+                    "dob": "03-04-1989",
+                    "date_of_joining": "16-03-2022",
+                    "aicte_id": "2290148023",
+                    "phd_thesis_title": "COMPUTER INTEGRATED MANUFACTURING",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "THANTHAI PERIYAR GOVERNMENT INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "MANUFACTURING ENGINEERING",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "9 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. C. THIRUNAVUKKARASU",
+                    "dob": "25-04-1987",
+                    "date_of_joining": "19-06-2018",
+                    "aicte_id": "",
+                    "phd_thesis_title": "INTERNAL COMBUSTION ENGINEERING",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "HINDUSTHAN INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "INTERNAL COMBUSTION ENGINEERING",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "6 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

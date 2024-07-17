@@ -1,0 +1,212 @@
+{
+    "faculty_details": [
+        {
+            "department": "Civil Engineering",
+            "faculty_members": [
+                {
+                    "name": "MR. S. RAMAMOORTHY",
+                    "dob": "30-07-1974",
+                    "date_of_joining": "15-07-2010",
+                    "aicte_id": "",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Civil Engineering",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "1995"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Environmental Engineering",
+                            "college_name": "ANNALMALAI UNIVERSITY",
+                            "year_of_passing": "1996"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "12 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. VENKATESWARAN",
+                    "dob": "07-01-1995",
+                    "date_of_joining": "22-06-2022",
+                    "aicte_id": "14428510492",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Civil Engineering",
+                            "college_name": "GOJAN SCHOOL OF BUSINESS AND TECHNOLOGY",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Structural Engineering",
+                            "college_name": "ST PETERS COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. K. SHALINI",
+                    "dob": "22-10-1999",
+                    "date_of_joining": "01-11-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Civil Engineering",
+                            "college_name": "SRI LAKSHMI AMMAL ENGINEERING COLLEGE",
+                            "year_of_passing": "2020"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Structural Engineering",
+                            "college_name": "AGNI COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2022"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. VISHNUVARDHAN",
+                    "dob": "05-10-1994",
+                    "date_of_joining": "12-06-2018",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Civil Engineering",
+                            "college_name": "T J S ENGINEERING COLLEGE",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Construction Engineering and Management",
+                            "college_name": "MEENAKSHI SUNDARARAJAN ENGINEERING COLLEGE",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. N. VIMALRAJ",
+                    "dob": "26-04-1995",
+                    "date_of_joining": "24-06-2022",
+                    "aicte_id": "9320050808",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Civil Engineering",
+                            "college_name": "TAGORE ENGINEERING COLLEGE",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Structural Engineering",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. S. ARTHI",
+                    "dob": "22-03-1999",
+                    "date_of_joining": "01-11-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Civil Engineering",
+                            "college_name": "SRI LAKSHMI AMMAL ENGINEERING COLLEGE",
+                            "year_of_passing": "2020"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Structural Engineering",
+                            "college_name": "AGNI COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2022"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. R. BEAULA JASMINE",
+                    "dob": "25-05-1979",
+                    "date_of_joining": "01-04-2022",
+                    "aicte_id": "14670535295",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Civil Engineering",
+                            "college_name": "MANIAMAI COLLEGE OF ENGINEERING TECHNOLOGY FOR WOMEN",
+                            "year_of_passing": "2000"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Structural Engineering",
+                            "college_name": "GOVERNMENT COLLEGE OF ENGINEERING TECHNOLOGY COIMBATORE",
+                            "year_of_passing": "2002"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-Chemistry",
+            "faculty_members": [
+                {
+                    "name": "DR. S. SIVAGAMI",
+                    "dob": "28-03-1981",
+                    "date_of_joining": "29-07-2019",
+                    "aicte_id": "17417062882",
+                    "phd_thesis_title": "SPECTRAL CHARACTERIZATION AND ANTIMICROBIAL EVALUATION OF SYNTHESIZED DIHYDRO METHYLBENZO15",
+                    "year_of_starting": "2019",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "OTHERS-KUNTHAVAI NACHIYAR ARTS COLLEGE",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "OTHERS-AVVM SRI PUSHPAM COLLEGE",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "OTHERS-RAJAH SERFOJI GOVERNMENT COLLEGE",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "8 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": " ",
+            "faculty_members": [
+                {
+                    "name": "DR. M. GURULAKSHMI",
+                    "dob": "28-02-1985",
+                    "date_of_joining": "11-09-2017",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "ENHANCED VISIBLE LIGHT PHOTO CATALYTIC ACTIVITY OF TITANIA NANO COMPOSITES FOR INDUSTIRAL EFFLUENT TREATMENT",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "OTHERS-MEENAKSHI COLLEGE FOR WOMEN",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY--",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY--",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-Physics",
+            "faculty_members": [
+                {
+                    "name": "MR. V. PRABAKARAN",
+                    "dob": "30-06-1981",
+                    "date_of_joining": "06-08-2018",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": " ",
+                            "college_name": " ",
+                            "year_of_passing": " "
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

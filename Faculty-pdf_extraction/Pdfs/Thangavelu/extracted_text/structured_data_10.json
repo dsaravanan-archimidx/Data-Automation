@@ -1,0 +1,340 @@
+{
+    "faculty_details": [
+        {
+            "department": "Business Administration",
+            "faculty_members": [
+                {
+                    "name": "DR. V P. GOPAL RAGAVAN",
+                    "dob": "28-08-1954",
+                    "date_of_joining": "01-02-2010",
+                    "aicte_id": "1452990457",
+                    "phd_thesis_title": "A STUDY ON CRM FOR FMCG PRODUCTS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "Business Administration",
+                            "college_name": "MAGADH UNIVERSITY",
+                            "year_of_passing": "2000"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": "Business Administration",
+                            "college_name": "MAGADH UNIVERSITY",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "Agriculture",
+                            "college_name": "PHULE KRISHE VIDYAPEETH",
+                            "year_of_passing": "1978"
+                        }
+                    ],
+                    "designation": "Professor",
+                    "academic_experience": [
+                        {
+                            "current_position": "13 Years",
+                            "previous_position": "8 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. G. HEMA PRIYA",
+                    "dob": "24-10-1978",
+                    "date_of_joining": "01-08-2013",
+                    "aicte_id": "12309427543",
+                    "phd_thesis_title": "A STUDY ON ADOLESCENT SIBLING INFLUENCE ON PURCHASE DECISION IN CHENNAI",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "Business Administration",
+                            "college_name": "MADURAI KAMARAJ UNIVERSITY",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": "Business Administration",
+                            "college_name": "MADURAI KAMARAJ UNIVERSITY",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "B.COM.",
+                            "specialization": "Commerce",
+                            "college_name": "VALLIAMMAL COLLEGE FOIR WOMEN",
+                            "year_of_passing": "1998"
+                        }
+                    ],
+                    "designation": "Professor",
+                    "academic_experience": [
+                        {
+                            "current_position": "9 Years",
+                            "previous_position": "12 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "K M. MURUGAPPAN",
+                    "dob": "18-10-1982",
+                    "date_of_joining": "01-07-2011",
+                    "aicte_id": "1794446347",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "Business Administration",
+                            "college_name": "ALAGAPPA INSTITUTE OF MANAGEMENT",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Computer Science",
+                            "college_name": "TAMILNADU COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2004"
+                        }
+                    ],
+                    "designation": "Associate Professor",
+                    "academic_experience": [
+                        {
+                            "current_position": "11 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "K. VIMALANATHAN",
+                    "dob": "08-10-1982",
+                    "date_of_joining": "19-01-2009",
+                    "aicte_id": "1453575120",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "Business Administration",
+                            "college_name": "AVC COLLEGE",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "B.B.A.",
+                            "specialization": "Business Administration",
+                            "college_name": "COLLEGE OF ART AND SCIENCE",
+                            "year_of_passing": "2004"
+                        }
+                    ],
+                    "designation": "Assistant Professor",
+                    "academic_experience": [
+                        {
+                            "current_position": "14 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "D. DEENADAYALAN",
+                    "dob": "04-07-1995",
+                    "date_of_joining": "01-09-2017",
+                    "aicte_id": "",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "Business Administration",
+                            "college_name": "THANGAVELU COLLEGE OF SCIENCE",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "B.B.A.",
+                            "specialization": "Business Administration",
+                            "college_name": "COLLEGE OF ARTS AND SCIENCE",
+                            "year_of_passing": "2006"
+                        }
+                    ],
+                    "designation": "Assistant Professor",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "M. RAJ BABU",
+                    "dob": "08-03-1991",
+                    "date_of_joining": "01-09-2017",
+                    "aicte_id": "",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "Business Administration",
+                            "college_name": "ENGINEERING COLLEGE",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "B.B.A.",
+                            "specialization": "Business Administration",
+                            "college_name": "INSTITUTE OF MANAGEMENT STUDIES",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "Assistant Professor",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "G. BHARATHI",
+                    "dob": "17-04-1990",
+                    "date_of_joining": "01-09-2017",
+                    "aicte_id": "",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "Business Administration",
+                            "college_name": "ENGINEERING COLLEGE",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "B.COM.",
+                            "specialization": "Commerce",
+                            "college_name": "UNIVERSITY OF MADRAS",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "Assistant Professor",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "B. KOTEESWARI",
+                    "dob": "18-05-1991",
+                    "date_of_joining": "01-09-2017",
+                    "aicte_id": "",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "Business Administration",
+                            "college_name": "ENGINEERING COLLEGE",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "B.B.A.",
+                            "specialization": "Business Administration",
+                            "college_name": "UNIVERSITY OF MADRAS",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "Assistant Professor",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "S. MEENAKSHI",
+                    "dob": "05-05-1985",
+                    "date_of_joining": "02-07-2018",
+                    "aicte_id": "",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "Business Administration",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "BBA",
+                            "specialization": "Business Administration",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "2005"
+                        }
+                    ],
+                    "designation": "Assistant Professor",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "G. DURGADEVI",
+                    "dob": "15-06-1991",
+                    "date_of_joining": "01-09-2017",
+                    "aicte_id": "",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "Business Administration",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "Information Systems",
+                            "college_name": "SECOURS COLLEGE FOR WOMEN",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "Assistant Professor",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "G. KOKILAVANI",
+                    "dob": "18-03-1994",
+                    "date_of_joining": "28-11-2018",
+                    "aicte_id": "",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "Business Administration",
+                            "college_name": "ENGINEERING COLLEGE",
+                            "year_of_passing": "2017"
+                        },
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "Computer Systems and Design",
+                            "college_name": "JANAKI COLLEGE OF ARTS AND SCEINCE",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "Assistant Professor",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

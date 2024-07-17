@@ -1,0 +1,305 @@
+{
+    "faculty_details": [
+        {
+            "department": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "DR. R. MUTHALAGU",
+                    "dob": "23-01-1970",
+                    "date_of_joining": "01-03-2002",
+                    "aicte_id": "PH.D. C GO UL INL DE YG -E - OF ENGINEERING 2019",
+                    "phd_thesis_title": "A NON INVASIVE ANEMIA SCREENING TOOL USING IMAGE PROCESSING AND ARTIFICIAL NEURAL NETWORK",
+                    "year_of_starting": "2001",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.E.",
+                            "specialization": "MEDICAL ELECTRONICS",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2005"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "21 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. MADHAVAN. BALAJI",
+                    "dob": "21-11-1979",
+                    "date_of_joining": "01-09-2021",
+                    "aicte_id": "PH.D. C ENO GLL INE EG EE R O INF G GUINDY-- 2018",
+                    "phd_thesis_title": "DEVELOPMENT AND INSTRUMENTATION OF NEW CONTROL SCHEMES FOR PROCESS CONTROL APPLICATION USING PROGRAMMABLE LOGIC CONTROLLERS",
+                    "year_of_starting": "2001",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.E.",
+                            "specialization": "INSTRUMENTATION AND CONTROL",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2004"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "17 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. G. MOHANDASS",
+                    "dob": "08-02-1981",
+                    "date_of_joining": "17-07-2015",
+                    "aicte_id": "PH.D. 2016",
+                    "phd_thesis_title": "STUDY AND ANALYSIS OF RETINAL DISEASES BY IMAGE PROCESSING TECHNIQUES USING OPTICAL COHERENCE TOMOGRAPHY OCT",
+                    "year_of_starting": "2003",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "BIOMEDICAL INSTRUMENTATION ENGG",
+                            "college_name": "SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2005"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "7 Years",
+                            "previous_position": "8 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "ELECTRONICS AND BIOMEDICAL ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "DR. S. SARAVANAN",
+                    "dob": "11-05-1966",
+                    "date_of_joining": "06-06-2016",
+                    "aicte_id": "PH.D. 2020",
+                    "phd_thesis_title": "COMPUTER AIDED DIAGNOSIS METHOD FOR EARLY DETECTION OF LUNG CANCER",
+                    "year_of_starting": "2007",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.E.",
+                            "specialization": "MEDICAL ELECTRONICS",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2007"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "13 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. ATHEENA MILAGI PANDIAN",
+                    "dob": "02-05-1987",
+                    "date_of_joining": "08-06-2015",
+                    "aicte_id": "ENGINEERING GUINDY--",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2008",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.E.",
+                            "specialization": "BIOMEDICAL ENGINEERING",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "7 Years",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "DR. K. SRIDIVYA KRISHNAN",
+                    "dob": "12-06-1992",
+                    "date_of_joining": "08-02-2019",
+                    "aicte_id": "PH.D. MADRAS INSTITUTE OF TECHNOLOGY CHROMPET-- 2023",
+                    "phd_thesis_title": "DESIGN AND IMPLEMENTATION OF REAL TIME WATER QUALITY PARAMETERS MONITORING USING LEAST SQUARES REGRESSION MODEL",
+                    "year_of_starting": "2013",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.E.",
+                            "specialization": "EMBEDDED SYSTEM",
+                            "college_name": "KNOWLEDGE INSTITUTE OF TECHNOLOGIES",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. N. SWEATHA",
+                    "dob": "14-10-1989",
+                    "date_of_joining": "14-06-2018",
+                    "aicte_id": "M.E. BIOMEDICAL ENGINEERING GUINDY-- 2016",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2011",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.E.",
+                            "specialization": "BIOMEDICAL ENGINEERING",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "BIOMEDICAL ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "MRS. R. NITHIYA",
+                    "dob": "21-02-1987",
+                    "date_of_joining": "05-06-2017",
+                    "aicte_id": "ELECTRONICS (AUTONOMOUS)--",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2008",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.E.",
+                            "specialization": "APPLIED ELECTRONICS AND TECHNOLOGY",
+                            "college_name": "PSNA COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. C. SRIDEVI",
+                    "dob": "03-09-1993",
+                    "date_of_joining": "04-03-2022",
+                    "aicte_id": "AU1 AND TECHNOLOGY CAMPUS, COIMBATORE--",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2015",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.E.",
+                            "specialization": "NANOSCIENCE AND TECHNOLOGY",
+                            "college_name": "ANNA UNIVESITY REGIONAL",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. C. BILNA",
+                    "dob": "15-09-1994",
+                    "date_of_joining": "22-05-2023",
+                    "aicte_id": "AU1 ENGINEERING ENGINEERING--",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2017",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.E.",
+                            "specialization": "BIOMEDICAL ENGINEERING",
+                            "college_name": "UDAYA SCHOOL OF ENGINEERING",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "BIOMEDICAL ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "MS. K. POOJA",
+                    "dob": "02-06-1999",
+                    "date_of_joining": "06-01-2023",
+                    "aicte_id": "AU1 M.TECH. SCIENCE AND TECHNOLOGY 2022",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2020",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "BIOMEDICAL ENGINEERING",
+                            "college_name": "SRM INSTITUTE OF ENGINEERING",
+                            "year_of_passing": "2022"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. B. RASHMI",
+                    "dob": "03-09-1996",
+                    "date_of_joining": "08-02-2021",
+                    "aicte_id": "110577836108 M.E. MEDICAL ELECTRONICS COLLEGE (AUTONOMOUS)-- 2020",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2018",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.E.",
+                            "specialization": "MEDICAL ELECTRONICS",
+                            "college_name": "RAJALAKSHMI ENGINEERING COLLEGE (AUTONOMOUS)",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

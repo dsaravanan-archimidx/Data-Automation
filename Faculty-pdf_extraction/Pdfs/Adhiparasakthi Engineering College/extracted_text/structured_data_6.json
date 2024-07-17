@@ -1,0 +1,67 @@
+{
+    "faculty_details": [
+        {
+            "department": "ELECTRICAL AND ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "DR. S.A. ELANKURISIL",
+                    "dob": "01-03-1973",
+                    "date_of_joining": "13-02-2015",
+                    "aicte_id": "461313813",
+                    "phd_thesis_title": "ANALYSIS AND INVESTIGATIONS ON INTELLIGENT CONTROLLED ZVS DC DC CONVERTER FED DC MOTOR",
+                    "year_of_starting": "2014",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "ADHIPARASAKTHI ENGINEERING COLLEGE",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "POWER ELECTRONICS AND DRIVES",
+                            "college_name": "SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2006"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "8 Years",
+                            "previous_position": "16 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. P. TAMIZHARASI",
+                    "dob": "01-05-1979",
+                    "date_of_joining": "11-12-2003",
+                    "aicte_id": "1461313821",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "ARUNAI ENGINEERING COLLEGE",
+                            "year_of_passing": "2000"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "POWER SYSTEMS",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2002"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "16 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

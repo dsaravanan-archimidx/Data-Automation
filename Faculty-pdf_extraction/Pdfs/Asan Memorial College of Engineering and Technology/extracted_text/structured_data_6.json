@@ -1,0 +1,44 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-English",
+            "faculty_members": [
+                {
+                    "name": "DR. C. RADHAKRISHNAN",
+                    "dob": "30-05-1985",
+                    "date_of_joining": "18-04-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "A STUDY ON THE FAMILY CONFLICTS AND THE RESULTING EXISTENTIAL CRISIS OF THE CHARACTERS IN JUDITH GUESTS SELECTED NOVELS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "GOVT ARTS ASSOCIATE COLLEGE",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "OTHERS-M S S WAKF BOARD",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ENGLISH",
+                            "college_name": "BARATHIYAR UNIVERSITY",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "9 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

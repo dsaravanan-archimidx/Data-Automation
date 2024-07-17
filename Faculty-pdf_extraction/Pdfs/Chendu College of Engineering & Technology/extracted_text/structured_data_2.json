@@ -1,0 +1,276 @@
+{
+    "faculty_details": [
+        {
+            "department": "Computer Science and Engineering",
+            "faculty_members": [
+                {
+                    "name": "MR. R. JAGANATHAN",
+                    "dob": "10-05-1977",
+                    "date_of_joining": "08-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "INSTRUMENTATION AND CONTROL ENGINEERING",
+                            "college_name": "UNIVERSITY OF MADRAS",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "CHENDU COLLEGE",
+                            "year_of_passing": "2007"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "COMPUTER ENGINEERING",
+                            "previous_position": " "
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. P. MARIMUTHU",
+                    "dob": "15-07-1988",
+                    "date_of_joining": "23-01-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH",
+                            "specialization": "INFORMATION TECHNOLOGY",
+                            "college_name": "BHARATHIDASAN H. TECHNOLOGY COLLEGE",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "DR PAULS ENGINEERING COLLEGE",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "COMPUTER ENGINEERING",
+                            "previous_position": " "
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. T. VIJILA",
+                    "dob": "26-06-1984",
+                    "date_of_joining": "02-05-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "MEENAKSHI COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "VINAYAGA MISSION UNIVERSITY",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "COMPUTER ENGINEERING",
+                            "previous_position": " "
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. K. SEETHA",
+                    "dob": "15-04-1990",
+                    "date_of_joining": "23-01-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "INFORMATION TECHNOLOGY",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "COMPUTER ENGINEERING",
+                            "previous_position": " "
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. B. TAMIZHPOONGUIL",
+                    "dob": "12-04-1989",
+                    "date_of_joining": "05-02-2018",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "INFORMATION TECHNOLOGY",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "SOFTWARE ENGINEERING",
+                            "college_name": "UNIVERSITY COLLEGE OF ENGINEERING, TIRUCHIRAPPALLI",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "COMPUTER ENGINEERING",
+                            "previous_position": " "
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. A. SUGANYA",
+                    "dob": "02-03-1994",
+                    "date_of_joining": "08-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "OTHERS-TRP ENGINEERING COLLEGE",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "ROEVER ENGINEERING COLLEGE",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "COMPUTER ENGINEERING",
+                            "previous_position": " "
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. P. RAJARAJACHOZHAN",
+                    "dob": "12-07-1991",
+                    "date_of_joining": "08-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "COMPUTER ENGINEERING",
+                            "previous_position": " "
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. P. RAMESH",
+                    "dob": "03-04-1977",
+                    "date_of_joining": "02-05-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.COM",
+                            "specialization": "COMMERCE",
+                            "college_name": "UNIVERSITY OF MADRAS",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "M.C.A.",
+                            "specialization": "COMPUTER APPLICATIONS",
+                            "college_name": "OPEN UNIVERSITY",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "VINAYAGA MISSION UNIVERSITY",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "COMPUTER ENGINEERING",
+                            "previous_position": " "
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. K. SOWMYA",
+                    "dob": "14-02-1993",
+                    "date_of_joining": "26-06-2017",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "ADHIPARASAKTHI ENGINEERING COLLEGE",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMMUNICATION AND NETWORKING",
+                            "college_name": "ADHIPARASAKTHI ENGINEERING COLLEGE",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "COMPUTER ENGINEERING",
+                            "previous_position": " "
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,213 @@
+{
+    "faculty_details": [
+        {
+            "department": "Electrical and Electronics Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. KATYAL. PRANATI",
+                    "dob": "08-10-1970",
+                    "date_of_joining": "14-06-2006",
+                    "aicte_id": "462460779",
+                    "phd_thesis_title": "INVESTIGATIONS ON DC DC CONVERTERS FOR A LOW POWER STANDALONE WINDSOLAR HYBRID SYSTEM",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "OTHERS",
+                            "college_name": "GOVERTMENT COLLEGE",
+                            "year_of_passing": "1992"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "ELECTRICAL",
+                            "college_name": "MAULANA AZAD NIT",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ELECTRICAL ENGINEERING",
+                            "college_name": "S LI EV GA ES U OB F R EA NM GA INN EI EY RA I NN GADAR",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "21 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. N. GNANASEKARAN",
+                    "dob": "31-05-1969",
+                    "date_of_joining": "23-12-2017",
+                    "aicte_id": "462460787",
+                    "phd_thesis_title": "OPTIMA OPERATION FOR RADIAL DISTRIBUTION SYSTEM BY SIMULTANEOUS NETWORK RECONFIGURATION AND CAPACITOR PLACEMENT",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS ENGINEERING AND ENGINEERING TECHNOLOGY",
+                            "college_name": "GO UL INL DE YG -E - OF ENGINEERING",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "P EO NW GIE NR E ESY RIS NT GEMS C",
+                            "college_name": "GO UL INL DE YG -E - OF ENGINEERING",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "E EL NE GC INT ER EIC RA INL G C",
+                            "college_name": "GO UL INL DE YG -E - OF ENGINEERING",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "16 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. N. NIMAIN CHARAN NAYAK",
+                    "dob": "10-09-1965",
+                    "date_of_joining": "16-06-2006",
+                    "aicte_id": "462460783",
+                    "phd_thesis_title": "HYBRID ALGORITHMS FOR SOLVING UNIT COMMITMENT PROBLEM IN HYDROTHERMAL POWER SYSTEM",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "AMIE",
+                            "specialization": "ENGINEERING",
+                            "college_name": "CTE COLLEGE",
+                            "year_of_passing": "1990"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "APPLICATION IN INDUSTRIAL DRIVES",
+                            "college_name": "MCE HASAN",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "POWER SYSTEMS ENGINEERING",
+                            "college_name": "SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "17 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. M. ANANDAN",
+                    "dob": "24-05-1972",
+                    "date_of_joining": "03-01-2007",
+                    "aicte_id": "462460791",
+                    "phd_thesis_title": "INVESTIGATION ON INDOOR AND OUTDOOR OBSTACLE DETECTION USING COMPUTER VISION TECHNIQUE FOR VISUALLY CHALLENGED PEOPLE",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "ENGG TECHNOLOGY",
+                            "college_name": "MADRAS INSTITUTE OF TECHNOLOGY CHROMPET",
+                            "year_of_passing": "1999"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ENGINEERING TECHNOLOGY",
+                            "college_name": "M I E T ENGINEERING COLLEGE",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ELECTRONICS ENGINEERING",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "18 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. N. DEEPA",
+                    "dob": "09-11-1977",
+                    "date_of_joining": "15-05-2008",
+                    "aicte_id": "462576469",
+                    "phd_thesis_title": "LASER ELECTRO COLLEGE OF ENGINEERING",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS ENGINEERING",
+                            "college_name": "JERUSALEM COLLEGE OF ENGINEERING",
+                            "year_of_passing": "1999"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "OPTICAL ENGG",
+                            "college_name": "GUINDY",
+                            "year_of_passing": "2001"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "17 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. V. GNANASEKAR",
+                    "dob": "15-06-1978",
+                    "date_of_joining": "02-06-2004",
+                    "aicte_id": "",
+                    "phd_thesis_title": "A PROGRAMMABLE CONTROLLER DESIGN FOR DELAY REDUCTION IN INDUSTRIAL WIRELESS SENSOR NETWORKS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+                            "college_name": "K L N COLLEGE OF ENGG",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "O INT SH TE RR US M - EC NO TN AT TR IOO NLSYSTEM",
+                            "college_name": "OUT NH IVE ER RS S-S ITA YSTRA",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "E EL NE GC INT ER EIC RA INL G AND ELECTRONICS",
+                            "college_name": "OUT NH IVE ER RS S-A ITN YNA",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "8 Years",
+                            "previous_position": "10 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

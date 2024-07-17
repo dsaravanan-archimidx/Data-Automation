@@ -1,0 +1,429 @@
+{
+    "faculty_details": [
+        {
+            "department": "INSTRUMENTATION AND CONTROL ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "DR. R. SIVAKUMAR",
+                    "dob": "18-06-1978",
+                    "date_of_joining": "31-05-2001",
+                    "aicte_id": "1452222828",
+                    "phd_thesis_title": "DESIGN AND DEVELOPMENT OF FUZZY CONTROLLERS FOR MIMO SYSTEMS APPLICABLE TO DISTILLATION COLUMN",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS AND INSTRUMENTATION ENGINEERING",
+                            "college_name": "ADHIYAMAAN COLLEGE OF ENGINEERING (AUTONOMOUS)",
+                            "year_of_passing": "1999"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "PROCESS DYANMICS AND CONTROL ENGINEERING",
+                            "college_name": "SREE KRISHNA COLLEGE OF TECHNOLOGY",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "PROCESS DYANMICS AND CONTROL ENGINEERING",
+                            "college_name": "SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "17 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. C N. GNANAPRAKASAM",
+                    "dob": "30-07-1977",
+                    "date_of_joining": "09-02-2007",
+                    "aicte_id": "1453427160",
+                    "phd_thesis_title": "VIBRATION ANALYSIS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS AND CONTROL ENGINEERING",
+                            "college_name": "ST JOSEPHS COLLEGE OF ENGINEERING (AUTONOMOUS)",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+                            "college_name": "PONDICHERRY ENGINEERING COLLEGE",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CONTROL SYSTEMS",
+                            "college_name": "SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "20 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. R. KOTTEESWARAN",
+                    "dob": "22-05-1977",
+                    "date_of_joining": "14-09-2005",
+                    "aicte_id": "1453828964",
+                    "phd_thesis_title": "OPTIMAL CONTROL OF BASELINE PI CONTROLLER USING HEURISTIC ALGORITHMS FOR GASIFIER CONTROL",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "INSTRUMENTATION AND CONTROL ENGINEERING",
+                            "college_name": "AMMAN COLLEGE OF ENGINEERING",
+                            "year_of_passing": "1999"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "INSTRUMENTATION AND CONTROL",
+                            "college_name": "NATIONAL ENGINEERING COLLEGE",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CONTROL SYSTEMS",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "23 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. S. MEENA",
+                    "dob": "27-06-1981",
+                    "date_of_joining": "02-06-2008",
+                    "aicte_id": "1453828401",
+                    "phd_thesis_title": "CERTAIN INVESTIGATIONS ON OPTIMIZATION OF A CONTROLLER FOR NON LINEAR PROCESSES AND ITS IMPLEMENTATION IN EMBEDDED SYSTEMS AND FPGA",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS AND INSTRUMENTATION ENGINEERING",
+                            "college_name": "SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ELECTRONICS AND CONTROL ENGINEERING",
+                            "college_name": "SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "EMBEDDED SYSTEMS",
+                            "college_name": "INSTITUTE OF SCIENCE AND TECHNOLOGY",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "14 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. V. VIJAYAN",
+                    "dob": "10-05-1974",
+                    "date_of_joining": "21-06-2006",
+                    "aicte_id": "1453427152",
+                    "phd_thesis_title": "DESIGN OF SET POINT FILTER AND DOUBLE FEEDBACK CONTROLLER BASED ON PROCESS MODEL IDENTIFICATION FOR IMPROVEMENT OF SYSTEM PERFORMANCE",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "CONTROL ENGINEERING",
+                            "college_name": "MADRAS INSTITUTE OF ENGINEERING TECHNOLOGY CHROMPET",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "PROCESS DYANMICS AND CONTROL ENGINEERING",
+                            "college_name": "LEATHER RESEARCH INSTITUTE",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "PROCESS DYANMICS AND CONTROL ENGINEERING",
+                            "college_name": "LEATHER RESEARCH INSTITUTE",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "21 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. P. DEEPA",
+                    "dob": "25-11-1975",
+                    "date_of_joining": "26-05-1997",
+                    "aicte_id": "1452222981",
+                    "phd_thesis_title": "INTELLIGENT LIQUID LEVEL CONTROL IN A SPHERICAL TANK SYSTEM",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "CONTROL ENGINEERING",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "1997"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ELECTRONICS AND INSTRUMENTATION ENGINEERING",
+                            "college_name": "SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "PROCESS DYANMICS AND CONTROL TECHNOLOGY",
+                            "college_name": "MADRAS INSTITUTE OF ENGINEERING TECHNOLOGY CHROMPET",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "7 Years",
+                            "previous_position": "18 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. B. SENTHILKUMAR",
+                    "dob": "09-04-1978",
+                    "date_of_joining": "18-06-2007",
+                    "aicte_id": "1453722402",
+                    "phd_thesis_title": "SLIDING MODE CONTROLLERS FOR NON LINEAR CHEMICAL PROCESSES WITH MARKED AND UNMARKED PETURBATION",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS AND CONTROL ENGINEERING",
+                            "college_name": "ST JOSEPHS COLLEGE OF ENGINEERING (AUTONOMOUS)",
+                            "year_of_passing": "1999"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "INSTRUMENTATION ENGINEERING",
+                            "college_name": "ST JOSEPHS COLLEGE OF ENGINEERING (AUTONOMOUS)",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ELECTRONICS ENGINEERING",
+                            "college_name": "ST JOSEPHS COLLEGE OF ENGINEERING (AUTONOMOUS)",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "15 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. D. SANKARAN",
+                    "dob": "20-03-1972",
+                    "date_of_joining": "17-06-2009",
+                    "aicte_id": "1453722983",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "INSTRUMENTATION ENGINEERING",
+                            "college_name": "ST JOSEPHS COLLEGE OF ENGINEERING (AUTONOMOUS)",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ELECTRONICS AND CONTROL ENGINEERING",
+                            "college_name": "SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CONTROL ENGINEERING",
+                            "college_name": "SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "11 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. R. ANGEL SUJITHA",
+                    "dob": "15-07-1989",
+                    "date_of_joining": "23-07-2014",
+                    "aicte_id": "12485960668",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "INSTRUMENTATION ENGINEERING",
+                            "college_name": "ST JOSEPHS COLLEGE OF ENGINEERING (AUTONOMOUS)",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "INSTRUMENTATION ENGINEERING",
+                            "college_name": "GUINDY",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "8 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. A. KIRTHINI GODWEENA",
+                    "dob": "22-05-1992",
+                    "date_of_joining": "17-06-2015",
+                    "aicte_id": "12899018341",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "INSTRUMENTATION ENGINEERING",
+                            "college_name": "ST JOSEPHS COLLEGE OF ENGINEERING (AUTONOMOUS)",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "INSTRUMENTATION ENGINEERING",
+                            "college_name": "ST JOSEPHS COLLEGE OF ENGINEERING (AUTONOMOUS)",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "7 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. DEVAKUMAR",
+                    "dob": "21-04-1981",
+                    "date_of_joining": "01-08-2014",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "INSTRUMENTATION ENGINEERING",
+                            "college_name": "ST JOSEPHS COLLEGE OF ENGINEERING (AUTONOMOUS)",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "INSTRUMENTATION ENGINEERING",
+                            "college_name": "ST JOSEPHS COLLEGE OF ENGINEERING (AUTONOMOUS)",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "8 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. N. HARIPRASAD",
+                    "dob": "15-10-1987",
+                    "date_of_joining": "01-08-2013",
+                    "aicte_id": "12190156530",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "INSTRUMENTATION ENGINEERING",
+                            "college_name": "JAYA ENGINEERING COLLEGE",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "INSTRUMENTATION ENGINEERING",
+                            "college_name": "THIAGARAJAR COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "9 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

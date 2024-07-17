@@ -1,0 +1,247 @@
+{
+    "faculty_details": [
+        {
+            "department": "Civil Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. P. KASINATHA PANDIAN",
+                    "dob": "13-04-1962",
+                    "date_of_joining": "29-08-2016",
+                    "aicte_id": "13366537359",
+                    "phd_thesis_title": "COASTAL DYNAMICS OF NORTH CHENNAI COAST SOUTHEAST INDIA",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Civil Engineering",
+                            "college_name": "PRINCIPAL ENGINEERING COLLEGE OF GUINDY",
+                            "year_of_passing": "1993"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Water Resources Engineering",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": "Coastal Engineering",
+                            "college_name": "COASTAL ENGINEERING COLLEGE OF GUINDY",
+                            "year_of_passing": "2002"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "23 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. K. ARUN RAJA",
+                    "dob": "10-06-1992",
+                    "date_of_joining": "06-02-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Civil Engineering",
+                            "college_name": "OTHERS-SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Structural Engineering",
+                            "college_name": "OTHERS-SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. L V. UMASHANKAR M P NACHIMUTHU M JAGANATHAN",
+                    "dob": "28-08-1986",
+                    "date_of_joining": "30-11-2020",
+                    "aicte_id": "19310982461",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Civil Engineering",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Structural Engineering",
+                            "college_name": "R V S COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "9 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. S. SHARMILA",
+                    "dob": "31-07-1987",
+                    "date_of_joining": "06-02-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Civil Engineering",
+                            "college_name": "COLLEGE OF ENGINEERING JERUSALEM",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Construction Engineering and Management",
+                            "college_name": "COLLEGE OF ENGINEERING JERUSALEM",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. VIJAYAKUMAR",
+                    "dob": "19-09-1981",
+                    "date_of_joining": "04-01-2021",
+                    "aicte_id": "110550258659",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH",
+                            "specialization": "Civil Engineering",
+                            "college_name": "OTHERS-SRM UNIVERSITY",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.TEC",
+                            "specialization": "Structural Engineering",
+                            "college_name": "OTHERS-SRM UNIVERSITY",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. D. DAVID BLESSINGTON",
+                    "dob": "25-11-1996",
+                    "date_of_joining": "06-02-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Civil Engineering",
+                            "college_name": "JEPPIAAR COLLEGE",
+                            "year_of_passing": "2018"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Construction Engineering and Management",
+                            "college_name": "AVIT COLLEGE",
+                            "year_of_passing": "2022"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. RAGHURAM ADHIPARASAKTHI",
+                    "dob": "22-07-1994",
+                    "date_of_joining": "20-02-2019",
+                    "aicte_id": "17394013327",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Civil Engineering",
+                            "college_name": "VEL TECH HIGH TECH DR RANGARAJAN DR SAKUNTHALA ENGINEERING COLLEGE",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Structural Engineering",
+                            "college_name": "VEL TECH HIGH TECH DR RANGARAJAN DR SAKUNTHALA ENGINEERING COLLEGE",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. K. MENAKA",
+                    "dob": "22-10-1992",
+                    "date_of_joining": "14-03-2022",
+                    "aicte_id": "19497775180",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Civil Engineering",
+                            "college_name": "G K M COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Structural Engineering",
+                            "college_name": "ARULMIGU MEENAKSHI AMMAN ENGINEERING COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

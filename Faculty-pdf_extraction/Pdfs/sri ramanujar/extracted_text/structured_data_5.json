@@ -1,0 +1,380 @@
+{
+    "faculty_details": [
+        {
+            "department": "Mechanical Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. N. VENKATESAN",
+                    "dob": "02-05-1975",
+                    "date_of_joining": "16-05-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "STUDY ON CHARACTERISATION AND PHYSICAL PROPERTIES OF POLYMER NANO COMPOSITES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "ADHIPARASAKTHI ENGINEERING COLLEGE",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "MECHANICAL",
+                            "college_name": "IIT MADRAS",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ENGINEERING",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "2009"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "23 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. R. BALAGANGATHARA THILAGAR",
+                    "dob": "02-05-1980",
+                    "date_of_joining": "18-10-2016",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "THERMAL POWER ENGINEERING",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2006"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "11 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. M. RAJAMOHAN",
+                    "dob": "03-06-1982",
+                    "date_of_joining": "25-04-2016",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL",
+                            "college_name": "DR NAVALAR NEDUNCHEZHIYAN ENGINEERING COLLEGE",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "THERMAL POWER ENGINEERING",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2005"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "10 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. E. ARTRALARASAN",
+                    "dob": "04-11-1988",
+                    "date_of_joining": "03-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "AUTOMOBILE ENGINEERING",
+                            "college_name": "P S G COLLEGE OF TECHNOLOGY",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "REFRIGERATION AND AIR CONDITIONING",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. E. CHANDRAMOHAN",
+                    "dob": "03-06-1975",
+                    "date_of_joining": "28-12-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.E.",
+                            "specialization": "CAD/CAM",
+                            "college_name": "M - ADHA ENGINEERING COLLEGE",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. K R. PRASANTH",
+                    "dob": "06-11-1991",
+                    "date_of_joining": "02-07-2018",
+                    "aicte_id": " ",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "ARM COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ENGINEERING DESIGN",
+                            "college_name": "ARM COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. A. SACHIDHANANDHAM",
+                    "dob": "01-03-1995",
+                    "date_of_joining": "18-02-2020",
+                    "aicte_id": " ",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL",
+                            "college_name": "SRI RAMANUJAR ENGINEERING COLLEGE",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER AIDED DESIGN",
+                            "college_name": "SRI RAMANUJAR ENGINEERING COLLEGE",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. R. PRABHAKARAN",
+                    "dob": "26-05-1985",
+                    "date_of_joining": "23-12-2013",
+                    "aicte_id": " ",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "G K M COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "CAD/CAM",
+                            "college_name": "THIRUVALLUVAR COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "9 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. E. KALAIARASAN",
+                    "dob": "22-06-1990",
+                    "date_of_joining": "03-11-2016",
+                    "aicte_id": " ",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "ADHIPARASAKTHI ENGINEERING COLLEGE",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "MANUFACTURING ENGINEERING",
+                            "college_name": "SHRI ANDAL ALAGAR COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. R. MADHAVA SHANKAR",
+                    "dob": "21-03-1988",
+                    "date_of_joining": "07-11-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ENGINEERING",
+                            "college_name": "KENNEDY ENGINEERING COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. MURUGAN. KATHIRVEL",
+                    "dob": "19-03-1993",
+                    "date_of_joining": "04-09-2017",
+                    "aicte_id": " ",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "ARS COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ENERGY ENGINEERING",
+                            "college_name": "COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. K. SIVA",
+                    "dob": "24-11-1989",
+                    "date_of_joining": "19-11-2013",
+                    "aicte_id": " ",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL",
+                            "college_name": "SRI RANGAPOOPATHI COLLEGE",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "MANUFACTURING ENGINEERING",
+                            "college_name": "MADRAS INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "9 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. P. LAKSHMANAN",
+                    "dob": "03-04-1988",
+                    "date_of_joining": "30-06-2016",
+                    "aicte_id": " ",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "AUTOMOBILE",
+                            "college_name": "BHARATHIDASAN INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER AIDED DESIGN",
+                            "college_name": "SRI RAMANUJAR ENGINEERING COLLEGE",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,300 @@
+{
+    "faculty_details": [
+        {
+            "department": "BioTechnology",
+            "faculty_members": [
+                {
+                    "name": "DR. G. SREEKUMAR",
+                    "dob": "21-02-1968",
+                    "date_of_joining": "04-06-2003",
+                    "aicte_id": "1456502501",
+                    "phd_thesis_title": "STUDIES ON THE PRODUCTION IMPROVED PROBIOTIC ORGANISMS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "ZOOLOGY",
+                            "college_name": "THE NEW COLLEGE",
+                            "year_of_passing": "1989"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "ALAGAPPA COLLEGE OF TECHNOLOGY",
+                            "year_of_passing": "1994"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "BIOPROCESS ENGINEERING",
+                            "college_name": "SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "19 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. S. JUSTIN PACKIA JACOB",
+                    "dob": "14-03-1972",
+                    "date_of_joining": "16-06-2003",
+                    "aicte_id": "1456502513",
+                    "phd_thesis_title": "GENETIC IMPROVEMENT OF A FEW EDIBLE MUSHROOMS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "BOTANY",
+                            "college_name": "OTHERS-SCOTT CHRISTIAN COLLEGE",
+                            "year_of_passing": "1993"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "OTHERS-SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "OTHERS-KERALA UNIVERSITY",
+                            "year_of_passing": "2001"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "16 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. L F A. ANAND RAJ",
+                    "dob": "02-02-1976",
+                    "date_of_joining": "02-06-2004",
+                    "aicte_id": "1456502517",
+                    "phd_thesis_title": "BIOCHEMICAL HISTOLOGICAL AND CYTOGENETIC STUDIES ON SYZIGIUM CUMINI AND ZINGIBER OFFICINALE IN ALBINO RATS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "BIOCHEMISTRY",
+                            "college_name": "OTHERS-M I E T ARTS COLLEGE",
+                            "year_of_passing": "1996"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "OTHERS-SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "BIOCHEMISTRY",
+                            "college_name": "OTHERS-LOYOLA COLLEGE",
+                            "year_of_passing": "2005"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "14 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. C. KARTHIK",
+                    "dob": "19-09-1981",
+                    "date_of_joining": "01-06-2010",
+                    "aicte_id": "1456502525",
+                    "phd_thesis_title": "WATER TREATMENT USING SILVER NANOPARTICLES FROM ENTEROBACTER AEROGENES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "ALAGAPPA COLLEGE OF TECHNOLOGY",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "INDUSTRIAL BIOTECHNOLOGY",
+                            "college_name": "OTHERS-ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "ALAGAPPA COLLEGE OF TECHNOLOGY",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "12 Years",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. S. YUWVARANNI",
+                    "dob": "19-12-1987",
+                    "date_of_joining": "01-08-2013",
+                    "aicte_id": "12187020493",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "SREE SASTHA INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "OTHERS-ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "9 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. D G. CAROLINE",
+                    "dob": "26-12-1989",
+                    "date_of_joining": "22-06-2015",
+                    "aicte_id": "1738160734",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "ST JOSEPHS COLLEGE OF ENGINEERING (AUTONOMOUS)",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "ST JOSEPHS COLLEGE OF ENGINEERING (AUTONOMOUS)",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "7 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. K R. PREETHY",
+                    "dob": "22-12-1987",
+                    "date_of_joining": "01-07-2013",
+                    "aicte_id": "12187883319",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "ST JOSEPHS COLLEGE OF ENGINEERING (AUTONOMOUS)",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "ALAGAPPA COLLEGE OF TECHNOLOGY",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "9 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. L. ANTONY CATHERINE FLORA",
+                    "dob": "19-04-1988",
+                    "date_of_joining": "11-07-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "EXTRACTION OF CELLULOSE AND HEMICELLULOSE FROM AGRO WASTE RESIDUES AND EVALUATING THEIR REINFORCEMENT EFFECT AS NANOPARTICLES IN STARCH FILMS FOR FOOD PACKAGING APPLICATIONS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "ALAGAPPA COLLEGE OF TECHNOLOGY",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "CHEMICAL ENGINEERING",
+                            "college_name": "ALAGAPPA COLLEGE OF TECHNOLOGY",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "FOOD TECHNOLOGY",
+                            "college_name": "ALAGAPPA COLLEGE OF TECHNOLOGY",
+                            "year_of_passing": "2022"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. R. UMAMAGESHWARI",
+                    "dob": "08-11-1995",
+                    "date_of_joining": "11-07-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "JEPPIAAR ENGINEERING COLLEGE",
+                            "year_of_passing": "2017"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "ST JOSEPHS COLLEGE OF ENGINEERING (AUTONOMOUS)",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

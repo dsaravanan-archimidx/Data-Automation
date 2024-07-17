@@ -1,0 +1,378 @@
+{
+    "faculty_details": [
+        {
+            "department": "ELECTRICAL AND OTHERS",
+            "faculty_members": [
+                {
+                    "name": "MR. T. MANIMARAN",
+                    "dob": "10-10-1992",
+                    "date_of_joining": "05-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "POWER",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2017"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ELECTRONICS AND DRIVES",
+                            "college_name": "TAGORE ENGINEERING COLLEGE",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "ELECTRICAL AND OTHERS",
+            "faculty_members": [
+                {
+                    "name": "MS. B. BRINDHA SAKTHI",
+                    "dob": "15-07-1990",
+                    "date_of_joining": "05-12-2016",
+                    "aicte_id": "13360245612",
+                    "phd_thesis_title": "POWER",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "MAHARAJA ENGINEERING COLLEGE",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ELECTRONICS AND DRIVES",
+                            "college_name": "P A COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "OTHERS-M E S COLLEGE OF ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "MS. VARGHESE. JITHA",
+                    "dob": "10-09-1981",
+                    "date_of_joining": "27-06-2016",
+                    "aicte_id": "13287562415",
+                    "phd_thesis_title": "POWER SYSTEM",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "OTHERS - EEE",
+                            "college_name": "KERALA INSTITUTE",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "EDUCATIONAL RESEARCH",
+                            "college_name": "DR MGR INSTITUTE OF EDUCATIONAL RESEARCH",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "ELECTRONICS AND COMMUNICATION TECHNOLOGY",
+            "faculty_members": [
+                {
+                    "name": "MS. M. RAMYA",
+                    "dob": "13-10-1991",
+                    "date_of_joining": "01-03-2017",
+                    "aicte_id": "17373873631",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION TECHNOLOGY",
+                            "college_name": "K C G COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "APPLIED ELECTRONICS",
+                            "college_name": "THANGAVELU ENGINEERING COLLEGE",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "MRS. K. JARALINE KIRUBAVATHY",
+                    "dob": "03-03-1985",
+                    "date_of_joining": "05-12-2011",
+                    "aicte_id": "1774541550",
+                    "phd_thesis_title": "VLSI DESIGN",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "KARUNYA INSTITUTE OF ENGINEERING",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "OTHERS - VLSI DESIGN",
+                            "college_name": "INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "11 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "CIVIL ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "MR. J. PHILIPS",
+                    "dob": "12-03-1987",
+                    "date_of_joining": "07-03-2022",
+                    "aicte_id": "19524476558",
+                    "phd_thesis_title": "STRUCTURAL ENGINEERING",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "",
+                            "college_name": "GOVERNMENT COLLEGE OF ENGINEERING TIRUNELVELI",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ENGINEERING AND TECHNOLOGY",
+                            "college_name": "ALAGAPPA CHETTIAR COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "MECHANICAL ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "MR. K. GOBIVEL",
+                    "dob": "17-11-1989",
+                    "date_of_joining": "22-06-2015",
+                    "aicte_id": "12707324381",
+                    "phd_thesis_title": "MANUFACTURING ENGINEERING",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "",
+                            "college_name": "JAYA ENGINEERING COLLEGE",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "PRODUCTION TECHNOLOGY AND APPLIED ENGINEERING",
+                            "college_name": "FRANCIS XAVIER ENGINEERING COLLEGE",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "7 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "OTHERS - INSTRUMENTATION ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "MS. M. LAVANYA",
+                    "dob": "26-12-1982",
+                    "date_of_joining": "23-06-2014",
+                    "aicte_id": "12307902409",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "INSTRUMENTATION",
+                            "college_name": "M A M COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "APPLIED ELECTRONICS",
+                            "college_name": "J J COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "8 Years",
+                            "previous_position": "9 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "ELECTRONICS AND COMMUNICATION TECHNOLOGY",
+            "faculty_members": [
+                {
+                    "name": "MS. P. VINOTHA",
+                    "dob": "04-09-1992",
+                    "date_of_joining": "19-06-2019",
+                    "aicte_id": "17374260299",
+                    "phd_thesis_title": "VLSI DESIGN",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION TECHNOLOGY",
+                            "college_name": "K C G COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "VLSI DESIGN",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "MECHANICAL ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "MR. S. MATHAVAN",
+                    "dob": "05-03-1993",
+                    "date_of_joining": "03-06-2019",
+                    "aicte_id": "17376211983",
+                    "phd_thesis_title": "COMBUSTION ENGINEERING",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "SRI BALAJI CHOCKALINGAM ENGINEERING COLLEGE",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMBUSTION ENGINEERING",
+                            "college_name": "INTERNAL COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "AUTOMOBILE ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "MR. V A. SHRIDHAR",
+                    "dob": "15-06-1985",
+                    "date_of_joining": "02-08-2021",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "MANUFACTURING ENGINEERING",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "",
+                            "college_name": "HINDUSTAN COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "MANUFACTURING ENGINEERING",
+                            "college_name": "OTHERS-MIT ENGINEERING COLLEGE",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

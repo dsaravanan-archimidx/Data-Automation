@@ -1,0 +1,394 @@
+{
+    "faculty_details": [
+        {
+            "department": "Mathematics",
+            "faculty_members": [
+                {
+                    "name": "DR. B. PRABA",
+                    "dob": "30-05-1965",
+                    "date_of_joining": "01-06-2001",
+                    "aicte_id": "461311883",
+                    "phd_thesis_title": "COHOMOLOGY OF INVERSE SEMI GROUPS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "ADM COLLEGE FOR WOMEN",
+                            "year_of_passing": "1985"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "TBML COLLEGE",
+                            "year_of_passing": "1987"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "RAMANUJAN INSTITUTE FOR ADVANCED STUDY IN MATHEMATICS",
+                            "year_of_passing": "1997"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "21 Years",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. S. NARASIMMAN",
+                    "dob": "04-08-1960",
+                    "date_of_joining": "01-10-2011",
+                    "aicte_id": "1461311901",
+                    "phd_thesis_title": "FLOW OF NONNEWTONIAN FLUIDS IN ROTATING SYSTEMS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "THE AMERICAN COLLEGE",
+                            "year_of_passing": "1981"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "APPLIED MATHEMATICS ENGG",
+                            "college_name": "THIYAGARAJAR COLLEGE OF",
+                            "year_of_passing": "1984"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "IIT BOMBAY",
+                            "year_of_passing": "1991"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "11 Years",
+                            "previous_position": "18 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. N. PADMAPRIYA",
+                    "dob": "12-08-1972",
+                    "date_of_joining": "18-06-2009",
+                    "aicte_id": "1461311905",
+                    "phd_thesis_title": "A GENERIC FRAMEWORK FOR COLOUR TEXTURE SEGMENTATION",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "THE ETHIRAJ COLLEGE FOR WOMEN",
+                            "year_of_passing": "1992"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "QUEEN MARYS COLLEGE",
+                            "year_of_passing": "1994"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "DUBLIN CITY UNIVERSITY IRELAND",
+                            "year_of_passing": "2004"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "9 Years",
+                            "previous_position": "10 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. R. SUNDARESWARAN",
+                    "dob": "06-03-1977",
+                    "date_of_joining": "23-05-2012",
+                    "aicte_id": "11475724902",
+                    "phd_thesis_title": "PARAMETERS OF VULNERABILITY IN GRAPHS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "THIARAJAR COLLEGE",
+                            "year_of_passing": "1994"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "S N COLLEGE",
+                            "year_of_passing": "1997"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "MKU",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "10 Years",
+                            "previous_position": "6 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. I. JAYAKARAN AMALRAJ MEENAMBAKKAM",
+                    "dob": "31-03-1967",
+                    "date_of_joining": "14-10-1997",
+                    "aicte_id": "1461311967",
+                    "phd_thesis_title": "RHEODYANMIC LUBRICATION OF AN EXTERNALLY PRESSUIZED THRUST BEARING USING VISCO PLASTIC LUBRICANTS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "AM JAIN COLLEGE",
+                            "year_of_passing": "1987"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "MADRAS CHRISTIAN COLLEGE",
+                            "year_of_passing": "1990"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "NITK SURATHKAL",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "24 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. S. SOPHIA",
+                    "dob": "28-06-1968",
+                    "date_of_joining": "07-07-2010",
+                    "aicte_id": "1461311913",
+                    "phd_thesis_title": "TRANSIENT ANALYSIS OF STATE DEPENDENT QUEUES AND THEIR ASSOCIATED FLUID QUEUES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "AUXILIUM COLLEGE",
+                            "year_of_passing": "1988"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "ST JOSEPHS COLLEGE",
+                            "year_of_passing": "1990"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "10 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. S. VANITHA",
+                    "dob": "16-05-1980",
+                    "date_of_joining": "23-12-2010",
+                    "aicte_id": "1461311909",
+                    "phd_thesis_title": "ANALYSIS OF SOME STOCHASTIC QUEUEING SYSTEMS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "CTTE COLLEGE FOR WOMEN",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "STOCHASTIC PROCESSES",
+                            "college_name": "RIASM",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "12 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. M. SUNDARAKANNAN",
+                    "dob": "21-01-1983",
+                    "date_of_joining": "29-06-2011",
+                    "aicte_id": "1768959876",
+                    "phd_thesis_title": "EQUIVALENCE DOMINATION IN GRAPHS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "THIAGARAJAR COLLEGE",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "THIAGARAJAR COLLEGE",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "KALASALINGAM UNIVERSITY",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "11 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. S. YUGESH",
+                    "dob": "22-05-1989",
+                    "date_of_joining": "30-03-2016",
+                    "aicte_id": "13356734700",
+                    "phd_thesis_title": "A STUDY ON LOCAL AVERAGE SAMPLING AND RECONSTRUCTION",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "C KANDASAMI NAIDU COLLEGE FOR MEN CHENNAI",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "APPLIED MATHEMATICS",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. TM. RAJALAXMI",
+                    "dob": "18-12-1984",
+                    "date_of_joining": "10-06-2013",
+                    "aicte_id": "12195811724",
+                    "phd_thesis_title": "A STUDY ON FUZZY HIDDEN MARKOV CHAIN AND LONG TERM BEHAVIOR OF CYCLIC NON HOMOGENEOUS FUZZY MARKOV CHAIN",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "MADRAS INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "APPLIED MATHEMATICS",
+                            "college_name": "CHROMPET",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "9 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. M. SHANMUGAPRIYA",
+                    "dob": "04-04-1979",
+                    "date_of_joining": "02-06-2008",
+                    "aicte_id": "1461311975",
+                    "phd_thesis_title": "THERMODYNAMICAL ANALYSIS FREE AND FORCED CONVECTIVE FLOWS WITH UNIFORM SUCTION AND INJECTION",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "GANDHIGRAM RURUAL UNIVERSITY",
+                            "year_of_passing": "1999"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "JAYA COLLEGE",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "2008"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "14 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-Physics",
+            "faculty_members": [
+                {
+                    "name": "DR. N. PADMAMALINI",
+                    "dob": "06-10-1973",
+                    "date_of_joining": "21-12-2018",
+                    "aicte_id": "12710072844",
+                    "phd_thesis_title": "INVESTIGATION OF OPTICAL AND DIELECTRIC PROPERTIES OF NANOZIRCONIA AND ZIRCONIUM BASED NANO COMPOSITES FOR EFFICITIVE GATE DIELECTIES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "D N B VAISHNAV COLLEGE",
+                            "year_of_passing": "1993"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "QUEEN MARYS COLLEGE",
+                            "year_of_passing": "1995"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "PHYSICS",
+                            "college_name": "BHARATHIYAR UNIVERSITY",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "17 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. S. PHILIP RAJA",
+                    "dob": "22-06-1982",
+                    "date_of_joining": "01-08-2011",
+                    "aicte_id": "1760679948",
+                    "phd_thesis_title": "INVESTIGATION OF MAGNETICALLY DOPED OXIDE BASED SEMICONDUCTORS AND INSULATORS FOR SPINTRONICS APPLICATIONS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "SCIENCE COLLEGE VILLUPURAM",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "PRESIDENCY COLLEGE CHENNAI",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "PHYSICS",
+                            "college_name": "UNIVERSITY OF MADRAS",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "8 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. K. MANIMEKALAI",
+                    "dob": "12-10-1975",
+                    "date_of_joining": "19-12-2019",
+                    "aicte_id": "1758508388",
+                    "phd_thesis_title": "INVESTIGATION ON THE EFFECT OF CHLORIDES AMINO ACIDS AND DICARBOXYLIC ACIDS IN THE GROWTH AND CHARACTERIZATION OF POTTASSIUM DIHYDROGEN PHOSPHATE A NON LINEAR OPTICAL CRYSTAL",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "GOVT ARTS COLLEGE THIRUVANNAMALAI",
+                            "year_of_passing": "1995"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "PHYSICS",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "14 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. P. JAYAPRAKASH",
+                    "dob": "16-05-1985",
+                    "date_of_joining": "01-06-2019",
+                    "aicte_id": "7415225735",
+                    "phd_thesis_title": "INVESTIGATIONS ON MANDELIC ACID BASED SINGLE CRYSTALS FOR NONLINEAR OPTICAL APPLICATIONS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "ARIGNAR ANNA GOVT ARTS COLLEGE CHEYYAR",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "PACHAIYAPPAS COLLEGE CHENNAI",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "PHYSICS",
+                            "college_name": "ARIGNAR ANNA GOVT ARTS COLLEGE CHEYYAR",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

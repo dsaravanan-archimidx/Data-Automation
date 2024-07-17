@@ -1,0 +1,149 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-Chemistry",
+            "faculty_members": [
+                {
+                    "name": "DR. S. SAKTHI RAADHA",
+                    "dob": "06-04-1966",
+                    "date_of_joining": "02-03-2005",
+                    "aicte_id": "463410745",
+                    "phd_thesis_title": "SEMICONDUCTOR PHOTOCATALYST",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "FATHIMA COLLEGE",
+                            "year_of_passing": "1987"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "FATHIMA COLLEGE",
+                            "year_of_passing": "1989"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "PHYSICAL CHEMISTRY",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "13 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. M. ARJUNAN",
+                    "dob": "02-06-1967",
+                    "date_of_joining": "11-08-2022",
+                    "aicte_id": "111042437521",
+                    "phd_thesis_title": "PROTECTED AREAS AND PEOPLE A CASE STUDY OF FOREST RESOURCE USE AND HUMAN IMPACT IN THE KALAKADMUNDANTHURAI TIGER RESERVE",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "GOVT ARTS COLLEGE",
+                            "year_of_passing": "1993"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "ENVIRONMENTAL CHEMISTRY",
+                            "college_name": "PONDICHERRY UNIVERSITY",
+                            "year_of_passing": "1997"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ENVIRONMENTAL CHEMISTRY",
+                            "college_name": "PONDICHERRY UNIVERSITY",
+                            "year_of_passing": "2005"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "14 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. R. JOTHIRANI",
+                    "dob": "04-04-1973",
+                    "date_of_joining": "08-07-2002",
+                    "aicte_id": "470119594",
+                    "phd_thesis_title": "ADSORPTION OF BASIC DYES ONTO ULTRASONIC MODIFIED AGRICULTURAL WASTE",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "S F R COLLE FOR WOMEN",
+                            "year_of_passing": "1994"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "S F R COLLEGE FOR WOMEN",
+                            "year_of_passing": "1996"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "APPLIED CHEMISTRY",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "7 Years",
+                            "previous_position": "13 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. A. KUMARESAN",
+                    "dob": "10-06-1992",
+                    "date_of_joining": "23-01-2023",
+                    "aicte_id": "43378414902",
+                    "phd_thesis_title": "STUDIES ON FABRICATION AND APPLICATION OF LAYERED DOUBLE HYDROXIDES AND RELEVANT COMPOSITES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "UNIVERSITY OF MADRAS",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "UNIVERSITY OF MADRAS",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "UNIVERSITYOF CHINESE ACADEMY OF SCIENCES",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

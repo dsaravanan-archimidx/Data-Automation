@@ -1,0 +1,137 @@
+{
+    "faculty_details": [
+        {
+            "department": "Mathematics",
+            "faculty_members": [
+                {
+                    "name": "DR. G. SUBASHINI",
+                    "dob": "08-08-1981",
+                    "date_of_joining": "21-04-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "MATHEMATICS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - OTHERS-SDNB",
+                            "college_name": "VAISHNAVA",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS-MCC",
+                            "college_name": "MCC",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "THERESA WOMENS",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. J. ARTHY",
+                    "dob": "06-11-1983",
+                    "date_of_joining": "21-04-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "MATHEMATICS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - OTHERS-MADRAS",
+                            "college_name": "CHRISTIAN COLLEGE",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS-MADRAS",
+                            "college_name": "CHRISTIAN COLLEGE",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "MOTHER TERESA WOMENS UNIVERSITY",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. G. ARUL KUMAR",
+                    "dob": "22-11-1988",
+                    "date_of_joining": "16-05-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - OTHERS-UNIVERSITY OF MADRAS",
+                            "college_name": "UNIVERSITY OF MADRAS",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS-UNIVERSITY OF MADRAS",
+                            "college_name": "UNIVERSITY OF MADRAS",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. S. KAVITHA",
+                    "dob": "13-05-1993",
+                    "date_of_joining": "08-07-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - OTHERS-MADRAS",
+                            "college_name": "CHRISTIAN COLLEGE",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS-SIVET",
+                            "college_name": "SIVET",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

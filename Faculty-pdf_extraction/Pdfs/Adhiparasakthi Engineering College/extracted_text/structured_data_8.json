@@ -1,0 +1,38 @@
+{
+    "faculty_details": [
+        {
+            "department": "Electronics and Communication Engineering",
+            "faculty_members": [
+                {
+                    "name": "MR. P. ADHIYAMAAN VEDASUNDARAVINAYAGAM",
+                    "dob": "30-12-1985",
+                    "date_of_joining": "25-03-2013",
+                    "aicte_id": "2184642536",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "10",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Communication Engineering",
+                            "college_name": "COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Electronics Engineering and Technology",
+                            "college_name": "THIRUVALLUVAR COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "Previous Position"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

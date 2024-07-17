@@ -1,0 +1,288 @@
+{
+    "faculty_details": [
+        {
+            "department": "Civil Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. R. SUBASH CHANDRABOSE",
+                    "dob": "15-06-1974",
+                    "date_of_joining": "08-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "EXPERIMENTAL AND ANALYTICAL STUDY OF STEEL FIBER REINFORCED CONCRETE BEAMS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Civil Engineering",
+                            "college_name": "ADHIPARASAKTHI COLLEGE",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "S ET NR GU INC ET EU RR IA NL G O UT NH IVE ER RS S-A ITN YNA MALAI",
+                            "college_name": "COLLEGE OF ENGINEERING",
+                            "year_of_passing": "1999"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": "Structural Engineering",
+                            "college_name": "COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "22 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. RAMARAJAN. RAKHESH",
+                    "dob": "25-12-1996",
+                    "date_of_joining": "29-08-2022",
+                    "aicte_id": "11309052435",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Civil Engineering",
+                            "college_name": "OTHERS-GOA",
+                            "year_of_passing": "2018"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "OTHERS-SRM INSTITUTE",
+                            "college_name": "ENGINEERING",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. P. KAVITHRA",
+                    "dob": "04-10-1995",
+                    "date_of_joining": "01-08-2022",
+                    "aicte_id": "124170483301",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Civil Engineering",
+                            "college_name": "EINSTEIN COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2017"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "ACADEMY OF RESEARCH AND EDUCATION",
+                            "college_name": "ENGINEERING AND MANAGEMENT",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. M. VIGNESHKUMAR",
+                    "dob": "30-05-1989",
+                    "date_of_joining": "29-05-2023",
+                    "aicte_id": "7529664783",
+                    "phd_thesis_title": "ENVIRONMENTAL IMPACT ASSESSMENT ON MINING ACTIVITIES IN THE SOUTHERN PART OF TAMIL NADU",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Electronics Engineering",
+                            "college_name": "OTHERS-BHARATHIDASAN INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "REMOTE SENSING AND GIS TECHNOLOGY",
+                            "college_name": "OTHERS-VELLORE INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "9 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. C. NAVANEETHA KRISHNAN",
+                    "dob": "08-11-1989",
+                    "date_of_joining": "15-03-2022",
+                    "aicte_id": "111298990786",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Civil Engineering",
+                            "college_name": "SRI RAMAKRISHNA INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "STRUCTURAL ENGINEERING",
+                            "college_name": "CHENDHURAN COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. K. GAYATHRI",
+                    "dob": "29-06-1992",
+                    "date_of_joining": "03-12-2019",
+                    "aicte_id": "17375232686",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Civil Engineering",
+                            "college_name": "MADHA INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "STRUCTURAL ENGINEERING",
+                            "college_name": "PRATHYUSHA ENGINEERING COLLEGE (AUTONOMOUS)",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. V. JANAKI",
+                    "dob": "25-05-1995",
+                    "date_of_joining": "01-03-2022",
+                    "aicte_id": "9319056914",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Civil Engineering",
+                            "college_name": "SRI KRISHNA INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "STRUCTURAL ENGINEERING",
+                            "college_name": "ARIGNAR ANNA INSTITUTE OF ENGINEERING SCIENCE AND TECHNOLOGY",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. R. SOMESWARAN",
+                    "dob": "28-01-1985",
+                    "date_of_joining": "07-03-2022",
+                    "aicte_id": "17374844660",
+                    "phd_thesis_title": "NUMERICAL MODELING OF NON EQULIBARIUM REACTIVE TRANSPORT IN ACID MINE DRAINAGE",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "Physics",
+                            "college_name": "OTHERS-VIVEKANANDA COLLEGE",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "Remote Sensing and GIS Technology",
+                            "college_name": "SSM INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": "Water Resources Technology",
+                            "college_name": "OTHERS-INDIAN INSTITUTE OF TECHNOLOGY GUWAHATHI",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. S. HEMAVATHI",
+                    "dob": "12-12-1992",
+                    "date_of_joining": "12-06-2019",
+                    "aicte_id": "17382706130",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Civil Engineering",
+                            "college_name": "MAILAM ENGINEERING COLLEGE",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Engineering and Management",
+                            "college_name": "SURYA GROUP OF INSTITUTIONS",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

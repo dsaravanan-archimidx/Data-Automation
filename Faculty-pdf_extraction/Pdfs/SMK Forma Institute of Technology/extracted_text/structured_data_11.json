@@ -1,0 +1,114 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-Mathematics",
+            "faculty_members": [
+                {
+                    "name": "DR. S. BAMINI",
+                    "dob": "07-06-1977",
+                    "date_of_joining": "03-02-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "NIL",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "1997"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "HEART COLLEGE",
+                            "year_of_passing": "2000"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "KANDARS COLLEGE",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "16 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. S. MOORTHY",
+                    "dob": "09-05-1987",
+                    "date_of_joining": "03-02-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "NIL",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "HEART COLLGE",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "HEART COLLEGE",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "KANDAR COLLGE",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "10 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. A. MABEL PRINCES",
+                    "dob": "21-08-1991",
+                    "date_of_joining": "24-06-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "CHRISTIAN COLLEGE",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "CHRISTIAN COLLEGE",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "MATHS",
+                            "college_name": "CHRISTIAN COLLEGE",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

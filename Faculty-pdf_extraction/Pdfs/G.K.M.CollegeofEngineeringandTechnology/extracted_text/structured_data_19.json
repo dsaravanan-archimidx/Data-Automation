@@ -1,0 +1,44 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-Physics",
+            "faculty_members": [
+                {
+                    "name": "DR. R. MAHALAKSHMI",
+                    "dob": "15-05-1972",
+                    "date_of_joining": "01-08-1997",
+                    "aicte_id": "499066883",
+                    "phd_thesis_title": "GROWTH AND CHARACTERIZATION OF AMINO ACIDS USING GEL TECHNIQUE",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "NATIONAL COLLEGE",
+                            "year_of_passing": "1992"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "NATIONAL COLLEGE",
+                            "year_of_passing": "1994"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "PHYSICS",
+                            "college_name": "LOYOLA COLLEGE",
+                            "year_of_passing": "2008"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "25 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

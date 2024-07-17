@@ -1,0 +1,415 @@
+{
+    "faculty_details": [
+        {
+            "department": "Computer Science",
+            "faculty_members": [
+                {
+                    "name": "DR. P. BALAKUMAR",
+                    "dob": "14-05-1982",
+                    "date_of_joining": "19-12-2018",
+                    "aicte_id": "17353021558",
+                    "phd_thesis_title": "SECURE HIGH THROUGHPUT MULTICAST ROUTING IN WIRELESS MESH NETWORKS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "BHARATH SCIENCE UNIVERSITY",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "ST JOSEPHS SCIENCE COLLEGE",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "BHARATH UNIVERSITY",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "11 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. P. INDIRA PRIYA",
+                    "dob": "01-01-1982",
+                    "date_of_joining": "01-02-2022",
+                    "aicte_id": "19478317462",
+                    "phd_thesis_title": "INTELLIGENT TEMPORAL MINING TECHNIQUE FOR SOCIAL NETWORK ANALYSIS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "SONA COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "INFORMATION AND COMMUNICATION TECHNOLOGY",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "SOCIAL NETWORK MINING FOR LEARNING RESEARCH COMMUNITY CONTRIBUTION PATTERNS",
+                            "college_name": "BHARATH UNIVERSITY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "18 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. G. AYYAPPAN",
+                    "dob": "02-06-1984",
+                    "date_of_joining": "08-02-2021",
+                    "aicte_id": "19315220498",
+                    "phd_thesis_title": "SOCIAL NETWORK MINING FOR LEARNING RESEARCH COMMUNITY CONTRIBUTION PATTERNS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "INSTITUTE OF HIGHER EDUCATION",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "SOCIAL NETWORK MINING FOR LEARNING RESEARCH COMMUNITY CONTRIBUTION PATTERNS",
+                            "college_name": "BHARATH UNIVERSITY",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "11 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. R. KALPANA",
+                    "dob": "13-11-1984",
+                    "date_of_joining": "25-01-2020",
+                    "aicte_id": "1721541432",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "INFORMATION TECHNOLOGY",
+                            "college_name": "A V C COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "SATHYA BAMA INSTITUTE OF SCIENCE AND TECHNOLOGY",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "13 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. K. VELUMATHY KALAIVANI",
+                    "dob": "09-05-1989",
+                    "date_of_joining": "09-05-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "MAHENDRA ENGINEERING COLLEGE",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "SRM INSTITUTE OF SCIENCE AND TECHNOLOGY",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. R. VANAJA",
+                    "dob": "18-05-1980",
+                    "date_of_joining": "16-08-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "MANIMEKALAI COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. T. SATHYA",
+                    "dob": "19-12-1987",
+                    "date_of_joining": "06-01-2017",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "SRM INSTITUTE OF SCIENCE AND TECHNOLOGY",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. GINU. DIXY",
+                    "dob": "30-09-1983",
+                    "date_of_joining": "01-06-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "INFORMATION TECHNOLOGY",
+                            "college_name": "CSI COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+                            "college_name": "JERUSALEM COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. M. SIRIJA",
+                    "dob": "26-08-1995",
+                    "date_of_joining": "23-12-2019",
+                    "aicte_id": "17353147055",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "VEL TECH HIGH TECH DR RANGARAJAN DR SAKUNTHALA ENGINEERING COLLEGE",
+                            "year_of_passing": "2017"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "INFORMATION TECHNOLOGY",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. J. JAYASHANKARI",
+                    "dob": "30-11-1983",
+                    "date_of_joining": "27-05-2009",
+                    "aicte_id": "1453455759",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "INFORMATION TECHNOLOGY",
+                            "college_name": "OTHERS-ANNAMALAI",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "OTHERS-ANNAMALAI",
+                            "year_of_passing": "2008"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "11 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. P. ELAKKIYA",
+                    "dob": "30-09-1989",
+                    "date_of_joining": "01-04-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "JERUSALEM COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "ANAND INSTITUTE OF HIGHER TECHNOLOGY",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. P. ALLIRANI",
+                    "dob": "07-06-1987",
+                    "date_of_joining": "17-08-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "LCR COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "JAYA ENGINEERING COLLEGE",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. A. SHANTHAKUMARI",
+                    "dob": "22-06-1989",
+                    "date_of_joining": "19-12-2018",
+                    "aicte_id": "17385716458",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "ARUNAI ENGINEERING COLLEGE",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "ARUNAI ENGINEERING COLLEGE",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. B. SOWMYA",
+                    "dob": "02-09-1993",
+                    "date_of_joining": "04-12-2017",
+                    "aicte_id": "13607364678",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "UCET",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "MADRAS INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

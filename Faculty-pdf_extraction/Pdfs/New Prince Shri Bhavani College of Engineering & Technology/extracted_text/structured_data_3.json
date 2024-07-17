@@ -1,0 +1,201 @@
+{
+    "faculty_details": [
+        {
+            "department": "Electrical and Electronics Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. G. IRUSAPPARAJAN",
+                    "dob": "05-04-1977",
+                    "date_of_joining": "05-04-2021",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "INVESTIGATIONS ON INTERLINE POWER FLOW CONTROLLER SYSTEMS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+                            "college_name": "MS UNIVERSITY",
+                            "year_of_passing": "2000"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "POWER SYSTEMS",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ELECTRICAL ENGINEERING",
+                            "college_name": "BHARATH UNIVERSITY",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "19 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. R. VENKATASUBRAMANIAN",
+                    "dob": "02-06-1974",
+                    "date_of_joining": "13-12-2021",
+                    "aicte_id": "19319889680",
+                    "phd_thesis_title": "INVESTIGATION OF MATRIX CONVERTER FOR DFIG FED WIND ENERGY CONVERSION SYSTEMS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS ENGINEERING",
+                            "college_name": "SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ELECTRONICS AND POWER DRIVES",
+                            "college_name": "SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ELECTRICAL ENGINEERING",
+                            "college_name": "INSTITUTE OF SCIENCE AND TECHNOLOGY",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "18 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. R. SASIKALA",
+                    "dob": "09-06-1984",
+                    "date_of_joining": "04-03-2022",
+                    "aicte_id": "473006700",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS ENGINEERING",
+                            "college_name": "THIRUMALAI ENGINEERING COLLEGE",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "POWER ELECTRONICS AND DRIVES",
+                            "college_name": "SRI VENKATESWARA COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2008"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "13 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. PARTHASARATHY",
+                    "dob": "18-06-1977",
+                    "date_of_joining": "02-01-2014",
+                    "aicte_id": "12191359788",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS ENGINEERING",
+                            "college_name": "FACULTY OF ENGINEERING",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "HINDUSTAN COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2001"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "9 Years",
+                            "previous_position": "13 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. M. DEVI",
+                    "dob": "10-05-1978",
+                    "date_of_joining": "10-06-2019",
+                    "aicte_id": "17438696248",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS ENGINEERING",
+                            "college_name": "MAHALINGAM ENGINEERING COLLEGE",
+                            "year_of_passing": "2000"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "CONTROL AND INSTRUMENTATION",
+                            "college_name": "SASTRA UNIVERSITY",
+                            "year_of_passing": "2005"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "17 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. R. DHILIPKUMAR",
+                    "dob": "16-05-1992",
+                    "date_of_joining": "06-04-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "EVALUATION AND COMPERATIVE ANALYSIS OF COGNITIVE RADIO NETWORK WITH FAHP FOR NEXT GENERATION WIRELESS TECHNOLOGY",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS ENGINEERING",
+                            "college_name": "ADHIPARASAKTHI ENGINEERING COLLEGE",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "ADHIPARASAKTHI COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2017"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "APPLIED ENGINEERING",
+                            "college_name": "ICE ADHIPARASAKTHI COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "faculty_details": [
+        {
+            "department": "Computer Science and Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. S. SURENDRAN",
+                    "dob": "02-05-1976",
+                    "date_of_joining": "23-01-2015",
+                    "aicte_id": "1496985707",
+                    "phd_thesis_title": "EIGEN TRUST BASED MODEL FOR FAULT TOLERANT AND SECURE ROUTING IN MANETS",
+                    "year_of_starting": "2000",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER ENGINEERING",
+                            "college_name": "MEPCO SCHLENK COLLEGE",
+                            "year_of_passing": "2000"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": "INFORMATION AND COMMUNICATION ENGINEERING",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "8 Years",
+                            "previous_position": "16 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. K. NALLARASU",
+                    "dob": "08-03-1979",
+                    "date_of_joining": "16-07-2008",
+                    "aicte_id": "1492864097",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "2008",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER ENGINEERING",
+                            "college_name": "BSA CRESCENT COLLEGE",
+                            "year_of_passing": "2008"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "12 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. S S. BHAVIYA",
+                    "dob": "05-05-1991",
+                    "date_of_joining": "28-03-2022",
+                    "aicte_id": "11304712474",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "2012",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER ENGINEERING",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

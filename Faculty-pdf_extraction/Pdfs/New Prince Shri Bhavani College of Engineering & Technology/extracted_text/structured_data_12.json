@@ -1,0 +1,149 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-Mathematics",
+            "faculty_members": [
+                {
+                    "name": "MRS. G. PUSHPALAKSHMI",
+                    "dob": "17-05-1985",
+                    "date_of_joining": "10-02-2021",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "MATHS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - MATHS",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - MATHS",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "ASSISTANT",
+                            "previous_position": "OTHERS-T D M N S"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. C.R. ELDIN JEEVA",
+                    "dob": "13-03-1982",
+                    "date_of_joining": "10-10-2011",
+                    "aicte_id": "1760621358",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "AYYAPPA COLLEGE",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "OTHERS-SREE",
+                            "previous_position": "OTHERS - OTHERS-BHARATHIAR"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. F. ANITHA FLORENCE",
+                    "dob": "24-03-1981",
+                    "date_of_joining": "07-09-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHS",
+                            "college_name": "VINOLA COLLEGE",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHS",
+                            "college_name": "HEART COLLEGE",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "OTHERS - OTHERS-SACRED",
+                            "previous_position": "OTHERS - OTHERS-MKU"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. T. VIMALA",
+                    "dob": "23-05-1987",
+                    "date_of_joining": "01-02-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - MATHS",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHS",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "",
+                            "previous_position": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

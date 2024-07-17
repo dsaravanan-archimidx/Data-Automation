@@ -1,0 +1,328 @@
+{
+    "faculty_details": [
+        {
+            "department": "Computer Science and Engineering",
+            "faculty_members": [
+                {
+                    "name": "MR. C. ANNADURAI",
+                    "dob": "15-09-1968",
+                    "date_of_joining": "22-12-2000",
+                    "aicte_id": "426012077",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "14",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.E.",
+                            "specialization": "SCIENCE AND ENGINEERING TECHNOLOGY",
+                            "college_name": "SRI MUTHUKUMARAN INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.C.A.",
+                            "specialization": "OTHERS - CS",
+                            "college_name": "OTHERS - MADRAS UNIVERSITY",
+                            "year_of_passing": "2000"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "14 Years",
+                            "previous_position": "8 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. X. ANITHA SARAFIN",
+                    "dob": "07-01-1972",
+                    "date_of_joining": "29-08-2007",
+                    "aicte_id": "452678825",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "15",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "SCIENCE AND ENGINEERING",
+                            "college_name": "EPIPHANY OTHERS-REGIONAL ENGG COLLEGE",
+                            "year_of_passing": "1996"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "SCIENCE AND ENGINEERING",
+                            "college_name": "OTHERS-SATHIABAMA UNIVERSITY",
+                            "year_of_passing": "2005"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "15 Years",
+                            "previous_position": "9 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. P. ASHA",
+                    "dob": "20-01-1974",
+                    "date_of_joining": "11-06-2007",
+                    "aicte_id": "9478975902",
+                    "phd_thesis_title": "NIL",
+                    "year_of_starting": "15",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "SCIENCE AND ENGINEERING TECH",
+                            "college_name": "COMPUTER OTHERS-PERIYAR MANIAMMAI COLLEGE",
+                            "year_of_passing": "1995"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "SCIENCE AND ENGINEERING",
+                            "college_name": "OTHERS-SATHIABAMA UNIVERSITY",
+                            "year_of_passing": "2004"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "15 Years",
+                            "previous_position": "12 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. A. NIVASHINI",
+                    "dob": "23-08-1998",
+                    "date_of_joining": "09-08-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "0",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "SCIENCE AND ENGINEERING",
+                            "college_name": "MISRIMAL NAVAJEE COMPUTER MUNOTH JAIN ENGINEERING COLLEGE",
+                            "year_of_passing": "2020"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "SCIENCE AND ENGINEERING",
+                            "college_name": "ENGINEERING COLLEGE",
+                            "year_of_passing": "2022"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. A. PANDIMADEVI",
+                    "dob": "26-08-1984",
+                    "date_of_joining": "23-02-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "0",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "SCIENCE AND ENGINEERING",
+                            "college_name": "COMPUTER OTHERS-VINAYAKA MISSION UNIVERSITY",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "SCIENCE AND ENGINEERING",
+                            "college_name": "MISRIMAL NAVAJEE COMPUTER MUNOTH JAIN ENGINEERING COLLEGE",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. K. DHINAKARAN",
+                    "dob": "01-01-1979",
+                    "date_of_joining": "23-07-2008",
+                    "aicte_id": "458074711",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "13",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "SCIENCE AND ENGINEERING",
+                            "college_name": "THIAGARAJAR COLLEGE OF ENGINEERING (AUTONOMOUS)",
+                            "year_of_passing": "2000"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "SYSTEM ENGINEERING TECHNOLOGIES",
+                            "college_name": "EMBEDDED COLLEGE OF TECHNOLOGIES GUINDY",
+                            "year_of_passing": "2006"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. S. KALPANA",
+                    "dob": "01-04-1984",
+                    "date_of_joining": "22-09-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "0",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "SCIENCE AND ENGINEERING",
+                            "college_name": "A C T COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "SCIENCE AND ENGINEERING",
+                            "college_name": "MISRIMAL NAVAJEE COMPUTER MUNOTH JAIN ENGINEERING COLLEGE",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. D. YASHWANTHNI",
+                    "dob": "11-06-1975",
+                    "date_of_joining": "19-12-2008",
+                    "aicte_id": "OTHERS-SIST",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "14",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "ELECTRONICS AND OTHERS-SIST ENGINEERING",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.TEC",
+                            "specialization": "INFORMATION H. TECHNOLOGY",
+                            "college_name": "OTHERS-SIST",
+                            "year_of_passing": "2007"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "14 Years",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. K. VARUNAMUTHU",
+                    "dob": "05-04-1966",
+                    "date_of_joining": "01-09-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "0",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "SCIENCE AND TECHNOLOGY",
+                            "college_name": "COMPUTER ARUL COLLEGE OF TECHNOLOGY",
+                            "year_of_passing": "1991"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "SCIENCE AND ENGINEERING AND TECHNOLOGY",
+                            "college_name": "ST PETER'S COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. K S. KIRUBA",
+                    "dob": "10-04-1989",
+                    "date_of_joining": "19-04-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "0",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "SCIENCE AND ENGINEERING TECHNOLOGY",
+                            "college_name": "COMPUTER AAA COLLEGE OF ENGINEERING TECHNOLOGY",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "SCIENCE AND ENGINEERING AND TECHNOLOGY",
+                            "college_name": "A C T COLLEGE OF ENGINEERING TECHNOLOGY",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. A. GEETHAPRIYA",
+                    "dob": "29-12-1973",
+                    "date_of_joining": "15-06-2012",
+                    "aicte_id": "1454995763",
+                    "phd_thesis_title": "SOME STUDIES ON CROSS DOMAIN SENTIMENT ANALYSIS",
+                    "year_of_starting": "9",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER ENGINEERING",
+                            "college_name": "EASWARI COLLEGE",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "SCIENCE AND ENGINEERING",
+                            "college_name": "OTHERS-ANNA UNIVERSITY",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "9 Years",
+                            "previous_position": "11 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

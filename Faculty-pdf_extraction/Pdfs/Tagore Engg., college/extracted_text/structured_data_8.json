@@ -1,0 +1,254 @@
+{
+    "faculty_details": [
+        {
+            "department": "Mathematics",
+            "faculty_members": [
+                {
+                    "name": "DR. P. AGASTHI",
+                    "dob": "13-01-1983",
+                    "date_of_joining": "12-12-2011",
+                    "aicte_id": "1747288444",
+                    "phd_thesis_title": "A STUDY ON LABELINGS OF CERTAIN CLASSES OF GRAPHS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - MATHS",
+                            "college_name": "SIVET COLLEGE",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - MATHS",
+                            "college_name": "SIVET COLLEGE",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "OTHERS - MATHS",
+                            "college_name": "AVVM SRI PUSHPAM COLLEGE",
+                            "year_of_passing": "2007"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "11 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. B. LAVANYA",
+                    "dob": "07-09-1982",
+                    "date_of_joining": "16-09-2009",
+                    "aicte_id": "1497190133",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - MATHS",
+                            "college_name": "URUMU DHANALAKSHMI COLLEGE",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - MATHS",
+                            "college_name": "EURUMU DHANALAKSHMI COLLEGE",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "",
+                            "college_name": "ADM COLLEGE",
+                            "year_of_passing": "2009"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "13 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. M. SHANTHI",
+                    "dob": "26-04-1973",
+                    "date_of_joining": "17-09-2018",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "QUAIDE MILLATH GOVT COLLEGE FOR WOMEN",
+                            "year_of_passing": "1993"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "EQ FU OIA RD WE O M MIL EL NATH GOVT",
+                            "year_of_passing": "1996"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "MANOMANIAM SUNDARNAR",
+                            "year_of_passing": "2004"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. M. GOWRISANKAR",
+                    "dob": "15-07-1982",
+                    "date_of_joining": "06-02-2023",
+                    "aicte_id": "13385472265",
+                    "phd_thesis_title": "A STUDY ON THE EXISTENCE AND THE PROPERTIES OF RANDOM IMPULSIVE DIFFERENTIAL SYSTEMS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "GOVERNMENT ARTS COLLEGE",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "ES R OI F R AA RM TA S K AR NI DS H SN CA IE M NCIS ESION",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "VITIN YAYAKA MISSIONS",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "14 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. R. JOTHIRAJ",
+                    "dob": "13-05-1982",
+                    "date_of_joining": "04-08-2022",
+                    "aicte_id": "1544210355",
+                    "phd_thesis_title": "OPEN SHOP SCHEDULING USING VARIOUS COLORING AND DOMINATION TECHNIQUES OF CIRCULAR ARC GRAPHS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - MATHEMATICS",
+                            "college_name": "SRNM COLLEGE",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "SRNM COLLEGE",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "THIRUVALLUVAR MATHEMATICS UNIVERSITY",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "13 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. V. LATHA",
+                    "dob": "29-06-1989",
+                    "date_of_joining": "20-07-2012",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - MATHEMATICS",
+                            "college_name": "RV GOVT ARTS COLLEGE CHENGALPATTU",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - MATHEMATICS",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "TB ML COLLEGE",
+                            "year_of_passing": "2003"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. M. RAJA",
+                    "dob": "02-10-1981",
+                    "date_of_joining": "06-12-2021",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "STUDIES ON PROPERTIES AND CHARACTERIZATION OF NEW CLOSED SETS IN TOPOLOGICAL SPACES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - MATHEMATICS",
+                            "college_name": "RV GOVT ARTS COLLEGE CHENGALPATTU",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "PONDICHERRY UNIVERSITY",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "ALAGAPPA UNIVERSITY",
+                            "year_of_passing": "2007"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "8 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

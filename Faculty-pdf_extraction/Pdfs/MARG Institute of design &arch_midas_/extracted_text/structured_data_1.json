@@ -1,0 +1,477 @@
+{
+    "faculty_details": [
+        {
+            "department": "",
+            "faculty_members": [
+                {
+                    "name": "MR. N. JAYARAMAN",
+                    "dob": "19-04-1975",
+                    "date_of_joining": "17-07-2018",
+                    "aicte_id": "H.",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.ARC",
+                            "specialization": "ARCHITECTURE",
+                            "college_name": "OTHERS-BIST",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "M.ARC",
+                            "specialization": "OTHERS - CITY OF TECHNOLOGY",
+                            "college_name": "INDIAN INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2000"
+                        }
+                    ],
+                    "designation": "PRINCIPAL",
+                    "academic_experience": [
+                        {
+                            "current_position": "PROFESSOR",
+                            "previous_position": "ASSOCIATE PROFESSOR"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. SINGH. MANINDER",
+                    "dob": "08-08-1976",
+                    "date_of_joining": "17-07-2018",
+                    "aicte_id": "H.",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.ARC",
+                            "specialization": "ARCHITECTURE",
+                            "college_name": "OTHERS-MMCA PUNE",
+                            "year_of_passing": "1999"
+                        },
+                        {
+                            "degree": "M.ARC",
+                            "specialization": "OTHERS-SPA NEW URBAN DESIGN",
+                            "college_name": "OTHERS-SPA DELHI",
+                            "year_of_passing": "2004"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "PROFESSOR",
+                            "previous_position": "ASSOCIATE PROFESSOR"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. C K. PRAVEEN",
+                    "dob": "28-07-1983",
+                    "date_of_joining": "12-12-2015",
+                    "aicte_id": "OTHER",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.ARC",
+                            "specialization": "ARCHITECTURE",
+                            "college_name": "OTHERS-IIT ROORKEE",
+                            "year_of_passing": "2022"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "PROFESSOR",
+                            "previous_position": "ASSOCIATE PROFESSOR"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. KADAR. MOHIDEEN",
+                    "dob": "18-10-1979",
+                    "date_of_joining": "17-09-2021",
+                    "aicte_id": "H.",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.ARC",
+                            "specialization": "ARCHITECTURE",
+                            "college_name": "OTHERS-DR MGR ARCHITECTURE EDUCATIONAL AND RESEARCH INSTITUTE",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "PROFESSOR",
+                            "previous_position": "ASSISTANT PROFESSOR"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. JUSTIN AROCKIA",
+                    "dob": "28-10-1980",
+                    "date_of_joining": "26-06-2016",
+                    "aicte_id": "2016",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.ARC",
+                            "specialization": "ARCHITECTURE",
+                            "college_name": "OTHERS-DRMGR UNIVERSITYU",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "PROFESSOR",
+                            "previous_position": "ASSISTANT PROFESSOR"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. K. AMBALAVANAN",
+                    "dob": "19-08-1959",
+                    "date_of_joining": "26-06-2016",
+                    "aicte_id": "ARCHITECTURE",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.ARC",
+                            "specialization": "ARCHITECTURE",
+                            "college_name": "OTHERS-SPA DELHI",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "PROFESSOR",
+                            "previous_position": "ASSISTANT PROFESSOR"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. IYAPPAN",
+                    "dob": "30-04-1978",
+                    "date_of_joining": "02-07-2014",
+                    "aicte_id": "S -",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.F.A",
+                            "specialization": "FINE ARTS",
+                            "college_name": "OTHERS-GOVT S - COLLEGE OF FINE PAINTING",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "MFA",
+                            "specialization": "PAINTING",
+                            "college_name": "OTHERS-GOVT S - COLLEGE OF FINE PAINTING",
+                            "year_of_passing": "2001"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": " ",
+                            "previous_position": " "
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. A. VIGNESWARAN",
+                    "dob": "20-09-1990",
+                    "date_of_joining": "17-07-2017",
+                    "aicte_id": "H.",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.ARC",
+                            "specialization": "ARCHITECTURE",
+                            "college_name": "OTHERS-SPA BHOPAL",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "M.ARC",
+                            "specialization": "LANDSCAPE ARCHITECTURE",
+                            "college_name": "OTHERS-SPA DELHI",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": " ",
+                            "previous_position": " "
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. V. SARANYA",
+                    "dob": "03-08-1996",
+                    "date_of_joining": "06-07-2022",
+                    "aicte_id": "H.",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.ARC",
+                            "specialization": "ARCHITECTURE",
+                            "college_name": "OTHERS-RENUKA AMMAL COLLEGE OF ARCHITECTURE",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": " ",
+                            "previous_position": " "
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. P. NANDINI",
+                    "dob": "10-07-1992",
+                    "date_of_joining": "05-04-2019",
+                    "aicte_id": "H.",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.ARC",
+                            "specialization": "ARCHITECTURE",
+                            "college_name": "OTHERS-HINDUSTHAN INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": " ",
+                            "previous_position": " "
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. A. AJITHA",
+                    "dob": "14-06-1988",
+                    "date_of_joining": "23-02-2017",
+                    "aicte_id": "AUTONOMOUS",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "ST XAVIER'S CATHOLIC COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "VLSI DESIGN",
+                            "college_name": "SASURIE COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": " ",
+                            "previous_position": " "
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. B. GAYATHRI DEVI",
+                    "dob": "12-06-1991",
+                    "date_of_joining": "06-01-2017",
+                    "aicte_id": "OTHERS",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.ARC",
+                            "specialization": "ARCHITECTURE",
+                            "college_name": "OTHERS-ARULMIGU MEENAKSHI AMMAN COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "M.ARC",
+                            "specialization": "CONSTRUCTION PROJECT MANAGEMENT",
+                            "college_name": "OTHERS-MGR UNIVERSITY",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": " ",
+                            "previous_position": " "
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. B. KEERTHANA",
+                    "dob": "14-07-1996",
+                    "date_of_joining": "02-02-2022",
+                    "aicte_id": "H.",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.ARC",
+                            "specialization": "ARCHITECTURE",
+                            "college_name": "OTHERS-MCGAN'S OOTY SCHOOL OF ARCHITECTURE",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": " ",
+                            "previous_position": " "
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. M. ADHITYA",
+                    "dob": "01-08-1993",
+                    "date_of_joining": "07-02-2023",
+                    "aicte_id": "MASTER",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.ARCH.",
+                            "specialization": "ARCHITECTURE",
+                            "college_name": "OTHERS-ADHIYAMAAN COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2021"
+                        },
+                        {
+                            "degree": "M.ARC",
+                            "specialization": "MASTER OF ARCHITECTURE IN LANDSCAPE ARCHITECTURE",
+                            "college_name": "OTHERS-BHARAT UNIVERSITY",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": " ",
+                            "previous_position": " "
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. M. HEMALATHA",
+                    "dob": "03-10-1991",
+                    "date_of_joining": "03-05-2023",
+                    "aicte_id": "ARCHITECTURE",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.ARC",
+                            "specialization": "ARCHITECTURE",
+                            "college_name": "OTHERS-SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.ARCH.",
+                            "specialization": "ARCHITECTURE",
+                            "college_name": "OTHERS-SWARNABHOOMI ARCHITECTURE",
+                            "year_of_passing": "2022"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": " ",
+                            "previous_position": " "
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. KARTHICK",
+                    "dob": "04-01-1996",
+                    "date_of_joining": "03-02-2022",
+                    "aicte_id": "H.",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.ARC",
+                            "specialization": "ARCHITECTURE",
+                            "college_name": "OTHERS-CRESCENT ARCHITECTURE",
+                            "year_of_passing": "2020"
+                        },
+                        {
+                            "degree": "M.ARC",
+                            "specialization": "ARCHITECTURE",
+                            "college_name": "OTHERS-CRESCENT ARCHITECTURE",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": " ",
+                            "previous_position": " "
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. R. BALAJI",
+                    "dob": "09-06-1997",
+                    "date_of_joining": "03-05-2023",
+                    "aicte_id": "H.",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.ARC",
+                            "specialization": "ARCHITECTURE",
+                            "college_name": "OTHERS-SRM SEAD",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": " ",
+                            "previous_position": " "
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. GANESH",
+                    "dob": "19-06-1987",
+                    "date_of_joining": "20-03-2019",
+                    "aicte_id": "H.",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.ARC",
+                            "specialization": "ARCHITECTURE",
+                            "college_name": "OTHERS-SCHOOL OF INTERIOR DESIGN AND ARCHITECTURE",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": " ",
+                            "previous_position": " "
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

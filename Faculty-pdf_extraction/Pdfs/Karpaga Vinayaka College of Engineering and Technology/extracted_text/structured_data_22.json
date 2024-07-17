@@ -1,0 +1,149 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-Physics",
+            "faculty_members": [
+                {
+                    "name": "DR. T. THILAK",
+                    "dob": "06-11-1982",
+                    "date_of_joining": "21-02-2019",
+                    "aicte_id": "17403582834",
+                    "phd_thesis_title": "GROWTH AND INVESTIGATION THIRD ORDER NONLINEAR OPTICAL PROPERTIES OF PURE AND DOPED META NITROANILINE POTTASIUM DICHROMATE L ALANINE SINGLE CRYSTAL",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "OTHERS-PACHIYAPPAS COLLEGE",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "OTHERS-TBML COLLEGE",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "PHYSICS",
+                            "college_name": "O UT NH IVE ER RS S-B ITS Y ABDUR RAHMAN",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "11 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. M. MAHADEVAN",
+                    "dob": "21-06-1980",
+                    "date_of_joining": "06-02-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "STUDIESD ON THE GROTH ASPECTS AND CHARECTERIZATION OF SOME ALKALI AND AMMINO ACIDS BASED SEMI ORAGANIC AND NON LINNER OPTICAL SINGLE CRYSTAL",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "OTHERS-UNIVERSITY OF MADRAS",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "OTHERS-UNIVERSITY OF MADRAS",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "PHYSICS",
+                            "college_name": "OTHERS-SRM UNIVERSITY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "13 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. V. CHITHAMBARAM",
+                    "dob": "07-05-1979",
+                    "date_of_joining": "01-12-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "GROWTH AND CHARACTERISATION OF NOVEL NONLINEAROPTICAL AND FERROELECTRIC CRYSTALS BY SOLUTION GROWTH TECHNIQUE AND ITS APPLICATION IN THE MARINE FEILDPHYSICS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "OTHERS-MADRAS UNIVERSITY",
+                            "year_of_passing": "1999"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "OTHERS-VIT UNIVERSITY",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "PHYSICS",
+                            "college_name": "OTHERS-AMET UNIVERSITY",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "17 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. SIVANARUL",
+                    "dob": "03-06-1987",
+                    "date_of_joining": "18-07-2016",
+                    "aicte_id": "17403647341",
+                    "phd_thesis_title": "M.PHIL",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "OTHERS-K N COLLEGE",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "OTHERS-ANNAMALAI UNIV",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": " ",
+                            "college_name": " ",
+                            "year_of_passing": " "
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

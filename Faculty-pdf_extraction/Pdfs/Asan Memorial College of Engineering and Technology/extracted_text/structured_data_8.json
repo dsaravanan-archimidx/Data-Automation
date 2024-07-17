@@ -1,0 +1,78 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-Physics",
+            "faculty_members": [
+                {
+                    "name": "MR. K. ARAVINTHKUMAR",
+                    "dob": "19-05-1997",
+                    "date_of_joining": "17-03-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "PRAGAMATIC DESIGN FOR THE SYNTHESIS AND CHARACTERIZATION OF SMVO",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "MANONMANIAM SUNDARANAR UNIVERSITY",
+                            "year_of_passing": "2017"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "PERIYAR UNIVERSITY",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": " ",
+            "faculty_members": [
+                {
+                    "name": "DR. F. JOY JOHANSON",
+                    "dob": "24-06-1989",
+                    "date_of_joining": "20-03-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "PRAGAMATIC DESIGN FOR THE SYNTHESIS AND CHARACTERIZATION OF SMVO",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "IDHAYA COLLEGE OF ARTS AND SCIENCE FOR WOMEN",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "PHYSICS NANO SCIENCE AND TECHNOLOGY",
+                            "college_name": "KANCHI MAMUNIVAR",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "NANO SCIENCE AND TECHNOLOGY",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2022"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

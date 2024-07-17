@@ -1,0 +1,1216 @@
+[
+    {
+        "faculty_details": [
+            {
+                "department": "CIVIL ENGINEERING",
+                "faculty_members": [
+                    {
+                        "name": "MR. J. PARTHIBAN",
+                        "dob": "08-08-1995",
+                        "date_of_joining": "04-12-2020",
+                        "aicte_id": "9321788944",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "CIVIL ENGINEERING",
+                                "college_name": "ADHIPARASAKTHI ENGINEERING COLLEGE",
+                                "year_of_passing": "2017"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "CIVIL ENGINEERING",
+                                "college_name": "ADHIPARASAKTHI ENGINEERING COLLEGE",
+                                "year_of_passing": "2020"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "CONSTRUCTION",
+                                "previous_position": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "faculty_details": [
+            {
+                "department": "Electronics and Communication Engineering",
+                "faculty_members": [
+                    {
+                        "name": "DR. J. RAJA",
+                        "dob": "21-05-1972",
+                        "date_of_joining": "19-03-2014",
+                        "aicte_id": "464902981",
+                        "phd_thesis_title": "VLSI IMPLEMENTATION OF HIGH THROUGHPUT MIMO OFDM TRANSCEIVER",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "ELECTRONICS AND COMMUNICATION",
+                                "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                                "year_of_passing": "1999"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+                                "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                                "year_of_passing": "2004"
+                            },
+                            {
+                                "degree": "PH.D.",
+                                "specialization": "DIGITAL VLSI DESIGN",
+                                "college_name": "MADRAS INSTITUTE OF TECHNOLOGY",
+                                "year_of_passing": "2013"
+                            }
+                        ],
+                        "designation": "PRINCIPAL",
+                        "academic_experience": [
+                            {
+                                "current_position": "5 Years",
+                                "previous_position": "18 Years"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "faculty_details": [
+            {
+                "department": "Computer Science",
+                "faculty_members": [
+                    {
+                        "name": "MR. G. SRINIVASAN",
+                        "dob": "30-03-1987",
+                        "date_of_joining": "03-05-2012",
+                        "aicte_id": "1421140144",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "COMPUTER SCIENCE",
+                                "college_name": "KARPAGA VINAYAGA COLLEGE",
+                                "year_of_passing": "2010"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "COMPUTER SCIENCE",
+                                "college_name": "ADHIPARASAKTHI ENGINEERING COLLEGE",
+                                "year_of_passing": "2012"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "11 Years",
+                                "previous_position": "0 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MR. B. ELANGO",
+                        "dob": "18-09-1988",
+                        "date_of_joining": "01-06-2012",
+                        "aicte_id": "1419721759",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "ELECTRONICS AND COMMUNICATION",
+                                "college_name": "KANCHI PALLAVAN ENGINEERING COLLEGE",
+                                "year_of_passing": "2009"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "COMMUNICATION SYSTEMS",
+                                "college_name": "SRI SAI RAM ENGINEERING COLLEGE (AUTONOMOUS)",
+                                "year_of_passing": "2011"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "10 Years",
+                                "previous_position": "1 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MR. K. CHAIRMADURAI",
+                        "dob": "07-08-1991",
+                        "date_of_joining": "28-06-2017",
+                        "aicte_id": "12489301527",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "COMPUTER SCIENCE",
+                                "college_name": "ADHIPARASAKTHI ENGINEERING COLLEGE",
+                                "year_of_passing": "2012"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "COMPUTER SCIENCE",
+                                "college_name": "ADHIPARASAKTHI ENGINEERING COLLEGE",
+                                "year_of_passing": "2014"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "5 Years",
+                                "previous_position": "0 Years"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "department": "Mechanical Engineering",
+                "faculty_members": [
+                    {
+                        "name": "MR. R. PARTHIBAN",
+                        "dob": "03-01-1990",
+                        "date_of_joining": "05-08-2015",
+                        "aicte_id": "12735575903",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "MECHANICAL ENGINEERING",
+                                "college_name": "ADHIPARASAKTHI ENGINEERING COLLEGE",
+                                "year_of_passing": "2011"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "CAD/CAM",
+                                "college_name": "UNIVERSITY",
+                                "year_of_passing": "2013"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "7 Years",
+                                "previous_position": "2 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MR. T. BALASUBRAMANIASARAVANAN",
+                        "dob": "05-03-1996",
+                        "date_of_joining": "01-10-2021",
+                        "aicte_id": "11136004271",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "MECHANICAL ENGINEERING",
+                                "college_name": "ADHIPARASAKTHI ENGINEERING COLLEGE",
+                                "year_of_passing": "2017"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "THERMAL ENGINEERING",
+                                "college_name": "ADHIPARASAKTHI ENGINEERING COLLEGE",
+                                "year_of_passing": "2020"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "1 Years",
+                                "previous_position": "2 Years"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "department": "Electronics and Communication Engineering",
+                "faculty_members": [
+                    {
+                        "name": "MRS. J. SUGANYA",
+                        "dob": "11-06-1992",
+                        "date_of_joining": "17-08-2022",
+                        "aicte_id": "3607131070",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "ELECTRONICS AND COMMUNICATION",
+                                "college_name": "UNIVERSITY COLLEGE OF ARNI",
+                                "year_of_passing": "2013"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "APPLIED ELECTRONICS",
+                                "college_name": "ENGINEERING COLLEGE",
+                                "year_of_passing": "2015"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "0 Years",
+                                "previous_position": "5 Years"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "department": "Others",
+                "faculty_members": [
+                    {
+                        "name": "DR. A. SIVAKUMAR",
+                        "dob": "14-06-1976",
+                        "date_of_joining": "02-02-2023",
+                        "aicte_id": "43378415446",
+                        "phd_thesis_title": "SUJATHAVIN ARIVIYAR CHIRUKADHAIGAL SCIENCE FICTION",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.A.",
+                                "specialization": "OTHERS - TAMIL LITRATURE",
+                                "college_name": "OTHERS-UNIVERSITY OF MADRAS",
+                                "year_of_passing": "1996"
+                            },
+                            {
+                                "degree": "M.A.",
+                                "specialization": "OTHERS - TAMIL",
+                                "college_name": "OTHERS-UNIVERSITY OF MADRAS",
+                                "year_of_passing": "1998"
+                            },
+                            {
+                                "degree": "PH.D.",
+                                "specialization": "OTHERS - TAMIL",
+                                "college_name": "OTHERS-UNIVERSITY OF MADRAS",
+                                "year_of_passing": "2009"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "0 Years",
+                                "previous_position": "13 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MR. K. BALAMURUGAN B",
+                        "dob": "09-06-1991",
+                        "date_of_joining": "06-02-2023",
+                        "aicte_id": "43378243691",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "M.A.",
+                                "specialization": "OTHERS - TAMIL LITRATURE",
+                                "college_name": "OTHERS-SRIMATH SIVAGNANA BALAYA SWAMIGAL TAMIL COLLEGE MAILAM",
+                                "year_of_passing": "2011"
+                            },
+                            {
+                                "degree": "M.PHIL.",
+                                "specialization": "OTHERS - TAMIL",
+                                "college_name": "OTHERS-SRIMATH SIVAGNANA BALAYA SWAMIGAL TAMIL COLLEGE MAILAM",
+                                "year_of_passing": "2014"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "0 Years",
+                                "previous_position": "0 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. S. JAYABHARATHI",
+                        "dob": "14-01-1995",
+                        "date_of_joining": "01-10-2021",
+                        "aicte_id": "7353737731",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.TECH.",
+                                "specialization": "INFORMATION TECHNOLOGY",
+                                "college_name": "MAILAM ENGINEERING COLLEGE",
+                                "year_of_passing": "2016"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                                "college_name": "MAILAM ENGINEERING COLLEGE",
+                                "year_of_passing": "2018"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "1 Years",
+                                "previous_position": "2 Years"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "faculty_details": [
+            {
+                "department": "Computer Science and Engineering",
+                "faculty_members": [
+                    {
+                        "name": "DR. C. DHAYA",
+                        "dob": "19-07-1978",
+                        "date_of_joining": "12-06-2001",
+                        "aicte_id": "462057405",
+                        "phd_thesis_title": "DESIGN AND DEVELOPMENT OF ALGORITHMIC ASSISTED FRAMEWORK FOR IMPROVED SOFTWARE ARCHITECTURE EVALUATION",
+                        "year_of_starting": "2007",
+                        "educational_qualification": [
+                            {
+                                "degree": "M.E.",
+                                "specialization": "Computer Science and Engineering",
+                                "college_name": "ADHIPARASAKTHI ENGINEERING COLLEGE",
+                                "year_of_passing": "2000"
+                            },
+                            {
+                                "degree": "Ph.D.",
+                                "specialization": "Computer Science and Engineering",
+                                "college_name": "JERUSALEM COLLEGE OF ENGINEERING",
+                                "year_of_passing": "2014"
+                            }
+                        ],
+                        "designation": "PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "4 Years",
+                                "previous_position": "15 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MR. G. SEKAR",
+                        "dob": "15-05-1982",
+                        "date_of_joining": "21-06-2010",
+                        "aicte_id": "462057461",
+                        "phd_thesis_title": "Title of the Ph.D. Thesis",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.TECH.",
+                                "specialization": "Information Technology",
+                                "college_name": "THIRUVALLUVAR COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                                "year_of_passing": "2005"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "Computer Science and Engineering",
+                                "college_name": "GOVERNMENT COLLEGE OF COMPUTER SCIENCE AND ENGINEERING",
+                                "year_of_passing": "2010"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "12 Years",
+                                "previous_position": "0 Years"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "faculty_details": [
+            {
+                "department": "CIVIL",
+                "faculty_members": [
+                    {
+                        "name": "DR. V. RAMASAMY",
+                        "dob": "20-05-1968",
+                        "date_of_joining": "10-06-1994",
+                        "aicte_id": "1456548491",
+                        "phd_thesis_title": "STUDY OF MECHANICAL DURABILITY PROPERTIES RISE",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "M.E.",
+                                "specialization": "STRUCTURAL ENGINEERING",
+                                "college_name": "ANNAMALAI UNIVERSITY",
+                                "year_of_passing": "1992"
+                            },
+                            {
+                                "degree": "PH.D.",
+                                "specialization": "INSTITUTE OF ENGINEERING TECHNOLOGY",
+                                "college_name": " ",
+                                "year_of_passing": "2009"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "5 Years",
+                                "previous_position": "23 Years"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "department": "CIVIL",
+                "faculty_members": [
+                    {
+                        "name": "MR. S. RETHINAKUMAR",
+                        "dob": "05-05-1977",
+                        "date_of_joining": "27-05-2015",
+                        "aicte_id": "2657412243",
+                        "phd_thesis_title": " ",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "CIVIL ENGINEERING",
+                                "college_name": "PSNA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                                "year_of_passing": "2004"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "CONSTRUCTION ENGINEERING AND MANAGEMENT",
+                                "college_name": "ADHIPARASAKTHI ENGINEERING COLLEGE",
+                                "year_of_passing": "2011"
+                            }
+                        ],
+                        "designation": " ",
+                        "academic_experience": [
+                            {
+                                "current_position": "7 Years",
+                                "previous_position": "0 Years"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "faculty_details": [
+            {
+                "department": "ELECTRICAL AND ENGINEERING",
+                "faculty_members": [
+                    {
+                        "name": "DR. S.A. ELANKURISIL",
+                        "dob": "01-03-1973",
+                        "date_of_joining": "13-02-2015",
+                        "aicte_id": "461313813",
+                        "phd_thesis_title": "ANALYSIS AND INVESTIGATIONS ON INTELLIGENT CONTROLLED ZVS DC DC CONVERTER FED DC MOTOR",
+                        "year_of_starting": "2014",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "ELECTRONICS",
+                                "college_name": "ADHIPARASAKTHI ENGINEERING COLLEGE",
+                                "year_of_passing": "1998"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "POWER ELECTRONICS AND DRIVES",
+                                "college_name": "SATHYABAMA UNIVERSITY",
+                                "year_of_passing": "2006"
+                            }
+                        ],
+                        "designation": "PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "8 Years",
+                                "previous_position": "16 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. P. TAMIZHARASI",
+                        "dob": "01-05-1979",
+                        "date_of_joining": "11-12-2003",
+                        "aicte_id": "1461313821",
+                        "phd_thesis_title": " ",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "ELECTRONICS",
+                                "college_name": "ARUNAI ENGINEERING COLLEGE",
+                                "year_of_passing": "2000"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "POWER SYSTEMS",
+                                "college_name": "ANNAMALAI UNIVERSITY",
+                                "year_of_passing": "2002"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "4 Years",
+                                "previous_position": "16 Years"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "faculty_details": [
+            {
+                "department": "MECHANICAL",
+                "faculty_members": [
+                    {
+                        "name": "DR. S. MOTHILAL",
+                        "dob": "30-05-1971",
+                        "date_of_joining": "01-10-2021",
+                        "aicte_id": "11051240647",
+                        "phd_thesis_title": "A STUDY ON SUCCESS AND PERFORMANCE OF INDIAN THIRD PARTY LOGISTICS 3PL INDUSTRY",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "MECHANICAL ENGINEERING",
+                                "college_name": "THIAGARAJAR COLLEGE OF ENGINEERING",
+                                "year_of_passing": "1998"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "ENGINEERING AND PRODUCTION TECHNOLOGY",
+                                "college_name": "SRM MADURAI COLLEGE FOR ENGINEERING AND PRODUCTION TECHNOLOGY",
+                                "year_of_passing": "1999"
+                            },
+                            {
+                                "degree": "PH.D.",
+                                "specialization": "MECHANICAL ENGINEERING",
+                                "college_name": "ANNA UNIVESITY REGIONAL CAMPUS, MADURAI",
+                                "year_of_passing": "2012"
+                            }
+                        ],
+                        "designation": "PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "1 Years",
+                                "previous_position": "27 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MR. KB. YOGESHWARAN",
+                        "dob": "04-04-1989",
+                        "date_of_joining": "03-06-2013",
+                        "aicte_id": "12184542517",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "MECHANICAL ENGINEERING",
+                                "college_name": "ADHIPARASAKTHI ENGINEERING COLLEGE",
+                                "year_of_passing": "2011"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "THERMAL ENGINEERING",
+                                "college_name": "ADHIPARASAKTHI ENGINEERING COLLEGE",
+                                "year_of_passing": "2013"
+                            },
+                            {
+                                "degree": "",
+                                "specialization": "",
+                                "college_name": "",
+                                "year_of_passing": ""
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "9 Years",
+                                "previous_position": "0 Years"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "faculty_details": [
+            {
+                "department": "Electronics and Communication Engineering",
+                "faculty_members": [
+                    {
+                        "name": "MR. P. ADHIYAMAAN VEDASUNDARAVINAYAGAM",
+                        "dob": "30-12-1985",
+                        "date_of_joining": "25-03-2013",
+                        "aicte_id": "2184642536",
+                        "phd_thesis_title": "Title of the Ph.D. Thesis",
+                        "year_of_starting": "10",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "Communication Engineering",
+                                "college_name": "COLLEGE OF ENGINEERING",
+                                "year_of_passing": "2007"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "Electronics Engineering and Technology",
+                                "college_name": "THIRUVALLUVAR COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                                "year_of_passing": "2011"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "4 Years",
+                                "previous_position": "Previous Position"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "faculty_details": [
+            {
+                "department": "S&H-Chemistry",
+                "faculty_members": [
+                    {
+                        "name": "DR. S. SAKTHI RAADHA",
+                        "dob": "06-04-1966",
+                        "date_of_joining": "02-03-2005",
+                        "aicte_id": "463410745",
+                        "phd_thesis_title": "SEMICONDUCTOR PHOTOCATALYST",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.SC.",
+                                "specialization": "CHEMISTRY",
+                                "college_name": "FATHIMA COLLEGE",
+                                "year_of_passing": "1987"
+                            },
+                            {
+                                "degree": "M.SC.",
+                                "specialization": "CHEMISTRY",
+                                "college_name": "FATHIMA COLLEGE",
+                                "year_of_passing": "1989"
+                            },
+                            {
+                                "degree": "PH.D.",
+                                "specialization": "PHYSICAL CHEMISTRY",
+                                "college_name": "ANNAMALAI UNIVERSITY",
+                                "year_of_passing": "2014"
+                            }
+                        ],
+                        "designation": "PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "5 Years",
+                                "previous_position": "13 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "DR. M. ARJUNAN",
+                        "dob": "02-06-1967",
+                        "date_of_joining": "11-08-2022",
+                        "aicte_id": "111042437521",
+                        "phd_thesis_title": "PROTECTED AREAS AND PEOPLE A CASE STUDY OF FOREST RESOURCE USE AND HUMAN IMPACT IN THE KALAKADMUNDANTHURAI TIGER RESERVE",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.SC.",
+                                "specialization": "CHEMISTRY",
+                                "college_name": "GOVT ARTS COLLEGE",
+                                "year_of_passing": "1993"
+                            },
+                            {
+                                "degree": "M.SC.",
+                                "specialization": "ENVIRONMENTAL CHEMISTRY",
+                                "college_name": "PONDICHERRY UNIVERSITY",
+                                "year_of_passing": "1997"
+                            },
+                            {
+                                "degree": "PH.D.",
+                                "specialization": "ENVIRONMENTAL CHEMISTRY",
+                                "college_name": "PONDICHERRY UNIVERSITY",
+                                "year_of_passing": "2005"
+                            }
+                        ],
+                        "designation": "PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "0 Years",
+                                "previous_position": "14 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "DR. R. JOTHIRANI",
+                        "dob": "04-04-1973",
+                        "date_of_joining": "08-07-2002",
+                        "aicte_id": "470119594",
+                        "phd_thesis_title": "ADSORPTION OF BASIC DYES ONTO ULTRASONIC MODIFIED AGRICULTURAL WASTE",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.SC.",
+                                "specialization": "CHEMISTRY",
+                                "college_name": "S F R COLLE FOR WOMEN",
+                                "year_of_passing": "1994"
+                            },
+                            {
+                                "degree": "M.SC.",
+                                "specialization": "CHEMISTRY",
+                                "college_name": "S F R COLLEGE FOR WOMEN",
+                                "year_of_passing": "1996"
+                            },
+                            {
+                                "degree": "PH.D.",
+                                "specialization": "APPLIED CHEMISTRY",
+                                "college_name": "ANNA UNIVERSITY",
+                                "year_of_passing": "2017"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "7 Years",
+                                "previous_position": "13 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "DR. A. KUMARESAN",
+                        "dob": "10-06-1992",
+                        "date_of_joining": "23-01-2023",
+                        "aicte_id": "43378414902",
+                        "phd_thesis_title": "STUDIES ON FABRICATION AND APPLICATION OF LAYERED DOUBLE HYDROXIDES AND RELEVANT COMPOSITES",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.SC.",
+                                "specialization": "CHEMISTRY",
+                                "college_name": "UNIVERSITY OF MADRAS",
+                                "year_of_passing": "2012"
+                            },
+                            {
+                                "degree": "M.SC.",
+                                "specialization": "CHEMISTRY",
+                                "college_name": "UNIVERSITY OF MADRAS",
+                                "year_of_passing": "2014"
+                            },
+                            {
+                                "degree": "PH.D.",
+                                "specialization": "CHEMISTRY",
+                                "college_name": "UNIVERSITYOF CHINESE ACADEMY OF SCIENCES",
+                                "year_of_passing": "2019"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "0 Years",
+                                "previous_position": "0 Years"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "faculty_details": [
+            {
+                "department": "S&H-English",
+                "faculty_members": [
+                    {
+                        "name": "MRS. D. MAHESWARI",
+                        "dob": "03-05-1975",
+                        "date_of_joining": "12-02-2019",
+                        "aicte_id": "7329545485",
+                        "phd_thesis_title": " ",
+                        "year_of_starting": "2007",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.A.",
+                                "specialization": "ENGLISH",
+                                "college_name": "Name: MRS. D. MAHESWARI COLLEGE",
+                                "year_of_passing": "1997"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "S - M A ENGLISH",
+                                "previous_position": "OTHERS - OTHERS-UNIVERSITY OF ENGLI"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "department": " ",
+                "faculty_members": [
+                    {
+                        "name": "MRS. K. SHANMUGAPRIYA",
+                        "dob": "20-08-1983",
+                        "date_of_joining": "02-05-2023",
+                        "aicte_id": "AU1",
+                        "phd_thesis_title": " ",
+                        "year_of_starting": "2007",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.A.",
+                                "specialization": "ENGLISH",
+                                "college_name": "Name: MRS. K. SHANMUGAPRIYA UNIVERSITY",
+                                "year_of_passing": "2007"
+                            },
+                            {
+                                "degree": "M.A.",
+                                "specialization": "ENGLISH",
+                                "college_name": "OTHERS-ANNAMALAI UNIVERSITY",
+                                "year_of_passing": "2009"
+                            },
+                            {
+                                "degree": "M.PHIL",
+                                "specialization": " ",
+                                "college_name": "OTHERS-PRIST UNIVERSITY THANJAVUR",
+                                "year_of_passing": "2011"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "S - M.A ENGLISH",
+                                "previous_position": "OTHERS-ANNAMALAI ENGLISH"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "faculty_details": [
+            {
+                "department": "Mathematics",
+                "faculty_members": [
+                    {
+                        "name": "MR. P. BALAKRISHNAN",
+                        "dob": "29-04-1981",
+                        "date_of_joining": "22-06-2011",
+                        "aicte_id": "716395072",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "2002",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.SC.",
+                                "specialization": "MATHS",
+                                "college_name": "COLLEGE OF ARTS AND SCIENCE",
+                                "year_of_passing": "2002"
+                            },
+                            {
+                                "degree": "M.SC.",
+                                "specialization": "MATHS",
+                                "college_name": "KAMARAJ UNIVERSITY",
+                                "year_of_passing": "2004"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "11 Years",
+                                "previous_position": "7 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MR. P K. SARAVANAN",
+                        "dob": "10-12-1984",
+                        "date_of_joining": "01-09-2010",
+                        "aicte_id": "470119754",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "2005",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.SC.",
+                                "specialization": "MATHS",
+                                "college_name": "KAMARAJ UNIVERSITY",
+                                "year_of_passing": "2005"
+                            },
+                            {
+                                "degree": "M.SC.",
+                                "specialization": "MATHS",
+                                "college_name": "HUSSAIN COLLEGE",
+                                "year_of_passing": "2007"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "12 Years",
+                                "previous_position": "3 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. N. SUGANYA",
+                        "dob": "08-07-1984",
+                        "date_of_joining": "04-06-2014",
+                        "aicte_id": "12671739593",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "2004",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.SC.",
+                                "specialization": "MATHS",
+                                "college_name": "RAMASWAMY COLLEGE",
+                                "year_of_passing": "2004"
+                            },
+                            {
+                                "degree": "M.SC.",
+                                "specialization": "MATHS",
+                                "college_name": "RAMASWAMY COLLEGE",
+                                "year_of_passing": "2006"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "8 Years",
+                                "previous_position": "4 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. G. RADHA",
+                        "dob": "06-03-1980",
+                        "date_of_joining": "03-12-2018",
+                        "aicte_id": "43374468264",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "2000",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.SC.",
+                                "specialization": "MATHEMATICS",
+                                "college_name": "UNIVERSITY",
+                                "year_of_passing": "2000"
+                            },
+                            {
+                                "degree": "M.SC.",
+                                "specialization": "ARTS AND SCIENCE",
+                                "college_name": "COLLEGE",
+                                "year_of_passing": "2002"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "4 Years",
+                                "previous_position": "0 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MR. L. RAMESH",
+                        "dob": "05-03-1986",
+                        "date_of_joining": "22-11-2022",
+                        "aicte_id": "13543732754",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "2010",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.SC.",
+                                "specialization": "MATHEMATICS",
+                                "college_name": "ARTS AND SCIENCE",
+                                "year_of_passing": "2010"
+                            },
+                            {
+                                "degree": "M.SC.",
+                                "specialization": "MATHEMATICS",
+                                "college_name": "UNIVERSITY",
+                                "year_of_passing": "2013"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "0 Years",
+                                "previous_position": "5 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. B. ANJANA DEVI",
+                        "dob": "02-06-1977",
+                        "date_of_joining": "05-12-2019",
+                        "aicte_id": "7490730855",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "1998",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.SC.",
+                                "specialization": "MATHEMATICS",
+                                "college_name": "COLLEGE FOR WOMEN",
+                                "year_of_passing": "1998"
+                            },
+                            {
+                                "degree": "M.SC.",
+                                "specialization": "MATHEMATICS",
+                                "college_name": "COLLEGE FOR WOMEN",
+                                "year_of_passing": "2000"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "3 Years",
+                                "previous_position": "4 Years"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "faculty_details": [
+            {
+                "department": "S&H-Physics",
+                "faculty_members": [
+                    {
+                        "name": "DR. V. VIJAYASUNDARAM",
+                        "dob": "07-11-1983",
+                        "date_of_joining": "02-07-2009",
+                        "aicte_id": "461967357",
+                        "phd_thesis_title": "SPECTROSCOPIC STUDY OF THE EFFECT OF ARSENIC EXPOSURE AND THE INFLUENCE OF ANTIDOTE MESO 2 3 DIMERCAPTOSUCCINIC ACID ON THE SELECTED ORGAN TISSUES OF LABEO ROHITA FINGERLINGS",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.SC.",
+                                "specialization": "OTHERS - PHYSICS",
+                                "college_name": "OTHERS-DHARAMAPURAM ADHINAM ARTS",
+                                "year_of_passing": "2003"
+                            },
+                            {
+                                "degree": "M.SC.",
+                                "specialization": "OTHERS - PHYSICS",
+                                "college_name": "OTHERS-ANNAMALAI UNIVERSITY",
+                                "year_of_passing": "2005"
+                            },
+                            {
+                                "degree": "PH.D.",
+                                "specialization": "PHYSICS",
+                                "college_name": "OTHERS-ANNAMALAI UNIVERSITY",
+                                "year_of_passing": "2011"
+                            }
+                        ],
+                        "designation": "PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "0 Years",
+                                "previous_position": "13 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MR. V. SIVARAMAKIRSHNAN",
+                        "dob": "24-03-1978",
+                        "date_of_joining": "04-01-2011",
+                        "aicte_id": "465035193",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.SC.",
+                                "specialization": "OTHERS - PHYSICS",
+                                "college_name": "OTHERS-SRI SANKARA ARTS AND SCIENCE",
+                                "year_of_passing": "1998"
+                            },
+                            {
+                                "degree": "M.SC.",
+                                "specialization": "OTHERS - PHYSICS",
+                                "college_name": "OTHERS-PACHAIYAPAS COLLEGE FOR MEN",
+                                "year_of_passing": "2000"
+                            },
+                            {
+                                "degree": "PH.D.",
+                                "specialization": "PHYSICS",
+                                "college_name": "OTHERS-ANNAMALAI UNIVERSITY",
+                                "year_of_passing": "2007"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "12 Years",
+                                "previous_position": "5 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. P. HARIPRIYA",
+                        "dob": "15-05-1976",
+                        "date_of_joining": "09-07-2009",
+                        "aicte_id": "465035189",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.SC.",
+                                "specialization": "OTHERS - PHYSICS",
+                                "college_name": "OTHERS-SDNB VAISNAV COLLEGE FOR WOMEN",
+                                "year_of_passing": "1996"
+                            },
+                            {
+                                "degree": "M.SC.",
+                                "specialization": "OTHERS - PHYSICS",
+                                "college_name": "OTHERS-MADRAS CHRISTIAN COLLEGE",
+                                "year_of_passing": "1998"
+                            },
+                            {
+                                "degree": "PH.D.",
+                                "specialization": "PHYSICS",
+                                "college_name": "OTHERS-MADRAS CHRISTIAN COLLEGE",
+                                "year_of_passing": "2005"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "0 Years",
+                                "previous_position": "18 Years"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,184 @@
+{
+    "faculty_details": [
+        {
+            "department": "Mathematics",
+            "faculty_members": [
+                {
+                    "name": "DR. A. SWAMINATHAN",
+                    "dob": "01-10-1963",
+                    "date_of_joining": "01-11-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "CONTRIBUTION TO THE STUDY OF CUBIC SOFT SETS AND ITS APPLICATIONS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "NEHRU MEMORIAL COLLEGE",
+                            "year_of_passing": "1983"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "SRI VASAVI COLLEGE",
+                            "year_of_passing": "1986"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "29 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. BHADAURIA. SHIKHA",
+                    "dob": "21-09-1989",
+                    "date_of_joining": "01-06-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "ANALYTIC STUDY OF GENERALIZED CONCEPT OF CONTUINITY IN IDEAL TOPOLOGICAL SPACES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "ST ALOYSIOUS COLLEGE",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "RD UNIVERSITY",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "RD UNIVERSITY",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "6 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. M. SIVAKAMI SUNDARI",
+                    "dob": "07-05-1974",
+                    "date_of_joining": "03-12-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "STUDY ON ARTIFICIAL NEURAL NETWORK SIMULATION OF QUEUING SYSTEM",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "JAC FOR WOMEN COLLEGE",
+                            "year_of_passing": "1994"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "JAC FOR WOMEN COLLEGE",
+                            "year_of_passing": "1999"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "BHARATHIYAR UNIVERSITY",
+                            "year_of_passing": "2022"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "15 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. G. AISHWARYA",
+                    "dob": "23-07-1994",
+                    "date_of_joining": "18-10-2021",
+                    "aicte_id": "7496958007",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "PARAMESWARI ARTS AND SCIENCE COLLEGE FOR WOMEN",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "INSTITUTE FOR ADVANCE STUDIES FOR MATHEMATICS",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "VELS INSTITUTE OF SCIENCE TECHNOLOGY AND ADVANCED STUDIES",
+                            "year_of_passing": "2022"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. K. VIDHYALAKSMI",
+                    "dob": "16-11-1981",
+                    "date_of_joining": "16-10-2020",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "THEORY OF IDEAL AND OMEGA TOPOLOGICAL",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "PSG COLLEGE OF ARTS AND SCIENCE",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "PSG COLLEGE OF ARTS AND SCIENCE",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "KANDASWAMY NAIDU COLLEGE FOR MEN",
+                            "year_of_passing": "2022"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "13 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

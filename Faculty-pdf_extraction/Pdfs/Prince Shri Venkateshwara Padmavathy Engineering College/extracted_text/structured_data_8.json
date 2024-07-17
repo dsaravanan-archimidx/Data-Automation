@@ -1,0 +1,241 @@
+{
+    "faculty_details": [
+        {
+            "department": " ",
+            "faculty_members": [
+                {
+                    "name": "DR. S. SARA",
+                    "dob": "13-06-1972",
+                    "date_of_joining": "26-02-2021",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "BUSINESS ADMINISTRATION",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "MASTER OF BUSINESS ADMINISTRATION",
+                            "college_name": "BHARATH INSTITUTE",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MANAGEMENT",
+                            "college_name": "MANONMANIAM SUNDARANAR UNIVERSITY",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "20 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. S. RATHIKA",
+                    "dob": "24-03-1981",
+                    "date_of_joining": "01-02-2013",
+                    "aicte_id": "1456420579",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS ENGINEERING",
+                            "college_name": "IFET COLLEGE OF ENGINEERING (AUTONOMOUS)",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "MASTER OF BUSINESS ADMINISTRATION",
+                            "college_name": "M OFO ET NH GER IN T EE ER RA INS GA AC NO DLLEGE",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "",
+                            "college_name": "PRIST",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "12 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. V. BAGYALAKSHMI",
+                    "dob": "01-06-1990",
+                    "date_of_joining": "19-12-2018",
+                    "aicte_id": "14698752927",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.C.A.",
+                            "specialization": "COMPUTER APPLICATIONS",
+                            "college_name": "VENKATESHWARA ARTS AND SCIENCE COLLEGE",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "MASTER OF BUSINESS ADMINISTRATION",
+                            "college_name": "UNIVERSITY OF MADRAS",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. T. SHARMILA",
+                    "dob": "09-03-1987",
+                    "date_of_joining": "28-12-2016",
+                    "aicte_id": "17361338268",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.COM.",
+                            "specialization": "COMMERCE",
+                            "college_name": "PADMAVATHY ENGINEERING COLLEGE",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "MASTER OF BUSINESS ADMINISTRATION",
+                            "college_name": "VENKATESHWARAA COLLEGE",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. J. REVATHI",
+                    "dob": "23-05-1972",
+                    "date_of_joining": "16-06-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "MANAGERIAL ECONOMICS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "MASTER OF BUSINESS ADMINISTRATION",
+                            "college_name": "UNIVERSITY OF MADRAS",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MANAGERIAL ECONOMICS",
+                            "college_name": "VELS UNIVERSITY",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. R. JAYADURGA",
+                    "dob": "17-07-1987",
+                    "date_of_joining": "01-09-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "HUMAN RESOURCE DEVELOPMENT",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "HUMAN RESOURCE DEVELOPMENT AND MANAGEMENT",
+                            "college_name": "BHARATHIDASAN UNIV",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. C S. NIVEDHA",
+                    "dob": "02-09-1995",
+                    "date_of_joining": "05-08-2019",
+                    "aicte_id": "17361338261",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "ANAND INSTITUTE OF HIGHER TECHNOLOGY",
+                            "year_of_passing": "2017"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "MASTER OF BUSINESS ADMINISTRATION",
+                            "college_name": "SRM VALLIAMMAI ENGINEERING COLLEGE",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. S. SATHIYA NAVEENA",
+                    "dob": "07-11-1992",
+                    "date_of_joining": "15-12-2016",
+                    "aicte_id": "13365687068",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "INFORMATION TECHNOLOGY",
+                            "college_name": "JAYARAJ ANNAPACKIAM CSI COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "MASTER OF BUSINESS ADMINISTRATION",
+                            "college_name": "MANONMANIAM",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "faculty_details": [
+        {
+            "department": "Marine Engineering",
+            "faculty_members": [
+                {
+                    "name": "MR. R. PRAKASH",
+                    "dob": "22-06-1988",
+                    "date_of_joining": "13-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Marine Engineering",
+                            "college_name": "AAA COLLEGE OF DG MARINE ENGINEERING AND SHIPPIN ENGINEERING TECHNOLOGY",
+                            "year_of_passing": "2009"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. A. PARTHIBAN",
+                    "dob": "28-12-1980",
+                    "date_of_joining": "04-05-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": " ",
+                            "specialization": "MEO OTHERS",
+                            "college_name": "G K M COLLEGE OF ENGINEERING AND CLASS MARINE TECHNOLOGY",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": " ",
+            "faculty_members": [
+                {
+                    "name": "MR. R. SUNDARARAJAN",
+                    "dob": "23-03-1958",
+                    "date_of_joining": "16-02-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": " ",
+                            "specialization": "MARINE OTHERS-DG SHIPPING",
+                            "college_name": "OTHERS",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. B. RAJESH REGURAM",
+                    "dob": "26-03-1981",
+                    "date_of_joining": "01-02-2021",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "STUDY ON RESISTANCE AND PITCH MOTION OF A SHIP FITTED WITH BOW FINS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "PH.D.",
+                            "specialization": " ",
+                            "college_name": "MARINE INDIAN INSTITUTE OF ENGINEERING TECHNOLOGY MADRAS",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

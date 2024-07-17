@@ -1,0 +1,176 @@
+{
+    "faculty_details": [
+        {
+            "department": "Electronics and Communication Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. A. SARAVANAN",
+                    "dob": "20-05-1979",
+                    "date_of_joining": "28-01-2021",
+                    "aicte_id": "ELECTRONICS AND",
+                    "phd_thesis_title": "PALM VEIN IMAGE RECOGNITION FOR HUMAN USING DISCRETE ENHANCEMENT",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.E.",
+                            "specialization": "APPLIED ELECTRONICS",
+                            "college_name": "DR MGR EDUCATIONAL AND RESEARCH INSTITUTE",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "COMMUNICATION",
+                            "college_name": "BHARATH INSTITUTE OF HIGHER EDUCATION AND ENGINEERING",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "ASSOCIATE PROFESSOR",
+                            "previous_position": "PROFESSOR"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. M. ABEL",
+                    "dob": "20-04-1977",
+                    "date_of_joining": "03-01-2007",
+                    "aicte_id": "ELECTRONICS AND",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ELECTRONICS ENGINEERING",
+                            "college_name": "KRS COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2006"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "ASSISTANT PROFESSOR",
+                            "previous_position": "ASSISTANT PROFESSOR"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. N. VIKRAMAN",
+                    "dob": "28-05-1984",
+                    "date_of_joining": "03-02-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.E.",
+                            "specialization": "MEDICAL ELECTRONICS",
+                            "college_name": "ANNA UNIVESITY REGIONAL CAMPUS, COIMBATORE",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "ASSISTANT PROFESSOR",
+                            "previous_position": "ASSISTANT PROFESSOR"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. B. SOWNDARYA",
+                    "dob": "03-06-1992",
+                    "date_of_joining": "15-04-2019",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.E.",
+                            "specialization": "APPLIED ELECTRONICS",
+                            "college_name": "VIVEKANANDHA COLLEGE OF ENGINEERING FOR WOMEN (AUTONOMOUS)",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "ASSISTANT PROFESSOR",
+                            "previous_position": "ASSISTANT PROFESSOR"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. S. SUJATHA",
+                    "dob": "07-05-1992",
+                    "date_of_joining": "23-06-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.E.",
+                            "specialization": "VLSI DESIGN",
+                            "college_name": "MUTHAYAMMAL COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "ASSISTANT PROFESSOR",
+                            "previous_position": "ASSISTANT PROFESSOR"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. J. DIVYA",
+                    "dob": "18-07-1994",
+                    "date_of_joining": "12-08-2020",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.E.",
+                            "specialization": "VLSI DESIGN AND EMBEDDED SYSTEMS",
+                            "college_name": "MIT ANNA UNIVERSITY",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "ASSISTANT PROFESSOR",
+                            "previous_position": "ASSISTANT PROFESSOR"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. RANJITH",
+                    "dob": "05-09-1989",
+                    "date_of_joining": "03-02-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.E.",
+                            "specialization": "SYSTEMS",
+                            "college_name": "VELS UNIVERSITY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "ASSISTANT PROFESSOR",
+                            "previous_position": "ASSISTANT PROFESSOR"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

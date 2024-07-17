@@ -1,0 +1,174 @@
+{
+    "faculty_details": [
+        {
+            "department": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "MR. P T. ANAND PON KUMAR",
+                    "dob": "25-08-1989",
+                    "date_of_joining": "23-01-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS ENGINEERING",
+                            "college_name": "AVIT",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "POWER SYSTEMS ENGINEERING",
+                            "college_name": "UDAYA SCHOOL",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "MECHANICAL ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "MR. K. SARAVANAN",
+                    "dob": "05-03-1983",
+                    "date_of_joining": "02-05-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "THIRUVALLUVAR COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "CAD/CAM",
+                            "college_name": "COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "MRS. M. SUDHA",
+                    "dob": "04-03-1993",
+                    "date_of_joining": "23-01-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "ARIGNAR ANNA INSTITUTE OF SCIENCE AND TECHNOLOGY",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMMUNICATION AND NETWORKING",
+                            "college_name": "RAJIV GANDHI COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "ARTS AND SCIENCE",
+            "faculty_members": [
+                {
+                    "name": "MRS. D. DHIVYA",
+                    "dob": "11-11-1995",
+                    "date_of_joining": "08-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "MA TAMIL",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ARTS AND SCIENCE",
+                            "college_name": "TAMIL COLLEGE",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "P.PHIL",
+                            "specialization": "TAMIL",
+                            "college_name": "WOMEN ARTS COLLEGE",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "OTHER",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "MR. M. ABUTHAHIR",
+                    "dob": "10-05-1990",
+                    "date_of_joining": "02-12-2021",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS ENGINEERING",
+                            "college_name": "PALLAVAN COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.TEC",
+                            "specialization": "ELECTRONICS AND DRIVES",
+                            "college_name": "BHARATH UNIVERSITY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "OTHER",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

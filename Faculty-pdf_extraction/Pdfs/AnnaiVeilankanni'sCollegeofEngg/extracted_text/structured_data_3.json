@@ -1,0 +1,369 @@
+{
+    "faculty_details": [
+        {
+            "department": "Electronics and Communication Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. P. THIRUMURUGAN",
+                    "dob": "21-12-1977",
+                    "date_of_joining": "20-03-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "A DETAILED INVESTIGATION AND ANALYSIS OF IMAGES WITH IMPULSE NOISE REDUCTION",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS AND COMMUNICATION",
+                            "college_name": "R V S COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "APPLIED ELECTRONICS",
+                            "college_name": "PSNA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": "INFORMATION ENGINEERING AND COMMUNICATION TECHNOLOGY",
+                            "college_name": "AUTONOMOUS",
+                            "year_of_passing": "2009"
+                        }
+                    ],
+                    "designation": "PRINCIPAL",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "15 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. K. SELVASINDUPRIYA",
+                    "dob": "05-06-1995",
+                    "date_of_joining": "21-06-2021",
+                    "aicte_id": "111272259489",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING AND ENGINEERING TECHNOLOGY",
+                            "college_name": "AMRITA COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "TECHNOLOGIES ENGINEERING AND TECHNOLOGY",
+                            "college_name": "",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. J L. SHERIN ALLAN",
+                    "dob": "06-11-1990",
+                    "date_of_joining": "06-02-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "BETHLAHEM INSTITUTE OF ENGINEERING",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "SYSTEMS ENGINEERING",
+                            "college_name": "",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. S. CAROLINE",
+                    "dob": "11-04-1991",
+                    "date_of_joining": "06-02-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING AND TECHNOLOGY",
+                            "college_name": "INFANT JESUS COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "SYSTEMS ENGINEERING AND TECHNOLOGY",
+                            "college_name": "",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. N. BAMAKUMARI",
+                    "dob": "03-01-1977",
+                    "date_of_joining": "01-02-2019",
+                    "aicte_id": "111106353751",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS ENGINEERING",
+                            "college_name": "BHARATH ENGG COLLEGE",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "ELECTRONICS ENGG RESEARCH",
+                            "college_name": "BHARATH INST OF RESEARCH",
+                            "year_of_passing": "2006"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "11 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. V. BALAMBIGAI",
+                    "dob": "20-10-1992",
+                    "date_of_joining": "06-02-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION INFORMATION TECHNOLOGY",
+                            "college_name": "K L N COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "DIGITAL SIGNAL PROCESSING ENGINEERING AND TECHNOLOGY",
+                            "college_name": "G K M COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. P. DHIVYABHARATHI",
+                    "dob": "19-03-1993",
+                    "date_of_joining": "01-02-2022",
+                    "aicte_id": "13570201058",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "SHRI ANDAL ALAGAR COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "SYSTEMS ENGINEERING AND TECHNOLOGY",
+                            "college_name": "G K M COLLEGE OF COMMUNICATION",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. J. HEERA PRIYATHARSINI",
+                    "dob": "06-04-1992",
+                    "date_of_joining": "17-02-2017",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "VELS UNIVERSITY",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "DIGITAL SIGNAL PROCESSING ENGINEERING AND TECHNOLOGY",
+                            "college_name": "G K M COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. M. THIRUPATHI",
+                    "dob": "14-05-1981",
+                    "date_of_joining": "10-07-2012",
+                    "aicte_id": "111272972188",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "INFORMATION TECHNOLOGY",
+                            "college_name": "THIRUVALLUVAR COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "VLSI DESIGN ENGINEERING",
+                            "college_name": "ADHIPARASAKTHI ENGINEERING COLLEGE",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "10 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. S. JAYA",
+                    "dob": "17-06-1972",
+                    "date_of_joining": "18-02-2020",
+                    "aicte_id": "17451201508",
+                    "phd_thesis_title": "CONDITION MONITORING OF INDUCTION MOTOR USING SIGNAL PROCESSING TECHNIQUES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "MADRAS UNIVERSITY",
+                            "year_of_passing": "1993"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "ADVANCED COMMUNICATION SYSTEM",
+                            "college_name": "SASRA DEEMED UNIVERSITY",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": "INSTRUMENTATION ENGINEERING",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "22 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. R. PUSHPAVATHY",
+                    "dob": "16-06-1992",
+                    "date_of_joining": "02-08-2021",
+                    "aicte_id": "111272259641",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS ENGINEERING",
+                            "college_name": "SURYA GROUP OF INSTITUTIONS",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "POWER ELECTRONICS AND DRIVES",
+                            "college_name": "SREE SASTHA INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. R. POONKUZHALI",
+                    "dob": "15-07-1992",
+                    "date_of_joining": "23-08-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "ARASU ENGINEERING COLLEGE",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "SYSTEMS ENGINEERING",
+                            "college_name": "E G S PILLAY ENGINEERING COLLEGE",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "6 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

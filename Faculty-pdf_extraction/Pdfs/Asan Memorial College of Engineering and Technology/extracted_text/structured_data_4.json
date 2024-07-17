@@ -1,0 +1,72 @@
+{
+    "faculty_details": [
+        {
+            "department": "MECHANICAL",
+            "faculty_members": [
+                {
+                    "name": "MR. M. VASANTHAN",
+                    "dob": "25-05-1986",
+                    "date_of_joining": "08-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ENERGY ENGINEERING",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "MECHANICAL",
+            "faculty_members": [
+                {
+                    "name": "MR. R. PRABAKARAN",
+                    "dob": "09-07-1993",
+                    "date_of_joining": "17-03-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "JEPPIAAR ENGINEERING COLLEGE",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "AUTOMOBILE ENGINEERING",
+                            "college_name": "BHARATH INSTITUTE OF HIGHER EDUCATION AND RESEARCH",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "faculty_details": [
+        {
+            "department": "",
+            "faculty_members": [
+                {
+                    "name": "DR. P. GNANASIVAM",
+                    "dob": "03-05-1964",
+                    "date_of_joining": "24-06-2019",
+                    "aicte_id": "17536315356",
+                    "phd_thesis_title": "GENDER CLASSIFICATION AND AGE ESTIMATION USING FINGERPRINT AND EAR FEATURES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.E.",
+                            "specialization": "APPLIED ELECTRONICS",
+                            "college_name": "COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CYBER SECURITY",
+                            "college_name": "COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "26 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

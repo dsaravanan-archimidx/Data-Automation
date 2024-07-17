@@ -1,0 +1,213 @@
+{
+    "faculty_details": [
+        {
+            "department": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "MR. T. KRISHNAMOORTHY",
+                    "dob": "29-01-1982",
+                    "date_of_joining": "03-02-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "BioMedical Engineering",
+                            "college_name": "I F E T COLLEGE OF ENGINEERING (AUTONOMOUS)",
+                            "year_of_passing": "2004"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. K. AMUTHA",
+                    "dob": "19-06-1976",
+                    "date_of_joining": "25-01-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Communication Engineering",
+                            "college_name": "MANIYAMMAI COLLEGE OF ENGINEERING TECHNOLOGY FOR WOMEN",
+                            "year_of_passing": "1997"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "14 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "BIOMEDICAL ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "MRS. E. EDWIN SHANILA",
+                    "dob": "24-07-1987",
+                    "date_of_joining": "22-12-2021",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Biomedical Engineering",
+                            "college_name": "RAJIV GANDHI COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2008"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "6 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "MR. K. THIYAGU",
+                    "dob": "25-06-1989",
+                    "date_of_joining": "01-02-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Communication Engineering and Engineering Technology",
+                            "college_name": "SAMS COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "OTHERS - MICROBIOLOGY",
+            "faculty_members": [
+                {
+                    "name": "MR. J. SRINIVASAN",
+                    "dob": "10-05-1981",
+                    "date_of_joining": "16-08-2006",
+                    "aicte_id": "OTHERS",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "Microbiology",
+                            "college_name": "SCKC COLLEGE",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "Biotechnology",
+                            "college_name": "SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "Biotechnology",
+                            "college_name": "OTHERS-PERIYAR UNIVERSITY",
+                            "year_of_passing": "2007"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "16 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "COMPUTER AND COMMUNICATION ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "MRS. CLARA. JOYS",
+                    "dob": "10-11-1988",
+                    "date_of_joining": "20-01-2018",
+                    "aicte_id": "B.E.",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Communication Engineering",
+                            "college_name": "SMK FOMRA INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "ELECTRONICS ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "DR. J. KALIAPPAN",
+                    "dob": "10-06-1968",
+                    "date_of_joining": "04-03-2019",
+                    "aicte_id": "PH.D.",
+                    "phd_thesis_title": "MAPPING DSP BENCHMARKS ON TO RECONFIGURABLE HARDWARE ARCHITECTURE",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "Electronics Engineering",
+                            "college_name": "GUINDY",
+                            "year_of_passing": "1994"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Embedded Systems",
+                            "college_name": "B ITH YARATH",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "16 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

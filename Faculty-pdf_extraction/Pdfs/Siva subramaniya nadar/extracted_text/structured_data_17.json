@@ -1,0 +1,119 @@
+{
+    "faculty_details": [
+        {
+            "department": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "DR. A. JAWAHAR",
+                    "dob": "25-05-1969",
+                    "date_of_joining": "29-10-1996",
+                    "aicte_id": "1456875305",
+                    "phd_thesis_title": "STUDIES ON HYBRID TOPOLOGY MANAGEMENT SCHEMES FOR WIRELESS SENSOR NETWORKS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION TECHNOLOGY",
+                            "college_name": "GOVERNMENT ENGINEERING COLLEGE OF COIMBATORE",
+                            "year_of_passing": "1990"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "REMOTE SENSING AND GIS",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "26 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. G. DURGA",
+                    "dob": "19-07-1981",
+                    "date_of_joining": "04-08-2005",
+                    "aicte_id": "1456875289",
+                    "phd_thesis_title": "SOFT ERROR PERFORMANCE OF JUNCTION AND JUNCTIONLESS SILICON NANOTUBE FET BASED SRAM AND INVERTER CHAIN",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "GOVERNMENT COLLEGE OF APPLIED TECHNOLOGY",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "SRI SIVASUBRAMANIYA NADAR COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "SRI SIVASUBRAMANIYA NADAR COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "13 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "DR. V. VAITHIANATHAN",
+                    "dob": "31-01-1974",
+                    "date_of_joining": "16-06-2006",
+                    "aicte_id": "1456875269",
+                    "phd_thesis_title": "STUDIES ON THE PERFORMANCE OF LOW NOISE AMPLIFIER STRUCTURES SUITABLE FOR ULTRA WIDE BAND APPLICATIONS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "SHRI ANGALAMMAN COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "1997"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "VLSI DESIGN",
+                            "college_name": "REGIONAL ENGINEERING COLLEGE OF WARANGAL",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "VLSI DESIGN",
+                            "college_name": "SRI SIVASUBRAMANIYA NADAR COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "9 Years",
+                            "previous_position": "16 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-English",
+            "faculty_members": [
+                {
+                    "name": "DR. S. NARENDIRAN",
+                    "dob": "01-10-1991",
+                    "date_of_joining": "11-07-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "FROM RESISTANCE TO INSURGENCY AN EMIC ETIC ANALYSIS ON SELECT INDIAN YOUND ADULT WRITINGS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "VIVEKANADA COLLEGE",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "MA",
+                            "specialization": "ENGLISH",
+                            "college_name": "OTHERS-RKM COLLEGE OF ARTS AND SCIENCE",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ENGLISH",
+                            "college_name": "INSTITUTE OF TECHNOLOGY CHENNAI",
+                            "year_of_passing": "2022"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": " ",
+            "faculty_members": [
+                {
+                    "name": "MR. R. SATHISH",
+                    "dob": "04-06-1986",
+                    "date_of_joining": "13-06-2012",
+                    "aicte_id": "7414829589",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "OTHERS-BISHOP HEBER COLLEGE",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.",
+                            "specialization": "ENGLISH",
+                            "college_name": "OTHERS-BHARATHIDASAN UNIVERSITY",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M. A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "OTHERS-LOYOLA COLLEGE",
+                            "year_of_passing": "2008"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "10 Years",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

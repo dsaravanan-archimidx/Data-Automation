@@ -1,0 +1,84 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-Physics",
+            "faculty_members": [
+                {
+                    "name": "MRS. G. SRIDEVI",
+                    "dob": "18-05-1979",
+                    "date_of_joining": "08-09-2004",
+                    "aicte_id": "",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "COLLEGE FOR WOMAN",
+                            "year_of_passing": "1999"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "COLLEGE PORAYAR",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "15 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": " ",
+            "faculty_members": [
+                {
+                    "name": "MR. N. MUTHURATHINAM",
+                    "dob": "12-06-1978",
+                    "date_of_joining": "20-06-2016",
+                    "aicte_id": "31830663377",
+                    "phd_thesis_title": "BHARATHIDASON",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "OTHERS-P E V R COLLEGE",
+                            "year_of_passing": "1999"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "PHYSICS COLLEGE",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "12 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

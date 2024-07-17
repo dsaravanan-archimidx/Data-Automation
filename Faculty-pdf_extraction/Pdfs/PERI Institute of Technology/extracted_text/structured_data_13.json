@@ -1,0 +1,154 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-English",
+            "faculty_members": [
+                {
+                    "name": "DR. C N. VIDHYALAKSHMI",
+                    "dob": "15-04-1978",
+                    "date_of_joining": "16-09-2020",
+                    "aicte_id": "9312247642",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "2001",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "COLLEGEE VELLORE",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "M.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "UNIVERSITY OF MADRAS",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ENGLISH",
+                            "college_name": "ANDHRA UNIVERSITY",
+                            "year_of_passing": "2023"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": " ",
+                            "previous_position": "11 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. J. JULIE",
+                    "dob": "20-02-1986",
+                    "date_of_joining": "04-01-2023",
+                    "aicte_id": "AUUU",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "2010",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "SRI GVG VISALAKSHI COLLEGE",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "ENGLISH",
+                            "college_name": "SRI GVG VISALAKSHI COLLEGE",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ENGLISH",
+                            "college_name": "SRI GVG VISALAKSHI COLLEGE",
+                            "year_of_passing": "2023"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": " ",
+                            "previous_position": "7 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": " ",
+            "faculty_members": [
+                {
+                    "name": "MRS. V. JEEVA",
+                    "dob": "06-03-1986",
+                    "date_of_joining": "06-10-2022",
+                    "aicte_id": "4115400",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "2008",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "NAVARASAM COLLEGE",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ENGLISH",
+                            "college_name": "NATIONAL COLLEGE",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": " ",
+                            "previous_position": "10 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. S. SACHITHANANTHAN",
+                    "dob": "21-03-1993",
+                    "date_of_joining": "01-10-2022",
+                    "aicte_id": "AUU",
+                    "phd_thesis_title": "VISION OF SELF",
+                    "year_of_starting": "2015",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "ABDUL HAKEEM COLLEGE",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "ABDUL HAKEEM COLLEGE",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ENGLISH",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": " ",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

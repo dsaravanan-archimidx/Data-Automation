@@ -1,0 +1,159 @@
+{
+    "faculty_details": [
+        {
+            "department": "Computer Science and Engineering",
+            "faculty_members": [
+                {
+                    "name": "MS. L. VIDHYA",
+                    "dob": "01-02-1991",
+                    "date_of_joining": "01-02-2023",
+                    "aicte_id": "AU1 S K R ENGINEERING",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Computer Science and Engineering",
+                            "college_name": "THE NEW ROYAL COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Science and Engineering",
+                            "college_name": "S K R ENGINEERING COLLEGE",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. P. RAJASEKARAN",
+                    "dob": "07-06-1988",
+                    "date_of_joining": "03-02-2023",
+                    "aicte_id": "AU1 KARPAGA VINAYAGA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TEC",
+                            "specialization": "Information Technology",
+                            "college_name": "KARPAGA VINAYAGA COLLEGE OF TECHNOLOGY",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Science and Engineering",
+                            "college_name": "KARPAGA VINAYAGA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "Others",
+            "faculty_members": [
+                {
+                    "name": "MR. S.K. VIJAI ANAND",
+                    "dob": "25-08-1975",
+                    "date_of_joining": "24-08-2010",
+                    "aicte_id": "RESEARCH",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "Computer Systems and Operation",
+                            "college_name": "NATIONAL COLLEGE OF ENGINEERING",
+                            "year_of_passing": "1996"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Engineering",
+                            "college_name": "GUINDY",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "12 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. R. JANARTHANAN",
+                    "dob": "27-04-1989",
+                    "date_of_joining": "03-02-2023",
+                    "aicte_id": "AU1 SHRI ANDAL ALAGAR COLLEGE OF ENGINEERING",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Computer Science and Engineering",
+                            "college_name": "ASIAN COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Science and Engineering",
+                            "college_name": "SHRI ANDAL ALAGAR COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. SIVAKUMAR. UDHAYASHANKAR",
+                    "dob": "07-01-1990",
+                    "date_of_joining": "06-03-2023",
+                    "aicte_id": "AU1 VELAMMAL COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TEC",
+                            "specialization": "Information Technology",
+                            "college_name": "VELAMMAL COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.TEC",
+                            "specialization": "Information Technology",
+                            "college_name": "BHARATH INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "OTHERS",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

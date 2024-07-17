@@ -1,0 +1,296 @@
+{
+    "faculty_details": [
+        {
+            "department": "ELECTRONICS AND COMMUNICATION",
+            "faculty_members": [
+                {
+                    "name": "DR. R. ANITHA",
+                    "dob": "06-07-1982",
+                    "date_of_joining": "27-01-2022",
+                    "aicte_id": "17416575278",
+                    "phd_thesis_title": "DESIGN IMPLEMENTATION AND PERFORMANCE EVALUATION OF NETWORK ONCHIP COMMUNICATION LINK ROUTER",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "BIO-MEDICAL ENGINEERING",
+                            "college_name": "UNIVERSITY OF MADRAS",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "APPLIED ELECTRONICS",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": "COMMUNICATION",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "13 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. P. NANDHINI",
+                    "dob": "07-07-1976",
+                    "date_of_joining": "13-12-2010",
+                    "aicte_id": "1470317275",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION",
+                            "college_name": "BHARATH ENGINEERING COLLEGE",
+                            "year_of_passing": "1997"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "MEDICAL ELECTRONICS",
+                            "college_name": "GUINDY",
+                            "year_of_passing": "2009"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "18 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "ELECTRONICS AND CONTROL ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "MRS. S. AMBIKA",
+                    "dob": "10-06-1969",
+                    "date_of_joining": "03-01-2022",
+                    "aicte_id": "111313235974",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "",
+                            "college_name": "BHARATHIAR UNIVERSITY",
+                            "year_of_passing": "1990"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "BIOMEDICAL ENGINEERING",
+                            "college_name": "BHARATHIAR UNIVERSITY",
+                            "year_of_passing": "1999"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "16 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "ELECTRONICS AND ENGINEERING TECHNOLOGY",
+            "faculty_members": [
+                {
+                    "name": "DR. J. SOFIA BOBBY",
+                    "dob": "07-12-1980",
+                    "date_of_joining": "06-12-2010",
+                    "aicte_id": "1470317279",
+                    "phd_thesis_title": "STUDIES ON THE EFFECT OF NEURO FEEDBACK TRAINING ON THE COGNITIVE PERFORMANCE IF HEALTHY AND ELDERLY SUBJECTS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": " ",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "MEDICAL ELECTRONICS",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2009"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "16 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "BIOMEDICAL ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "MS. CL. ANNAPOORANI",
+                    "dob": "24-10-1988",
+                    "date_of_joining": "25-06-2012",
+                    "aicte_id": "11433400533",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "RAJALAKSHMI ENGINEERING COLLEGE (AUTONOMOUS)",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "NANOTECHNOLOGY",
+                            "college_name": "ANNA UNIVESITY REGIONAL CAMPUS, COIMBATORE",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "10 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. V. MYTHILY",
+                    "dob": "02-06-1982",
+                    "date_of_joining": "14-06-2010",
+                    "aicte_id": "19318338178",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "BIOMEDICAL ENGINEERING",
+                            "college_name": "DIRECTORATE OF DISTANCE EDUCATION",
+                            "year_of_passing": "2008"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "12 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "BIOMEDICAL ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "MS. B. NIVETHA",
+                    "dob": "26-12-1989",
+                    "date_of_joining": "01-08-2019",
+                    "aicte_id": "17529961468",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "BIOMEDICAL ENGINEERING",
+                            "college_name": "AVINASHILINGAM UNIVERSITY FOR WOMEN",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "SASURIE COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. B. LAVANYA",
+                    "dob": "08-06-1981",
+                    "date_of_joining": "18-07-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION",
+                            "college_name": "UNIVERSITY OF MADRAS",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "APPLIED ELECTRONICS",
+                            "college_name": "SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "13 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. S. PURNIMA",
+                    "dob": "27-01-1982",
+                    "date_of_joining": "26-06-2015",
+                    "aicte_id": "1470317295",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "ST JOSEPH COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "MEDICAL ELECTRONICS",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2006"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "7 Years",
+                            "previous_position": "6 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

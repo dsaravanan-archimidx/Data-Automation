@@ -1,0 +1,289 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-Chemistry",
+            "faculty_members": [
+                {
+                    "name": "DR. V.S. GAYATHRI",
+                    "dob": "22-08-1964",
+                    "date_of_joining": "18-10-1996",
+                    "aicte_id": "1460984605",
+                    "phd_thesis_title": "ANTICANCER AND PHARMACOLOGICAL SCREENING OF PIPERIDINE 4ONES AND THEIR THIOSEMICARBAZONES",
+                    "year_of_starting": "1985",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "MEENAKSHI COLLEGE FOR WOMEN",
+                            "year_of_passing": "1985"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "O CHTH EMER ISS T - R O YRGANIC",
+                            "college_name": "DEPARTMENT OF ORGANIC",
+                            "year_of_passing": "1987"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "O AT NH AE LR YS T I- C O AR LG CA HN EIC MISTRY",
+                            "college_name": "DEPARTMENT OF ANALYTICAL",
+                            "year_of_passing": "1995"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "25 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. M. SILUVAI MICHAEL",
+                    "dob": "19-05-1968",
+                    "date_of_joining": "16-06-2006",
+                    "aicte_id": "1461311933",
+                    "phd_thesis_title": "PROTECTION OF METALS ROLE OF ELECTRODEPOSITED ALLOYS",
+                    "year_of_starting": "1988",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "HOLY CROSS COLLEGE",
+                            "year_of_passing": "1988"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - ELECTROCHEMISTRY",
+                            "college_name": "ALAGAPPA UNIVERSITY",
+                            "year_of_passing": "1991"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ELECTROCHEMICAL RESEARCH",
+                            "college_name": "CENTRAL INSTITUTE",
+                            "year_of_passing": "1996"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "16 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. M. MAHALAKSHMI",
+                    "dob": "30-05-1973",
+                    "date_of_joining": "12-11-2007",
+                    "aicte_id": "1461311937",
+                    "phd_thesis_title": "PREPARATION CHARACTERIZATION AND PHOTOCATALYTIC ACTIVITY OF NANO DOPED AND SUPPORTED TIO2 IN THE DEGRADATION OF PESTICIDES IN AQUEOUS MEDIUM",
+                    "year_of_starting": "1993",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "J A COLLEGE FOR WOMEN",
+                            "year_of_passing": "1993"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "CHEMISTRY AND CULTURE",
+                            "college_name": "OTHERS-A P A COLLEGE OF ARTS",
+                            "year_of_passing": "1995"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "2007"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "14 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. S I. DAVIS PRESLEY",
+                    "dob": "03-03-1976",
+                    "date_of_joining": "26-09-2011",
+                    "aicte_id": "1769569970",
+                    "phd_thesis_title": "DEVELOPMENT OF ORAL CONTROLLED AND SUSTAINED RELEASE DELIVERY SYSTEM FOR CARVEDILOL",
+                    "year_of_starting": "1997",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "PACHAIYAPPAS COLLEGE",
+                            "year_of_passing": "1997"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "MADRAS CHRISTIAN COLLEGE",
+                            "year_of_passing": "1999"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "POLYMER SCIENCE AND ENGINEERING",
+                            "college_name": "PACHAIYAPPAS COLLEGE",
+                            "year_of_passing": "2009"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "10 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. N. PRIYADARSHINI",
+                    "dob": "05-10-1986",
+                    "date_of_joining": "26-09-2011",
+                    "aicte_id": "",
+                    "phd_thesis_title": "STUDIES RELATED TO POLYMERIZATION AND COLLOID FORMATION OF ACTINIDES UNDER OFF NORMAL CONDITIONS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS-SRI SARADA COLLEGE FOR WOMEN",
+                            "college_name": "SALEM",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "A CHPP EL MIE ISD TRY N TEA CT HIO NN OA LL O GIN YS ,T TI IT RU UT CE H O IRF APPALLI--",
+                            "college_name": "",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "O CHTH EMER ISS T - RY O RET SH EE AR RS C-I HNDIRA GANDHI CENTRE FOR ATOMIC",
+                            "college_name": "",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "10 Years",
+                            "previous_position": "-4 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. TSG. TANUSREE SENGUPTA",
+                    "dob": "12-01-1979",
+                    "date_of_joining": "26-09-2011",
+                    "aicte_id": "13244263432",
+                    "phd_thesis_title": "IDENTIFICATION AND FUNCTIONAL CHARACTERIZATION OF A LOW MOLECULAR MASS MODULATOR PROTEIN FROM GOAT TESTES CYTOSOL AND ITS REGULATORY ROLE ON CAATPASE",
+                    "year_of_starting": "2000",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "SCOTTISH CHURCH COLLEGE",
+                            "year_of_passing": "2000"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "CALCUTTA UNIVERSITY",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "BOSE INSTITUTE",
+                            "year_of_passing": "2008"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "10 Years",
+                            "previous_position": "-5 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. T. ARUN LUIZ",
+                    "dob": "01-06-1980",
+                    "date_of_joining": "06-01-2012",
+                    "aicte_id": "11450084334",
+                    "phd_thesis_title": "COORDINATION STUDIES OF PHENYL BIS AMINO PHOSPHINES WITH CU I HALIDES CUX X CL BR I AND HEXACARBONYLS MCO6 M CR MO W",
+                    "year_of_starting": "2000",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "ST MARYS COLLEGE SULTHAN BATHERY",
+                            "year_of_passing": "2000"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "ST MARYS COLLEGE SULTHAN BATHERY",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "INDIAN INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "10 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. A. MURUGESAN",
+                    "dob": "01-04-1983",
+                    "date_of_joining": "01-08-2016",
+                    "aicte_id": "13244263227",
+                    "phd_thesis_title": "SYNTHESIS AND CHARACTERIZATION OF NEW POLYMERIC RESINS AND THEIR APPLICATION TOWARDS HEAVY METAL IONS REMOVALS",
+                    "year_of_starting": "2007",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "GOVT ARTS COLLEGE UDT",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "CBM COLLEGE",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "POLYMER SCIENCE AND ENGINEERING",
+                            "college_name": "COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

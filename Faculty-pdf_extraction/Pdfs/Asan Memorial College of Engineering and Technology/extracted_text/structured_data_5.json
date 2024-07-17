@@ -1,0 +1,114 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-Chemistry",
+            "faculty_members": [
+                {
+                    "name": "DR. S. KUMAR",
+                    "dob": "21-03-1993",
+                    "date_of_joining": "17-03-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "SYNTHESIS AND CHARACTERIZATION OF NANOFILLER",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "MUTHURANGAM GOVT ARTS COLLEGE",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "THIRUVALLUVAR UNIVERSITY",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "THIRUVALLUVAR UNIVERSITY",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. A. MADHURAIVEERAN",
+                    "dob": "25-05-1983",
+                    "date_of_joining": "17-08-2022",
+                    "aicte_id": "472940812",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "SACRED HEART COLLEGE",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "LOYOLA COLLEGE",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "",
+                            "college_name": "LOYOLA COLLEGE",
+                            "year_of_passing": "2008"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "14 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. M. MAYAVATHI",
+                    "dob": "07-06-1988",
+                    "date_of_joining": "04-07-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "SYNTHESIS CHARACTERIZATION AND STUDY OF CERTAIN RANDOM COPOLYESTERS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "PRESIDENCY COLLEGE",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "COLLEGE OF ARTS SCIENCE",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "PRESIDENCY COLLEGE",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

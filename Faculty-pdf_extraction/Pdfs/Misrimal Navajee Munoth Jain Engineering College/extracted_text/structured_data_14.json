@@ -1,0 +1,84 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-English",
+            "faculty_members": [
+                {
+                    "name": "MS. M. SAHANA",
+                    "dob": "08-11-1990",
+                    "date_of_joining": "09-01-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "ETTUTHOGAI MANAGEMENT",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "OTHERS-WOMENS COLLEGE",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.PHIL.",
+                            "specialization": "MANAGEMENT",
+                            "college_name": "AJK INSTITUTE OF ENGLISH",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "M.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "OTHERS-WOMENS COLLEGE",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": " ",
+            "faculty_members": [
+                {
+                    "name": "MR. E. SELVAKUMAR",
+                    "dob": "20-04-1986",
+                    "date_of_joining": "01-06-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "ETTUTHOGAI MANAGEMENT",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "TAMIL",
+                            "college_name": "THIRUVALLUVAR COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "TAMIL",
+                            "college_name": "THIRUVALLUVAR COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.A",
+                            "specialization": "TAMIL",
+                            "college_name": "UNIVERSITY OF MADRAS",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

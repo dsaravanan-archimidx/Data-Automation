@@ -1,0 +1,72 @@
+{
+    "faculty_details": [
+        {
+            "department": "Mechatronics Engineering",
+            "faculty_members": [
+                {
+                    "name": "MR. J. ELWITH",
+                    "dob": "05-04-1991",
+                    "date_of_joining": "06-07-2015",
+                    "aicte_id": "",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "JEPPIAAR ENGINEERING COLLEGE",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "DESIGN ENGINEERING",
+                            "college_name": "MISRIMAL NAVAJEE MUNOTH JAIN ENGINEERING COLLEGE",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "7 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "Mechatronics Engineering",
+            "faculty_members": [
+                {
+                    "name": "MR. A. BACKIYARAJ",
+                    "dob": "13-02-1992",
+                    "date_of_joining": "05-07-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHATRONICS ENGINEERING",
+                            "college_name": "KONGU ENGINEERING COLLEGE (AUTONOMOUS)",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "AUTOMOBILE ENGINEERING",
+                            "college_name": "MADRAS INSTITUTE OF TECHNOLOGY CHROMPET",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "7 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

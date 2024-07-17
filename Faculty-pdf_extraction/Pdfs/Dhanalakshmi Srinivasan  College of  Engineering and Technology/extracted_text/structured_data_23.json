@@ -1,0 +1,254 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-Physics",
+            "faculty_members": [
+                {
+                    "name": "DR. R. GAYATHRI",
+                    "dob": "12-09-1977",
+                    "date_of_joining": "24-01-2006",
+                    "aicte_id": "437682633",
+                    "phd_thesis_title": "RAINFALL PREDICTION USING NEURAL NETWORK",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "OTHERS-THEIVANAIAMMAL WOMENS COLLEGE",
+                            "year_of_passing": "1997"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "RAMASWAMY COLLEGE",
+                            "year_of_passing": "1999"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ATMOSPHERIC PHYSICS",
+                            "college_name": "OTHERS-PRESIDENCY COLELGE",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "14 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. GHOSH. SUTAPA",
+                    "dob": "13-03-1981",
+                    "date_of_joining": "04-10-2019",
+                    "aicte_id": "11339606407",
+                    "phd_thesis_title": "QUANTUM INVESTIGATION AND CLASSICAL SIMULATION OF ION ION ATOM INTERACTIONS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "OTHERS-RAMMAHAN COLLEGE",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "O SCT IH EE NR CS E- U AN NI DV E TR ES CT HI NY O C LO OL GL YEGE OF",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "PHYSICS",
+                            "college_name": "OTHERS-JADAVPUR UNIVERSITY",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "8 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. J. CHANDRAMOHAN",
+                    "dob": "06-06-1985",
+                    "date_of_joining": "06-01-2023",
+                    "aicte_id": "9321352811",
+                    "phd_thesis_title": "SPECTOSCOPICAL CHARACTERIZATION OF COASTAL SEDIMENT SAMPLES ALONG EAST COAST OF TAMILNADU",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "OTHERS-PERIYAR ARTS COLLEGE",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "OTHERS-BISHOP HEBER COLLEGE",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "PHYSICS",
+                            "college_name": "OTHERS-THIRUVALLUVAR UNIVERSITY",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "10 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. S. KUMARESAN",
+                    "dob": "05-07-1973",
+                    "date_of_joining": "27-03-2021",
+                    "aicte_id": "9529171154",
+                    "phd_thesis_title": "NONLINEAR OPTICAL CHARACTERISATION OF PHLOXINE B PYRONIN Y STYRYL 7 AND SULFORHODAMINE B",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "OTHERS-POOMBUGAR ARTS AND SCIENCE COLLEGE",
+                            "year_of_passing": "1993"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "OTHERS-AVVM SRI PUSHPAM COLLEGE",
+                            "year_of_passing": "1996"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "PHYSICS",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "24 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. M. PRAKASAM",
+                    "dob": "21-05-1989",
+                    "date_of_joining": "06-01-2023",
+                    "aicte_id": "10938284571",
+                    "phd_thesis_title": "EFFICIENCY IMPROVEMENT OF SOME ORGANIC SENSITIZER FOR NLO AND DYE SENSITIZED SOLAR CELLS APPLICATION A FIRST PRINCIPLE STUDY",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "OTHERS-GOVERNMENT ARTS COLLEGE",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "OTHERS-UNIVERSITY DEPARTMENT",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "PHYSICS",
+                            "college_name": "OTHERS-UNIVERSITY DEPARTMENT",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. D. MANIMARAN",
+                    "dob": "10-08-1986",
+                    "date_of_joining": "01-03-2023",
+                    "aicte_id": "43383131379",
+                    "phd_thesis_title": "VIBRATIONAL SPECTRAL INVESTIGATIONS AND MOLECULAR MODELING OF ORGANOMETALLIC MOLECULES FOR PHARMACEUTICAL APPLICATIONS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "OTHERS-ST JOSEPHS COLLEGE OF ARTS AND SCIENCE",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "OTHERS-ST JOSEPHS COLLEGE",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "PHYSICS",
+                            "college_name": "OTHERS-MAR IVANIOS COLLEGE",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. K. GNANAMOORTHI",
+                    "dob": "10-06-1987",
+                    "date_of_joining": "06-01-2023",
+                    "aicte_id": "7515062443",
+                    "phd_thesis_title": "SYNTHESIS AND CHARACTERIZATION OF PURE AND ZNO2 M MNCE AND Y NANO PARTICLES BY MICROAVE IRRADIATION METHOD FOR GAS SENSOR APPLICATIONS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "OTHERS-SRI RAMAKRISHNA MISSION VIDYALAYA ARTS COLLEGE",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "VIDYALAYA ARTS COLLEGE",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "PHYSICS",
+                            "college_name": "OTHERS-GOVERNMENT ARTS COLLEGE",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

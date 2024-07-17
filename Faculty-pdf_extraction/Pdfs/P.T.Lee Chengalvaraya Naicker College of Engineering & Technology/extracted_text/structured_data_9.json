@@ -1,0 +1,219 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-Mathematics",
+            "faculty_members": [
+                {
+                    "name": "MRS. C. ARUNMOZHI DEVI",
+                    "dob": "03-06-1975",
+                    "date_of_joining": "28-07-2004",
+                    "aicte_id": "1465538392",
+                    "phd_thesis_title": "CONTRIBUTION TO THE THEORY OF TOPOLOGICAL INDICES OF GRAPHS",
+                    "year_of_starting": "2003",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "1995"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "M PHIL",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "KAMARAJ UNIVERSITY",
+                            "year_of_passing": "-"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "8 Years",
+                            "previous_position": "13 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. O. LAKSHMI",
+                    "dob": "28-12-1989",
+                    "date_of_joining": "19-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "CONTRIBUTION TO THE THEORY OF TOPOLOGICAL INDICES OF GRAPHS",
+                    "year_of_starting": "2022",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICES",
+                            "college_name": "SCIENCE COLLEGE",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICES",
+                            "college_name": "SCIENCE COLLEGE",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "-"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. RAJABABU",
+                    "dob": "07-06-1983",
+                    "date_of_joining": "05-09-2008",
+                    "aicte_id": "1465538440",
+                    "phd_thesis_title": "CONTRIBUTION TO THE THEORY OF TOPOLOGICAL INDICES OF GRAPHS",
+                    "year_of_starting": "2006",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "THIRUVANNAMALAI",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M PHIL",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "-"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "14 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. C. GOVINDASAMY",
+                    "dob": "15-03-1983",
+                    "date_of_joining": "19-05-2023",
+                    "aicte_id": "13798501096",
+                    "phd_thesis_title": "CONTRIBUTION TO THE THEORY OF TOPOLOGICAL INDICES OF GRAPHS",
+                    "year_of_starting": "2009",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "ARTS AND SCIENCE COLLEGE",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M PHIL",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "-"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "11 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. C.R. BALAMURUGAN",
+                    "dob": "09-03-1981",
+                    "date_of_joining": "14-09-2006",
+                    "aicte_id": "1465932273",
+                    "phd_thesis_title": "CONTRIBUTION TO THE THEORY OF TOPOLOGICAL INDICES OF GRAPHS",
+                    "year_of_starting": "2010",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "STJOSHS COLLEGE",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "VYSYA COLLEGE",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M PHIL",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "-"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "16 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. V. BHARATHI",
+                    "dob": "30-08-1979",
+                    "date_of_joining": "05-10-2007",
+                    "aicte_id": "1465538664",
+                    "phd_thesis_title": "CONTRIBUTION TO THE THEORY OF TOPOLOGICAL INDICES OF GRAPHS",
+                    "year_of_starting": "2006",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS AND SCIENCE",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "2000"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M PHIL",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "ANNAMALAI",
+                            "year_of_passing": "-"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "15 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

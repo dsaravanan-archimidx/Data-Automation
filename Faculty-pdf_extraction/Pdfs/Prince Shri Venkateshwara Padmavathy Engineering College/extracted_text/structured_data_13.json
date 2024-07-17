@@ -1,0 +1,172 @@
+{
+    "faculty_details": [
+        {
+            "department": "Physics",
+            "faculty_members": [
+                {
+                    "name": "DR. P. SHARMILA",
+                    "dob": "25-04-1977",
+                    "date_of_joining": "11-09-2006",
+                    "aicte_id": "13363734458",
+                    "phd_thesis_title": "X RAY CRYSTALLOGRAPHIC STUDIES ON SOME BIOLOGICALLY IMPORTANT MOLECULES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "JAYARAJ ANNAPACKIAM",
+                            "year_of_passing": "1997"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "FATIMA COLLEGE",
+                            "year_of_passing": "1999"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "PHYSICS",
+                            "college_name": "UNIVERSITY OF MADRAS",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "16 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. B. SOWMYA",
+                    "dob": "05-02-1987",
+                    "date_of_joining": "19-05-2022",
+                    "aicte_id": "AU1 OT SH LE ER TS",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "MANONMANIAM SUNDARANAR UNIV",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "UNIVERSITY OF MADRAS",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. S. KAVITHA",
+                    "dob": "15-05-1983",
+                    "date_of_joining": "04-01-2020",
+                    "aicte_id": "11490306745",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "BHARATHIDASAN UNIVERSITY",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "GANDHGRAM RURAL UNIVERSITY",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "MADURAI KAMARAJ UNIVERSITY",
+                            "year_of_passing": "2007"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. M. JEYALAXMI",
+                    "dob": "28-06-1986",
+                    "date_of_joining": "04-07-2013",
+                    "aicte_id": "12190849344",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "VALLIAMMAL COLLEGE",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "PACHAIYAPPAS COLLEGE",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "PRESIDENCY COLLEGE",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "8 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. B. AMUTHA",
+                    "dob": "28-04-1977",
+                    "date_of_joining": "20-12-2018",
+                    "aicte_id": "1463978674",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "SARAH TUCKER",
+                            "year_of_passing": "1997"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "SARAH TUCKER",
+                            "year_of_passing": "1999"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

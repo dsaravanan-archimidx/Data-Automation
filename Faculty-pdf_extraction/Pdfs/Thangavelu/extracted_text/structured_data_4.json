@@ -1,0 +1,270 @@
+{
+    "faculty_details": [
+        {
+            "department": "Electronics and Communication Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. S G. HIREMATH",
+                    "dob": "24-06-1973",
+                    "date_of_joining": "05-08-2013",
+                    "aicte_id": "PH.D. COMMUNICATION COLLEGE OF 2011",
+                    "phd_thesis_title": "NEURAL NETWORKS MODELS AND NEURO TRANSMITTER FOR BRAIN EPILEPSY",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "INSTRUMENTATION ENGINNERING",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "1996"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "OTHERS - B M I",
+                            "college_name": "OTHERS-SJCE",
+                            "year_of_passing": "1998"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "9 Years",
+                            "previous_position": "15 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. A. PANDIYAN",
+                    "dob": "02-05-1977",
+                    "date_of_joining": "02-07-2007",
+                    "aicte_id": "M.TECH. EDUCATIONAL AND ELECTRONICS",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "ENGINEERING COLLEGE",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "APPLIED ELECTRONICS",
+                            "college_name": "RESEARCH UNIVERSITY",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "22 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. M. RAJAB ROSA FATHIMA",
+                    "dob": "11-01-1967",
+                    "date_of_joining": "15-05-2023",
+                    "aicte_id": "APPLIED OTHERS-HINDUSTAN",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "PSN COLLEGE OF TECHNOLOGY",
+                            "year_of_passing": "1988"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2007"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "19 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. G. RAJA",
+                    "dob": "08-06-1982",
+                    "date_of_joining": "05-02-2010",
+                    "aicte_id": "M.E. VLSI DESIGN OTHERS-VIT 2007",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "VLSI DESIGN",
+                            "college_name": "OTHERS-VIT",
+                            "year_of_passing": "2007"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "13 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. SUKUMAR. SATHIYABAMA",
+                    "dob": "25-06-1986",
+                    "date_of_joining": "08-05-2023",
+                    "aicte_id": "APPLIED ELECTRONICS ENGINEERING 2013",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "ST XAVIER'S CATHOLIC COLLEGE",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "ST XAVIER'S CATHOLIC COLLEGE",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "8 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. R. UMAMAHESWARI PANDIAN",
+                    "dob": "17-05-1984",
+                    "date_of_joining": "10-05-2023",
+                    "aicte_id": "OTHERS - VLSI AND EMBEDDED SYSTEM TECHNOLOGY--",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "SARASWATHI YADAV ENGINEERING COLLEGE",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "VLSI AND EMBEDDED SYSTEM TECHNOLOGY",
+                            "college_name": "T J INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "8 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. J. BEUWIN JIBAH",
+                    "dob": "22-02-1988",
+                    "date_of_joining": "01-07-2013",
+                    "aicte_id": "M.TECH. 2011",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "INSTRUMENTATION AND CONTROL ENGINEERING",
+                            "college_name": "UDAYA SCHOOL OF ENGINEERING",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "EMBEDDED SYSTEM",
+                            "college_name": "HINDUSTAN UNIVERSITY",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "9 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. A. MALARVIZHI",
+                    "dob": "24-10-1989",
+                    "date_of_joining": "08-05-2023",
+                    "aicte_id": "M.E. APPLIED ELECTRONICS ENGINEERING 2013",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "KING COLLEGE OF TECHNOLOGY",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "APPLIED ELECTRONICS ENGINEERING",
+                            "college_name": "ADHIPARASAKTHI COLLEGE",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. MAHENDRAN",
+                    "dob": "26-06-1981",
+                    "date_of_joining": "08-05-2023",
+                    "aicte_id": "M.E. VLSI DESIGN 2008",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "ADHIYAMAAN COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "VLSI DESIGN",
+                            "college_name": "GUINDY",
+                            "year_of_passing": "2008"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "10 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

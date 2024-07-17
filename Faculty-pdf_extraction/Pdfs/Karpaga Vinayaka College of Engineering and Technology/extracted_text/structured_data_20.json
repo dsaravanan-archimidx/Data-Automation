@@ -1,0 +1,44 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-English",
+            "faculty_members": [
+                {
+                    "name": "MR. G. BHARATH",
+                    "dob": "09-07-1986",
+                    "date_of_joining": "02-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "21.",
+                    "year_of_starting": "2010",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "OTHERS",
+                            "college_name": "TAMIL UNIVERSITY",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS",
+                            "college_name": "TAMIL UNIVERSITY",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "OTHERS",
+                            "college_name": "TAMIL UNIVERSITY",
+                            "year_of_passing": " "
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

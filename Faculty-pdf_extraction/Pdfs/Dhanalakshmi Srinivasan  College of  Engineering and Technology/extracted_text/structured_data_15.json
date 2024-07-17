@@ -1,0 +1,236 @@
+{
+    "faculty_details": [
+        {
+            "department": "Computer Applications",
+            "faculty_members": [
+                {
+                    "name": "DR. K. PRABU",
+                    "dob": "16-04-1982",
+                    "date_of_joining": "21-04-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "PARAMETER ADJUSTMENT OF MODIFIED OLSR PROTOCOL FOR MANET",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "MADRAS",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "SCIENCE",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "COMPUTER APPLICATIONS",
+                            "college_name": "SUNDARANAR UNIVERSITY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "13 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. K. KARPAGAM",
+                    "dob": "25-03-1980",
+                    "date_of_joining": "03-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "A STUDY ON OPTIMIZED INFORMATION RETRIEVAL TECHNIQUES FOR QUESTION ANSWERING QUESTIONS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "BHARATHIYAR UNIVERSITY",
+                            "year_of_passing": "2000"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "SCIENCE",
+                            "college_name": "BHARATHIDASAN UNIVERSITY",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "COMPUTER APPLICATIONS",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "16 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. E. DILIPKUMAR",
+                    "dob": "18-01-1982",
+                    "date_of_joining": "14-07-2008",
+                    "aicte_id": "434618270",
+                    "phd_thesis_title": "RULE BASED RECOMMENDER SYSTEM TO IMPROVE CROP PRODUCTION",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "SRI S RAMASAMY NAIDU MEMORIAL COLLEGE SATTUR",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.C.A.",
+                            "specialization": "COMPUTER APPLICATIONS",
+                            "college_name": "SRI S RAMASAMY NAIDU MEMORIAL COLLEGE SATTUR",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MACHINE LEARNING",
+                            "college_name": "ALAGAPPA UNIVERSITY",
+                            "year_of_passing": "2023"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "14 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. S K. GAYATHRI",
+                    "dob": "27-05-1997",
+                    "date_of_joining": "10-10-2022",
+                    "aicte_id": "43363110338",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.C.A.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "HINDUSTHAN COLLEGE OF ARTS AND SCIENCE",
+                            "year_of_passing": "2018"
+                        },
+                        {
+                            "degree": "M.C.A.",
+                            "specialization": "COMPUTER APPLICATIONS",
+                            "college_name": "DHANALAKSHMI SRINIVASAN COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. PASUPULETI. VARALAKSHMI",
+                    "dob": "11-08-1979",
+                    "date_of_joining": "05-12-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "JAWAHAR BHARATHI DEGREE COLLEGE",
+                            "year_of_passing": "2000"
+                        },
+                        {
+                            "degree": "M.C.A.",
+                            "specialization": "COMPUTER APPLICATIONS",
+                            "college_name": "RAYALASEEMA INSTITUTE OF INFORMATION TECHNOLOGY",
+                            "year_of_passing": "2004"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. R. IDAYATHULLA",
+                    "dob": "01-05-1985",
+                    "date_of_joining": "11-07-2022",
+                    "aicte_id": "43369110636",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "OTHERS - PHYSICS COLLEGE",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.C.A.",
+                            "specialization": "COMPUTER APPLICATIONS",
+                            "college_name": "MAILAM ENGINEERING COLLEGE",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "OTHERS - M PHIL",
+                            "college_name": "PRIST UNIVERSITY",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "7 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. S. SAVITHRI",
+                    "dob": "19-07-1988",
+                    "date_of_joining": "26-06-2013",
+                    "aicte_id": "11108466845",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "DHANAPALAN COLLEGE OF ARTS AND SCIENCE",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.C.A.",
+                            "specialization": "COMPUTER APPLICATIONS",
+                            "college_name": "ANAND INSTITUTE OF HIGHER TECHNOLOGY",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "9 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

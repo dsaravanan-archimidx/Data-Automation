@@ -1,0 +1,324 @@
+{
+    "faculty_details": [
+        {
+            "department": "Mathematics",
+            "faculty_members": [
+                {
+                    "name": "DR. B. SUNDARAPANDIAN",
+                    "dob": "23-05-1970",
+                    "date_of_joining": "22-11-2021",
+                    "aicte_id": "19485866711",
+                    "phd_thesis_title": "MATHEMATICS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "GOVT ARTS COLLEGE",
+                            "year_of_passing": "1990"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "1993"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "PERIYAR EVRCOLLEGE",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "28 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. D. SARAVANAN",
+                    "dob": "15-06-1969",
+                    "date_of_joining": "27-06-2011",
+                    "aicte_id": "1767173613",
+                    "phd_thesis_title": "MATHEMATICS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "ARTS AND SCIENCE COLLEGE",
+                            "year_of_passing": "1990"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "1992"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2009"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "10 Years",
+                            "previous_position": "19 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. S. DHIVYAPRIYA",
+                    "dob": "18-04-1993",
+                    "date_of_joining": "26-06-2019",
+                    "aicte_id": "17403582030",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHS",
+                            "college_name": "AVC COLLEGE",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHS",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "MATHS",
+                            "college_name": "STELLA MARIS",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. S. MAHESWARI",
+                    "dob": "16-04-1987",
+                    "date_of_joining": "01-11-2021",
+                    "aicte_id": "14615291226",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "GOVT ARTS COLLEGE",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "GOVT ARTS",
+                            "year_of_passing": "2017"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. G. JAYALAKSHMI",
+                    "dob": "01-12-1990",
+                    "date_of_joining": "29-06-2018",
+                    "aicte_id": "17403560396",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "QUEEN MARYS",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. R. VAISHNAVI",
+                    "dob": "25-01-1991",
+                    "date_of_joining": "23-02-2021",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "WOMENS COLLEGE",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "PREIST",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "7 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. D. MANIGANDAN",
+                    "dob": "20-04-1987",
+                    "date_of_joining": "06-02-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "GOVT ARTS AND SCIENCE COLLEGE",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "PRIST UNIVERSITY",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "",
+                            "college_name": "ANNA UNIV",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. C. AMUDHA",
+                    "dob": "20-06-1986",
+                    "date_of_joining": "04-07-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "WOMENS COLLEGE",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "ARTS AND SCIENCE",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "SRI AKILANDESWARI",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. D. JAYA",
+                    "dob": "13-05-1990",
+                    "date_of_joining": "06-02-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "RVG ARTS AND SCIENCE COLLEGE",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "MATHEMATICS",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "SIVET ARTS AND SCIENCE COLLEGE",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

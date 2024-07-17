@@ -1,0 +1,219 @@
+{
+    "faculty_details": [
+        {
+            "department": "Chemistry",
+            "faculty_members": [
+                {
+                    "name": "DR. J. SIVAPRIYA",
+                    "dob": "19-03-1972",
+                    "date_of_joining": "01-12-2016",
+                    "aicte_id": "12710133560",
+                    "phd_thesis_title": "STUDY ON REMOVAL OF TEXTILE DYES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "BHARATHI WOMENS COLLEGE",
+                            "year_of_passing": "1992"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "ANNA MALAI UNIVERSITY",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "14 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. D. PRIYAMATHARASI",
+                    "dob": "04-11-1984",
+                    "date_of_joining": "23-07-2014",
+                    "aicte_id": "7414829569",
+                    "phd_thesis_title": "SYNTHESIS OF SUBSTITUTED PYRIMIDONES USING DIFFERENT BORANE REAGENTS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "STELLA MARIS COLLEGE",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "ASTHAGIRI HERBAL RESEARCH FOUNDATION",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "OTHERS - CHEMISTRY RESEARCH FOUNDATION",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. V. SELVARANI",
+                    "dob": "10-06-1984",
+                    "date_of_joining": "17-08-2011",
+                    "aicte_id": "12187755068",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "ADMCOLLEGE FOR WOMEN",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "OTHERS-ADM COLLEGE FOR WOMEN",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "OTHERS-BHARATHIDASAN UNIVERSITY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "10 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. G. RAMYA",
+                    "dob": "22-03-1986",
+                    "date_of_joining": "01-08-2014",
+                    "aicte_id": "12379085003",
+                    "phd_thesis_title": "PRODUCTION OF ORGANIC LIQUID HYDROCARBONAS FROM JATROPHA OIL THROUGH CATALYTIC CRACKING TECHNOLOGY USING CORESHELL MODELLED COMPOSITE CATALYSTS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "ADARSH COLLEGE FOR WOMEN",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "ANALYTICAL CHEMISTRY",
+                            "college_name": "ACT COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "COLLEGE OF ENGINEERING AND TECHNOLOGY (AUTONOMOUS)",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. S. DURGA",
+                    "dob": "07-05-1990",
+                    "date_of_joining": "01-09-2021",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "DEVELOPMENT OF COMPACT AND HIGH-EFFICIENCY MEMBRANELESS FUEL CELL SYSTEMS FOR ELECTRICAL POWER GENERATION",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "QUEEN MARYS COLLEGE",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "PRESIDENCY COLLEGE",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "ST JOHNS COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. G. PRABHA",
+                    "dob": "01-06-1983",
+                    "date_of_joining": "02-11-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "SYNTHESIS CHARACTERIZATION AND DRUG DELIVERY APPLICATIONS OF BIO POLYMER NANOPARTICLES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "PACHAIYAPPAS COLLEGE",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "SIR THEAGARAYA COLLEGE",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "PERIYAR UNIVERSITY",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

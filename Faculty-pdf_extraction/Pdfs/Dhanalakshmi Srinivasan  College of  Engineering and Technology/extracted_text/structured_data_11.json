@@ -1,0 +1,112 @@
+{
+    "faculty_details": [
+        {
+            "department": "COMPUTER SCIENCE AND COLLEGE OF ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "DR. E. GAJENDIRAN",
+                    "dob": "07-07-1985",
+                    "date_of_joining": "11-03-2021",
+                    "aicte_id": "11108376021",
+                    "phd_thesis_title": "AN ENHANCED IMPLEMENTATION OF PTPSA ALGORITHM FOR FRACTAL FEATURE EXTRACTION AND ABNORMAL TISSUE SEGMENTATION",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ENGINEERING",
+                            "college_name": "GUINDY",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ENGINEERING",
+                            "college_name": "GUINDY",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ENGINEERING",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "8 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "COMPUTER SCIENCE ADHIPARASAKTHI ENGINEERING AND ENGINEERING COLLEGE",
+            "faculty_members": [
+                {
+                    "name": "MRS. S. UMA",
+                    "dob": "30-04-1988",
+                    "date_of_joining": "25-07-2022",
+                    "aicte_id": "43372050505",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "COMPUTER SCIENCE M KUMARASAMY COLLEGE AND ENGINEERING OF ENGINEERING (M&T)",
+            "faculty_members": [
+                {
+                    "name": "MRS. PK. ARULMOZHI",
+                    "dob": "10-04-1989",
+                    "date_of_joining": "01-06-2022",
+                    "aicte_id": "43379281494",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

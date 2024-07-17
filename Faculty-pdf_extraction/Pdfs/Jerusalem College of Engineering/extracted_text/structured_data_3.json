@@ -1,0 +1,503 @@
+{
+    "faculty_details": [
+        {
+            "department": "Computer Science and Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. E. MAYA EAPEN",
+                    "dob": "01-08-1976",
+                    "date_of_joining": "29-12-2018",
+                    "aicte_id": "1478778887",
+                    "phd_thesis_title": "STUDIES ON LIVER SEGMENTATION TECHNIQUES FROM ABDOMINAL CT IMAGES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "CHENGANNUR ENGINEERING COLLEGE",
+                            "year_of_passing": "1999"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "JERUSALEM COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "JERUSALEM COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "15 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. P. MANIKANDAN",
+                    "dob": "02-06-1979",
+                    "date_of_joining": "03-04-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "MULTI OBJECTIVE DATA CLUSTERING APPROACH BASED ON CUCKOO SEARCH AND PARTICLE SWARM OPTIMIZATION",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "JAYAM COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2000"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "19 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. V.J. SUBASHINI",
+                    "dob": "11-05-1973",
+                    "date_of_joining": "29-12-2018",
+                    "aicte_id": "1443344253",
+                    "phd_thesis_title": "SYMMETRIC CRYPTOSYSTEMS BASED ON CHAOTIC MAPS FOR IMAGES DEVOID OF SIZE CONSTRAINTS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "HINDU COLLEGE, NAGERCOIL",
+                            "year_of_passing": "1993"
+                        },
+                        {
+                            "degree": "M.C.A.",
+                            "specialization": "COMPUTER APPLICATIONS",
+                            "college_name": "MANONMANIAM SUNDARANAR UNIVERSITY",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "22 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. H. MERCY",
+                    "dob": "20-12-1978",
+                    "date_of_joining": "29-12-2018",
+                    "aicte_id": "12301362473",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "STJOSEPH COLLEGE",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "JERUSALEM COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2007"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "13 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. M. PRIYAPACKIALATHA",
+                    "dob": "27-11-1975",
+                    "date_of_joining": "25-09-2012",
+                    "aicte_id": "1478737555",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "NATIONAL ENGINEERING COLLEGE",
+                            "year_of_passing": "1997"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "JERUSALEM COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2008"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. C. NEEDHU",
+                    "dob": "02-05-1986",
+                    "date_of_joining": "04-07-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "ARASU ENGINEERING COLLEGE",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "TECHNOLOGY",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "NOORUL ISLAM COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. S. SIVARANJANI",
+                    "dob": "12-10-1985",
+                    "date_of_joining": "03-12-2018",
+                    "aicte_id": "14632190470",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "PADMAVATHY ENGINEERING COLLEGE",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "JERUSALEM COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. M. USAMA ABDUR RAHMAN",
+                    "dob": "08-05-1984",
+                    "date_of_joining": "26-06-2011",
+                    "aicte_id": "1723749822",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "INFORMATION TECHNOLOGY",
+                            "college_name": "VEL TECH",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "INFORMATION TECHNOLOGY",
+                            "college_name": "VEL TECH",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "11 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. M. AISHWARYA",
+                    "dob": "13-06-1994",
+                    "date_of_joining": "09-03-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "BHARATH UNIVERSITY",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "BHARATH UNIVERSITY",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. B. SHENBAGAVALLI",
+                    "dob": "20-06-1983",
+                    "date_of_joining": "03-04-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "SRI SUBRAMANYA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "JERUSALEM COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. T. DHANALAKSHMI",
+                    "dob": "27-05-1976",
+                    "date_of_joining": "04-08-2021",
+                    "aicte_id": "110549175531",
+                    "phd_thesis_title": "PROVENANCE MODEL FOR USER RECOMMENDATION IN SOCIAL NETWORK",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "SRI VENKATESWARA COLLEGE OF ENGINEERING",
+                            "year_of_passing": "1997"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "22 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. S. DEVIPRIYA",
+                    "dob": "20-11-1987",
+                    "date_of_joining": "01-07-2013",
+                    "aicte_id": "1502040269",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "SHRI ANDAL ALAGAR COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "KARPAGA VINAYAGA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "9 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. GADAKH. PRABHA",
+                    "dob": "17-04-1994",
+                    "date_of_joining": "01-03-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "INFORMATION TECHNOLOGY",
+                            "college_name": "AMRITVAHINI COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "INFORMATION TECHNOLOGY",
+                            "college_name": "JERUSALEM COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. ANAND. SATYAM",
+                    "dob": "28-02-1995",
+                    "date_of_joining": "03-04-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "R L JALAPPA INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "INFORMATION SECURITY",
+                            "college_name": "IIT DHANBAD",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. N. JAVED",
+                    "dob": "26-07-1981",
+                    "date_of_joining": "20-06-2009",
+                    "aicte_id": "MPHIL",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "MEASI INST OF INFORMATION TECHNOLOGY",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.C.A.",
+                            "specialization": "COMPUTER APPLICATIONS",
+                            "college_name": "VINAYAKA MISSION UNIVERSITY",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "8 Years",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. BABU. PAVITHRA",
+                    "dob": "01-10-1995",
+                    "date_of_joining": "02-08-2021",
+                    "aicte_id": "17498235647",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "2017"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

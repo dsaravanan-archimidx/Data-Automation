@@ -1,0 +1,154 @@
+{
+    "faculty_details": [
+        {
+            "department": "CIVIL ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "MRS. T. HEMAPRABHA SURYA",
+                    "dob": "26-06-1991",
+                    "date_of_joining": "01-03-2019",
+                    "aicte_id": " ",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "CIVIL ENGINEERING",
+                            "college_name": "ENGINEERING COLLEGE",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "STRUCTURAL ENGINEERING",
+                            "college_name": "MISRIMAL NAVAJEE ENGINEERING COLLEGE",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. R. GNANA SOWNDER",
+                    "dob": "01-08-1991",
+                    "date_of_joining": "01-07-2019",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "CIVIL ENGINEERING AND TECHNOLOGY",
+                            "college_name": "OTHERS-BALAJI INSITUTE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "STRUCTURAL ENGINEERING",
+                            "college_name": "MISRIMAL NAVAJEE ENGINEERING COLLEGE",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. M. VIDHYASHRI PRATHYUSHA",
+                    "dob": "20-08-1995",
+                    "date_of_joining": "08-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "CIVIL ENGINEERING",
+                            "college_name": "ENGINEERING COLLEGE (AUTONOMOUS)",
+                            "year_of_passing": "2017"
+                        },
+                        {
+                            "degree": "M.TEC",
+                            "specialization": "STRUCTURAL ENGINEEERING",
+                            "college_name": "OTHERS-SRM H. ENGINEERING COLLEGE",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "OTHERS",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. G. SARALA",
+                    "dob": "13-06-1988",
+                    "date_of_joining": "10-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "CIVIL ENGINEERING",
+                            "college_name": "ARS COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ENVIRONMENTAL ENGINEERING AND MANAGEMENT",
+                            "college_name": "COLLEGE OF ENGINEERING AND TECHNOLOGY GUINDY",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. GANESAN. VIGNESH",
+                    "dob": "18-06-1992",
+                    "date_of_joining": "10-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "CIVIL ENGINEERING AND TECHNOLOGY",
+                            "college_name": "ANNAI COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "STRUCTURAL ENGINEERING",
+                            "college_name": "NEW PRINCE SHRI BHAVANI COLLEGE OF ENGINEERING AND TECHNOLOGY (AUTONOMOUS)",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,288 @@
+{
+    "faculty_details": [
+        {
+            "department": "Electrical and Electronics Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. P. YAMUNAA ANNAMALAI",
+                    "dob": "01-06-1977",
+                    "date_of_joining": "01-07-2021",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "INVESTIGATION OF PERFORMANCE OF CONTROLLERS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "UNIVERSITY--",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "POWER SYSTEMS",
+                            "college_name": "ANNAMALAI UNIVERSITY--",
+                            "year_of_passing": "1999"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. P. SANTHOSH",
+                    "dob": "15-12-1985",
+                    "date_of_joining": "04-01-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "EEE",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "REGIONAL CAMPUS, MADURAI--",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "POWER ELECTRONICS AND DRIVES",
+                            "college_name": "KARPAGAM COLLEGE OF ENGINEERING (AUTONOMOUS)--",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "OTHERS-ANNA UNIV",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "10 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. J. RAJI",
+                    "dob": "19-03-1988",
+                    "date_of_joining": "01-04-2023",
+                    "aicte_id": "AUI",
+                    "phd_thesis_title": "LIFT DUO CONVERTOR",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "NATIONAL ENGINEERING COLLEGE (AUTONOMOUS)--",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "POWER ELECTRONICS AND DRIVES",
+                            "college_name": "OTHERS-SSN COLLEGE",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "OTHERS-SSN COLLEGE",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. R. TAMILAMUTHAN",
+                    "dob": "04-04-1988",
+                    "date_of_joining": "12-06-2017",
+                    "aicte_id": "13566589693",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "VELALAR COLLEGE OF TECHNOLOGY ENGINEERING (AUTONOMOUS)--",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "VLSI DESIGN",
+                            "college_name": "NANDHA ENGINEERING COLLEGE (AUTONOMOUS)--",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. A. ANTHONY CHARLES",
+                    "dob": "24-06-1986",
+                    "date_of_joining": "08-08-2022",
+                    "aicte_id": "AUUII",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "ARASU ENGINEERING COLLEGE--",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "OTHERS - PED",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "7 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. B. PANDY SELVI",
+                    "dob": "25-06-1978",
+                    "date_of_joining": "17-04-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "THANGAVELU ENGINEERING COLLEGE-",
+                            "year_of_passing": "1999"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "POWER SYSTEMS",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY--",
+                            "year_of_passing": "2005"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "10 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. SL. SREEDEVI",
+                    "dob": "13-11-1981",
+                    "date_of_joining": "17-06-2013",
+                    "aicte_id": "12190772601",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "ST XAVIER'S CATHOLIC COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "POWER SYSTEMS",
+                            "college_name": "OTHERS-AARUPADAI VEEDU INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2009"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. A. VIJAYALAKSHMI",
+                    "dob": "04-10-1984",
+                    "date_of_joining": "02-12-2021",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "JEPPIAAR ENGINEERING COLLEGE--",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ELECTRONICS AND DRIVES",
+                            "college_name": "SATHYABAMA ENGINEERING COLLEGE",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "9 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. M. HIMAJA",
+                    "dob": "25-01-1986",
+                    "date_of_joining": "08-04-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "OTHERS-NIET",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "VLSI",
+                            "college_name": "OTHERS-GITAM",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

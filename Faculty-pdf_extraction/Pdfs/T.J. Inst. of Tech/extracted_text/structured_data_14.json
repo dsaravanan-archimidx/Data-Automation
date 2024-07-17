@@ -1,0 +1,219 @@
+{
+    "faculty_details": [
+        {
+            "department": "Mathematics",
+            "faculty_members": [
+                {
+                    "name": "DR. D. MOGANRAJ",
+                    "dob": "08-06-1977",
+                    "date_of_joining": "15-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "AN ANALYSIS ON SINGLE SERVER RETRIAL QUEUES WITH INVENTORY SYSTEM",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS",
+                            "college_name": "GOVERNMENT ARTS COLLEGE",
+                            "year_of_passing": "1999"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "THIRUVALLUVAR UNIVERSITY",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. P. PALANI",
+                    "dob": "29-08-1982",
+                    "date_of_joining": "15-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "HYERSULAM STABILITY AND HYERS ULAM RASSIAS STABILITY OF FRACTIONAL DIFFERENTIAL EQUATIONS AND CONTROLLABILITY OF IMPULSIVE NEUTRAL INTEGRODIFFERENTIAL EQUATIONS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "GOVERNMENT ARTS COLLEGE",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "ISLAMIAH COLLEGE",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "EKANDASWAMI KANDARS",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. V. SHARON PHILOMENA",
+                    "dob": "20-06-1981",
+                    "date_of_joining": "05-05-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "MATRIX AND CALCULUS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "MADRAS CHRISTIAN COLLEGE",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "MADRAS CHRISTIAN COLLEGE",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHS",
+                            "college_name": "VINAYAGA MISSIONS UNIVERSITY",
+                            "year_of_passing": "2009"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. K. RAJESH",
+                    "dob": "02-06-1990",
+                    "date_of_joining": "15-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "A STUDY OF INTERVAL VALUED INTUITIONISTIC FUZZY SETS OF SECOND TYPE AND THEIR APPLICATIONS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "ISLAMIC COLLEGE",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "ISLAMIC COLLEGE",
+                            "year_of_passing": "1999"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "ISLAMIC COLLEGE",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. J. MARIA THANGARAJ",
+                    "dob": "16-11-1980",
+                    "date_of_joining": "05-02-2018",
+                    "aicte_id": "M.PHIL",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "SACRED HEART COLLEGE",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "SACRED HEART COLLEGE",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "MATHEMATICS AND SCIENCE",
+                            "college_name": "SHANMUGA INDUSTRIES ARTS COLLEGE",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. G. BHUVANESWARI",
+                    "dob": "02-06-1986",
+                    "date_of_joining": "15-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "THIRUPATTUR ARTS AND SCIENCE COLLEGE",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "THIRUPATTUR ARTS AND SCIENCE COLLEGE",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "MARUDHAR KESARI JAIN COLLEGE",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,341 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-Mathematics",
+            "faculty_members": [
+                {
+                    "name": "DR. S. NEERAJA",
+                    "dob": "05-06-1982",
+                    "date_of_joining": "28-07-2020",
+                    "aicte_id": "9578392318",
+                    "phd_thesis_title": "STATISTICS IN COMPUTER APPLICATION",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "STATISTICS",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "STATISTICS",
+                            "college_name": "MS UNIVERSITY",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "BISHOPHEBER COLLEGE",
+                            "year_of_passing": "2002"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. J. PARTHIBAN",
+                    "dob": "31-05-1982",
+                    "date_of_joining": "18-02-2017",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "A STUDY ON VALUED N LINEAR SPACE AND VALUED N INNER PRODUCT SPACE",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "NATIONAL ENGINEERING COLLEGE (AUTONOMOUS)",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "UNIVERSITY COLLEGE OF ENGINEERING PANRUTI",
+                            "year_of_passing": "2017"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "NATIONAL ENGINEERING COLLEGE (AUTONOMOUS)",
+                            "year_of_passing": "2006"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "9 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. M. RAMESH",
+                    "dob": "29-05-1981",
+                    "date_of_joining": "06-10-2022",
+                    "aicte_id": "AUM",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHS",
+                            "college_name": "MATHS COLLEGE",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHS",
+                            "college_name": "MATHS COLLEGE",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHS",
+                            "college_name": "KAMARAJ UNIVERSITY",
+                            "year_of_passing": "2008"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "7 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. M. LAKSHMIPRIYA",
+                    "dob": "15-05-1975",
+                    "date_of_joining": "19-09-2017",
+                    "aicte_id": "3606585165",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHS",
+                            "college_name": "GOVT ARTS COLLEGE",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHS",
+                            "college_name": "MATHS UNIVERSITY",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "MATHS",
+                            "college_name": "MATHS UNIVERSITY",
+                            "year_of_passing": "2009"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "12 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. M. BIMI",
+                    "dob": "21-06-1981",
+                    "date_of_joining": "05-01-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHS",
+                            "college_name": "AV COLLEGE OF ARTS AND SCIENCE",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHS",
+                            "college_name": "MATHS UNIVERSITY",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "MS UNIVERSITY",
+                            "year_of_passing": "2004"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. P. KALEESWARI",
+                    "dob": "21-07-1984",
+                    "date_of_joining": "16-06-2014",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "NIRMALA COLLEGE FOR WOMEN",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "MATHEMATIC COLLEGE FOR WOMEN",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "BHARATHIYAR UNIVERSITY",
+                            "year_of_passing": "2008"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "8 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. A. SELVADURAI",
+                    "dob": "20-03-1987",
+                    "date_of_joining": "20-10-2020",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHS",
+                            "college_name": "DB JAIN COLLEGE",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. T. SARAVANAN",
+                    "dob": "03-06-1989",
+                    "date_of_joining": "09-12-2015",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHS",
+                            "college_name": "JSC NEYVELI",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHS",
+                            "college_name": "AVVAM COLLEGE",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "ALAGAPPA UNIVERSITY",
+                            "year_of_passing": "2007"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "7 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. T. VELMURUGAN",
+                    "dob": "15-07-1989",
+                    "date_of_joining": "02-11-2022",
+                    "aicte_id": "AUII",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHS",
+                            "college_name": "EVR COLLEGE",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHS",
+                            "college_name": "JAMAL MOHD COLLEGE",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "JAMAL MOHD COLLEGE",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. V. LAKSHMI",
+                    "dob": "06-06-1984",
+                    "date_of_joining": "14-10-2020",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHS",
+                            "college_name": "ADMC",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "BHARATHIDASAN UNIVERSITY",
+                            "year_of_passing": "2008"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

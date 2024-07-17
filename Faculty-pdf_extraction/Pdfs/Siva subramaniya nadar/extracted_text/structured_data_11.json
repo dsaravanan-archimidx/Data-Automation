@@ -1,0 +1,114 @@
+{
+    "faculty_details": [
+        {
+            "department": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "DR. KT. SELVAN",
+                    "dob": "24-06-1966",
+                    "date_of_joining": "18-06-2012",
+                    "aicte_id": "11451182385",
+                    "phd_thesis_title": "ALTERNATIVE THEORETICAL FORMULATIONS FOR THE ANALYSIS OF RECTANGULAR WAVEGUIDE ANTENNAS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "BITS PILANI",
+                            "year_of_passing": "1996"
+                        },
+                        {
+                            "degree": "MS",
+                            "specialization": "CONTROL AND ELECTRONICS",
+                            "college_name": "OTHERS-JADAVPUR UNIVERSITY",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "PGCHE",
+                            "specialization": "HIGHER EDUCATION",
+                            "college_name": "UNIVERSITY OF NOTTINGHAM",
+                            "year_of_passing": "2007"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "10 Years",
+                            "previous_position": "7 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. R. KISHORE",
+                    "dob": "16-06-1977",
+                    "date_of_joining": "11-04-2005",
+                    "aicte_id": "1454485253",
+                    "phd_thesis_title": "STUDIES ON SECURE AND EFFICIENT KEY PREDISTRIBUTION SCHEMES FOR WIRELESS SENSOR NETWORKS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "ECE O ENTH GE INR ES E-P RO INN GD I CC OH LE LR ER GY",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "WIRELESS TECHNOLOGIES",
+                            "college_name": "SRI SIVASUBRAMANIYA NADAR COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": " ",
+                            "college_name": " ",
+                            "year_of_passing": " "
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "19 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. M. GULAM NABI ALSATH",
+                    "dob": "06-06-1988",
+                    "date_of_joining": "03-06-2013",
+                    "aicte_id": "12197725979",
+                    "phd_thesis_title": "ON THE DESIGN AND INVESTIGATION OF MULTISERVICE ANTENNAS FOR AUTOMOTIVE ENVIRONMENT",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMMUNICATION SYSTEMS",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "9 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

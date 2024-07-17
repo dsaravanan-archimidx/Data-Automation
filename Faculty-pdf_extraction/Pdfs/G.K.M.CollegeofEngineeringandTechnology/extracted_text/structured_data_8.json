@@ -1,0 +1,276 @@
+{
+    "faculty_details": [
+        {
+            "department": "Mechanical Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. B. RAMESH",
+                    "dob": "08-02-1980",
+                    "date_of_joining": "23-03-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "CAD",
+                    "year_of_starting": "2003",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Mechanical Engineering",
+                            "college_name": "G K M COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Computer Aided Design",
+                            "college_name": "SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": "Mechanical Engineering",
+                            "college_name": "PANDICHERY UNIVERSITY",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. J. MUTHUKUMARAN",
+                    "dob": "03-07-1991",
+                    "date_of_joining": "09-03-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2013",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Mechanical Engineering",
+                            "college_name": "SALEGH ACADEMY OF ENGINEERING",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Energy Architecture",
+                            "college_name": "SALEGH ACADEMY OF ENGINEERING",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. M. SENTHIL KUMAR",
+                    "dob": "20-09-1994",
+                    "date_of_joining": "17-02-2023",
+                    "aicte_id": "NUMBER4",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2016",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Mechanical Engineering",
+                            "college_name": "SALEGH COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Energy Architecture",
+                            "college_name": "SALEGH COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. J. CHANDRU",
+                    "dob": "10-05-1987",
+                    "date_of_joining": "02-03-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2011",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Aeronautical Engineering",
+                            "college_name": "SALEGH ACADEMY OF ENGINEERING",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "CAD/CAM",
+                            "college_name": "ST PETERS UNIVERSITY",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. G. SATHISHKUMAR",
+                    "dob": "18-05-1993",
+                    "date_of_joining": "09-03-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2014",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Mechanical Engineering",
+                            "college_name": "AAA COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Energy Architecture",
+                            "college_name": "SALEGH ACADEMY OF ENGINEERING",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. B. RAJADURAI",
+                    "dob": "20-10-1982",
+                    "date_of_joining": "13-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2005",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Mechanical Engineering",
+                            "college_name": "AAA COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Industrial Engineering",
+                            "college_name": "AAA COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2009"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. M. DINESH KUMAR",
+                    "dob": "08-09-1994",
+                    "date_of_joining": "22-02-2023",
+                    "aicte_id": "NUMBER15",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2016",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Automobile Engineering",
+                            "college_name": "DR MAHALINGAM COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Automobile Engineering",
+                            "college_name": "AMRITA VISHWA VIDYAPEETHAM",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. S. RASARASAN",
+                    "dob": "01-06-1977",
+                    "date_of_joining": "06-04-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2007",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Mechanical Engineering",
+                            "college_name": "GOVERNMENT COLLEGE OF ENGINEERING SALEM",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Computer Aided Design",
+                            "college_name": "SRI VENKATESWARA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2009"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. M. VASANTHAN",
+                    "dob": "25-05-1986",
+                    "date_of_joining": "06-03-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2008",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Mechanical Engineering",
+                            "college_name": "SALEGH ACADEMY OF ENGINEERING",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Energy Architecture",
+                            "college_name": "SALEGH ACADEMY OF ENGINEERING",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

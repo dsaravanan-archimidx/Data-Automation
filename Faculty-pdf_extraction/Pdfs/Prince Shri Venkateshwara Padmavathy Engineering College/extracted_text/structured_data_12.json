@@ -1,0 +1,219 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-Mathematics",
+            "faculty_members": [
+                {
+                    "name": "DR. S. JAYASUDHA",
+                    "dob": "13-05-1977",
+                    "date_of_joining": "10-02-2014",
+                    "aicte_id": "17361338575",
+                    "phd_thesis_title": "STUDIES ON SOME CLASSES OF FUZZY PETRI NET MODELS AND ITS APPLICATIONS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "1997"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHAMATICS",
+                            "college_name": "GOVT ARTS COLLEGE",
+                            "year_of_passing": "1999"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "18 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. V. MYTHILI",
+                    "dob": "04-06-1972",
+                    "date_of_joining": "15-06-2002",
+                    "aicte_id": "1451383865",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "1992"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "1994"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "KAMARAJ UNIVERSITY",
+                            "year_of_passing": "1995"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "15 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. R. RAJALAKSHMI",
+                    "dob": "24-06-1972",
+                    "date_of_joining": "29-01-2010",
+                    "aicte_id": "17820125555",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "1992"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "1994"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "1995"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "18 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. C. VENNILA",
+                    "dob": "10-05-1984",
+                    "date_of_joining": "18-06-2012",
+                    "aicte_id": "11417779829",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHSMATICS",
+                            "college_name": "TACW VILLUPURAM",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "TACW VILLUPURAM",
+                            "year_of_passing": "2007"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "10 Years",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. D. LITTLE FEMILIN JANA",
+                    "dob": "20-03-1981",
+                    "date_of_joining": "17-08-2005",
+                    "aicte_id": "1451354291",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "LOYOLA COLLEGE",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "UNIVERSITY OF MADRAS",
+                            "year_of_passing": "2004"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "12 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. S. RAJA RAJESWARI",
+                    "dob": "25-09-1984",
+                    "date_of_joining": "01-02-2018",
+                    "aicte_id": "17361338659",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "THAYAR EDUCATIONAL TRUST",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "THAYAR EDUCATIONAL TRUST",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "BHARADHIDASAN",
+                            "year_of_passing": "2008"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "10 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

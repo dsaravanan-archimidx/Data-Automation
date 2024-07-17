@@ -1,0 +1,38 @@
+{
+    "faculty_details": [
+        {
+            "department": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "MRS. R. AISHWARYA",
+                    "dob": "22-01-1994",
+                    "date_of_joining": "08-11-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRICAL AND ELECTRONICS TECHNOLOGY",
+                            "college_name": "SRI KRISHNA COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "EMBEDDED SYSTEM TECHNOLOGIES",
+                            "college_name": "SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

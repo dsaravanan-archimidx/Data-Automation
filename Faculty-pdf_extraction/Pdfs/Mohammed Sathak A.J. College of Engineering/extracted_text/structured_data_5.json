@@ -1,0 +1,154 @@
+{
+    "faculty_details": [
+        {
+            "department": "General Engineering",
+            "faculty_members": [
+                {
+                    "name": "MR. V. VIGNESHWARAN",
+                    "dob": "13-12-1992",
+                    "date_of_joining": "02-11-2020",
+                    "aicte_id": "13607613206",
+                    "phd_thesis_title": "NIL",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.Tech",
+                            "specialization": "Aero Space Engineering",
+                            "college_name": "SRM University",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "M.Tech",
+                            "specialization": "Thermal Engineering",
+                            "college_name": "Hindustan Institute of Technology and Science",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "Assistant Professor",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Year",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. J. RAJESH GANADIPATHY",
+                    "dob": "27-12-1990",
+                    "date_of_joining": "10-07-2017",
+                    "aicte_id": "13646207134",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Mechanical Engineering",
+                            "college_name": "Tulsi's Jain College",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Industrial Metallurgy",
+                            "college_name": "PSG College of Technology",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "Assistant Professor",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. K K. VINOTHKUMAR",
+                    "dob": "20-06-1987",
+                    "date_of_joining": "28-02-2022",
+                    "aicte_id": "12194593601",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Automobile Engineering",
+                            "college_name": "PSG College of Technology",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Manufacturing Engineering",
+                            "college_name": "Madras Institute of Technology",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "Assistant Professor",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "9 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. M L. SYED ALI",
+                    "dob": "11-06-1983",
+                    "date_of_joining": "03-01-2007",
+                    "aicte_id": "1478531269",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Electronics and Communication Engineering",
+                            "college_name": "Government College of Engineering",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Applied Electronics and Technology",
+                            "college_name": "C Abdul Hakeem College of Engineering",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "Assistant Professor",
+                    "academic_experience": [
+                        {
+                            "current_position": "16 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. A. MOHAMED MALIK",
+                    "dob": "18-09-1989",
+                    "date_of_joining": "01-10-2020",
+                    "aicte_id": "19315074058",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Electronics and Communication Engineering",
+                            "college_name": "Mohamed Sathak A J College of Engineering",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.Tech",
+                            "specialization": "Embedded Systems",
+                            "college_name": "Bharath University",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "Assistant Professor",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

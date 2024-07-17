@@ -1,0 +1,305 @@
+{
+    "faculty_details": [
+        {
+            "department": "Biomedical Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. A. KAVITHA",
+                    "dob": "07-06-1975",
+                    "date_of_joining": "10-06-2011",
+                    "aicte_id": "767925360",
+                    "phd_thesis_title": "ANALYSIS OF SPIROMETRIC PULMONARY FUNCTION TEST USING SUPPORT VECTOR REGRESSION AND CLASSIFICATION",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "BioMedical Engineering",
+                            "college_name": "BHARATH INSTITUTE OF SCIENCE OF TECHNOLOGY",
+                            "year_of_passing": "1996"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": "Biomedical Engineering",
+                            "college_name": "MADRAS INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "Professor",
+                    "academic_experience": [
+                        {
+                            "current_position": "11 Years",
+                            "previous_position": "14 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. N. VENKATESWARAN",
+                    "dob": "02-02-1966",
+                    "date_of_joining": "03-06-2010",
+                    "aicte_id": "1461456875341",
+                    "phd_thesis_title": "DISCRETE WAVELET TRANSFORM BASED HYBRID IMAGE CODING SCHEMES FOR CONTINUOUS TONE IMAGES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "Electronics and Communication Engineering",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "1996"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": "Communication Engineering",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2009"
+                        }
+                    ],
+                    "designation": "Professor",
+                    "academic_experience": [
+                        {
+                            "current_position": "12 Years",
+                            "previous_position": "13 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. S. ARUN KARTHICK",
+                    "dob": "08-06-1988",
+                    "date_of_joining": "15-06-2017",
+                    "aicte_id": "131556630563",
+                    "phd_thesis_title": "NANOCOMPOSITE ELECTROSPUN FILTER FOR AEROSOL FILTRATION AND CHEMICAL AND BIOLOGICAL PROTECTION",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Biomedical Engineering",
+                            "college_name": "ADHIYAMAAN COLLEGE OF ENGINEERING (AUTONOMOUS)",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": "Biomedical Engineering",
+                            "college_name": "COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "Associate Professor",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. K. NIRMALA",
+                    "dob": "17-10-1978",
+                    "date_of_joining": "05-08-2015",
+                    "aicte_id": "12799270033",
+                    "phd_thesis_title": "INVESTIGATION ON FEATURE BASED DETECTION OF GLAUCOMA IN FUNDUS IMAGES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Instrumentation Engineering",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2000"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": "Communication Engineering",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "Associate Professor",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "17 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. L. SUGANTHI",
+                    "dob": "21-05-1981",
+                    "date_of_joining": "03-01-2014",
+                    "aicte_id": "12195248999",
+                    "phd_thesis_title": "TAKAYASUS ARTERITIS CLINICAL ANALYSIS MODELING AND SIMULATION TOWARDS NOVEL DIAGNOSTIC TECHNIQUE",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Communication Engineering",
+                            "college_name": "NATIONAL ENGINEERING COLLEGE (AUTONOMOUS)",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": "Biomedical Engineering",
+                            "college_name": "INDIAN INSTITUTE OF TECHNOLOGY MADRAS",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "Associate Professor",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "12 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. B. GEETHANJALI",
+                    "dob": "14-12-1971",
+                    "date_of_joining": "05-06-2007",
+                    "aicte_id": "1453225821",
+                    "phd_thesis_title": "ANALYZING THE INFLUENCE OF MUSIC ON COGNITIVE PERFORMANCE USING PHYSIOLOGICAL SIGNALS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Communication Engineering",
+                            "college_name": "RAJA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "Biomedical Engineering",
+                            "college_name": "VIT VELLORE",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "Associate Professor",
+                    "academic_experience": [
+                        {
+                            "current_position": "15 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. S. SARANYA",
+                    "dob": "17-03-1987",
+                    "date_of_joining": "12-06-2017",
+                    "aicte_id": "13556630703",
+                    "phd_thesis_title": "AN INTEGRATED FRAMEWORK FOR MEDICAL IMAGE RETRIEVAL IN PACS ENVIRONMENT",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Biomedical Engineering",
+                            "college_name": "COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Medical Electronics",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": "Medical Electronics",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "Assistant Professor",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "10 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. B. DIVYA",
+                    "dob": "20-12-1987",
+                    "date_of_joining": "01-07-2016",
+                    "aicte_id": "3222945809",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Biomedical Engineering",
+                            "college_name": "RAJIV GANDHI COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "Biomedical Engineering",
+                            "college_name": "AMIRTA SCHOOL OF ENGINEERING",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "Assistant Professor",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. SARATE. SACHIN SARATE",
+                    "dob": "18-05-1977",
+                    "date_of_joining": "29-10-2010",
+                    "aicte_id": "1508583897",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "Biomedical Engineering",
+                            "college_name": "INSTITUTE OF BIOMEDICAL ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2005"
+                        }
+                    ],
+                    "designation": "Assistant Professor",
+                    "academic_experience": [
+                        {
+                            "current_position": "12 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. R. NITHYA",
+                    "dob": "29-11-1984",
+                    "date_of_joining": "02-06-2008",
+                    "aicte_id": "",
+                    "phd_thesis_title": "DEVELOPMENT OF DECISION SUPPORT SYSTEM FOR DETECTION OF RETINAL DISORDERS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Instrumentation Engineering",
+                            "college_name": "MOOKAMBIGAI COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Biomedical Engineering",
+                            "college_name": "COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": "Biomedical Engineering",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "Assistant Professor",
+                    "academic_experience": [
+                        {
+                            "current_position": "14 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,219 @@
+{
+    "faculty_details": [
+        {
+            "department": "Mathematics",
+            "faculty_members": [
+                {
+                    "name": "DR. P. SIVAGAMI",
+                    "dob": "17-11-1975",
+                    "date_of_joining": "25-08-2008",
+                    "aicte_id": "430996215",
+                    "phd_thesis_title": "STUDY ON TEA COLOURING AND RAINBOW DOMINATION IN INTER CONNECTION NETWORKS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - MATHS",
+                            "college_name": "QUEEN MARYS",
+                            "year_of_passing": "1996"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "QUEEN MARYS",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "GOVT ARTS COLLEGE",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "11 Years",
+                            "previous_position": "10 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. A. THIRIPURAM",
+                    "dob": "25-08-1982",
+                    "date_of_joining": "26-08-2009",
+                    "aicte_id": "430996661",
+                    "phd_thesis_title": "INVESTIGATION ON NEW NOTION IN IDEAL TOPOLOGICAL SPACES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - MATHS",
+                            "college_name": "THIRUVANAMALAI",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - MATHS",
+                            "college_name": "STELLA MARIS COLLEGE FOR WOMEN",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "MADURAI KAMARAJ UNIVERSITY",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "13 Years",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. P. JAGADEESWARI",
+                    "dob": "11-02-1983",
+                    "date_of_joining": "11-11-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "SQUARE DIFFERENCE LABELING OF PYRAMID PATH UNION CYCLE PATH TREE AND H GRAPHS AND CUBE DIFFERENCE LABELING OF THETA GRAPHS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "D K M COLLEGE FOR WOMEN",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "RAMANUJAM INSTITUTE OF ADVANCED STUDY IN MATHS",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "THEORY",
+                            "college_name": "MOTHER TERESA WOMENS UNIVERSITY",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. A. YESURAJA",
+                    "dob": "18-03-1990",
+                    "date_of_joining": "01-08-2018",
+                    "aicte_id": "43363339959",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "PRESIDENCY MATHEMATICS COLLEGE",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "PRESIDENCY MATHEMATICS COLLEGE",
+                            "year_of_passing": ""
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. C. KANNADASAN",
+                    "dob": "07-06-1992",
+                    "date_of_joining": "01-08-2018",
+                    "aicte_id": "43363024138",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHAMATICS",
+                            "college_name": "GOVT ARTS COLLEGE",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "ANNAMALAI",
+                            "year_of_passing": "2017"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "THEORY",
+                            "college_name": "UNIVERSITY--",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. K. SUBASHINI",
+                    "dob": "30-10-1977",
+                    "date_of_joining": "01-05-2007",
+                    "aicte_id": "430996462",
+                    "phd_thesis_title": "PURSUING",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - MATHS",
+                            "college_name": "NAIDU COLLEGE",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - MATHS",
+                            "college_name": "NAIDU COLLEGE",
+                            "year_of_passing": "2000"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "G VENKATASAMY",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "15 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

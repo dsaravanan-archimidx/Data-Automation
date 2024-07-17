@@ -1,0 +1,410 @@
+[
+    {
+        "faculty_details": [
+            {
+                "department": "Architecture",
+                "faculty_members": [
+                    {
+                        "name": "MR. N. BHARATH",
+                        "dob": "15-08-1976",
+                        "date_of_joining": "26-12-2018",
+                        "aicte_id": "OTHERS",
+                        "phd_thesis_title": " ",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.ARCH.",
+                                "specialization": "ARCHITECTURE ENGINEERING AND TECHNOLOGY",
+                                "college_name": "HINDUSTHAN COLLEGE OF ARCHITECTURE",
+                                "year_of_passing": "1998"
+                            },
+                            {
+                                "degree": "M.ARCH.",
+                                "specialization": "ADVANCED DESIGN",
+                                "college_name": "UNIVERSITY",
+                                "year_of_passing": "2009"
+                            }
+                        ],
+                        "designation": "PRINCIPAL",
+                        "academic_experience": [
+                            {
+                                "current_position": "4 Years",
+                                "previous_position": "14 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. S. BHAGAWATH",
+                        "dob": "21-07-1978",
+                        "date_of_joining": "26-12-2018",
+                        "aicte_id": "OTHERS",
+                        "phd_thesis_title": " ",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.ARCH.",
+                                "specialization": "ARCHITECTURE ENGINEERING",
+                                "college_name": "THIAGARAJAR COLLEGE OF ENGINEERING",
+                                "year_of_passing": "2001"
+                            },
+                            {
+                                "degree": "M.ARCH.",
+                                "specialization": "BUILDING SCIENCE",
+                                "college_name": "SATHYABAMA UNIVERSITY",
+                                "year_of_passing": "2009"
+                            }
+                        ],
+                        "designation": "PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "4 Years",
+                                "previous_position": "5 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. R. RUPA",
+                        "dob": "01-12-1968",
+                        "date_of_joining": "03-07-2013",
+                        "aicte_id": "OTHERS",
+                        "phd_thesis_title": " ",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.ARCH.",
+                                "specialization": "ARCHITECTURE",
+                                "college_name": "IIA ARCHITECTURE MUMBAI",
+                                "year_of_passing": "2007"
+                            },
+                            {
+                                "degree": "M.ARCH.",
+                                "specialization": "BUILDING SCIENCE",
+                                "college_name": "SATHYABAMA UNIVERSITY",
+                                "year_of_passing": "2009"
+                            }
+                        ],
+                        "designation": "ASSOCIATE PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "4 Years",
+                                "previous_position": "9 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MR. M.G. VIGNESH MANIKANDAN",
+                        "dob": "14-01-1985",
+                        "date_of_joining": "18-09-2014",
+                        "aicte_id": "H.",
+                        "phd_thesis_title": " ",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.ARC",
+                                "specialization": "ARCHITECTURE & PLANNING",
+                                "college_name": "SCHOOL OF ARCHITECTURE",
+                                "year_of_passing": "2007"
+                            },
+                            {
+                                "degree": "M.ARC",
+                                "specialization": "LANDSCAPE ARCHITECTURE & PLANNING",
+                                "college_name": "SCHOOL OF ARCHITECTURE",
+                                "year_of_passing": "2009"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "8 Years",
+                                "previous_position": "0 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MR. K. GOWTHAM",
+                        "dob": "24-10-1995",
+                        "date_of_joining": "06-07-2022",
+                        "aicte_id": "H.",
+                        "phd_thesis_title": " ",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.ARC",
+                                "specialization": "ARCHITECTURE",
+                                "college_name": "MISRIMAL NAVAJEE MUNOTH JAIN ARCHITECTURE",
+                                "year_of_passing": "2018"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "0 Years",
+                                "previous_position": "0 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MR. R. KAMAL",
+                        "dob": "19-06-1993",
+                        "date_of_joining": "02-01-2020",
+                        "aicte_id": "H.",
+                        "phd_thesis_title": " ",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.ARC",
+                                "specialization": "ARCHITECTURE",
+                                "college_name": "MOHAMED SATHAK A.J. ACADEMY OF ARCHITECTURE",
+                                "year_of_passing": "2017"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "3 Years",
+                                "previous_position": "0 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MR. D. RAVI PRASAD",
+                        "dob": "26-07-1990",
+                        "date_of_joining": "19-10-2016",
+                        "aicte_id": "H.",
+                        "phd_thesis_title": " ",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.ARC",
+                                "specialization": "ARCHITECTURE",
+                                "college_name": "OTHERS-PERYAR MANIAMMAI UNIVERSITY",
+                                "year_of_passing": "2014"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "6 Years",
+                                "previous_position": "0 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MR. P. BHAGEERATHAN",
+                        "dob": "07-10-1987",
+                        "date_of_joining": "01-04-2019",
+                        "aicte_id": "H.",
+                        "phd_thesis_title": " ",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "CIVIL ENGINEERING",
+                                "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                                "year_of_passing": "2009"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "STRUCTURAL ENGINEERING",
+                                "college_name": "SATHYABAMA UNIVERSITY",
+                                "year_of_passing": "2015"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "3 Years",
+                                "previous_position": "0 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. K. ANJALY",
+                        "dob": "19-02-1993",
+                        "date_of_joining": "05-06-2017",
+                        "aicte_id": "H.",
+                        "phd_thesis_title": " ",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.ARC",
+                                "specialization": "ARCHITECTURE",
+                                "college_name": "OTHERS-SRM UNIVERSITY",
+                                "year_of_passing": "2015"
+                            },
+                            {
+                                "degree": "M.ARC",
+                                "specialization": "INTERIOR ARCHITECTURE",
+                                "college_name": "OTHERS-DR MGR H. ARCHITECTURE UNIVERSITY",
+                                "year_of_passing": "2017"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "5 Years",
+                                "previous_position": "0 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. S. NIVEDITHA",
+                        "dob": "16-01-1995",
+                        "date_of_joining": "22-12-2021",
+                        "aicte_id": "H.",
+                        "phd_thesis_title": " ",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.ARC",
+                                "specialization": "ARCHITECTURE",
+                                "college_name": "MUNOTH JAIN H. SCHOOL OF ARCHITECTURE",
+                                "year_of_passing": "2017"
+                            },
+                            {
+                                "degree": "M.ARC",
+                                "specialization": "ARCHITECTURE",
+                                "college_name": "MEENAKSHI COLLEGE OF ARCHITECTURE",
+                                "year_of_passing": "2022"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "0 Years",
+                                "previous_position": "0 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. A D. MONICA",
+                        "dob": "12-10-1993",
+                        "date_of_joining": "27-12-2021",
+                        "aicte_id": "H. OF SCIENCE TECHNOLOGY",
+                        "phd_thesis_title": " ",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.ARC",
+                                "specialization": "ARCHITECTURE",
+                                "college_name": "RAHMAN INSTUTIDE OF SCIENCE TECHNOLOGY",
+                                "year_of_passing": "2016"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "1 Years",
+                                "previous_position": "0 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MR. A. NAMBI",
+                        "dob": "07-06-1979",
+                        "date_of_joining": "27-12-2021",
+                        "aicte_id": "H.",
+                        "phd_thesis_title": " ",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.ARC",
+                                "specialization": "ARCHITECTURE",
+                                "college_name": "COLLEGE OF ENGINEERING",
+                                "year_of_passing": "2001"
+                            },
+                            {
+                                "degree": "M.TEC",
+                                "specialization": "CONSTRUCTION ENGINEERING AND TECHNOLOGY MANAGEMENT",
+                                "college_name": "MANIPAL INSTITE OF TECHNOLOGY",
+                                "year_of_passing": "2004"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "1 Years",
+                                "previous_position": "2 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MR. GOMES. RAJIV",
+                        "dob": "18-12-1981",
+                        "date_of_joining": "04-06-2017",
+                        "aicte_id": "H. TECHNOLOGICAL UNIVERSITY",
+                        "phd_thesis_title": " ",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.ARC",
+                                "specialization": "ARCHITECTURE",
+                                "college_name": "NEHRU TECHNOLOGICAL UNIVERSITY",
+                                "year_of_passing": "2005"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "2 Years",
+                                "previous_position": "4 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. K. HEMALATHA",
+                        "dob": "29-01-1991",
+                        "date_of_joining": "26-12-2018",
+                        "aicte_id": "H.",
+                        "phd_thesis_title": " ",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.ARCH.",
+                                "specialization": "ARCHITECTURE",
+                                "college_name": "SATHAYABAMA UNIVERSITY",
+                                "year_of_passing": "2013"
+                            },
+                            {
+                                "degree": "M.ARCH.",
+                                "specialization": "ARCHITECTURE",
+                                "college_name": "BHARATH UNIVERSITY",
+                                "year_of_passing": "2018"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "4 Years",
+                                "previous_position": "2 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. S NATHANI. CHETNA",
+                        "dob": "22-05-1990",
+                        "date_of_joining": "05-01-2023",
+                        "aicte_id": "H.",
+                        "phd_thesis_title": " ",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.ARC",
+                                "specialization": "ARCHITECTURE",
+                                "college_name": "MEASI ACADEMY OF ARCHITECTURE",
+                                "year_of_passing": "2012"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "0 Years",
+                                "previous_position": "3 Years"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

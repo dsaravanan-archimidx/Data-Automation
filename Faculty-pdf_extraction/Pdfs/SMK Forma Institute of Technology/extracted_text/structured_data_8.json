@@ -1,0 +1,78 @@
+{
+    "faculty_details": [
+        {
+            "department": "Mechanical Engineering",
+            "faculty_members": [
+                {
+                    "name": "MR. S. JOE MUETH DEEPAK",
+                    "dob": "06-05-1991",
+                    "date_of_joining": "15-06-2016",
+                    "aicte_id": "M.E. CAD/CAM ENGINEERING COLLEGE",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "MECHANICAL",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "THERMAL ENGINEERING",
+                            "college_name": "MEPCO SCHLENK",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "Thermal Mechanical Engineers",
+            "faculty_members": [
+                {
+                    "name": "DR. P. MADASAMY",
+                    "dob": "30-06-1960",
+                    "date_of_joining": "09-07-2022",
+                    "aicte_id": "AU1 MECHANICAL",
+                    "phd_thesis_title": "STUDIES ON THE GEOMETRIC EFFECTS OF FLOW ACCELERATED CORROSION ON CARBON STEEL",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "OTHERS",
+                            "specialization": "OTHERS",
+                            "college_name": "OTHERS-INSTITUTION OF",
+                            "year_of_passing": "2000"
+                        },
+                        {
+                            "degree": "MS",
+                            "specialization": "THERMAL TECHNOLOGY",
+                            "college_name": "A C T COLLEGE OF ENGINEERING AND",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "OTHERS-ANNA UNIVERSITY",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

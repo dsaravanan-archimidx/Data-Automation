@@ -1,0 +1,299 @@
+{
+    "faculty_details": [
+        {
+            "department": "General Engineering",
+            "faculty_members": [
+                {
+                    "name": "MR. U. KAILASAM",
+                    "dob": "20-05-1969",
+                    "date_of_joining": "11-07-2016",
+                    "aicte_id": "3374045846",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "6 Years",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TEC",
+                            "specialization": "AUTOMOBILE ENGINEERING",
+                            "college_name": "MADRAS INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "1993"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "CAD/CAM",
+                            "college_name": "SRM ENGG COLLEGE",
+                            "year_of_passing": "2004"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "ASSOCIATE PROFESSOR",
+                            "previous_position": " "
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. V. MOORTHY",
+                    "dob": "26-09-1986",
+                    "date_of_joining": "02-06-2014",
+                    "aicte_id": "2192549309",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "8 Years",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "SRI RAMANUJAR ENGINEERING COLLEGE",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "CAD/CAM",
+                            "college_name": "THIRUVALLUVAR COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "ASSISTANT PROFESSOR",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. MANICKARAJ",
+                    "dob": "10-05-1989",
+                    "date_of_joining": "29-06-2015",
+                    "aicte_id": "2691658342",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "7 Years",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "SRI RAMANUJAR ENGINEERING COLLEGE",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "THERMAL ENGINEERING",
+                            "college_name": "DR MGR ENGINEERING UNIVERSITY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "ASSISTANT PROFESSOR",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. S. IMMACULIN SHIA",
+                    "dob": "02-03-1990",
+                    "date_of_joining": "24-06-2019",
+                    "aicte_id": "",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "3 Years",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+                            "college_name": "VINS CHRISTIAN COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ELECTRONICS ENGINEERING",
+                            "college_name": "ARUNAI COLLEGE",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "ASSISTANT PROFESSOR",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. W. ADELINE SHEEBA",
+                    "dob": "15-05-1989",
+                    "date_of_joining": "18-03-2019",
+                    "aicte_id": "",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "3 Years",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "JAYA ENGINEERING COLLEGE",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMMUNICATION SYSTEMS",
+                            "college_name": "SRI SIVASUBRAMANIYA NADAR COLLEGE OF ENGINEERING (AUTONOMOUS)",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "ASSISTANT PROFESSOR",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. R. MANJU",
+                    "dob": "25-07-1990",
+                    "date_of_joining": "07-04-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "0 Years",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "MARIAMMAN ENGINEERING COLLEGE",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.TEC",
+                            "specialization": "INFORMATION TECHNOLOGY",
+                            "college_name": "V S B H. TECHNOLOGY COLLEGE",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "ASSISTANT PROFESSOR",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. K. SHARMILA DEVI",
+                    "dob": "02-06-1982",
+                    "date_of_joining": "16-08-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "0 Years",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "AALIM MUHAMMED SALEGH ACADEMY OF ARCHITECTURE",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "AALIM MUHAMMED SALEGH ACADEMY OF ARCHITECTURE",
+                            "year_of_passing": "2009"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "ASSISTANT PROFESSOR",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. J. CHARLES",
+                    "dob": "11-02-1997",
+                    "date_of_joining": "02-08-2022",
+                    "aicte_id": "",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "0 Years",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "ST JOSEPH COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2018"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ENERGY ENGINEERING",
+                            "college_name": "SRI SUBRAMANYA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "ASSISTANT PROFESSOR",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. DON BOSCO",
+                    "dob": "05-12-1987",
+                    "date_of_joining": "01-07-2019",
+                    "aicte_id": "",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "3 Years",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+                            "college_name": "DMI ENGINEERING COLLEGE",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMMUNICATION SYSTEMS",
+                            "college_name": "S A ENGINEERING COLLEGE (AUTONOMOUS)",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "ASSISTANT PROFESSOR",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. T. DAYANA",
+                    "dob": "04-02-1988",
+                    "date_of_joining": "04-04-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "0 Years",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "SACS M A V M M ENGINEERING COLLEGE",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "DHAANISH AHMED COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "ASSISTANT PROFESSOR",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

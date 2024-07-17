@@ -1,0 +1,114 @@
+{
+    "faculty_details": [
+        {
+            "department": "Chemistry",
+            "faculty_members": [
+                {
+                    "name": "DR. S. JAYAKUMAR",
+                    "dob": "10-03-1983",
+                    "date_of_joining": "15-06-2012",
+                    "aicte_id": "1450085673",
+                    "phd_thesis_title": "CHEMSITRY",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "THE NEW COLLEGE",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "THE NEW COLLEGE",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "9 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. S. NASRIN BANU",
+                    "dob": "26-05-1969",
+                    "date_of_joining": "15-06-2012",
+                    "aicte_id": "1450085751",
+                    "phd_thesis_title": "A COMPARATIVE STUDY OF ACTIVATED CARBONS AND NANO COMPOSITE CARBONS FOR THE ADSORPTION OF BASIC DYES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "NIRMALA COLLEGE",
+                            "year_of_passing": "1989"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "GOVT SRTS COLLEGE",
+                            "year_of_passing": "1991"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "GUINDY",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "9 Years",
+                            "previous_position": "6 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. T. THANALAKSHMI",
+                    "dob": "05-04-1980",
+                    "date_of_joining": "16-06-2014",
+                    "aicte_id": "25291270078",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "SRI PARASAKTHI COLLEGE",
+                            "year_of_passing": "2000"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "SRI PARAMA KALYANI COLLEGE",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "MS UNIVERSITY",
+                            "year_of_passing": "2007"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "7 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

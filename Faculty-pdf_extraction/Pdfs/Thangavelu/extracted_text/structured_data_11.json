@@ -1,0 +1,137 @@
+{
+    "faculty_details": [
+        {
+            "department": "Chemistry",
+            "faculty_members": [
+                {
+                    "name": "DR. P. SELVAM",
+                    "dob": "05-05-1985",
+                    "date_of_joining": "08-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "SPECTRAL STRUCTURAL AND BIOLOGICAL PROPERTIES OF NEW METAL COMPLEXES OF ALKYL 2 PYRIDINE 4YL METHYLENE HYDRAZINE CARBOXYLATES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS",
+                            "college_name": "BHARATHIDASAN UNIVERSITY",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "BHARATHIDASAN UNIVERSITY",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "THIRUVALLUVAR UNIVERSITY",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. S. KARTHIK",
+                    "dob": "01-06-1986",
+                    "date_of_joining": "10-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "POLYVINYL ALCOHOL AND NANO PARTICLES BASED SOLID ELECTROLYTE FILMS SYNTHESIS CHARACTERIZATION AND ELECTRICAL PROPERTIES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS",
+                            "college_name": "KHADIR MOHIDEEN COLLEGE",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "O CHTH EMER ISS T - RY O COTH LLE ER GS- EKHADHIR MOHIDEEN",
+                            "college_name": "",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "BHARATHIAR UNIVERSITY",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. R. KALIDOSS",
+                    "dob": "27-05-1984",
+                    "date_of_joining": "10-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS",
+                            "college_name": "GOVT ARTS AND SCIENCE COLLEGE NANDHANAM",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - BIO",
+                            "college_name": "VPMMC",
+                            "year_of_passing": "2004"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. R. ASHA",
+                    "dob": "14-07-1982",
+                    "date_of_joining": "01-09-2008",
+                    "aicte_id": "1435900482",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS",
+                            "college_name": "VPMMC",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - BIO",
+                            "college_name": "VPMMC",
+                            "year_of_passing": "2004"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "14 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

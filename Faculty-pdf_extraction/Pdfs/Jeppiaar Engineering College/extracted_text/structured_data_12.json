@@ -1,0 +1,130 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-English",
+            "faculty_members": [
+                {
+                    "name": "MR. R. BALAMURUGAN",
+                    "dob": "02-06-1992",
+                    "date_of_joining": "01-08-2018",
+                    "aicte_id": "43363437446",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2012",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "SHANMUGA INDUSTRIES ARTS AND SCIENCE COLLEGE",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "SHANMUGA INDUSTRIES ARTS AND SCIENCE COLLEGE",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. I. SAMUEL DAS",
+                    "dob": "12-06-1992",
+                    "date_of_joining": "17-10-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2013",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "CHRISTIAN COLLEGE",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "CHRITIAN COLLEGE",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": " ",
+            "faculty_members": [
+                {
+                    "name": "MS. L. SOWMIYA",
+                    "dob": "12-09-1987",
+                    "date_of_joining": "03-01-2018",
+                    "aicte_id": "111336149575",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2009",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "QUEEN MARYS COLLEGE",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "MADRAS UNIVERSITY",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. K. GLADYS BELSI CATHERINE",
+                    "dob": "19-07-1996",
+                    "date_of_joining": "17-10-2022",
+                    "aicte_id": "143368433974",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2016",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "ADHINAM ARTS AND SCIENCE COLLEGE",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "M.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "A V C COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-English",
+            "faculty_members": [
+                {
+                    "name": "MRS. D. MAHESWARI",
+                    "dob": "03-05-1975",
+                    "date_of_joining": "12-02-2019",
+                    "aicte_id": "7329545485",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "2007",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "Name: MRS. D. MAHESWARI COLLEGE",
+                            "year_of_passing": "1997"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "S - M A ENGLISH",
+                            "previous_position": "OTHERS - OTHERS-UNIVERSITY OF ENGLI"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": " ",
+            "faculty_members": [
+                {
+                    "name": "MRS. K. SHANMUGAPRIYA",
+                    "dob": "20-08-1983",
+                    "date_of_joining": "02-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "2007",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "Name: MRS. K. SHANMUGAPRIYA UNIVERSITY",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "OTHERS-ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": " ",
+                            "college_name": "OTHERS-PRIST UNIVERSITY THANJAVUR",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "S - M.A ENGLISH",
+                            "previous_position": "OTHERS-ANNAMALAI ENGLISH"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

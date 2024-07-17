@@ -1,0 +1,184 @@
+{
+    "faculty_details": [
+        {
+            "department": "Electronics and Communication Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. R. RAMESH",
+                    "dob": "28-06-1976",
+                    "date_of_joining": "04-03-2022",
+                    "aicte_id": "1717966315",
+                    "phd_thesis_title": "STABILITY TESTING AND A REVIEW OF STABILIZATION METHODS OF TWO DIMENSIONAL RECURSIVE DIGITAL FILTERS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+                            "college_name": "PSNA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "1999"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "MEPCO SCHLENK COLLEGE",
+                            "year_of_passing": "2000"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "DIGITAL SIGNAL PROCESSING",
+                            "college_name": "OTHERS-SRM UNIVERSITY",
+                            "year_of_passing": "2009"
+                        }
+                    ],
+                    "designation": "PRINCIPAL",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "21 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. K. SRINIVASAN",
+                    "dob": "07-06-1975",
+                    "date_of_joining": "03-06-2013",
+                    "aicte_id": "12284605844",
+                    "phd_thesis_title": "PERFORMANCE ANALYSIS OF REDUCED SWITCH Z SOURCE INVERTER FED INDUCTION MOTOR DRIVES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS ENGINEERING",
+                            "college_name": "ST PETER'S COLLEGE OF ENGINEERING",
+                            "year_of_passing": "1997"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+                            "college_name": "OTHERS-SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ELECTRONICS ENGINEERING",
+                            "college_name": "OTHERS-ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "9 Years",
+                            "previous_position": "14 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. B. PARTHEEBAN",
+                    "dob": "15-07-1987",
+                    "date_of_joining": "07-11-2012",
+                    "aicte_id": "417404403",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "PRINCE SHRI VENKATESHWARAA PADMAVATHY ENGINEERING COLLEGE",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ELECTRONICS AND POWER DRIVES",
+                            "college_name": "JERUSALEM COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "10 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. TKS. SATHYANARAYANAN",
+                    "dob": "24-05-1978",
+                    "date_of_joining": "19-06-2017",
+                    "aicte_id": "3562353999",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS ENGINEERING",
+                            "college_name": "GOVERNMENT COLLEGE OF ENGINEERING SALEM",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ELECTRONICS AND POWER DRIVES",
+                            "college_name": "K S RANGASAMY COLLEGE OF TECHNOLOGY",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "15 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. G. RAMESH",
+                    "dob": "05-03-1983",
+                    "date_of_joining": "09-07-2010",
+                    "aicte_id": "1492863875",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "SRI SAI RAM ENGINEERING COLLEGE",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "AUTOMOBILE ENGINEERING",
+                            "college_name": "MADRAS INSTITUTE OF ENGINEERING TECHNOLOGY CHROMPET",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "12 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

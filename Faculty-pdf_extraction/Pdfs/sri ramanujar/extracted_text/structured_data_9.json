@@ -1,0 +1,79 @@
+{
+    "faculty_details": [
+        {
+            "department": "Computer Science and Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. K. RAJAKUMARI",
+                    "dob": "26-05-1981",
+                    "date_of_joining": "07-07-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "A NOVEL APPROACH FOR FACE RECOGNITION TECHNIQUE USING VARIOUS PATTERN MODELS AND ENHANCING THEIR PERFORMANCE",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.C.A.",
+                            "specialization": "COMPUTER APPLICATIONS",
+                            "college_name": "DHANAPALAN COLLEGE",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "OTHERS-BHARATH INSTITUTE OF HIGHER EDUCATION AND RESEARCH",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "OTHERS-BHARATH INSTITUTE OF HIGHER EDUCATION AND RESEARCH",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "13 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. R. RADHIKA",
+                    "dob": "01-12-1987",
+                    "date_of_joining": "09-03-2021",
+                    "aicte_id": "",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "ADHIPARASAKTHI ENGINEERING COLLEGE",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "SMK FOMRA INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "10 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

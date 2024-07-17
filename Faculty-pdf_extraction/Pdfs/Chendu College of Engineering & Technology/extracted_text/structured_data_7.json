@@ -1,0 +1,84 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-English",
+            "faculty_members": [
+                {
+                    "name": "MS. M. SHALINI",
+                    "dob": "05-06-1990",
+                    "date_of_joining": "03-12-2018",
+                    "aicte_id": "",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2017",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "THERESA ARTS COLLEGE",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "M.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "R V ARTS COLLEGE",
+                            "year_of_passing": "2017"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": " ",
+            "faculty_members": [
+                {
+                    "name": "MR. V. SENTHAMIZH SELVAN",
+                    "dob": "05-06-1995",
+                    "date_of_joining": "09-07-2018",
+                    "aicte_id": "4622277076",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2017",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "MADRAS UNIVERSITY",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "M.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "MADRAS UNIVERSITY",
+                            "year_of_passing": "2017"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-Mathematics",
+            "faculty_members": [
+                {
+                    "name": "DR. L. PALANISAMY",
+                    "dob": "05-05-1981",
+                    "date_of_joining": "20-03-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "STABILITY ANALYSIS OF REACTION DIFFUSION SYSTEMS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "ARTS AND SCIENCE",
+                            "college_name": "GOBI COLLEGE",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "PONDICHERRY UNIVERSITY",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "THIRUVALLUVAR UNIVERSITY",
+                            "year_of_passing": "2022"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "MATHEMATICS",
+                            "previous_position": "MATHEMATICS"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,379 @@
+{
+    "faculty_details": [
+        {
+            "department": " ",
+            "faculty_members": [
+                {
+                    "name": "DR. G. SRINIVAS",
+                    "dob": "04-07-1965",
+                    "date_of_joining": "03-07-2000",
+                    "aicte_id": "PH.D. OTHERS - FINANCE OTHERS-ALAGAPPA 2011",
+                    "phd_thesis_title": "DESIGN AND DEVELOPMENT OF CREDIT RATING MODEL BASED ON ECONOMIC CYCLE",
+                    "year_of_starting": "2000",
+                    "educational_qualification": [
+                        {
+                            "degree": "MASTER OF BUSINESS ADMINISTRATION",
+                            "specialization": "OTHERS - FINANCE",
+                            "college_name": "OTHERS-IBMRD",
+                            "year_of_passing": "1988"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "11 Years",
+                            "previous_position": "18 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. K. HARIHARANATH",
+                    "dob": "03-04-1972",
+                    "date_of_joining": "03-01-2003",
+                    "aicte_id": "PH.D. MASTER OF BUSINESS OTHERS-UNIVERSITY 2002",
+                    "phd_thesis_title": "EXTENDING AND INTEGRATING E BUSINESS NEEDS THROUGH ENTERPRISES APPLICATION INTEGRATION STRATEGY",
+                    "year_of_starting": "2003",
+                    "educational_qualification": [
+                        {
+                            "degree": "MASTER OF BUSINESS ADMINISTRATION",
+                            "specialization": "BUSINESS SCHOOL",
+                            "college_name": "BUSINESS SCHOOL",
+                            "year_of_passing": "1994"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "13 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. R. NATARAJAN",
+                    "dob": "06-04-1958",
+                    "date_of_joining": "02-02-2015",
+                    "aicte_id": "12822218126",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2015",
+                    "educational_qualification": [
+                        {
+                            "degree": "BTECH",
+                            "specialization": "",
+                            "college_name": "OTHERS-IIT MADRAS",
+                            "year_of_passing": "1980"
+                        },
+                        {
+                            "degree": "PGDM",
+                            "specialization": "",
+                            "college_name": "OTHERS-IIM B",
+                            "year_of_passing": "1985"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. K. SAMPATH KUMAR",
+                    "dob": "28-04-1958",
+                    "date_of_joining": "02-02-2015",
+                    "aicte_id": "1479213115",
+                    "phd_thesis_title": "A STUDY ON THE CUSTOMER P FOR MUTUAL FUNDS AND COMPARATIVE STUDY OF MUTUAL FUNDS",
+                    "year_of_starting": "2015",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ECONOMICS",
+                            "college_name": "OTHERS-KAMARAJ UNIVERSITY",
+                            "year_of_passing": "1981"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "13 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. T. THIRUVENKADAM",
+                    "dob": "16-05-1979",
+                    "date_of_joining": "01-06-2011",
+                    "aicte_id": "1482424305",
+                    "phd_thesis_title": "RETAIL STORE PATRONAGE BEHAVIOUR OF SHOPPERS",
+                    "year_of_starting": "2011",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.COM.",
+                            "specialization": "COMMERCE",
+                            "college_name": "OTHERS-ARTS",
+                            "year_of_passing": "1999"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "19 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. P. VANI HARIDASAN",
+                    "dob": "25-10-1974",
+                    "date_of_joining": "05-04-2006",
+                    "aicte_id": "PH.D. BUSINESS ADMINISTRATION OTHERS-SRM 2013",
+                    "phd_thesis_title": "CRM IN MOBILE TELECOM SERVICES A STUDY ON THE IMPACT OF SERVICE QUALITY SERVICE LOYALTY AND LOYALTY INDICES ON THE PERFORMANCE OF SERVICE PROVIDERS",
+                    "year_of_starting": "2006",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "OTHERS-MREC JAIPUR",
+                            "year_of_passing": "1996"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "15 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. T. GIRIJA",
+                    "dob": "20-06-1978",
+                    "date_of_joining": "02-07-2014",
+                    "aicte_id": "MASTER OF BUSINESS PH.D. OTHERS-BHARATHIYAR UNIV 2014",
+                    "phd_thesis_title": "A STUDY ON CONSUMER PERCEPTION TOWARDS ORGANIZED RETAIL OUTLET",
+                    "year_of_starting": "2014",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.COM.",
+                            "specialization": "COMMERCE",
+                            "college_name": "OTHERS-AVC COLLEGE OF ARTS",
+                            "year_of_passing": "1999"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "8 Years",
+                            "previous_position": "9 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. N. ANAND V RAMAN",
+                    "dob": "12-02-1988",
+                    "date_of_joining": "04-01-2021",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2021",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "OTHERS-ANNA UNIVERSITY",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "",
+                            "college_name": "OTHERS-UNIV OF MYSORE",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. E S. SRIJI",
+                    "dob": "30-06-1986",
+                    "date_of_joining": "01-03-2022",
+                    "aicte_id": "PH.D. ADMINISTRATION TECHNOLOGY MADRAS-- 2018",
+                    "phd_thesis_title": "IMPACT OF INDIVIDUAL AND INTERPERSONAL FACTORS ON EMPLOYEE UPWARD VOICE",
+                    "year_of_starting": "2022",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "BIOTECH",
+                            "college_name": "OTHERS-BHARATHIAR UNIV",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "",
+                            "college_name": "OTHERS-BHARTHIYAR UNIV",
+                            "year_of_passing": "2009"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "9 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. P. THEERTHANA",
+                    "dob": "24-07-1988",
+                    "date_of_joining": "06-01-2022",
+                    "aicte_id": "110932232528",
+                    "phd_thesis_title": "A SIGNALIING AGENT BASED EXEMPLAR MODEL TO INVESTIGATE THE DIFFUSION OF CROWD FUNDING TECHNOLOGY BY INCORPORATING BEHAVIORAL ANOMALIES",
+                    "year_of_starting": "2022",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "OTHERS-SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY--",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. V. KAVITHA",
+                    "dob": "17-09-1976",
+                    "date_of_joining": "20-06-2011",
+                    "aicte_id": "1690517859",
+                    "phd_thesis_title": "THE EFFECT OF MICRO FINANCE ON THE EMPOWERMENT OF WOMEN AND ITS SOCIAL CONSEQUENCES",
+                    "year_of_starting": "2011",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHS",
+                            "college_name": "STELLA MARY'S COLLEGE OF ENGINEERING--",
+                            "year_of_passing": "1997"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "",
+                            "college_name": "OTHERS-SATHYABAMA UNIV",
+                            "year_of_passing": "1999"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "",
+                            "college_name": "OTHERS-UNIVERSITY OF CASTLE",
+                            "year_of_passing": "2009"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "11 Years",
+                            "previous_position": "12 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. J. SUDARSAN",
+                    "dob": "08-01-1974",
+                    "date_of_joining": "11-06-2012",
+                    "aicte_id": "11459009283",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2012",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "ZOOLOGY",
+                            "college_name": "OTHERS-CHRISTIAN COLLEGE OF ENGINEERING AND TECHNOLOGY--",
+                            "year_of_passing": "1997"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "",
+                            "college_name": "OTHERS-AMERICAN COLLEGE",
+                            "year_of_passing": "1997"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "10 Years",
+                            "previous_position": "14 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. B. KIRUBAHARAN",
+                    "dob": "03-09-1991",
+                    "date_of_joining": "31-01-2022",
+                    "aicte_id": "10971547921",
+                    "phd_thesis_title": "EXAMINING THE INFLUENCE OF CONSUMERS PSYCHOLOGICAL FACTORS ON ORGANIC FOOD PURCHASE BEHAVIOUR",
+                    "year_of_starting": "2022",
+                    "educational_qualification": [
+                        {
+                            "degree": "A R J COLLEGE OF ENGINEERING AND TECHNOLOGY--",
+                            "specialization": "",
+                            "college_name": "OTHERS-A R J COLLEGE OF ENGINEERING AND TECHNOLOGY--",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "",
+                            "college_name": "OTHERS-A R J COLLEGE OF ENGINEERING AND TECHNOLOGY--",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. B. RAGHURAMAN",
+                    "dob": "27-07-1967",
+                    "date_of_joining": "27-07-2020",
+                    "aicte_id": "AU1 PGDM OTHERS - PGDM OTHERS-IIM B 1995",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2020",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+                            "college_name": "OTHERS-ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "1988"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "7 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

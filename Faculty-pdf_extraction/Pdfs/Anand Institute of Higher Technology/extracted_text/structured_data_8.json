@@ -1,0 +1,201 @@
+{
+    "faculty_details": [
+        {
+            "department": " ",
+            "faculty_members": [
+                {
+                    "name": "DR. S. BHARATHI VASU",
+                    "dob": "11-05-1982",
+                    "date_of_joining": "05-07-2006",
+                    "aicte_id": " ",
+                    "phd_thesis_title": "A STUDY ON CUSTOMER PERCEPTION OF ORGANIZED RETAIL STORES IN CHENNAI WITH SPECIAL REFERENCE TO CONVENIENCE STORES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "CATERING MGT",
+                            "college_name": "POONGA COLLEGE",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "MARKETING AND HR",
+                            "college_name": "THANGAVELU ENGINEERING COLLEGE",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MANAGEMENT",
+                            "college_name": "OTHERS - OTHERS-BHARATHIR MANAGEMENT UNIVERSITY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "16 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. D. YUVARAJ",
+                    "dob": "15-06-1981",
+                    "date_of_joining": "16-06-2008",
+                    "aicte_id": " ",
+                    "phd_thesis_title": "A STUDY ON LIFE STYLE AND RETAIL MARKETING IN ORGANIZED AND UNORGANIZED SECTOR IN CHENNAI",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.COM.",
+                            "specialization": "COMMERCE",
+                            "college_name": "ANNAI THERESA ARTS SCIENCE COLLEGE",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "MARKETING AND FINANCE",
+                            "college_name": "ADHIPARASAKTHI ENGINEERING COLLEGE",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "OTHERS-MANONMANIAM SUNDARANAR UNIVERSITY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "14 Years",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. B. SAMBATHKUMAR",
+                    "dob": "15-01-1973",
+                    "date_of_joining": "17-08-2017",
+                    "aicte_id": " ",
+                    "phd_thesis_title": "DEVELOPMENT OF UNIVERSALLY ACCEPTED UNIQUE IDENTIFICATION CARD FOR PATIENTS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "ZOOLOGY",
+                            "college_name": "OTHERS-SIVET COLLEGE CHENNAI",
+                            "year_of_passing": "1993"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "ADMINISTRATION",
+                            "college_name": "VINAYAGA MISSIONS BUSINESS UNIVERSITY",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "OTHERS-SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "19 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. D. DIVAKAR",
+                    "dob": "02-05-1989",
+                    "date_of_joining": "09-09-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "INFORMATION SYSTEMS",
+                            "college_name": "NADAR COLLEGE",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "J N N INSTITUTE OF ENGINEERING",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. S. GRACE PRASANNA",
+                    "dob": "13-03-1990",
+                    "date_of_joining": "02-01-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "INFORMATION TECHNOLOGY",
+                            "college_name": "KARUNIYA TECHNOLOGY UNIVERSITY",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "KARUNYA UNIVERSITY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. D. BHAVANI",
+                    "dob": "31-01-1990",
+                    "date_of_joining": "01-07-2013",
+                    "aicte_id": "M.B.A.",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.C.A.",
+                            "specialization": "COMPUTER APPLICATIONS",
+                            "college_name": "DHANAPALAN COLLEGE FOR WOMEN",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "ANAND INSTITUTE OF HIGHER TECHNOLOGY",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "9 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

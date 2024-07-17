@@ -1,0 +1,387 @@
+{
+    "faculty_details": [
+        {
+            "department": "Mechanical Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. P. RAVICHANDRAN",
+                    "dob": "06-05-1964",
+                    "date_of_joining": "01-08-2011",
+                    "aicte_id": "1760931524",
+                    "phd_thesis_title": "STUDIES IN MULTIPHASE MIXING",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "CHEMICAL",
+                            "college_name": "OTHERS-ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "1985"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "CHEMICAL ENGINEERING",
+                            "college_name": "ALAGAPPA CHETTIAR GOVERNMENT COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "1988"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMICAL ENGINEERING",
+                            "college_name": "ALAGAPPA CHETTIAR GOVERNMENT COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2007"
+                        }
+                    ],
+                    "designation": "PRINCIPAL",
+                    "academic_experience": [
+                        {
+                            "current_position": "11 Years",
+                            "previous_position": "23 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. DAS M. CHRISPIN",
+                    "dob": "07-02-1986",
+                    "date_of_joining": "01-07-2019",
+                    "aicte_id": "7459779364",
+                    "phd_thesis_title": "A CHARACTERISTIC STUDY ON THE PERFORMANCE OF FIBER AND PARTICULATE REINFORCED POLYMER COMPOSITES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "JAYAMATHA ENGINEERING COLLEGE",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "GOVERNMENT COLLEGE OF ENGINEERING BODIYANAYAKKANUR",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "GOVERNMENT COLLEGE OF ENGINEERING BODIYANAYAKKANUR",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "9 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. T. PRABHURAM",
+                    "dob": "28-05-1977",
+                    "date_of_joining": "13-09-2011",
+                    "aicte_id": "721888674",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "PSNA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "KUMARAGURU COLLEGE OF TECHNOLOGY",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "SRI SIVASUBRAMANIYA NADAR COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "11 Years",
+                            "previous_position": "8 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. D. ELIL RAJA",
+                    "dob": "10-05-1976",
+                    "date_of_joining": "01-12-2016",
+                    "aicte_id": "12184540493",
+                    "phd_thesis_title": "FIXTURE LAYOUT DESIGN AND OPTIMIZATION",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "KALASINGALINGAM COLLEGE OF ENGINEERING",
+                            "year_of_passing": "1997"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "CAD/CAM",
+                            "college_name": "R V S COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "SRI SIVASUBRAMANIYA NADAR COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "15 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. N. THANGAPANDIAN",
+                    "dob": "05-03-1987",
+                    "date_of_joining": "14-06-2017",
+                    "aicte_id": "3557309970",
+                    "phd_thesis_title": "EXPERIMENTAL AND NUMERICAL STUDY OF REPETITIVE CORRUGATION AND STRAIGHTENING ON AA 5052 AND AA 6063 ALUMINIUM ALLOYS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ENGINEERING DESIGN",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. I.S. MERIN SATHYA DHAS",
+                    "dob": "23-09-1984",
+                    "date_of_joining": "13-06-2012",
+                    "aicte_id": "11407243447",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "OTHERS-NOORUL ISLAM ENGINEERING COLLEGE",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "PRODUCT DESIGN AND DEVELOPMENT",
+                            "college_name": "R M K ENGINEERING COLLEGE",
+                            "year_of_passing": "2008"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "9 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. R. RANJITH KUMAR",
+                    "dob": "10-04-1987",
+                    "date_of_joining": "01-08-2013",
+                    "aicte_id": "12184540824",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "VELAMMAL ENGINEERING COLLEGE",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "SYSTEMS AND MANAGEMENT",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "9 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. D. ARTHUR JEBASTINE SUNDERRAJ",
+                    "dob": "11-06-1986",
+                    "date_of_joining": "01-07-2013",
+                    "aicte_id": "12184636984",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "PRODUCTION ENGINEERING",
+                            "college_name": "FRANCIS XAVIER ENGINEERING COLLEGE",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "PRODUCTION ENGINEERING",
+                            "college_name": "NATIONAL ENGINEERING COLLEGE",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "9 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. N. SURESH",
+                    "dob": "07-07-1981",
+                    "date_of_joining": "01-12-2016",
+                    "aicte_id": "12184540499",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "PRODUCTION ENGINEERING",
+                            "college_name": "OTHERS-DR MGR ENGINEERING COLLEGE",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER AIDED DESIGN",
+                            "college_name": "OTHERS-SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "9 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. J. IMMANUEL DURAI RAJ",
+                    "dob": "07-05-1974",
+                    "date_of_joining": "01-08-2013",
+                    "aicte_id": "12184636364",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "OTHERS-KARUNYA INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "1995"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "COMPUTER AIDED DESIGN",
+                            "college_name": "OTHERS-S R M UNIVERSITY",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "8 Years",
+                            "previous_position": "10 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. ASHWIN KANNAN",
+                    "dob": "28-08-1990",
+                    "date_of_joining": "17-06-2015",
+                    "aicte_id": "12644975900",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "PARK COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "DESIGN ENGINEERING",
+                            "college_name": "KONGU ENGINEERING COLLEGE",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "7 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. JAGADEESH",
+                    "dob": "25-08-1989",
+                    "date_of_joining": "16-06-2014",
+                    "aicte_id": "12380801487",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "PRODUCTION TECHNOLOGY",
+                            "college_name": "GOVERNMENT COLLEGE OF TECHNOLOGY COIMBATORE",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER INTEGRATED MANUFACTURING",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "8 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

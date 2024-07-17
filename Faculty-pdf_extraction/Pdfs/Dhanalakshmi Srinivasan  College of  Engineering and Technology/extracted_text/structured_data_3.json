@@ -1,0 +1,282 @@
+{
+    "faculty_details": [
+        {
+            "department": "Civil Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. R. VIDHYASRI",
+                    "dob": "28-06-1983",
+                    "date_of_joining": "02-01-2019",
+                    "aicte_id": "7494156111",
+                    "phd_thesis_title": "A STUDY ON THE FACTORS INFLUENCING CONSTRUCTION PROJECT SCHEDULING",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "CIVIL ENGINEERING",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ENGINEERING AND MANAGEMENT",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "STRUCTURAL ENGINEERING",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. Y. STALIN JOSE",
+                    "dob": "01-06-1971",
+                    "date_of_joining": "03-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "INVESTIGATION INTO FLEXURAL BEHAVIOUR OF FRP STRENGTHENED RC BEAMS OF VARYING STRENGTH",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "CIVIL ENGINEERING",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "1995"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ENGINEERING",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "STRUCTURAL ENGINEERING",
+                            "college_name": "CENTRE FOR HIGHER EDUCATION",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "16 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. E. ELAMATHI",
+                    "dob": "28-10-1991",
+                    "date_of_joining": "04-07-2016",
+                    "aicte_id": "3175825110",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "CIVIL ENGINEERING",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ENGINEERING AND MANAGEMENT",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. JAYARAMAN",
+                    "dob": "16-07-1992",
+                    "date_of_joining": "03-01-2018",
+                    "aicte_id": "4841497862",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "CIVIL ENGINEERING",
+                            "college_name": "COLLEGE OF ENGINEERING DINDIGUL",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "STRUCTURAL ENGINEERING",
+                            "college_name": "ENGINEERING COLLEGE",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. MOHAN KUMAR",
+                    "dob": "15-07-1991",
+                    "date_of_joining": "11-08-2021",
+                    "aicte_id": "11337851260",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "CIVIL ENGINEERING",
+                            "college_name": "NEHRU INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "STRUCTURAL ENGINEERING AND TECHNOLOGY",
+                            "college_name": "SREE SASTHA INSTITUTE OF ENGINEERING",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. R. NARMADA",
+                    "dob": "10-07-1988",
+                    "date_of_joining": "01-06-2022",
+                    "aicte_id": "43356671595",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "CIVIL ENGINEERING",
+                            "college_name": "ARUNAI ENGINEERING COLLEGE",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "STRUCTURAL ENGINEERING",
+                            "college_name": "SEMBODAI RUKMANI ENGINEERING COLLEGE",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. SELVAKUMAR",
+                    "dob": "10-05-1988",
+                    "date_of_joining": "15-05-2018",
+                    "aicte_id": "4762908900",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "CIVIL ENGINEERING",
+                            "college_name": "GOVERNMENT COLLEGE OF TECHNOLOGY COIMBATORE",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "STRUCTURAL ENGINEERING",
+                            "college_name": "GOVERNMENT COLLEGE OF TECHNOLOGY COIMBATORE",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. M. VINITHA",
+                    "dob": "25-07-1994",
+                    "date_of_joining": "17-08-2022",
+                    "aicte_id": "43358887259",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "CIVIL ENGINEERING",
+                            "college_name": "JEPPIAAR SRR ENGINEERING COLLEGE",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ENGINEERING AND MANAGEMENT",
+                            "college_name": "ADHIPARASAKTHI ENGINEERING COLLEGE",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. T. SAVITHRA",
+                    "dob": "31-05-1995",
+                    "date_of_joining": "22-08-2022",
+                    "aicte_id": "43356671481",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "CIVIL ENGINEERING",
+                            "college_name": "C ABDUL HAKEEM COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ENGINEERING AND MANAGEMENT",
+                            "college_name": "THIRUMALAI ENGINEERING COLLEGE",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

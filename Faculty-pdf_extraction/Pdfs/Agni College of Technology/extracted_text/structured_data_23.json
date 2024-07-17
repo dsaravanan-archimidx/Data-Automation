@@ -1,0 +1,219 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-Physics",
+            "faculty_members": [
+                {
+                    "name": "DR. P. SUGUMAR",
+                    "dob": "29-05-1985",
+                    "date_of_joining": "01-10-2022",
+                    "aicte_id": "1751866455",
+                    "phd_thesis_title": "STRUCTURAL AND CONFIRMATIONAL STUDIES ON BIOLOGICAL AND MEDICINAL IMPORTANT MOLECULES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "PRESIDENCY",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "UNIVERSITY OF MADRAS",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "PHYSICS",
+                            "college_name": "UNIVERSITY OF MADRAS",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "6 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. S. SUNDRAMOORTHY",
+                    "dob": "20-07-1976",
+                    "date_of_joining": "20-10-2010",
+                    "aicte_id": "OTHERS - BHARATHIDASAN UNIVERSITY 2008",
+                    "phd_thesis_title": "THE STRUCTURAL SPECTROSCOPY DFT IN SILICO AND IN VITRO STUDY OF SOME CHLOROQUINSTONE ANALOGUE",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "ABDUL AKIM COLLEGE",
+                            "year_of_passing": "1997"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "VOORHEES COLLEGE",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "PHYSICS",
+                            "college_name": "BHARATHIDASAN UNIVERSITY",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "12 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. S. SWATHI",
+                    "dob": "27-07-1991",
+                    "date_of_joining": "09-06-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "DG VAISHNAV COLLEGE",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "ETHIRAJ COLLEGE",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "PHYSICS",
+                            "college_name": "COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2022"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. P. BALAKRISHNAN",
+                    "dob": "06-05-1992",
+                    "date_of_joining": "27-06-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "SYNTHESIS AND PHOTO LUMINESCENCE PROPERTIES OF CERTAIN METAL IONS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "SHANMUGA INDUSTRIES ARTS AND SCIENCE COLLEGE",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "PRESIDENCY COLLEGE CHENNAI",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "PHYSICS",
+                            "college_name": "COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2022"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. A. CHITHRA",
+                    "dob": "03-02-1991",
+                    "date_of_joining": "27-06-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "CHAOTIC AND STRANGE NONCHAOTIC DYNAMICS IN CERTAIN NONLINEAR CIRCUITS AND SYSTEMS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "SEETHALAKSHMI ARTS AND SCIENCE",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "PSG COLLEGE OF ARTS AND SCIENCE",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHAOTIC AND STRANGE NONCHAOTIC DYNAMICS IN CERTAIN NONLINEAR CIRCUITS AND SYSTEMS",
+                            "college_name": "B.S. ABDUR RAHMAN CRESCENT INSTITUTE OF SCIENCE AND TECHNOLOGY",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. R. SATHYA",
+                    "dob": "24-07-1994",
+                    "date_of_joining": "24-04-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "THE GANDHIGRAM RURAL INSTITUTE",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "THE GANDHIGRAM RURAL INSTITUTE",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "PHYSICS",
+                            "college_name": "THE GANDHIGRAM RURAL INSTITUTE",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

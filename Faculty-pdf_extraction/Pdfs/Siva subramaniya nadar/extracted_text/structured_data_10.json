@@ -1,0 +1,114 @@
+{
+    "faculty_details": [
+        {
+            "department": "ELECTRONICS AND COMMUNICATION",
+            "faculty_members": [
+                {
+                    "name": "DR. N. EDNA ELIZABETH",
+                    "dob": "26-04-1969",
+                    "date_of_joining": "19-07-2004",
+                    "aicte_id": "1456875281",
+                    "phd_thesis_title": "STUDIES ON MULTIPLE ATTACKS AND SECURE ROUTING FOR MOBILE ADHOC NETWORKS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION TECHNOLOGY",
+                            "college_name": "GOVERNMENT COLLEGE OF ENGINEERING (AUTONOMOUS)",
+                            "year_of_passing": "1990"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "APPLIED ELECTRONICS",
+                            "college_name": "WIRELESS COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "COMMUNICATION",
+                            "college_name": "GUINDY",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "26 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. S. ESTHER FLORENCE",
+                    "dob": "25-09-1987",
+                    "date_of_joining": "01-09-2015",
+                    "aicte_id": "1767925524",
+                    "phd_thesis_title": "DESIGN DEVELOPMENT AND PERFORMANCE EVALUATION OF CONFORMAL TEXTILE ANTENNAS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION",
+                            "college_name": "JEPPIAAR ENGINEERING COLLEGE",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMMUNICATION SYSTEMS",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ENGINEERING",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "7 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. S. KIRUBAVENI",
+                    "dob": "04-07-1988",
+                    "date_of_joining": "12-08-2011",
+                    "aicte_id": "1767925528",
+                    "phd_thesis_title": "ON THE DESIGN AND IMPLEMENTATION OF PIEZOELECTRIC VIBRATION ENERGY HARVESTING DEVICES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION",
+                            "college_name": "JEPPIAAR ENGINEERING COLLEGE",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "APPLIED ELECTRONICS",
+                            "college_name": "SRI SIVASUBRAMANIYA NADAR COLLEGE OF ENGINEERING (AUTONOMOUS)",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "SRI SIVASUBRAMANIYA NADAR COLLEGE OF ENGINEERING (AUTONOMOUS)",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

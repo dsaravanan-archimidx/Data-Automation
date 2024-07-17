@@ -1,0 +1,254 @@
+{
+    "faculty_details": [
+        {
+            "department": "English",
+            "faculty_members": [
+                {
+                    "name": "DR. JOHN. DIVYA",
+                    "dob": "09-09-1977",
+                    "date_of_joining": "03-01-2007",
+                    "aicte_id": "1461311963",
+                    "phd_thesis_title": "THE CYBERNETICS OF LOVE A STUDY OF KAHLIL GIBRAN",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "LANGUAGE AND LITERATURE",
+                            "college_name": "VIMALA COLLEGE",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "M.A.",
+                            "specialization": "LITERATURE",
+                            "college_name": "ST JOSEPHS COLLEGE CALICUT",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "LANGUAGE AND LITERATURE",
+                            "college_name": "VIMALA COLLEGE",
+                            "year_of_passing": "2008"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "15 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. KARUNAKAR. MARTHA",
+                    "dob": "07-09-1972",
+                    "date_of_joining": "30-07-2013",
+                    "aicte_id": "12195811313",
+                    "phd_thesis_title": "THE SHIFTING LANDSCAPE OF FANTASY IN CHILDRENS LITERATURE",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "SCHOOL OF SOCIAL WORK MANGALORE",
+                            "year_of_passing": "1993"
+                        },
+                        {
+                            "degree": "MA",
+                            "specialization": "ENGLISH",
+                            "college_name": "MANGALORE UNIVERSITY",
+                            "year_of_passing": "1995"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ENGLISH",
+                            "college_name": "INDIAN INSTITUTE OF TECHNOLOGY MADRAS",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "8 Years",
+                            "previous_position": "11 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. D. PRAVEEN SAM",
+                    "dob": "25-06-1982",
+                    "date_of_joining": "14-09-2015",
+                    "aicte_id": "12978611643",
+                    "phd_thesis_title": "INDIVIDUAL TUTORING PLAN ITP IN MAPPING CONTENTS FOR TEACHING READING STRATEGIES USING ASYNCHRONOUS E LEARNING",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "UNION CHRISTIAN COLLEGE",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "MA",
+                            "specialization": "ENGLISH",
+                            "college_name": "MADRAS CHRISTIAN COLLEGE",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ENGLISH",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "8 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. C. LAKSHMI",
+                    "dob": "05-04-1983",
+                    "date_of_joining": "15-07-2021",
+                    "aicte_id": "110901171231",
+                    "phd_thesis_title": "TELEVISION ADVERTISEMENTS FOR IMPROVING SPEAKING SKILLS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "MADRAS CHRISITAN COLLEGE",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "MA",
+                            "specialization": "ENGLISH",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2017"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "ENGLISH",
+                            "college_name": "MADRAS CHRISTIAN COLLEGE",
+                            "year_of_passing": "2005"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "9 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. S. NANDA",
+                    "dob": "25-12-1977",
+                    "date_of_joining": "15-07-2021",
+                    "aicte_id": "",
+                    "phd_thesis_title": "A STUDY OF ENVIRONMENTAL VARIABLES AND EMOTIONAL INTELLIGENCE ON ATTITUDE TOWARDS SUBSTANCES AND SUBSTANCE USE BEHAVIOUR",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "KARANATAKA UNIVERSITY",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "MA",
+                            "specialization": "PSYCHOLOGY",
+                            "college_name": "HINDUSTAN UNIVERSITY CHENNAI",
+                            "year_of_passing": "2000"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "PSYCHOLOGY",
+                            "college_name": "DR AV BALIGA COLLEGE",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "8 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. M. SHYAMALA BHARATHY",
+                    "dob": "11-02-1972",
+                    "date_of_joining": "06-02-2002",
+                    "aicte_id": "1460912911",
+                    "phd_thesis_title": "TEACHING AND TESTING OF SPOKEN ENGLISH IN THE LANGUAGE LABORATORY A STUDY IN THE AFFILIATED COLLEGES OF ANNA UNIVERSITY",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "LADY DOAK COLLEGE",
+                            "year_of_passing": "1993"
+                        },
+                        {
+                            "degree": "M.A",
+                            "specialization": "LITERATURE",
+                            "college_name": "MKU",
+                            "year_of_passing": "1997"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ELT",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "19 Years",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. VENKATESAN. NIMESHIKA",
+                    "dob": "18-03-1991",
+                    "date_of_joining": "06-02-2002",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "TALKING GENRES DIALOGIC VERNACULAR EXPRESSIVITY IN NOVELISED SAINT NARRATIVES OF VIRASHAIVA SAINTS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "STELLA MARIS COLLEGE",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "MA",
+                            "specialization": "ENGLISH",
+                            "college_name": "STELLA MARIS COLLEGE",
+                            "year_of_passing": "2022"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ENGLISH",
+                            "college_name": "STELLA MARIS COLLEGE",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "19 Years",
+                            "previous_position": "-17 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

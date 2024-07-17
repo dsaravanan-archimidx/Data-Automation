@@ -1,0 +1,429 @@
+{
+    "faculty_details": [
+        {
+            "department": "Chemistry",
+            "faculty_members": [
+                {
+                    "name": "DR. P. SARAVANAN",
+                    "dob": "20-03-1980",
+                    "date_of_joining": "24-08-2009",
+                    "aicte_id": "1452776204",
+                    "phd_thesis_title": "NON TOXIC NANO HYBRID COATING FOR CORROSION AND FOULING RESISTANCE",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "RAJA SERFOJI",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "KADAR MOIDEEN",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "19 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. B. SUBASH",
+                    "dob": "12-03-1985",
+                    "date_of_joining": "01-08-2016",
+                    "aicte_id": "13365098024",
+                    "phd_thesis_title": "SYNTHESIS AND CHARACTERIZATION OF MODIFIED ZINCOXIDE PHOTOCATALYST AND THEIR PHOTOACTIVITY IN THE DEGRADATION OF AZO DYES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "KNC COLL",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "ANNAMALAI UNIV",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "ANNAMALAI UNIV",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. G. SASIKUMAR",
+                    "dob": "02-05-1987",
+                    "date_of_joining": "02-11-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "BIOLOGICAL EVALUATION THEORETICAL AND MOLECULAR DOCKING STUDIES OF MIXED LIGAN METAL COMPLEXES DERIVED FROM AMINO ACID BASED SCHIFF BASES AND AROMATIC HETEROCYCLIC BASES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "KING NANDHIVARMAN COLLEGE",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "PRESIDENCY COLLEGE",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "THE NEW COLLEGE",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "6 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. K. JAYAMOORTHY",
+                    "dob": "12-06-1987",
+                    "date_of_joining": "20-01-2014",
+                    "aicte_id": "12187174463",
+                    "phd_thesis_title": "HIGHLY EFFICIENT GREEN ELECTROPHOSPHORESCENT DEVICES BASED ON HETEROLEPTIC IRIDIUM III COMPLEXES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "SFR COLLEGE",
+                            "year_of_passing": "1996"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "SFR COLLEGE",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "ANNAMALAI UNIV",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "8 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. A. UMA DEVI",
+                    "dob": "04-05-1976",
+                    "date_of_joining": "24-08-2009",
+                    "aicte_id": "1452776208",
+                    "phd_thesis_title": "DEVELOPMENT OF SULFONATED POLYVINYLIDENE FLUORIDE CO HEXAFLOUOROPROPYLENE BASED PROTON EXCHANGE MEMBRANES FOR DIRECT METHANOL FUEL CELLS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "SFR COLLEGE",
+                            "year_of_passing": "1996"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "SFR COLLEGE",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "BHARATHIYAR UNIVERSITY",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "13 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. T L. AJEESHA",
+                    "dob": "18-02-1995",
+                    "date_of_joining": "02-11-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "INVESTIGATION ON PHOTOCATALYTIC AND ANTIBACTERIAL ACTIVITY OF COPRECIPITATION MEDIATED COPPER AND NICKER DOPED SPINEL FERRITES MFE2O4 M MG CA SR BA",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "STELLA MARIS COLLEGE",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "STELLA MARIS COLLEGE",
+                            "year_of_passing": "2017"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "STELLA MARIS COLLEGE",
+                            "year_of_passing": "2022"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. S. SAVITHA",
+                    "dob": "13-09-1983",
+                    "date_of_joining": "07-08-2012",
+                    "aicte_id": "11431395614",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "PSGRK COLLEGE",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "HOLY CROSS COLLEGE",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "PERIYAR UNIVERSITY",
+                            "year_of_passing": "2009"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "10 Years",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. V. SWARNALATHA",
+                    "dob": "22-07-1972",
+                    "date_of_joining": "18-08-2008",
+                    "aicte_id": "1452775860",
+                    "phd_thesis_title": "CORROSION INHIBITION STUDIES OF QUARTERNARY AMMONIUM IONS CONTAINING COPOLYMERS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "KUNDHAVAI NACHIAR GOVT COLL",
+                            "year_of_passing": "1993"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "AVC COLL",
+                            "year_of_passing": "1995"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "BHARATHIYAR UNIVERSITY",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "16 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. N.R. RAJAGOPALAN",
+                    "dob": "13-06-1979",
+                    "date_of_joining": "09-08-2010",
+                    "aicte_id": "1452776356",
+                    "phd_thesis_title": "GROWTH AND CHARACTERISATION OF SOME THIOUREA BASED SEMIORGANIC NONLINEAR OPTICAL CRYSTALS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "AVC COLLEGE",
+                            "year_of_passing": "1999"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "GOVT COLLEGE",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "BHARATHIAR UNIVERSITY",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "12 Years",
+                            "previous_position": "7 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. J. SHARMILA",
+                    "dob": "17-09-1981",
+                    "date_of_joining": "09-08-2010",
+                    "aicte_id": "1452776360",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "WCC",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "MCC",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "PACHAIYAPPAS COLLEGE",
+                            "year_of_passing": "2005"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "12 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. S M. PRAKASH",
+                    "dob": "07-06-1987",
+                    "date_of_joining": "20-08-2018",
+                    "aicte_id": "14530321593",
+                    "phd_thesis_title": "SYNTHESIS CHARACTERISATION ANTIMICROBIAL ACTIVITIES AND PHYSICOCHEMICAL STUDIES OF NOVEL BENZIMIDAZOLE DERIVATIVES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "KING NANDHIVARMAN COLLEGE THELLAR",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "BHARATHIAR UNIVERSITY",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "8 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. G. MURUGAN",
+                    "dob": "07-05-1969",
+                    "date_of_joining": "01-06-2006",
+                    "aicte_id": "1452775856",
+                    "phd_thesis_title": "DETERMINATION OF FUTURE PURCHASE INTENTION IN INDUSTRIAL BUYER SELLER RELATIONSHIP",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "TBML COLL",
+                            "year_of_passing": "1990"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "1992"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "OTHERS",
+                            "college_name": "UNIVERSITY OF MADRAS",
+                            "year_of_passing": "2008"
+                        }
+                    ],
+                    "designation": "MASTER OF BUSINESS ADMINISTRATION",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "13 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

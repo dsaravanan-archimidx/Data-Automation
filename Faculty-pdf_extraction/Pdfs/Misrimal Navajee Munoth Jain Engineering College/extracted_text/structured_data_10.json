@@ -1,0 +1,154 @@
+{
+    "faculty_details": [
+        {
+            "department": " ",
+            "faculty_members": [
+                {
+                    "name": "DR. P. ABIRAMI",
+                    "dob": "25-09-1978",
+                    "date_of_joining": "17-12-2019",
+                    "aicte_id": "1421263193",
+                    "phd_thesis_title": "A STUDY ON STRESS FACED BY EDUCATED JOB SEEKERS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "ALAGAPPA UNIVERSITY",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "SECRETARYSHIP",
+                            "college_name": "ALAGAPPA UNIVERSITY",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MANAGEMENT",
+                            "college_name": "BHARATHIDASAN UNIVERSITY",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "18 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. A. PRABU ASIRVATHAM",
+                    "dob": "06-05-1984",
+                    "date_of_joining": "29-10-2019",
+                    "aicte_id": " ",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "MASTER OF M.B.A.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "KUMARAGURU COLLEGE",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "M JAGANATHAN ENGINEERING COLLEGE",
+                            "year_of_passing": "2006"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "8 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. R. NANDHINI",
+                    "dob": "31-07-1986",
+                    "date_of_joining": "19-07-2018",
+                    "aicte_id": "4642157386",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "MASTER OF M.B.A.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "SRI VENKATESWARA INSTITUTE OF INFORMATION TECHNOLOGY AND MANAGEMENT",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "6 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. A. RAMESH UDHAYAKUMAR",
+                    "dob": "27-06-1973",
+                    "date_of_joining": "07-07-2007",
+                    "aicte_id": "455640217",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "MASTER OF M.B.A.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "INDIRA GANDHI NATIONAL OPEN UNIVERSITY",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "NELLAI ENGINEERING COLLEGE",
+                            "year_of_passing": "1994"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "17 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. C. DEEPIKA",
+                    "dob": "21-07-1988",
+                    "date_of_joining": "08-08-2022",
+                    "aicte_id": "111342818045",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "PGDM",
+                            "specialization": "FINANCE",
+                            "college_name": "INSTITUTE OF TECHNOLOGY AND MANAGEMENT",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "B.TEC H.",
+                            "specialization": "INFORMATION TECHNOLOGY",
+                            "college_name": "SETHU INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2009"
+                        }
+                    ],
+                    "designation": "OTHER",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

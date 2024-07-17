@@ -1,0 +1,114 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-Physics",
+            "faculty_members": [
+                {
+                    "name": "MRS. S. BHUVANESWARI",
+                    "dob": "17-11-1976",
+                    "date_of_joining": "06-06-2011",
+                    "aicte_id": "1723750927",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "INDIRA GANDHI COLLEGE",
+                            "year_of_passing": "1997"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "MADURA PHYSICS COLLEGE",
+                            "year_of_passing": "1999"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "PHYSICS",
+                            "college_name": "KAMARAJ UNIVERSITY",
+                            "year_of_passing": "2007"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "11 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. A. BHUVANESWARI",
+                    "dob": "19-05-1988",
+                    "date_of_joining": "17-08-2011",
+                    "aicte_id": "1722518670",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "PHYSICS FOR WOMEN",
+                            "college_name": "GOVT COLLEGE",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "BHARATHIDASAN UNIVERSITY",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "PHYSICS",
+                            "college_name": "ENGINEERING COLLEGE",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "11 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. N. ARULARASI",
+                    "dob": "16-04-1984",
+                    "date_of_joining": "03-06-2013",
+                    "aicte_id": "12195467790",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "MARUDHUPANDIYAR COLLEGE",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "AVVM SRI PUSHPAM COLLEGE",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "PHYSICS",
+                            "college_name": "PUSHPAM COLELGE",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "9 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

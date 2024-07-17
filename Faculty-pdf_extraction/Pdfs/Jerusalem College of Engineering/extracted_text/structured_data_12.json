@@ -1,0 +1,224 @@
+{
+    "faculty_details": [
+        {
+            "department": " ",
+            "faculty_members": [
+                {
+                    "name": "DR. S. MUTHUMANI",
+                    "dob": "30-03-1970",
+                    "date_of_joining": "13-09-2021",
+                    "aicte_id": "13603895163",
+                    "phd_thesis_title": "CUSTOMER PERCEPTION ON CELLULAR PHONE SERVICES IN TAMILNADU A COMPARATIVE STUDY BETWEEN URBAN AND SEMIURBAN CUSTOMERS",
+                    "year_of_starting": "2006",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.COM.",
+                            "specialization": "COMMERCE",
+                            "college_name": "BHARATHIDASAN UNIVERSITY",
+                            "year_of_passing": "1990"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "MANAGEMENT",
+                            "college_name": "ALAGAPPA UNIVERSITY",
+                            "year_of_passing": "1996"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MANAGEMENT",
+                            "college_name": "SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2009"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Year",
+                            "previous_position": "23 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. S. MADHIYARSI",
+                    "dob": "05-12-1988",
+                    "date_of_joining": "04-08-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "SYSTEM AND CAPABILITY APPROACH TO ENHANCE FARMERS AGRI BUSINESS GROWTH AN ABDUCTIVE STUDY",
+                    "year_of_starting": "2009",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.B.A.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "PONDICHERRY UNIVERSITY",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "PONDICHERRY UNIVERSITY",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "PONDICHERRY UNIVERSITY",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. SV. PRAVEEN",
+                    "dob": "21-11-1988",
+                    "date_of_joining": "01-08-2016",
+                    "aicte_id": "13184902996",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2012",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.C.A.",
+                            "specialization": "COMPUTER APPLICATIONS",
+                            "college_name": "MANAVBHARTI UNIVERSITY",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "SHANKARA UNIVERSITY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. R. SURENDHER",
+                    "dob": "12-05-1991",
+                    "date_of_joining": "01-11-2017",
+                    "aicte_id": "13598610625",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2011",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.COM.",
+                            "specialization": "COMMERCE",
+                            "college_name": "NEW PRICE ARTS AND SCIENCE COLLEGE",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "JERUSALEM COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. M. MANOJ KUMAR",
+                    "dob": "23-10-1989",
+                    "date_of_joining": "03-09-2018",
+                    "aicte_id": "14641346421",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2013",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+                            "college_name": "ASAN MEMORIAL COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "ST JOSEPH'S COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. S. SIVAKANNI",
+                    "dob": "09-07-1987",
+                    "date_of_joining": "01-09-2021",
+                    "aicte_id": "110540715921",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2008",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+                            "college_name": "MISRIMAL NAVAJEE MUNOTH JAIN ENGINEERING COLLEGE",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "APPLIED ELECTRONICS",
+                            "college_name": "T J INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Year",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. M. SHWETHA",
+                    "dob": "19-11-1991",
+                    "date_of_joining": "07-01-2019",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2012",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.COM.",
+                            "specialization": "COMMERCE",
+                            "college_name": "SDNB VAISHNAV COLLEGE",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "JERUSALEM COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "1 Year"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

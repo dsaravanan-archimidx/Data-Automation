@@ -1,0 +1,2487 @@
+[
+    {
+        "faculty_details": [
+            {
+                "department": "CIVIL ENGINEERING",
+                "faculty_members": [
+                    {
+                        "name": "MR. C. SANTHOSH KUMAR",
+                        "dob": "13-03-1992",
+                        "date_of_joining": "02-08-2017",
+                        "aicte_id": "13599051453",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "CIVIL ENGINEERING",
+                                "college_name": "INSTITUTE OF TECHNOLOGY",
+                                "year_of_passing": "2013"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "STRUCTURAL ENGINEERING",
+                                "college_name": "MISRIMAL NAVAJEE MUNOTH JAIN COLLEGE",
+                                "year_of_passing": "2015"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "5 Years",
+                                "previous_position": "2 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MR. N. RAJIV GANDHI",
+                        "dob": "20-03-1985",
+                        "date_of_joining": "27-12-2013",
+                        "aicte_id": "12297878623",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "CIVIL ENGINEERING",
+                                "college_name": "MEENAKSHI AMMAN COLLEGE OF ENGINEERING",
+                                "year_of_passing": "2007"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "STRUCTURAL ENGINEERING",
+                                "college_name": "HINDUSTAN COLLEGE OF ENGINEERING",
+                                "year_of_passing": "2009"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "9 Years",
+                                "previous_position": "2 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. K. KARTHIKA MADHA",
+                        "dob": "31-12-1989",
+                        "date_of_joining": "09-05-2011",
+                        "aicte_id": "1721541378",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "CIVIL ENGINEERING",
+                                "college_name": "MANIAMMAI ENGINEERING COLLEGE",
+                                "year_of_passing": "2010"
+                            },
+                            {
+                                "degree": "M.TEC",
+                                "specialization": "CONSTRUCTION ENGINEERING",
+                                "college_name": "SRM H. ENGINEERING",
+                                "year_of_passing": "2014"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "11 Years",
+                                "previous_position": "0 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. S. KAVITHA KARTHIKEYAN",
+                        "dob": "15-06-1982",
+                        "date_of_joining": "17-12-2012",
+                        "aicte_id": "11490306745",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "CIVIL ENGINEERING",
+                                "college_name": "PERIYAR MANIAMMAI COLLEGE",
+                                "year_of_passing": "2003"
+                            },
+                            {
+                                "degree": "M.TEC",
+                                "specialization": "CONSTRUCTION ENGINEERING AND MANAGEMENT",
+                                "college_name": "BHARATH H. ENGINEERING",
+                                "year_of_passing": "2016"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "10 Years",
+                                "previous_position": "0 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MS. N. DIVYA",
+                        "dob": "20-01-1998",
+                        "date_of_joining": "01-09-2021",
+                        "aicte_id": "AU1",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "CIVIL ENGINEERING",
+                                "college_name": "SRI SAI RAM ENGINEERING COLLEGE",
+                                "year_of_passing": "2019"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "STRUCTURAL ENGINEERING",
+                                "college_name": "AGNI COLLEGE OF TECHNOLOGY",
+                                "year_of_passing": "2021"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "1 Years",
+                                "previous_position": "0 Years"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "faculty_details": [
+            {
+                "department": "Computer Science and Engineering",
+                "faculty_members": [
+                    {
+                        "name": "DR. V. RAVIKUMAR",
+                        "dob": "10-05-1981",
+                        "date_of_joining": "08-05-2023",
+                        "aicte_id": "AU1",
+                        "phd_thesis_title": "DYNAMICS OF MALWARE SPREAD IN DECENTRALIZED PEER TO PEER NETWORKS",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "M.TECH.",
+                                "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                                "college_name": "BHARATH UNIVERSITY",
+                                "year_of_passing": "2007"
+                            },
+                            {
+                                "degree": "PH.D.",
+                                "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                                "college_name": "BHARATH UNIVERSITY",
+                                "year_of_passing": "2011"
+                            }
+                        ],
+                        "designation": "PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "0 Years",
+                                "previous_position": "13 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "DR. M. PREETHA",
+                        "dob": "14-11-1979",
+                        "date_of_joining": "01-07-2021",
+                        "aicte_id": "1419082511",
+                        "phd_thesis_title": "SECURE CROSS LAYER PROTOCOL FOR EFFICIENT COMMUNICATION IN WIRELESS SENSOR NETWORKS",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "M.TECH.",
+                                "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                                "college_name": "EDUCATIONAL AND RESEARCH INSTITUTE",
+                                "year_of_passing": "2010"
+                            },
+                            {
+                                "degree": "PH.D.",
+                                "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                                "college_name": "ANNA UNIVERSITY",
+                                "year_of_passing": "2017"
+                            }
+                        ],
+                        "designation": "ASSOCIATE PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "1 Years",
+                                "previous_position": "19 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "DR. K. SENTHIL",
+                        "dob": "05-05-1983",
+                        "date_of_joining": "08-12-2021",
+                        "aicte_id": "AU1",
+                        "phd_thesis_title": "DISTRIBUTED QUERY OPTIMIZATION AND INDEXING SCHEMAS IN HETEROGENEOUS CLOUD SERVER",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "M.TECH.",
+                                "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                                "college_name": "SRM INSTITUTION OF SCIENCE AND TECHNOLOGY",
+                                "year_of_passing": "2006"
+                            },
+                            {
+                                "degree": "PH.D.",
+                                "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                                "college_name": "THIAGARAJAR COLLEGE OF ENGINEERING (AUTONOMOUS)",
+                                "year_of_passing": "2019"
+                            }
+                        ],
+                        "designation": "ASSOCIATE PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "1 Years",
+                                "previous_position": "15 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. R. REENA",
+                        "dob": "14-05-1984",
+                        "date_of_joining": "21-08-2010",
+                        "aicte_id": "1454818945",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                                "college_name": "CSI COLLEGE OF ENGINEERING",
+                                "year_of_passing": "2005"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                                "college_name": "ST JOSEPH'S COLLEGE OF ENGINEERING (AUTONOMOUS)",
+                                "year_of_passing": "2008"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "9 Years",
+                                "previous_position": "5 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. M. DIVYA BHARATHI",
+                        "dob": "23-06-1993",
+                        "date_of_joining": "13-06-2022",
+                        "aicte_id": "9314777824",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.TECH.",
+                                "specialization": "NANO SCIENCE AND TECHNOLOGY",
+                                "college_name": "DHAANISH AHMED COLLEGE OF ENGINEERING",
+                                "year_of_passing": "2014"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                                "college_name": "RRASE COLLEGE OF ENGINEERING",
+                                "year_of_passing": "2019"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "0 Years",
+                                "previous_position": "2 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MS. S. BHUVANESWARI",
+                        "dob": "08-08-1992",
+                        "date_of_joining": "20-05-2020",
+                        "aicte_id": "AU1",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                                "college_name": "A V C COLLEGE OF ENGINEERING",
+                                "year_of_passing": "2013"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                                "college_name": "A V C COLLEGE OF ENGINEERING",
+                                "year_of_passing": "2015"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "2 Years",
+                                "previous_position": "0 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. T C. JERMIN JERSHA",
+                        "dob": "27-09-1986",
+                        "date_of_joining": "06-02-2020",
+                        "aicte_id": "AU1",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.TECH.",
+                                "specialization": "INFORMATION TECHNOLOGY",
+                                "college_name": "NOORUL ISLAM COLLEGE OF ENGINEERING",
+                                "year_of_passing": "2008"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                                "college_name": "ST PETERS UNIVERSITY AVADI",
+                                "year_of_passing": "2011"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "3 Years",
+                                "previous_position": "0 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. B. LATHA",
+                        "dob": "07-04-1980",
+                        "date_of_joining": "01-03-2021",
+                        "aicte_id": "11488634073",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                                "college_name": "SETHU INSTITUTE OF TECHNOLOGY",
+                                "year_of_passing": "2001"
+                            },
+                            {
+                                "degree": "M.TECH.",
+                                "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                                "college_name": "MGR UNIVERSITY",
+                                "year_of_passing": "2007"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "2 Years",
+                                "previous_position": "18 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MS. R. SASIREKHA",
+                        "dob": "10-08-1989",
+                        "date_of_joining": "01-07-2021",
+                        "aicte_id": "111319180109",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.TECH.",
+                                "specialization": "INFORMATION TECHNOLOGY",
+                                "college_name": "ST PETER'S COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                                "year_of_passing": "2011"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                                "college_name": "JAYA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                                "year_of_passing": "2013"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "1 Years",
+                                "previous_position": "5 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MS. R. ARUNADEVI",
+                        "dob": "30-04-1990",
+                        "date_of_joining": "12-09-2022",
+                        "aicte_id": "AU1",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                                "college_name": "INDIRA GANDHI COLLEGE OF TECHNOLOGY FOR WOMEN",
+                                "year_of_passing": "2012"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                                "college_name": "DHANALAKSHMI SRINIVASAN COLLEGE OF ENGINEERING",
+                                "year_of_passing": "2014"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "0 Years",
+                                "previous_position": "8 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MS. R. NISHANTHI",
+                        "dob": "26-06-1991",
+                        "date_of_joining": "01-12-2022",
+                        "aicte_id": "AU1",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                                "college_name": "ARUNAI ENGINEERING COLLEGE",
+                                "year_of_passing": "2012"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                                "college_name": "KRISHNASAMY COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                                "year_of_passing": "2014"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "0 Years",
+                                "previous_position": "0 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MS. S. SATHYA",
+                        "dob": "18-05-1993",
+                        "date_of_joining": "06-07-2022",
+                        "aicte_id": "AU1",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+                                "college_name": "ARS COLLEGE OF ENGINEERING",
+                                "year_of_passing": "2014"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                                "college_name": "SRI SAI RAM ENGINEERING COLLEGE (AUTONOMOUS)",
+                                "year_of_passing": "2016"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "0 Years",
+                                "previous_position": "0 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. B. UMAMAHESWARI",
+                        "dob": "28-01-1988",
+                        "date_of_joining": "19-12-2018",
+                        "aicte_id": "17353146287",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                                "college_name": "ADHIPARASAKTHI COLLEGE OF ENGINEERING",
+                                "year_of_passing": "2009"
+                            },
+                            {
+                                "degree": "M.TECH.",
+                                "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                                "college_name": "SRM UNIVERSITY",
+                                "year_of_passing": "2013"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "4 Years",
+                                "previous_position": "6 Years"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "faculty_details": [
+            {
+                "department": "Electrical and Electronics Engineering",
+                "faculty_members": [
+                    {
+                        "name": "DR. G. INDIRA",
+                        "dob": "05-01-1980",
+                        "date_of_joining": "21-01-2019",
+                        "aicte_id": "1462127319",
+                        "phd_thesis_title": "ANALYSIS OF SUPERCONDUCTING MAGNETIC ENERGY STORAGE SYSTEM AND SUPERCAPACITORS",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "ELECTRONICS",
+                                "college_name": "INDIAN ENGINEERING COLLEGE",
+                                "year_of_passing": "2001"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+                                "college_name": "COLLEGE OF ENGINEERING, GUINDY",
+                                "year_of_passing": "2008"
+                            },
+                            {
+                                "degree": "PH.D.",
+                                "specialization": "ELECTRICAL ENGINEERING",
+                                "college_name": "COLLEGE OF ENGINEERING, GUINDY",
+                                "year_of_passing": "2017"
+                            }
+                        ],
+                        "designation": "PRINCIPAL",
+                        "academic_experience": [
+                            {
+                                "current_position": "4 Years",
+                                "previous_position": "14 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "DR. S. HEMALATHA",
+                        "dob": "11-09-1975",
+                        "date_of_joining": "03-06-2013",
+                        "aicte_id": "13359062528",
+                        "phd_thesis_title": "MODELING AND POWER CONTROL STRATEGY OF THE NANOGRID FOR A STANDALONE RUSTIC ELECTRIFICATION",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "ELECTRONICS",
+                                "college_name": "MEPCO SCHLENK ENGINEERING COLLEGE (AUTONOMOUS)",
+                                "year_of_passing": "1996"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+                                "college_name": "GOVERNMENT COLLEGE OF ENGINEERING, ERODE (FORMERLY INSTITUTE OF ROAD AND TRANSPORT TECHNOLOGY)",
+                                "year_of_passing": "2005"
+                            },
+                            {
+                                "degree": "PH.D.",
+                                "specialization": "ELECTRONICS",
+                                "college_name": "ANNA UNIVERSITY",
+                                "year_of_passing": "2018"
+                            }
+                        ],
+                        "designation": "ASSOCIATE PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "3 Years",
+                                "previous_position": "14 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. AS. VALARMATHY",
+                        "dob": "25-12-1979",
+                        "date_of_joining": "16-12-2005",
+                        "aicte_id": "1458079655",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "ELECTRONICS",
+                                "college_name": "GOVERNMENT COLLEGE OF ENGINEERING, ERODE (FORMERLY INSTITUTE OF ROAD AND TRANSPORT TECHNOLOGY)",
+                                "year_of_passing": "2002"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "POWER ELECTRONICS AND DRIVES",
+                                "college_name": "SATHYABAMA UNIVERSITY",
+                                "year_of_passing": "2013"
+                            },
+                            {
+                                "degree": "PH.D.",
+                                "specialization": "",
+                                "college_name": "",
+                                "year_of_passing": ""
+                            }
+                        ],
+                        "designation": "ASSOCIATE PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "7 Years",
+                                "previous_position": "10 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MR. MJ. MURALI",
+                        "dob": "22-01-1981",
+                        "date_of_joining": "02-06-2004",
+                        "aicte_id": "1458079683",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "ELECTRONICS",
+                                "college_name": "SRI SAI RAM ENGINEERING COLLEGE (AUTONOMOUS)",
+                                "year_of_passing": "2002"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "POWER ELECTRONICS AND DRIVES",
+                                "college_name": "SATHYABAMA UNIVERSITY",
+                                "year_of_passing": "2004"
+                            },
+                            {
+                                "degree": "PH.D.",
+                                "specialization": "",
+                                "college_name": "",
+                                "year_of_passing": ""
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "4 Years",
+                                "previous_position": "14 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. G. KALA PRIYADARSHINI",
+                        "dob": "26-11-1983",
+                        "date_of_joining": "16-06-2006",
+                        "aicte_id": "1456868201",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "ELECTRONICS",
+                                "college_name": "JEPPIAAR ENGINEERING COLLEGE",
+                                "year_of_passing": "2005"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "POWER ELECTRONICS AND DRIVES",
+                                "college_name": "SATHYABAMA UNIVERSITY",
+                                "year_of_passing": "2012"
+                            },
+                            {
+                                "degree": "PH.D.",
+                                "specialization": "",
+                                "college_name": "",
+                                "year_of_passing": ""
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "6 Years",
+                                "previous_position": "9 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. P. CHANDRAKALA",
+                        "dob": "03-05-1981",
+                        "date_of_joining": "05-12-2007",
+                        "aicte_id": "11489683254",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "ELECTRONICS ENGINEERING",
+                                "college_name": "ROEVER COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                                "year_of_passing": "2005"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "POWER ELECTRONICS AND DRIVES",
+                                "college_name": "SRI LAKSHMI AMMAL ENGINEERING COLLEGE",
+                                "year_of_passing": "2012"
+                            },
+                            {
+                                "degree": "PH.D.",
+                                "specialization": "",
+                                "college_name": "",
+                                "year_of_passing": ""
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "2 Years",
+                                "previous_position": "12 Years"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "faculty_details": [
+            {
+                "department": "MECHANICAL ENGINEERING",
+                "faculty_members": [
+                    {
+                        "name": "MR. S. SRISATHIRAPATHY PRINCE SHRI VENKATESHWARAA",
+                        "dob": "15-07-1990",
+                        "date_of_joining": "15-07-2021",
+                        "aicte_id": "12295055423",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "GENERAL ENGINEERING",
+                                "college_name": "PADMAVATHY ENGINEERING COLLEGE",
+                                "year_of_passing": "2011"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "MANUFACTURING ENGINEERING",
+                                "college_name": "OTHERS-MIT CAMPUS",
+                                "year_of_passing": "2014"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "0 Years",
+                                "previous_position": "7 Years"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "faculty_details": [
+            {
+                "department": "Mechanical Engineering",
+                "faculty_members": [
+                    {
+                        "name": "DR. S. KATHIRESAN",
+                        "dob": "18-03-1978",
+                        "date_of_joining": "27-12-2018",
+                        "aicte_id": "1468202912",
+                        "phd_thesis_title": "EXPERIMENTAL INVESTIGATIONS ON MAGNETO RHEOLOGICAL ABRASIVE FLOW FINISHING OF AISI STAINLESS STEEL 316L AND ITS EFFECTS ON BIOCOMPATABILITY",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "MECHANICAL ENGINEERING",
+                                "college_name": "GOVERNMENT COLLEGE OF ENGINEERING SALEM",
+                                "year_of_passing": "1999"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "C MO AM NP UU FT AE CR T UIN RT INEG GRATED C GO UL INL DE YG -E - OF ENGINEERING",
+                                "college_name": "GOVERNMENT COLLEGE OF ENGINEERING",
+                                "year_of_passing": "2006"
+                            },
+                            {
+                                "degree": "PH.D.",
+                                "specialization": "MECHANICAL ENGINEERING",
+                                "college_name": "GOVERNMENT COLLEGE OF ENGINEERING",
+                                "year_of_passing": "2018"
+                            }
+                        ],
+                        "designation": "ASSOCIATE PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "4 Years",
+                                "previous_position": "19 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "DR. T. SURULIVEL RAJAN",
+                        "dob": "11-11-1980",
+                        "date_of_joining": "01-07-2016",
+                        "aicte_id": "13360208868",
+                        "phd_thesis_title": "PARAMETRIC ANALYSIS ON PASSIVE COOLING OF BUILDING WITH PHASE CHANGE MATERIAL",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "OTHERS",
+                                "college_name": "VRSCET",
+                                "year_of_passing": "2002"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "COMPUTER AIDED DESIGN ENGINEERING AND TECHNOLOGY",
+                                "college_name": "OTHERS",
+                                "year_of_passing": "2009"
+                            },
+                            {
+                                "degree": "PH.D.",
+                                "specialization": "MECHANICAL ENGINEERING",
+                                "college_name": "OTHERS",
+                                "year_of_passing": "2022"
+                            }
+                        ],
+                        "designation": "ASSOCIATE PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "1 Years",
+                                "previous_position": "16 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MR. V. ASHOK",
+                        "dob": "25-02-1977",
+                        "date_of_joining": "02-03-2020",
+                        "aicte_id": "17824321413",
+                        "phd_thesis_title": "INTEGRATION OF NANOBIO PHASE CHANGE MATERIALS FOR THERMAL ENERGY MANAGEMENT IN BUILDINGS",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "MECHANICAL ENGINEERING",
+                                "college_name": "NATIONAL ENGINEERING COLLEGE",
+                                "year_of_passing": "2007"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "COMPUTER AIDED DESIGN ENGINEERING",
+                                "college_name": "NATIONAL ENGINEERING COLLEGE",
+                                "year_of_passing": "2009"
+                            },
+                            {
+                                "degree": "PH.D.",
+                                "specialization": "MECHANICAL ENGINEERING",
+                                "college_name": "OTHERS",
+                                "year_of_passing": "2023"
+                            }
+                        ],
+                        "designation": "ASSOCIATE PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "2 Years",
+                                "previous_position": "16 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MR. M. PAZHANIAPPAN",
+                        "dob": "29-10-1957",
+                        "date_of_joining": "17-08-2017",
+                        "aicte_id": "17361338204",
+                        "phd_thesis_title": "Title of the Ph.D. Thesis",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "M.E.",
+                                "specialization": "M ENA GN IU NF EA ERC IT NU GRING M TEA CD HR NA OS L I ON GS YTI CTU HT RE O MOF PET",
+                                "college_name": "Title of the Ph.D. Thesis",
+                                "year_of_passing": "2002"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "4 Years",
+                                "previous_position": "32 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. T. VINITRA BANU",
+                        "dob": "05-08-1991",
+                        "date_of_joining": "15-06-2016",
+                        "aicte_id": "13360208804",
+                        "phd_thesis_title": "Title of the Ph.D. Thesis",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "AERONAUTICAL ENGINEERING",
+                                "college_name": "INFANT JESUS COLLEGE OF ENGINEERING",
+                                "year_of_passing": "2012"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "THERMAL ENGINEERING",
+                                "college_name": "ANNA UNIVESITY REGIONAL CAMPUS,MADURAI",
+                                "year_of_passing": "2015"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "5 Years",
+                                "previous_position": "2 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MR. V. JANAKIRAMAN",
+                        "dob": "02-06-1990",
+                        "date_of_joining": "02-11-2017",
+                        "aicte_id": "13609714688",
+                        "phd_thesis_title": "Title of the Ph.D. Thesis",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "AERONAUTICAL ENGINEERING",
+                                "college_name": "OTHERS-SAMS COLLEGE",
+                                "year_of_passing": "2011"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "",
+                                "college_name": "AERONAUTICAL INFANT JESUS COLLEGE OF ENGINEERING",
+                                "year_of_passing": "2013"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "4 Years",
+                                "previous_position": "2 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MR. R. SRISAINATH",
+                        "dob": "24-06-1987",
+                        "date_of_joining": "01-03-2020",
+                        "aicte_id": "17824321419",
+                        "phd_thesis_title": "Title of the Ph.D. Thesis",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "MECHANICAL ENGINEERING",
+                                "college_name": "OTHERS-ANNAMALAI UNIVERSITY",
+                                "year_of_passing": "2008"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "THERMAL POWER ENGINEERING",
+                                "college_name": "OTHERS-ANNAMALAI UNIVERSITY",
+                                "year_of_passing": "2010"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "2 Years",
+                                "previous_position": "6 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MR. G. SATHI",
+                        "dob": "09-06-1982",
+                        "date_of_joining": "01-06-2012",
+                        "aicte_id": "11454687430",
+                        "phd_thesis_title": "Title of the Ph.D. Thesis",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "MECHANICAL ENGINEERING AND TECHNOLOGY",
+                                "college_name": "G K M COLLEGE OF ENGINEERING",
+                                "year_of_passing": "2009"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "COMPUTER AIDED DESIGN AND TECHNOLOGY",
+                                "college_name": "G K M COLLEGE OF ENGINEERING",
+                                "year_of_passing": "2012"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "9 Years",
+                                "previous_position": "1 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MR. P. VIJAYARAGHAVAN",
+                        "dob": "05-12-1987",
+                        "date_of_joining": "21-12-2015",
+                        "aicte_id": "19313675081",
+                        "phd_thesis_title": "Title of the Ph.D. Thesis",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "MECHANICAL ENGINEERING",
+                                "college_name": "THANGAVELU ENGINEERING COLLEGE",
+                                "year_of_passing": "2010"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "",
+                                "college_name": "AUTOMOBILE MADRAS INSTITUTE OF ENGINEERING TECHNOLOGY CHROMPET",
+                                "year_of_passing": "2014"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "6 Years",
+                                "previous_position": "4 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MR. S. SHERIL",
+                        "dob": "03-05-1989",
+                        "date_of_joining": "16-06-2014",
+                        "aicte_id": "12295762394",
+                        "phd_thesis_title": "Title of the Ph.D. Thesis",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "AERONAUTICAL ENGINEERING",
+                                "college_name": "OTHERS-SATHYABAMA ENGINEERING",
+                                "year_of_passing": "2011"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "COMPUTER AIDED DESIGN ENGINEERING",
+                                "college_name": "SRI VENKATESWARA COLLEGE OF DESIGN ENGINEERING",
+                                "year_of_passing": "2014"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "5 Years",
+                                "previous_position": "0 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MR. T. VIJAYARAJ",
+                        "dob": "10-05-1986",
+                        "date_of_joining": "20-06-2011",
+                        "aicte_id": "17360874293",
+                        "phd_thesis_title": "Title of the Ph.D. Thesis",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "AERONAUTICAL ENGINEERING",
+                                "college_name": "INFANT JESUS COLLEGE OF ENGINEERING",
+                                "year_of_passing": "2010"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "",
+                                "college_name": "AERONAUTICAL MADRAS INSTITUTE OF ENGINEERING TECHNOLOGY CHROMPET",
+                                "year_of_passing": "2014"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "10 Years",
+                                "previous_position": "1 Years"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "faculty_details": [
+            {
+                "department": "Computer Science",
+                "faculty_members": [
+                    {
+                        "name": "DR. P. BALAKUMAR",
+                        "dob": "14-05-1982",
+                        "date_of_joining": "19-12-2018",
+                        "aicte_id": "17353021558",
+                        "phd_thesis_title": "SECURE HIGH THROUGHPUT MULTICAST ROUTING IN WIRELESS MESH NETWORKS",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "M.TECH.",
+                                "specialization": "COMPUTER SCIENCE",
+                                "college_name": "BHARATH SCIENCE UNIVERSITY",
+                                "year_of_passing": "2007"
+                            },
+                            {
+                                "degree": "M.SC.",
+                                "specialization": "COMPUTER SCIENCE",
+                                "college_name": "ST JOSEPHS SCIENCE COLLEGE",
+                                "year_of_passing": "2005"
+                            },
+                            {
+                                "degree": "PH.D.",
+                                "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                                "college_name": "BHARATH UNIVERSITY",
+                                "year_of_passing": "2011"
+                            }
+                        ],
+                        "designation": "PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "4 Years",
+                                "previous_position": "11 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "DR. P. INDIRA PRIYA",
+                        "dob": "01-01-1982",
+                        "date_of_joining": "01-02-2022",
+                        "aicte_id": "19478317462",
+                        "phd_thesis_title": "INTELLIGENT TEMPORAL MINING TECHNIQUE FOR SOCIAL NETWORK ANALYSIS",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "COMPUTER SCIENCE",
+                                "college_name": "SONA COLLEGE OF ENGINEERING",
+                                "year_of_passing": "2003"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "INFORMATION AND COMMUNICATION TECHNOLOGY",
+                                "college_name": "ANNA UNIVERSITY",
+                                "year_of_passing": "2008"
+                            },
+                            {
+                                "degree": "PH.D.",
+                                "specialization": "SOCIAL NETWORK MINING FOR LEARNING RESEARCH COMMUNITY CONTRIBUTION PATTERNS",
+                                "college_name": "BHARATH UNIVERSITY",
+                                "year_of_passing": "2014"
+                            }
+                        ],
+                        "designation": "ASSOCIATE PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "1 Years",
+                                "previous_position": "18 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "DR. G. AYYAPPAN",
+                        "dob": "02-06-1984",
+                        "date_of_joining": "08-02-2021",
+                        "aicte_id": "19315220498",
+                        "phd_thesis_title": "SOCIAL NETWORK MINING FOR LEARNING RESEARCH COMMUNITY CONTRIBUTION PATTERNS",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "M.TECH.",
+                                "specialization": "COMPUTER SCIENCE",
+                                "college_name": "INSTITUTE OF HIGHER EDUCATION",
+                                "year_of_passing": "2012"
+                            },
+                            {
+                                "degree": "PH.D.",
+                                "specialization": "SOCIAL NETWORK MINING FOR LEARNING RESEARCH COMMUNITY CONTRIBUTION PATTERNS",
+                                "college_name": "BHARATH UNIVERSITY",
+                                "year_of_passing": "2018"
+                            }
+                        ],
+                        "designation": "ASSOCIATE PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "2 Years",
+                                "previous_position": "11 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. R. KALPANA",
+                        "dob": "13-11-1984",
+                        "date_of_joining": "25-01-2020",
+                        "aicte_id": "1721541432",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.TECH.",
+                                "specialization": "INFORMATION TECHNOLOGY",
+                                "college_name": "A V C COLLEGE OF ENGINEERING",
+                                "year_of_passing": "2006"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                                "college_name": "SATHYA BAMA INSTITUTE OF SCIENCE AND TECHNOLOGY",
+                                "year_of_passing": "2012"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "3 Years",
+                                "previous_position": "13 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. K. VELUMATHY KALAIVANI",
+                        "dob": "09-05-1989",
+                        "date_of_joining": "09-05-2022",
+                        "aicte_id": "AU1",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "COMPUTER SCIENCE",
+                                "college_name": "MAHENDRA ENGINEERING COLLEGE",
+                                "year_of_passing": "2010"
+                            },
+                            {
+                                "degree": "M.TECH.",
+                                "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                                "college_name": "SRM INSTITUTE OF SCIENCE AND TECHNOLOGY",
+                                "year_of_passing": "2012"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "0 Years",
+                                "previous_position": "2 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. R. VANAJA",
+                        "dob": "18-05-1980",
+                        "date_of_joining": "16-08-2022",
+                        "aicte_id": "AU1",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "M.E.",
+                                "specialization": "COMPUTER SCIENCE",
+                                "college_name": "MANIMEKALAI COLLEGE OF ENGINEERING",
+                                "year_of_passing": "2015"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "0 Years",
+                                "previous_position": "4 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. T. SATHYA",
+                        "dob": "19-12-1987",
+                        "date_of_joining": "06-01-2017",
+                        "aicte_id": "AU1",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "M.TECH.",
+                                "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                                "college_name": "SRM INSTITUTE OF SCIENCE AND TECHNOLOGY",
+                                "year_of_passing": "2013"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "6 Years",
+                                "previous_position": "2 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MS. GINU. DIXY",
+                        "dob": "30-09-1983",
+                        "date_of_joining": "01-06-2023",
+                        "aicte_id": "AU1",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.TECH.",
+                                "specialization": "INFORMATION TECHNOLOGY",
+                                "college_name": "CSI COLLEGE OF ENGINEERING",
+                                "year_of_passing": "2006"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+                                "college_name": "JERUSALEM COLLEGE OF ENGINEERING",
+                                "year_of_passing": "2010"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "0 Years",
+                                "previous_position": "5 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MS. M. SIRIJA",
+                        "dob": "26-08-1995",
+                        "date_of_joining": "23-12-2019",
+                        "aicte_id": "17353147055",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                                "college_name": "VEL TECH HIGH TECH DR RANGARAJAN DR SAKUNTHALA ENGINEERING COLLEGE",
+                                "year_of_passing": "2017"
+                            },
+                            {
+                                "degree": "M.TECH.",
+                                "specialization": "INFORMATION TECHNOLOGY",
+                                "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                                "year_of_passing": "2019"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "3 Years",
+                                "previous_position": "0 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. J. JAYASHANKARI",
+                        "dob": "30-11-1983",
+                        "date_of_joining": "27-05-2009",
+                        "aicte_id": "1453455759",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "INFORMATION TECHNOLOGY",
+                                "college_name": "OTHERS-ANNAMALAI",
+                                "year_of_passing": "2006"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                                "college_name": "OTHERS-ANNAMALAI",
+                                "year_of_passing": "2008"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "3 Years",
+                                "previous_position": "11 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. P. ELAKKIYA",
+                        "dob": "30-09-1989",
+                        "date_of_joining": "01-04-2023",
+                        "aicte_id": "AU1",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "COMPUTER SCIENCE",
+                                "college_name": "JERUSALEM COLLEGE OF ENGINEERING",
+                                "year_of_passing": "2011"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                                "college_name": "ANAND INSTITUTE OF HIGHER TECHNOLOGY",
+                                "year_of_passing": "2013"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "0 Years",
+                                "previous_position": "2 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. P. ALLIRANI",
+                        "dob": "07-06-1987",
+                        "date_of_joining": "17-08-2022",
+                        "aicte_id": "AU1",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "COMPUTER SCIENCE",
+                                "college_name": "LCR COLLEGE OF ENGINEERING",
+                                "year_of_passing": "2008"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                                "college_name": "JAYA ENGINEERING COLLEGE",
+                                "year_of_passing": "2010"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "0 Years",
+                                "previous_position": "5 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. A. SHANTHAKUMARI",
+                        "dob": "22-06-1989",
+                        "date_of_joining": "19-12-2018",
+                        "aicte_id": "17385716458",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "COMPUTER SCIENCE",
+                                "college_name": "ARUNAI ENGINEERING COLLEGE",
+                                "year_of_passing": "2010"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                                "college_name": "ARUNAI ENGINEERING COLLEGE",
+                                "year_of_passing": "2012"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "4 Years",
+                                "previous_position": "4 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MS. B. SOWMYA",
+                        "dob": "02-09-1993",
+                        "date_of_joining": "04-12-2017",
+                        "aicte_id": "13607364678",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "COMPUTER SCIENCE",
+                                "college_name": "UCET",
+                                "year_of_passing": "2015"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                                "college_name": "MADRAS INSTITUTE OF TECHNOLOGY",
+                                "year_of_passing": "2017"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "5 Years",
+                                "previous_position": "0 Years"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "faculty_details": [
+            {
+                "department": " ",
+                "faculty_members": [
+                    {
+                        "name": "DR. S. SARA",
+                        "dob": "13-06-1972",
+                        "date_of_joining": "26-02-2021",
+                        "aicte_id": "AU1",
+                        "phd_thesis_title": "BUSINESS ADMINISTRATION",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "M.B.A.",
+                                "specialization": "MASTER OF BUSINESS ADMINISTRATION",
+                                "college_name": "BHARATH INSTITUTE",
+                                "year_of_passing": "1998"
+                            },
+                            {
+                                "degree": "PH.D.",
+                                "specialization": "MANAGEMENT",
+                                "college_name": "MANONMANIAM SUNDARANAR UNIVERSITY",
+                                "year_of_passing": "2018"
+                            }
+                        ],
+                        "designation": "ASSOCIATE PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "2 Years",
+                                "previous_position": "20 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. S. RATHIKA",
+                        "dob": "24-03-1981",
+                        "date_of_joining": "01-02-2013",
+                        "aicte_id": "1456420579",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "ELECTRONICS ENGINEERING",
+                                "college_name": "IFET COLLEGE OF ENGINEERING (AUTONOMOUS)",
+                                "year_of_passing": "2002"
+                            },
+                            {
+                                "degree": "M.B.A.",
+                                "specialization": "MASTER OF BUSINESS ADMINISTRATION",
+                                "college_name": "M OFO ET NH GER IN T EE ER RA INS GA AC NO DLLEGE",
+                                "year_of_passing": "2004"
+                            },
+                            {
+                                "degree": "M.PHIL",
+                                "specialization": "",
+                                "college_name": "PRIST",
+                                "year_of_passing": "2010"
+                            }
+                        ],
+                        "designation": "ASSOCIATE PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "5 Years",
+                                "previous_position": "12 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. V. BAGYALAKSHMI",
+                        "dob": "01-06-1990",
+                        "date_of_joining": "19-12-2018",
+                        "aicte_id": "14698752927",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.C.A.",
+                                "specialization": "COMPUTER APPLICATIONS",
+                                "college_name": "VENKATESHWARA ARTS AND SCIENCE COLLEGE",
+                                "year_of_passing": "2010"
+                            },
+                            {
+                                "degree": "M.B.A.",
+                                "specialization": "MASTER OF BUSINESS ADMINISTRATION",
+                                "college_name": "UNIVERSITY OF MADRAS",
+                                "year_of_passing": "2013"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "3 Years",
+                                "previous_position": "1 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. T. SHARMILA",
+                        "dob": "09-03-1987",
+                        "date_of_joining": "28-12-2016",
+                        "aicte_id": "17361338268",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.COM.",
+                                "specialization": "COMMERCE",
+                                "college_name": "PADMAVATHY ENGINEERING COLLEGE",
+                                "year_of_passing": "2008"
+                            },
+                            {
+                                "degree": "M.B.A.",
+                                "specialization": "MASTER OF BUSINESS ADMINISTRATION",
+                                "college_name": "VENKATESHWARAA COLLEGE",
+                                "year_of_passing": "2010"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "6 Years",
+                                "previous_position": "0 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "DR. J. REVATHI",
+                        "dob": "23-05-1972",
+                        "date_of_joining": "16-06-2022",
+                        "aicte_id": "AU1",
+                        "phd_thesis_title": "MANAGERIAL ECONOMICS",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "M.B.A.",
+                                "specialization": "MASTER OF BUSINESS ADMINISTRATION",
+                                "college_name": "UNIVERSITY OF MADRAS",
+                                "year_of_passing": "2015"
+                            },
+                            {
+                                "degree": "PH.D.",
+                                "specialization": "MANAGERIAL ECONOMICS",
+                                "college_name": "VELS UNIVERSITY",
+                                "year_of_passing": "2021"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "0 Years",
+                                "previous_position": "0 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "DR. R. JAYADURGA",
+                        "dob": "17-07-1987",
+                        "date_of_joining": "01-09-2022",
+                        "aicte_id": "AU1",
+                        "phd_thesis_title": "HUMAN RESOURCE DEVELOPMENT",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "M.B.A.",
+                                "specialization": "HUMAN RESOURCE DEVELOPMENT AND MANAGEMENT",
+                                "college_name": "BHARATHIDASAN UNIV",
+                                "year_of_passing": "2021"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "0 Years",
+                                "previous_position": "0 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MS. C S. NIVEDHA",
+                        "dob": "02-09-1995",
+                        "date_of_joining": "05-08-2019",
+                        "aicte_id": "17361338261",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                                "college_name": "ANAND INSTITUTE OF HIGHER TECHNOLOGY",
+                                "year_of_passing": "2017"
+                            },
+                            {
+                                "degree": "M.B.A.",
+                                "specialization": "MASTER OF BUSINESS ADMINISTRATION",
+                                "college_name": "SRM VALLIAMMAI ENGINEERING COLLEGE",
+                                "year_of_passing": "2019"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "3 Years",
+                                "previous_position": "0 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MS. S. SATHIYA NAVEENA",
+                        "dob": "07-11-1992",
+                        "date_of_joining": "15-12-2016",
+                        "aicte_id": "13365687068",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.TECH.",
+                                "specialization": "INFORMATION TECHNOLOGY",
+                                "college_name": "JAYARAJ ANNAPACKIAM CSI COLLEGE OF ENGINEERING",
+                                "year_of_passing": "2014"
+                            },
+                            {
+                                "degree": "M.B.A.",
+                                "specialization": "MASTER OF BUSINESS ADMINISTRATION",
+                                "college_name": "MANONMANIAM",
+                                "year_of_passing": "2016"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "6 Years",
+                                "previous_position": "0 Years"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "faculty_details": [
+            {
+                "department": "Applied Electronics",
+                "faculty_members": [
+                    {
+                        "name": "MRS. M. SHALINI",
+                        "dob": "21-09-1990",
+                        "date_of_joining": "05-11-2014",
+                        "aicte_id": "12500583621",
+                        "phd_thesis_title": " ",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.E.",
+                                "specialization": "COMMUNICATION TECHNOLOGY",
+                                "college_name": "N P R COLLEGE OF ENGINEERING",
+                                "year_of_passing": "2012"
+                            },
+                            {
+                                "degree": "M.E.",
+                                "specialization": "APPLIED ELECTRONICS",
+                                "college_name": "SRI SIVASUBRAMANIYA NADAR COLLEGE OF ENGINEERING",
+                                "year_of_passing": "2014"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "8 Years",
+                                "previous_position": "0 Years"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "faculty_details": [
+            {
+                "department": "Chemistry",
+                "faculty_members": [
+                    {
+                        "name": "DR. S. JAYASREE AMALAN",
+                        "dob": "05-06-1985",
+                        "date_of_joining": "03-02-2021",
+                        "aicte_id": "19508453408",
+                        "phd_thesis_title": "CHEMISTRY",
+                        "year_of_starting": "2008",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.SC.",
+                                "specialization": "CHEMISTRY",
+                                "college_name": "MOHAIDEEN COLLEGE",
+                                "year_of_passing": "2005"
+                            },
+                            {
+                                "degree": "M.PHIL",
+                                "specialization": "CHEMISTRY",
+                                "college_name": "MOHAIDEEN COLLEGE",
+                                "year_of_passing": "2007"
+                            },
+                            {
+                                "degree": "PH.D.",
+                                "specialization": "CHEMISTRY",
+                                "college_name": "MOHAIDEEN COLLEGE",
+                                "year_of_passing": "2018"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "PROFESSOR",
+                                "previous_position": "OTHERS-KHADHIR"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "DR. B. KALPANA",
+                        "dob": "31-08-1978",
+                        "date_of_joining": "14-06-2007",
+                        "aicte_id": "1452585675",
+                        "phd_thesis_title": "DOCTOR OF PHILOSOPHY",
+                        "year_of_starting": "2002",
+                        "educational_qualification": [
+                            {
+                                "degree": "M.SC.",
+                                "specialization": "CHEMISTRY",
+                                "college_name": "OTHERS-PACHIAYAPAS",
+                                "year_of_passing": "2001"
+                            },
+                            {
+                                "degree": "M.PHIL",
+                                "specialization": "CHEMISTRY",
+                                "college_name": "OTHERS-UNIVERSITY OF MADRAS",
+                                "year_of_passing": "2007"
+                            },
+                            {
+                                "degree": "PH.D.",
+                                "specialization": "CHEMISTRY",
+                                "college_name": "OTHERS-PACHAIYAPPAS",
+                                "year_of_passing": "2022"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "PROFESSOR",
+                                "previous_position": "OTHERS-BHARATHIDASAN"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. .. DEEPA PARTHASARATHY",
+                        "dob": "05-08-1979",
+                        "date_of_joining": "16-04-2012",
+                        "aicte_id": "11490490243",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "2004",
+                        "educational_qualification": [
+                            {
+                                "degree": "M.SC.",
+                                "specialization": "CHEMISTRY",
+                                "college_name": "OTHERS-BHARATHI WOMENS COLLEGE",
+                                "year_of_passing": "2001"
+                            },
+                            {
+                                "degree": "M.PHIL",
+                                "specialization": "CHEMISTRY",
+                                "college_name": "OTHERS-BHARATHI WOMENS COLLEGE",
+                                "year_of_passing": "2004"
+                            },
+                            {
+                                "degree": "PH.D.",
+                                "specialization": "CHEMISTRY",
+                                "college_name": "OTHERS-BHARATHI WOMENS COLLEGE",
+                                "year_of_passing": "2009"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "PROFESSOR",
+                                "previous_position": "OTHERS-BHARATHIDASAN"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. A. GOMATHI",
+                        "dob": "20-07-1983",
+                        "date_of_joining": "01-03-2014",
+                        "aicte_id": "12190883464",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "2009",
+                        "educational_qualification": [
+                            {
+                                "degree": "M.SC.",
+                                "specialization": "ORGANIC CHEMISTRY",
+                                "college_name": "VELLORE INSTITUTE OF TECHNOLOGY",
+                                "year_of_passing": "2006"
+                            },
+                            {
+                                "degree": "M.PHIL",
+                                "specialization": "ORGANIC CHEMISTRY",
+                                "college_name": "VELLORE INSTITUTE OF TECHNOLOGY",
+                                "year_of_passing": "2009"
+                            },
+                            {
+                                "degree": "PH.D.",
+                                "specialization": "ORGANIC CHEMISTRY",
+                                "college_name": "VELLORE INSTITUTE OF TECHNOLOGY",
+                                "year_of_passing": "2014"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "PROFESSOR",
+                                "previous_position": "OTHERS-VIT"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "faculty_details": [
+            {
+                "department": "S&H-English",
+                "faculty_members": [
+                    {
+                        "name": "MRS. B. GEETHA",
+                        "dob": "28-10-1974",
+                        "date_of_joining": "16-06-2007",
+                        "aicte_id": "17361732407",
+                        "phd_thesis_title": " ",
+                        "year_of_starting": "1998",
+                        "educational_qualification": [
+                            {
+                                "degree": "M.PHIL",
+                                "specialization": "ENGLISH",
+                                "college_name": "MARYS",
+                                "year_of_passing": "1997"
+                            },
+                            {
+                                "degree": "MA",
+                                "specialization": "ENGLISH",
+                                "college_name": "MARYS",
+                                "year_of_passing": " "
+                            },
+                            {
+                                "degree": " ",
+                                "specialization": " ",
+                                "college_name": " ",
+                                "year_of_passing": " "
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "3 Years",
+                                "previous_position": "17 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. R. SIVARANJANI",
+                        "dob": "16-03-1996",
+                        "date_of_joining": "15-09-2021",
+                        "aicte_id": "AU1",
+                        "phd_thesis_title": "Title of the Ph.D. Thesis",
+                        "year_of_starting": "2020",
+                        "educational_qualification": [
+                            {
+                                "degree": "PG",
+                                "specialization": "ENGLISH",
+                                "college_name": "UNIVERSITY OF MADRAS",
+                                "year_of_passing": " "
+                            },
+                            {
+                                "degree": " ",
+                                "specialization": " ",
+                                "college_name": " ",
+                                "year_of_passing": " "
+                            },
+                            {
+                                "degree": " ",
+                                "specialization": " ",
+                                "college_name": " ",
+                                "year_of_passing": " "
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "1 Years",
+                                "previous_position": "0 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MS. S. ROSHAN FATHIMA",
+                        "dob": "03-09-1997",
+                        "date_of_joining": "01-06-2023",
+                        "aicte_id": "AU1",
+                        "phd_thesis_title": "Title of the Ph.D. Thesis",
+                        "year_of_starting": "2020",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.A.",
+                                "specialization": "ENGLISH",
+                                "college_name": "DEVKUNVAR NANALAL BHATT VASIHANV",
+                                "year_of_passing": "2018"
+                            },
+                            {
+                                "degree": "M.A",
+                                "specialization": "ENGLISH",
+                                "college_name": "UNIVERSITY OF MADRAS",
+                                "year_of_passing": " "
+                            },
+                            {
+                                "degree": " ",
+                                "specialization": " ",
+                                "college_name": " ",
+                                "year_of_passing": " "
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "0 Years",
+                                "previous_position": "0 Years"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "faculty_details": [
+            {
+                "department": "S&H-Mathematics",
+                "faculty_members": [
+                    {
+                        "name": "DR. S. JAYASUDHA",
+                        "dob": "13-05-1977",
+                        "date_of_joining": "10-02-2014",
+                        "aicte_id": "17361338575",
+                        "phd_thesis_title": "STUDIES ON SOME CLASSES OF FUZZY PETRI NET MODELS AND ITS APPLICATIONS",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.SC.",
+                                "specialization": "MATHEMATICS",
+                                "college_name": "COLLEGE",
+                                "year_of_passing": "1997"
+                            },
+                            {
+                                "degree": "M.SC.",
+                                "specialization": "MATHAMATICS",
+                                "college_name": "GOVT ARTS COLLEGE",
+                                "year_of_passing": "1999"
+                            },
+                            {
+                                "degree": "PH.D.",
+                                "specialization": "MATHEMATICS",
+                                "college_name": "UNIVERSITY",
+                                "year_of_passing": "2017"
+                            }
+                        ],
+                        "designation": "PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "3 Years",
+                                "previous_position": "18 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. V. MYTHILI",
+                        "dob": "04-06-1972",
+                        "date_of_joining": "15-06-2002",
+                        "aicte_id": "1451383865",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.SC.",
+                                "specialization": "MATHEMATICS",
+                                "college_name": "COLLEGE",
+                                "year_of_passing": "1992"
+                            },
+                            {
+                                "degree": "M.SC.",
+                                "specialization": "MATHEMATICS",
+                                "college_name": "COLLEGE",
+                                "year_of_passing": "1994"
+                            },
+                            {
+                                "degree": "MPHIL",
+                                "specialization": "MATHEMATICS",
+                                "college_name": "KAMARAJ UNIVERSITY",
+                                "year_of_passing": "1995"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "6 Years",
+                                "previous_position": "15 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. R. RAJALAKSHMI",
+                        "dob": "24-06-1972",
+                        "date_of_joining": "29-01-2010",
+                        "aicte_id": "17820125555",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.SC.",
+                                "specialization": "MATHEMATICS",
+                                "college_name": "COLLEGE",
+                                "year_of_passing": "1992"
+                            },
+                            {
+                                "degree": "M.SC.",
+                                "specialization": "MATHEMATICS",
+                                "college_name": "COLLEGE",
+                                "year_of_passing": "1994"
+                            },
+                            {
+                                "degree": "MPHIL",
+                                "specialization": "MATHEMATICS",
+                                "college_name": "UNIVERSITY",
+                                "year_of_passing": "1995"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "2 Years",
+                                "previous_position": "18 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. C. VENNILA",
+                        "dob": "10-05-1984",
+                        "date_of_joining": "18-06-2012",
+                        "aicte_id": "11417779829",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.SC.",
+                                "specialization": "MATHSMATICS",
+                                "college_name": "TACW VILLUPURAM",
+                                "year_of_passing": "2005"
+                            },
+                            {
+                                "degree": "MPHIL",
+                                "specialization": "MATHEMATICS",
+                                "college_name": "UNIVERSITY",
+                                "year_of_passing": "2009"
+                            },
+                            {
+                                "degree": "M.SC.",
+                                "specialization": "MATHEMATICS",
+                                "college_name": "TACW VILLUPURAM",
+                                "year_of_passing": "2007"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "10 Years",
+                                "previous_position": "3 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. D. LITTLE FEMILIN JANA",
+                        "dob": "20-03-1981",
+                        "date_of_joining": "17-08-2005",
+                        "aicte_id": "1451354291",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.SC.",
+                                "specialization": "MATHEMATICS",
+                                "college_name": "COLLEGE",
+                                "year_of_passing": "2001"
+                            },
+                            {
+                                "degree": "M.SC.",
+                                "specialization": "MATHEMATICS",
+                                "college_name": "LOYOLA COLLEGE",
+                                "year_of_passing": "2003"
+                            },
+                            {
+                                "degree": "MPHIL",
+                                "specialization": "MATHEMATICS",
+                                "college_name": "UNIVERSITY OF MADRAS",
+                                "year_of_passing": "2004"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "6 Years",
+                                "previous_position": "12 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. S. RAJA RAJESWARI",
+                        "dob": "25-09-1984",
+                        "date_of_joining": "01-02-2018",
+                        "aicte_id": "17361338659",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.SC.",
+                                "specialization": "MATHEMATICS",
+                                "college_name": "THAYAR EDUCATIONAL TRUST",
+                                "year_of_passing": "2004"
+                            },
+                            {
+                                "degree": "M.SC.",
+                                "specialization": "MATHEMATICS",
+                                "college_name": "THAYAR EDUCATIONAL TRUST",
+                                "year_of_passing": "2006"
+                            },
+                            {
+                                "degree": "MPHIL",
+                                "specialization": "MATHEMATICS",
+                                "college_name": "BHARADHIDASAN",
+                                "year_of_passing": "2008"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "5 Years",
+                                "previous_position": "10 Years"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "faculty_details": [
+            {
+                "department": "Physics",
+                "faculty_members": [
+                    {
+                        "name": "DR. P. SHARMILA",
+                        "dob": "25-04-1977",
+                        "date_of_joining": "11-09-2006",
+                        "aicte_id": "13363734458",
+                        "phd_thesis_title": "X RAY CRYSTALLOGRAPHIC STUDIES ON SOME BIOLOGICALLY IMPORTANT MOLECULES",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.SC.",
+                                "specialization": "OTHERS - PHYSICS",
+                                "college_name": "JAYARAJ ANNAPACKIAM",
+                                "year_of_passing": "1997"
+                            },
+                            {
+                                "degree": "M.SC.",
+                                "specialization": "OTHERS - PHYSICS",
+                                "college_name": "FATIMA COLLEGE",
+                                "year_of_passing": "1999"
+                            },
+                            {
+                                "degree": "PH.D.",
+                                "specialization": "PHYSICS",
+                                "college_name": "UNIVERSITY OF MADRAS",
+                                "year_of_passing": "2016"
+                            }
+                        ],
+                        "designation": "ASSOCIATE PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "4 Years",
+                                "previous_position": "16 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MS. B. SOWMYA",
+                        "dob": "05-02-1987",
+                        "date_of_joining": "19-05-2022",
+                        "aicte_id": "AU1 OT SH LE ER TS",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.SC.",
+                                "specialization": "OTHERS - PHYSICS",
+                                "college_name": "MANONMANIAM SUNDARANAR UNIV",
+                                "year_of_passing": "2008"
+                            },
+                            {
+                                "degree": "M.SC.",
+                                "specialization": "OTHERS - PHYSICS",
+                                "college_name": "UNIVERSITY OF MADRAS",
+                                "year_of_passing": "2017"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "0 Years",
+                                "previous_position": "0 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. S. KAVITHA",
+                        "dob": "15-05-1983",
+                        "date_of_joining": "04-01-2020",
+                        "aicte_id": "11490306745",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.A.",
+                                "specialization": "OTHERS - PHYSICS",
+                                "college_name": "BHARATHIDASAN UNIVERSITY",
+                                "year_of_passing": "2004"
+                            },
+                            {
+                                "degree": "M.SC.",
+                                "specialization": "OTHERS - PHYSICS",
+                                "college_name": "GANDHGRAM RURAL UNIVERSITY",
+                                "year_of_passing": "2006"
+                            },
+                            {
+                                "degree": "M.PHIL",
+                                "specialization": "OTHERS - PHYSICS",
+                                "college_name": "MADURAI KAMARAJ UNIVERSITY",
+                                "year_of_passing": "2007"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "2 Years",
+                                "previous_position": "0 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. M. JEYALAXMI",
+                        "dob": "28-06-1986",
+                        "date_of_joining": "04-07-2013",
+                        "aicte_id": "12190849344",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.SC.",
+                                "specialization": "OTHERS - PHYSICS",
+                                "college_name": "VALLIAMMAL COLLEGE",
+                                "year_of_passing": "2007"
+                            },
+                            {
+                                "degree": "M.SC.",
+                                "specialization": "OTHERS - PHYSICS",
+                                "college_name": "PACHAIYAPPAS COLLEGE",
+                                "year_of_passing": "2010"
+                            },
+                            {
+                                "degree": "M.PHIL",
+                                "specialization": "OTHERS - PHYSICS",
+                                "college_name": "PRESIDENCY COLLEGE",
+                                "year_of_passing": "2011"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "8 Years",
+                                "previous_position": "1 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MRS. B. AMUTHA",
+                        "dob": "28-04-1977",
+                        "date_of_joining": "20-12-2018",
+                        "aicte_id": "1463978674",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.SC.",
+                                "specialization": "OTHERS - PHYSICS",
+                                "college_name": "SARAH TUCKER",
+                                "year_of_passing": "1997"
+                            },
+                            {
+                                "degree": "M.SC.",
+                                "specialization": "OTHERS - PHYSICS",
+                                "college_name": "SARAH TUCKER",
+                                "year_of_passing": "1999"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "3 Years",
+                                "previous_position": "0 Years"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

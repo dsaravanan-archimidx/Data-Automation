@@ -1,0 +1,299 @@
+{
+    "faculty_details": [
+        {
+            "department": "Computer Science and Engineering",
+            "faculty_members": [
+                {
+                    "name": "MS. S. SUDHA MEENAKSHI",
+                    "dob": "17-02-1992",
+                    "date_of_joining": "04-07-2017",
+                    "aicte_id": "19539251162",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Computer Science and Engineering",
+                            "college_name": "RAMASWAMY",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Computer Science and Engineering",
+                            "college_name": "COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years at JERUSALEM COLLEGE",
+                            "previous_position": "1 Year at ARM COLLEGE OF ENGINEERING AND TECHNOLOGY"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. E. SATHESH ABRAHAM",
+                    "dob": "01-05-1987",
+                    "date_of_joining": "16-03-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Science and Engineering",
+                            "college_name": "ALAGAPPA CHETTIAR GOVERNMENT COLLEGE",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Science and Engineering",
+                            "college_name": "COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Year at COMPUTER COLLEGE",
+                            "previous_position": "0 Years at OTHERS-SRM UNIVERSITY"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. R. SARANYA",
+                    "dob": "28-03-1988",
+                    "date_of_joining": "13-02-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Science and Engineering",
+                            "college_name": "SRINIVASA COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.TEC",
+                            "specialization": "Computer Science and Engineering",
+                            "college_name": "OTHERS-SRM UNIVERSITY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. J. AMALI AROCKIA SELVI",
+                    "dob": "04-05-1976",
+                    "date_of_joining": "24-06-2017",
+                    "aicte_id": "13561472861",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Science and Engineering",
+                            "college_name": "OTHERS-RAJA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Science and Engineering",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. T S. ABISHA THOMAS",
+                    "dob": "26-07-1993",
+                    "date_of_joining": "03-07-2017",
+                    "aicte_id": "3567498406",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Science and Engineering",
+                            "college_name": "UDAYA SCHOOL OF ENGINEERING",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Science and Engineering",
+                            "college_name": "UDAYA SCHOOL OF ENGINEERING",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. D. ASHA",
+                    "dob": "20-07-1988",
+                    "date_of_joining": "02-02-2021",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Science and Engineering",
+                            "college_name": "PONJESLY COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Science and Engineering",
+                            "college_name": "SMK FOMRA INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. C. MARIA NANCY",
+                    "dob": "13-09-1990",
+                    "date_of_joining": "08-02-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Science and Engineering",
+                            "college_name": "ARULMIGU AMMAN COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Science and Engineering",
+                            "college_name": "ANNA UNIVESITY REGIONAL CAMPUS, COIMBATORE",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. M. DEVIKA",
+                    "dob": "15-05-1990",
+                    "date_of_joining": "06-02-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Science and Engineering",
+                            "college_name": "M I E T COLLEGE",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Science and Engineering",
+                            "college_name": "SRI SHAKTHI INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. K. SANJAI KUMAR",
+                    "dob": "31-05-1977",
+                    "date_of_joining": "05-09-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Science and Engineering",
+                            "college_name": "INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "M.TEC",
+                            "specialization": "Computer Science and Engineering",
+                            "college_name": "PONNAIYAH RAMAJAYAM COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. HEMANANTH",
+                    "dob": "13-07-1980",
+                    "date_of_joining": "06-02-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Communication Engineering",
+                            "college_name": "A V C COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "M.TEC",
+                            "specialization": "Computer and Higher Education",
+                            "college_name": "INSTITUTE OF COMMUNICATION AND HIGHER EDUCATION AND RESEARCH",
+                            "year_of_passing": "2005"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,243 @@
+{
+    "faculty_details": [
+        {
+            "department": "MECHANICAL ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "DR. S. RAMESH",
+                    "dob": "03-06-1968",
+                    "date_of_joining": "23-07-2021",
+                    "aicte_id": "17330191305",
+                    "phd_thesis_title": "EXPERIMENTAL INVESTIGATION AND ANALYSIS IN MACHINING OF TITANIUM ALLOY",
+                    "year_of_starting": "1989",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL AND PRODUCTION",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "1989"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "IIT MADRAS",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "2008"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Year",
+                            "previous_position": "28 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. GANESH",
+                    "dob": "21-06-1986",
+                    "date_of_joining": "06-08-2014",
+                    "aicte_id": "19320958331",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "SRI RAMANUJAR ENGINEERING COLLEGE",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "OTHERS - CIM ENGINEERING AND TECHNOLOGY",
+                            "college_name": "G K M COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "8 Years",
+                            "previous_position": "1 Year"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "MR. G. TARAKARAM",
+                    "dob": "15-06-1968",
+                    "date_of_joining": "15-06-2015",
+                    "aicte_id": "12706404083",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+                            "college_name": "COLLEGE OF KAKKINADA ENGINEERING",
+                            "year_of_passing": "1992"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "OTHERS - ENERGY SYSTEMS TECHNOLOGY",
+                            "college_name": "INDIAN INSTITUTE OF MADRAS",
+                            "year_of_passing": "1994"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "7 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "COMPUTER ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "MR. B. ARUL KUMAR DR MAHALINGAM",
+                    "dob": "04-06-1986",
+                    "date_of_joining": "22-01-2018",
+                    "aicte_id": "14642314737",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING AND TECHNOLOGY",
+                            "college_name": "DR MAHALINGAM COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "INTEGRATED MANUFACTURING ENGINEERING",
+                            "college_name": "COLLEGE OF GUINDY",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "MR. J. JAYACHANDRAN",
+                    "dob": "02-05-1983",
+                    "date_of_joining": "03-08-2015",
+                    "aicte_id": "12706252998",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+                            "college_name": "I F E T COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "REMOTE SENSING AND GIS",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "7 Years",
+                            "previous_position": "6 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "MECHANICAL ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "MR. K. ILAYAPERUMAL",
+                    "dob": "31-07-1975",
+                    "date_of_joining": "08-05-2023",
+                    "aicte_id": "AU1 OF ENGINEERING PADUR",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "OTHERS-HINDUSTAN COLLEGE OF ENGINEERING PADUR",
+                            "year_of_passing": "1997"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "CAD/CAM",
+                            "college_name": "OTHERS-HINDUSTAN COLLEGE OF ENGINEERING PADUR",
+                            "year_of_passing": "2001"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "23 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "THERMAL ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "MR. K. MUTHUNEELAKANDAN",
+                    "dob": "05-03-1991",
+                    "date_of_joining": "27-12-2017",
+                    "aicte_id": "13599060868",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "TAGORE ENGINEERING COLLEGE",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "THERMAL ENGINEERING",
+                            "college_name": "MOHAMED SATHAK A J ENGINEERING COLLEGE",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

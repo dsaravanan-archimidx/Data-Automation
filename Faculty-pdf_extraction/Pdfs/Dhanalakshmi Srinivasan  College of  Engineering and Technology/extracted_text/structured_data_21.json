@@ -1,0 +1,300 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-English",
+            "faculty_members": [
+                {
+                    "name": "MR. S. ARUNKUMAR",
+                    "dob": "05-06-1976",
+                    "date_of_joining": "03-06-2020",
+                    "aicte_id": "9427332753",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "MADRAS",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "M.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "ENGLISH",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2006"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "9 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. A. VELMURUGAN",
+                    "dob": "02-06-1992",
+                    "date_of_joining": "07-01-2022",
+                    "aicte_id": "43383271760",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "ENGLISH",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. N. SUDHAKAR",
+                    "dob": "26-05-1990",
+                    "date_of_joining": "07-01-2022",
+                    "aicte_id": "43389302439",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "ENGLISH",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. M. SATHYARAJ",
+                    "dob": "17-05-1987",
+                    "date_of_joining": "01-06-2022",
+                    "aicte_id": "43381963327",
+                    "phd_thesis_title": "A STUDY OF ALLEGORIES AND MYTH IN THE SELECT PLAYS OF THORNTON WILDER",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "MA",
+                            "specialization": "ENGLISH",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ENGLISH",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. E. ROJAN JUDIE",
+                    "dob": "21-01-1998",
+                    "date_of_joining": "06-01-2023",
+                    "aicte_id": "43376343831",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "LOYOLA COLLEGE",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. J. RAMAKRISHNAN",
+                    "dob": "10-07-1990",
+                    "date_of_joining": "06-01-2023",
+                    "aicte_id": "43376022523",
+                    "phd_thesis_title": "SOCIAL VISION IN THE NOVELS OF VS NAIPAUL",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "MA",
+                            "specialization": "ENGLISH",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ENGLISH",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. P. VIJAY ANAND",
+                    "dob": "09-06-1981",
+                    "date_of_joining": "06-01-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "ECOFEMINISM IN THE SELECT NOVELS OF TONI MORRISON",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "MA",
+                            "specialization": "ENGLISH",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ENGLISH",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. R. RAMAKRISHNAN",
+                    "dob": "13-08-1987",
+                    "date_of_joining": "01-06-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "OMEN CHARACTERS IN THE SELECT SHORT STORIES OF LAKSHMI KANNAN",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "ARTS AND SCIENCE",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "MA",
+                            "specialization": "ENGLISH",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "ENGLISH",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. K. MUGESHPILLAI",
+                    "dob": "06-06-1991",
+                    "date_of_joining": "06-01-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "ENGLISH",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

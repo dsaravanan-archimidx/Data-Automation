@@ -1,0 +1,149 @@
+{
+    "faculty_details": [
+        {
+            "department": " ",
+            "faculty_members": [
+                {
+                    "name": "DR. G. ARASURAJA",
+                    "dob": "22-01-1987",
+                    "date_of_joining": "06-10-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "A STUDY ON BUYING BEHAVIOUR CONSUMER SATISFACTION AND LOYALTY TOWARDS ONLINE PURCHASE",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+                            "college_name": "ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "MASTER OF BUSINESS ADMINISTRATION",
+                            "college_name": "SCHOOL OF MANAGEMENT",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "INTERNATIONAL BUSINESS",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "10 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. SETHURAMAN. PRIYA",
+                    "dob": "22-07-1971",
+                    "date_of_joining": "11-07-2022",
+                    "aicte_id": "1455122163",
+                    "phd_thesis_title": "COMPETITIVENESS AMONG INDIAN COMMERCIAL BANKS DURING THE REFORM PERIOD",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ECONOMICS",
+                            "college_name": "DEEMED UNIVERSITY",
+                            "year_of_passing": "1991"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "MASTER OF BUSINESS ADMINISTRATION",
+                            "college_name": "DEEMED UNIVERSITY",
+                            "year_of_passing": "1996"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "INTERNATIONAL BUSINESS",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "22 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. V. ARUNA",
+                    "dob": "08-04-1982",
+                    "date_of_joining": "15-03-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "A STUDY ON KNOWLEDGE MANAGEMENT SYSTEM IN SOFTWARE INDUSTRY IN CHENNAI",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "INFORMATION TECHNOLOGY",
+                            "college_name": "SRI RAM ENGINEERING COLLEGE",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "MASTER OF BUSINESS ADMINISTRATION",
+                            "college_name": "SCHOOL OF MANAGEMENT",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "KNOWLEDGE MANAGEMENT SYSTEM",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. M. RAJAPRIYA",
+                    "dob": "19-03-1985",
+                    "date_of_joining": "11-07-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "A STUDY ON DISABILITY MANAGEMENT OF WOMEN EMPLOYEES IN GARMENT INDUSTRIES AT CHENNAI",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.B.A.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "VALLIAMMAL COLLEGE FOR WOMEN",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "MASTER OF BUSINESS ADMINISTRATION",
+                            "college_name": "SANKU COLLEGE OF ARTS AND SCIENCE",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MANAGEMENT",
+                            "college_name": "WOMEN UNIVERSITY",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

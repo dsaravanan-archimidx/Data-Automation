@@ -1,0 +1,254 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-Chemistry",
+            "faculty_members": [
+                {
+                    "name": "DR. S. KUMAR",
+                    "dob": "21-03-1993",
+                    "date_of_joining": "02-12-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "CHEMISTRY",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "MUTHURANGAM ARTS COLLEGE",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "THIRUVALLUVAR UNIVERSITY",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. G. BOOPATHY",
+                    "dob": "20-06-1992",
+                    "date_of_joining": "02-12-2022",
+                    "aicte_id": "AUU",
+                    "phd_thesis_title": "ELECTRO CHEMICL DETECTION OF NEURO TRANSMITTORS AND BIO MOLECULES USING METAL OXIDE AND METAL SULPHIDE EMBEDDED GRAPHINE OXIDE",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "VIVEKANANDA COLLEGE",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "CHEMISTRY COLLEGE",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "ANNA UNIVERSSITY",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. P. RAMU",
+                    "dob": "20-06-1970",
+                    "date_of_joining": "28-08-2017",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "ARIGNAR ANNA GOVT ARTS COLLEGE",
+                            "year_of_passing": "1990"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "APPLIED CHEMISTRY",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "1992"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "BHARATHIDHASAN UNIVERSITY",
+                            "year_of_passing": "2008"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. TN. BALAJI",
+                    "dob": "01-06-1985",
+                    "date_of_joining": "02-09-2022",
+                    "aicte_id": "AUU",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "PACHAIYAPPAS COLLEGE",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "ABDUL HAKKEM COLLEGE",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "MPHIL",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "ABDUL HAKKEM COLLEGE",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "9 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. P. PRASANNADEVI",
+                    "dob": "09-06-1989",
+                    "date_of_joining": "01-09-2022",
+                    "aicte_id": "AU",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "HOLY CROSS COLLEGE",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "ST JOSEPH COLLEGE",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M PHIL",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "ST JOSEPH COLLEGE",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. S. KALAIVANI",
+                    "dob": "21-05-1983",
+                    "date_of_joining": "01-09-2022",
+                    "aicte_id": "AUII",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "MAHARAJ COLLEGE",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "MAHENDRA COLLEGE",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M PHIL",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "VINAYAGA MISSION UNIVERSITY",
+                            "year_of_passing": "2009"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. R. RAMYA",
+                    "dob": "20-03-1994",
+                    "date_of_joining": "02-06-2022",
+                    "aicte_id": "AUU",
+                    "phd_thesis_title": "CHEMISTRY",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "ADM COLLEGE",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "ADM COLLEGE",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "MADRAS UNIVERSITY",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

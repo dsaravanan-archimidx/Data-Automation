@@ -1,0 +1,218 @@
+{
+    "faculty_details": [
+        {
+            "department": "Computer Science",
+            "faculty_members": [
+                {
+                    "name": "Dr. B. Jayachandran",
+                    "dob": "21-05-1978",
+                    "date_of_joining": "10-03-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "FUZZY LOGIC",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Computer Science",
+                            "college_name": "Bharathiar University",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "M.Tech.",
+                            "specialization": "Computer Science",
+                            "college_name": "Karunya University",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": "Computer Science",
+                            "college_name": "Manonmaniam Sundaranar Engineering University",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "Associate Professor",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "13 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "Mr. U. Sarath Babu",
+                    "dob": "24-11-1982",
+                    "date_of_joining": "10-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.Tech.",
+                            "specialization": "Information Technology",
+                            "college_name": "Adhiparasakthi College of Engineering",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.Tech.",
+                            "specialization": "Computer Science",
+                            "college_name": "AVIT University",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "Assistant Professor",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "11 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "Mr. T. Premkumar",
+                    "dob": "04-10-1992",
+                    "date_of_joining": "10-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.Tech.",
+                            "specialization": "Information Technology",
+                            "college_name": "Adhiparasakthi College of Engineering",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "M.Tech.",
+                            "specialization": "Computer Science",
+                            "college_name": "VIT University",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "Assistant Professor",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "Mrs. R. Sathiya",
+                    "dob": "30-01-1990",
+                    "date_of_joining": "01-07-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.Tech.",
+                            "specialization": "Information Technology",
+                            "college_name": "Mahendra College of Engineering",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.Tech.",
+                            "specialization": "Information Technology",
+                            "college_name": "Anna University Regional Campus, Coimbatore",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "Assistant Professor",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "Mrs. K. Muthulakshmi",
+                    "dob": "20-04-1991",
+                    "date_of_joining": "15-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.Tech.",
+                            "specialization": "Information Technology",
+                            "college_name": "SASTRA University",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Computer Science",
+                            "college_name": "Thangavelu College of Engineering",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "Assistant Professor",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "Mrs. A. Sofia Gunaseeli",
+                    "dob": "13-03-1988",
+                    "date_of_joining": "01-02-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Computer Science",
+                            "college_name": "Mount Zion College of Engineering and Technology",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.Tech.",
+                            "specialization": "Information Technology",
+                            "college_name": "PSN College of Engineering and Technology (Autonomous)",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "Assistant Professor",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Year",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "Ms. K. Aishwarya",
+                    "dob": "12-07-1986",
+                    "date_of_joining": "12-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Computer Science",
+                            "college_name": "Arulmigu Meenakshi Amman College of Engineering",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Computer Science",
+                            "college_name": "Arulmigu Meenakshi Amman College of Engineering",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "Assistant Professor",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

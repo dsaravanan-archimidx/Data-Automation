@@ -1,0 +1,79 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-Chemistry",
+            "faculty_members": [
+                {
+                    "name": "DR. S H. ANJANA LAKSHMI",
+                    "dob": "25-09-1985",
+                    "date_of_joining": "21-02-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "SYNTHESIS CHARATERIZATION OF COPPER NICKLE AND ZINC ELECTROCHEMICAL AND DNA BINDING AND CLEAVAGE STUDIES",
+                    "year_of_starting": "0 Years",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "JBAS COLLEGE FOR WOMEN",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "O CHTH EMER ISS T - R A YPPLIED C -OLLEGE OF ENGINEERING GUINDY",
+                            "college_name": "2008",
+                            "year_of_passing": "Current Position"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "APPLIED CHEMISTRY",
+                            "college_name": "UNIVERSITY OF MADARAS",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. S. SAMPURNAM",
+                    "dob": "28-07-1984",
+                    "date_of_joining": "06-12-2021",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "SYNTHESIS CHARACTERIZATION OF 12 PHOSPHOTUNGSTIC ACID ZIRCONIA AND THEIR POLYANILINE POLYPYRROLE NANOHYBRIDS FOR PHOTOCATALYSIS AND BIOLOGICAL STUDIES",
+                    "year_of_starting": "1 Years",
+                    "educational_qualification": [
+                        {
+                            "degree": "OTHERS -",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "THE NEW COLLEGE",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "PACHAIYAPPAS COLLEGE",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "UNIVERSITY OF MADRAS",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "7 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

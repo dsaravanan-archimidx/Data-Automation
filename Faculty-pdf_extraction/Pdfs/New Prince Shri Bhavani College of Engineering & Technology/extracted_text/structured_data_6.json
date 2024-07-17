@@ -1,0 +1,324 @@
+{
+    "faculty_details": [
+        {
+            "department": "Mechanical Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. P K. CHIDAMBARAM",
+                    "dob": "30-11-1968",
+                    "date_of_joining": "05-08-2019",
+                    "aicte_id": "17416177406",
+                    "phd_thesis_title": "STUDIES ON SYNTHESIS AND PERFORMANCE ANALYSIS OF CARBON NANO TUBE REINFORCED NYLON 6 6 NANO COMPOSITE FOR TENNIS RACKET",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "NATIONAL INSTITUTE OF ENGINEERING TECHNOLOGY,TIRUCHIRAPPALLI",
+                            "year_of_passing": "1996"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "OTHERS-MADRAS UNIVERSITYQ",
+                            "college_name": " ",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "NANO OTHERS-TNPSU",
+                            "college_name": " ",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "21 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. A. BUCKSHUMIYAN",
+                    "dob": "02-06-1977",
+                    "date_of_joining": "16-12-2020",
+                    "aicte_id": "17486340051",
+                    "phd_thesis_title": "DETERMINING PLASTIC COLLAPSIBILITY OF PIPE BENDS SUBJECTED INTERNAL PRESSURE AND IN PLANE OPENING AND OUT OF PLANE MOMENT",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "NATIONAL INSTITUTE OF ENGINEERING TECHNOLOGY,TIRUCHIRAPPALLI",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": " ",
+                            "college_name": " ",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": " ",
+                            "college_name": " ",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "9 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. M. ATHIMOOLAM",
+                    "dob": "20-04-1977",
+                    "date_of_joining": "01-08-2022",
+                    "aicte_id": "17441425499",
+                    "phd_thesis_title": "STUDIES ON NANOCLAY REINFORCED BLENDED POLYMER MATRIX COMPOSITES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2000"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "MANUFACTURING ENGINEERING",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "17 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. K. ALAGARRAJA",
+                    "dob": "05-02-1980",
+                    "date_of_joining": "26-07-2021",
+                    "aicte_id": "19319277939",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "KUMARAGURU COLLEGE OF TECHNOLOGY (AUTONOMOUS)-",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "CAD/CAM",
+                            "college_name": "THIRUVALLUVAR COLLEGE OF ENGINEERING AND TECHNOLOGY--",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "DESIGN",
+                            "college_name": "ANNA UNIVESITY REGIONAL CAMPUS, COIMBATORE--",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. T. THOMAS KOILRAJ",
+                    "dob": "14-03-1972",
+                    "date_of_joining": "14-03-2022",
+                    "aicte_id": "19595912568",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "KUMARAGURU COLLEGE OF TECHNOLOGY (AUTONOMOUS)-",
+                            "year_of_passing": "1995"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "INTEGRATED MANUFACTURING ENGINEERING",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY--",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": " ",
+                            "college_name": " ",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "24 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. V. ARUN",
+                    "dob": "16-06-1992",
+                    "date_of_joining": "04-08-2016",
+                    "aicte_id": "13596582886",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "PRINCE SHRI VENKATESHWARAA PADMAVATHY ENGINEERING COLLEGE (AUTONOMOUS)--",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ENERGY ENGINEERING",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY--",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": " ",
+                            "college_name": " ",
+                            "year_of_passing": " "
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. A. RAKESHKUMAR",
+                    "dob": "04-03-1989",
+                    "date_of_joining": "22-08-2022",
+                    "aicte_id": "12636111053",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "BANNARI AMMAN INSTITUTE OF TECHNOLOGY (AUTONOMOUS)--",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "REFRIGERATION AND AIR CONDITIONING",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY--",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": " ",
+                            "college_name": " ",
+                            "year_of_passing": " "
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "8 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. M. SHANMUGA KUMAR",
+                    "dob": "10-07-1991",
+                    "date_of_joining": "13-12-2021",
+                    "aicte_id": "4114217",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "GRACE COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "DESIGN",
+                            "college_name": "ANNA UNIVESITY REGIONAL CAMPUS, COIMBATORE--",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": " ",
+                            "college_name": " ",
+                            "year_of_passing": " "
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. SENTHILBABU ALAGAPPA CHETTIAR",
+                    "dob": "25-06-1970",
+                    "date_of_joining": "26-07-2021",
+                    "aicte_id": "1451379313",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "AUTOMATION ENGINEERING",
+                            "college_name": "GOVERNMENT COLLEGE OF ENGINEERING TECHNOLOGY (AUTONOMOUS)--",
+                            "year_of_passing": "1991"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "PRODUCTION TECHNOLOGY",
+                            "college_name": "GOVERNMENT COLLEGE OF ENGINEERING COIMBATORE (AUTONOMOUS)--",
+                            "year_of_passing": "1996"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": " ",
+                            "college_name": " ",
+                            "year_of_passing": " "
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "23 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

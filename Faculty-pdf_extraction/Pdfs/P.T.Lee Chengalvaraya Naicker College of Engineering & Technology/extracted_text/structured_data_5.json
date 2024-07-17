@@ -1,0 +1,288 @@
+{
+    "faculty_details": [
+        {
+            "department": "Mechanical Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. P. PALANISAMY",
+                    "dob": "17-07-1966",
+                    "date_of_joining": "13-04-2022",
+                    "aicte_id": "19312860461",
+                    "phd_thesis_title": "STUDIES ON CUTTING FORCE STABILITY AND TOOL WEAR IN END MILLING PROCESS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "GOVERNMENT COLLEGE OF ENGINEERING SALEM",
+                            "year_of_passing": "1988"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "DESIGN TECHNOLOGY",
+                            "college_name": "GOVERNMENT COLLEGE OF TECHNOLOGY COIMBATORE",
+                            "year_of_passing": "1990"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "GOVERNMENT COLLEGE OF TECHNOLOGY COIMBATORE",
+                            "year_of_passing": "2007"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "30 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. K. SIVAKUMAR",
+                    "dob": "02-04-1976",
+                    "date_of_joining": "31-01-2022",
+                    "aicte_id": "111066572841",
+                    "phd_thesis_title": "OPTIMIZATION OF GEAR BOX DESIGN USING HEURISTIC APPROACHES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "ARULMIGU MEENAKSHI AMMAN COLLEGE OF ENGINEERING",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "INDUSTRIAL ENGINEERING",
+                            "college_name": "OTHERS-DRMGR ENGINEERING COLLEGE",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "OTHERS-ANNA UNIVERSITY",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "24 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. S. BOOPATHI",
+                    "dob": "30-05-1974",
+                    "date_of_joining": "13-04-2022",
+                    "aicte_id": "17361617160",
+                    "phd_thesis_title": "EXPERIMENTAL STUDY ON FLAME STABILIZATION AND BLOWOUT IN METHANE AIR COMBUSTION",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "THANTHAI PERIYAR GOVERNMENT INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "1995"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "THERMAL ENGINEERING",
+                            "college_name": "SRI VENKATESWARA COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "OTHERS-ANNA UNIVERSITY",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "19 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. J. KISHOR KUMAR",
+                    "dob": "28-04-1978",
+                    "date_of_joining": "01-02-2013",
+                    "aicte_id": "12191013040",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "GOVERNMENT COLLEGE OF TECHNOLOGY COIMBATORE",
+                            "year_of_passing": "1999"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "THERMAL ENGINEERING",
+                            "college_name": "SRI VENKATESWARAA ENGINEERING COLLEGE OF TECHNOLOGY",
+                            "year_of_passing": "2001"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "10 Years",
+                            "previous_position": "7 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. N. PRAKASH",
+                    "dob": "02-04-1968",
+                    "date_of_joining": "02-02-2012",
+                    "aicte_id": "1811910368",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "PSG COLLEGE OF TECHNOLOGY",
+                            "year_of_passing": "1989"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "CAD/CAM",
+                            "college_name": "THIRUVALLUVAR COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "11 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. DHIVAKAR",
+                    "dob": "06-05-1989",
+                    "date_of_joining": "02-07-2014",
+                    "aicte_id": "12298374403",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "KANCHI PALLAVAN ENGINEERING COLLEGE",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "THERMAL ENGINEERING",
+                            "college_name": "ADHIPARASAKTHI COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "8 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. R. RAMESH BABU",
+                    "dob": "10-06-1985",
+                    "date_of_joining": "01-07-2013",
+                    "aicte_id": "12190947903",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "P T LEE CHENGALVARAYA NAICKER COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "THERMAL ENGINEERING",
+                            "college_name": "JAYAM COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "9 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. N. KRISHNAMOORTHY",
+                    "dob": "10-06-1986",
+                    "date_of_joining": "03-07-2013",
+                    "aicte_id": "12191013475",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "P T LEE CHENGALVARAYA NAICKER COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ENGINEERING DESIGN",
+                            "college_name": "MAILAM ENGINEERING COLLEGE",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "9 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. K. ANBUMANI",
+                    "dob": "06-06-1979",
+                    "date_of_joining": "08-08-2022",
+                    "aicte_id": "127752512631",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "AUTOMOBILE ENGINEERING MADRAS INSTITUTE OF TECHNOLOGY CHROMPET",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": " ",
+                            "college_name": " ",
+                            "year_of_passing": "2004"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "21 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

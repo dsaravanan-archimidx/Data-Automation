@@ -1,0 +1,254 @@
+{
+    "faculty_details": [
+        {
+            "department": "Mathematics",
+            "faculty_members": [
+                {
+                    "name": "DR. P. ANURADHA",
+                    "dob": "08-07-1968",
+                    "date_of_joining": "16-09-2002",
+                    "aicte_id": "1499378975",
+                    "phd_thesis_title": "A STUDY ON VISO ELASTIC FLUID FLOW AND HEAT TRANSFER OVER A STRETCHING SHEET",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "COLLEGE FOR WOMEN",
+                            "year_of_passing": "1988"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "APPLIED COLLEGE OF ENGINEERING",
+                            "year_of_passing": "1990"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2009"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "20 Years",
+                            "previous_position": "12 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. V. SUDHAKAR",
+                    "dob": "30-05-1977",
+                    "date_of_joining": "27-08-2003",
+                    "aicte_id": "1502040273",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ENGINEERING",
+                            "college_name": "COLLEGE OF ENGINEERING AND OPERATIONS",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.PHIL.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "13 Years",
+                            "previous_position": "9 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. B. SENTHIL",
+                    "dob": "08-12-1980",
+                    "date_of_joining": "01-12-2021",
+                    "aicte_id": "13182396961",
+                    "phd_thesis_title": "COEFFICIENT BOUNDS ON SUBCLASSES OF BIUNIVALENT SAGAKUCHI TYPE FUNCTIONS ASSOCIATED WITH SPECIAL FUNCTIONS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "17 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. A. THILAKAVATHY",
+                    "dob": "13-11-1974",
+                    "date_of_joining": "25-06-2012",
+                    "aicte_id": "11463100254",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "COLLEGE FOR WOMEN",
+                            "year_of_passing": "1995"
+                        },
+                        {
+                            "degree": "M.PHIL.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "CENTRE FOR POST GRADUATE STUDIES",
+                            "year_of_passing": "1997"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "10 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. S. SANGEETHA",
+                    "dob": "06-05-1974",
+                    "date_of_joining": "01-07-2019",
+                    "aicte_id": "17707498386",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "1994"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "1999"
+                        },
+                        {
+                            "degree": "M.PHIL.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2004"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "15 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. L.N.. NARAYANAN",
+                    "dob": "22-03-1985",
+                    "date_of_joining": "03-08-2015",
+                    "aicte_id": "12706321583",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.PHIL.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "RURAL UNIVERSITY",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "7 Years",
+                            "previous_position": "7 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. V. MALARVIZHI",
+                    "dob": "06-10-1983",
+                    "date_of_joining": "01-07-2013",
+                    "aicte_id": "12303922169",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "COLLEGE",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.PHIL.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2007"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "9 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-Physics",
+            "faculty_members": [
+                {
+                    "name": "DR. V. VIJAYASUNDARAM",
+                    "dob": "07-11-1983",
+                    "date_of_joining": "02-07-2009",
+                    "aicte_id": "461967357",
+                    "phd_thesis_title": "SPECTROSCOPIC STUDY OF THE EFFECT OF ARSENIC EXPOSURE AND THE INFLUENCE OF ANTIDOTE MESO 2 3 DIMERCAPTOSUCCINIC ACID ON THE SELECTED ORGAN TISSUES OF LABEO ROHITA FINGERLINGS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "OTHERS-DHARAMAPURAM ADHINAM ARTS",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "OTHERS-ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "PHYSICS",
+                            "college_name": "OTHERS-ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "13 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. V. SIVARAMAKIRSHNAN",
+                    "dob": "24-03-1978",
+                    "date_of_joining": "04-01-2011",
+                    "aicte_id": "465035193",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "OTHERS-SRI SANKARA ARTS AND SCIENCE",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "OTHERS-PACHAIYAPAS COLLEGE FOR MEN",
+                            "year_of_passing": "2000"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "PHYSICS",
+                            "college_name": "OTHERS-ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2007"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "12 Years",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. P. HARIPRIYA",
+                    "dob": "15-05-1976",
+                    "date_of_joining": "09-07-2009",
+                    "aicte_id": "465035189",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "OTHERS-SDNB VAISNAV COLLEGE FOR WOMEN",
+                            "year_of_passing": "1996"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "OTHERS-MADRAS CHRISTIAN COLLEGE",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "PHYSICS",
+                            "college_name": "OTHERS-MADRAS CHRISTIAN COLLEGE",
+                            "year_of_passing": "2005"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "18 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

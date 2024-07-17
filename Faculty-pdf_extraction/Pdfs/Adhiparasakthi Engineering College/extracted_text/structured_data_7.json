@@ -1,0 +1,79 @@
+{
+    "faculty_details": [
+        {
+            "department": "MECHANICAL",
+            "faculty_members": [
+                {
+                    "name": "DR. S. MOTHILAL",
+                    "dob": "30-05-1971",
+                    "date_of_joining": "01-10-2021",
+                    "aicte_id": "11051240647",
+                    "phd_thesis_title": "A STUDY ON SUCCESS AND PERFORMANCE OF INDIAN THIRD PARTY LOGISTICS 3PL INDUSTRY",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "THIAGARAJAR COLLEGE OF ENGINEERING",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ENGINEERING AND PRODUCTION TECHNOLOGY",
+                            "college_name": "SRM MADURAI COLLEGE FOR ENGINEERING AND PRODUCTION TECHNOLOGY",
+                            "year_of_passing": "1999"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "ANNA UNIVESITY REGIONAL CAMPUS, MADURAI",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "27 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. KB. YOGESHWARAN",
+                    "dob": "04-04-1989",
+                    "date_of_joining": "03-06-2013",
+                    "aicte_id": "12184542517",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "ADHIPARASAKTHI ENGINEERING COLLEGE",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "THERMAL ENGINEERING",
+                            "college_name": "ADHIPARASAKTHI ENGINEERING COLLEGE",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "9 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

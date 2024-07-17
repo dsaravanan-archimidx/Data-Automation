@@ -1,0 +1,359 @@
+{
+    "faculty_details": [
+        {
+            "department": "Mechatronics Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. S. CHANDRAVADHANA RAJAS",
+                    "dob": "16-06-1969",
+                    "date_of_joining": "18-12-2003",
+                    "aicte_id": "OTHERS - IMAGE",
+                    "phd_thesis_title": "LEAST MEAN SQUARE ERROR BASED BLOCK TRUNCATION CODING FOR IMAGE COMPRESSION",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS AND COMMUNICATION",
+                            "college_name": "RAJAS ENGINEERING COLLEGE",
+                            "year_of_passing": "1991"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "APPLIED ELECTRONICS",
+                            "college_name": "SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": "PROCESSING",
+                            "college_name": "BS ABDUR REHMAN UNIVERSITY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "19 Years",
+                            "previous_position": "6 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. R. PANDIYARAJAN",
+                    "dob": "20-04-1987",
+                    "date_of_joining": "09-09-2019",
+                    "aicte_id": "2667041741",
+                    "phd_thesis_title": "EXPERIMENTAL INVESTIGATION ON FRICTION STIR WELDING OF AA6061 ZRO2 C PARTICULATE COMPOSITES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL",
+                            "college_name": "SACS M A V M M ENGINEERING COLLEGE",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "DESIGN",
+                            "college_name": "ANNA UNIVESITY REGIONAL CAMPUS,TIRUNELVELI",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "7 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. A. PALANIAPPA",
+                    "dob": "12-12-1992",
+                    "date_of_joining": "16-08-2021",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL",
+                            "college_name": "KING COLLEGE OF ENGINEERING TECHNOLOGY",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "TECHNOLOGY",
+                            "college_name": "MADRAS INSTITUTE OF MECHATRONICS TECHNOLOGY",
+                            "year_of_passing": "2017"
+                        },
+                        {
+                            "degree": "",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. R. ARIVAZHAGAN",
+                    "dob": "25-09-1991",
+                    "date_of_joining": "22-03-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL",
+                            "college_name": "PRINCE SHRI VENKATESHWARAA PADMAVATHY ENGINEERING COLLEGE (AUTONOMOUS)",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ENERGY",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. P. BALAMURUGAN",
+                    "dob": "04-06-1987",
+                    "date_of_joining": "20-06-2016",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL",
+                            "college_name": "BHARATH NIKETAN ENGINEERING COLLEGE",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "THERMAL",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. T. SRINIVASAN",
+                    "dob": "19-09-1991",
+                    "date_of_joining": "12-07-2017",
+                    "aicte_id": "ENGINEERING (AUTONOMOUS)",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL",
+                            "college_name": "OTHERS-ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "THERMAL",
+                            "college_name": "GOVERNMENT COLLEGE OF ENGINEERING SALEM",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. BABU",
+                    "dob": "20-05-1978",
+                    "date_of_joining": "02-07-2011",
+                    "aicte_id": "12186228240",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL",
+                            "college_name": "MADRAS INSTITUTE OF TECHNOLOGY CHROMPET",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "CAD/CAM",
+                            "college_name": "SRI SAI RAM ENGINEERING COLLEGE (AUTONOMOUS)",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "11 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. KARTHIKEYAN",
+                    "dob": "07-06-1987",
+                    "date_of_joining": "12-07-2017",
+                    "aicte_id": "13580132189",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL",
+                            "college_name": "KINGS COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "THERMAL",
+                            "college_name": "SARANATHAN COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. T. VIVEK",
+                    "dob": "17-06-1979",
+                    "date_of_joining": "14-03-2018",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS AND INSTRUMENTATION",
+                            "college_name": "NATIONAL ENGINEERING COLLEGE (AUTONOMOUS)",
+                            "year_of_passing": "2000"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "MECHATRONICS",
+                            "college_name": "MADRAS INSTITUTE OF TECHNOLOGY CHROMPET",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "14 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. CHORDIYA. JAYESH",
+                    "dob": "07-05-1991",
+                    "date_of_joining": "23-09-2021",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "INFLUENCE OF PARTITION WALL ON NATURAL CONVECTION IN A RECTANGULAR POROUS ENCLOSURE",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "MECHANICAL",
+                            "college_name": "OTHERS-NATIONAL INSTITUTE OF TECHOLOGY",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "OTHERS-NATIONAL INSTITUTE OF TECHNOLOGY JAMSHEDPUR",
+                            "year_of_passing": "2020"
+                        },
+                        {
+                            "degree": "",
+                            "specialization": "",
+                            "college_name": "",
+                            "year_of_passing": ""
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

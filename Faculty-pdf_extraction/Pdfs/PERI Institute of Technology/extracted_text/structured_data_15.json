@@ -1,0 +1,149 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-Physics",
+            "faculty_members": [
+                {
+                    "name": "DR. K. ANANDHAN",
+                    "dob": "04-05-1985",
+                    "date_of_joining": "23-11-2022",
+                    "aicte_id": "AUU",
+                    "phd_thesis_title": "ORGANIC MOLECULES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "OTHERS-MADARAS UNIVERSITY",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "OTHERS-ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "PHYSICS",
+                            "college_name": "OTHERS-PERIYAR UNIVERSITY",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. K S. VENKATESH",
+                    "dob": "10-06-1985",
+                    "date_of_joining": "01-09-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "INVESTIGATION OF NANOSTRUCTURED METAL OXIDES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "OTHERS-VIVEKANANDA COLLEGE",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "OTHERS-ALAGAPPA UNIVERSITY",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "NANO SCIENCE AND TECHNOLOGY",
+                            "college_name": "OTHERS-ALAGAPPA UNIVERSITY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. G. PUGAZHGOWRISHANKAR",
+                    "dob": "14-10-1993",
+                    "date_of_joining": "01-09-2022",
+                    "aicte_id": "4184374 M PHIL",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "OTHERS-ARIGNAR ANNA COLLEGE",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "OTHERS-ARIGNAR ANNA COLLEGE",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "M PHIL",
+                            "specialization": "PHYSICS",
+                            "college_name": "OTHERS-ARIGNAR ANNA COLLEGE",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. P. YOGARANI",
+                    "dob": "01-06-1987",
+                    "date_of_joining": "01-09-2022",
+                    "aicte_id": "AU11 M PHIL",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "OTHERS-VV COLLEGE FOR WOMEN",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "OTHERS-ANJAC COLLEGE",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M PHIL",
+                            "specialization": "PHYSICS",
+                            "college_name": "OTHERS-M K UNIVERSITY",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,375 @@
+{
+    "faculty_details": [
+        {
+            "department": "Mechanical Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. M. VENKATESAN",
+                    "dob": "15-07-1979",
+                    "date_of_joining": "22-12-2008",
+                    "aicte_id": "1431081321",
+                    "phd_thesis_title": "STUDIES ON MECHANICAL AND WEAR CHARACTERISTICS OF NANO POLYMER AND NANO GFRP HYBRID COMPOSITES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "THANGAVELU ENGINEERING",
+                            "year_of_passing": "2000"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER AIDED DESIGN",
+                            "college_name": "SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "PRINCIPAL",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "17 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. A K S. ANSARI",
+                    "dob": "01-05-1960",
+                    "date_of_joining": "10-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "DESIGN AND SIMULATION OF EFFECTIVE COLLAGE IN VACUATED BRAKE DISC",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "OTHERS",
+                            "college_name": "BANGALORE UNIVERSITY",
+                            "year_of_passing": "1984"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER AIDED DESIGN",
+                            "college_name": "SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "VIT UNIVERSITY",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "18 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. V. VENU GOPAL",
+                    "dob": "20-06-1974",
+                    "date_of_joining": "10-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "ANALYSIS IN THERMAL MODELING AND CHARACTERIZATION OF SOLID OXIDE CELL BASED BIOMASS GASIFICATION SYSTEM",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "OTHERS",
+                            "college_name": "UNIVERSITY OF MADRAS",
+                            "year_of_passing": "1997"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "MANUFACTURING TECHNOLOGY",
+                            "college_name": "PONNAIYAH RAMAJAYAM COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "TECHNO GLOBAL UNIVERSITY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "8 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. V. ABINANTHAN",
+                    "dob": "17-01-1991",
+                    "date_of_joining": "01-07-2015",
+                    "aicte_id": "COLLEGE--",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "THANGAVELU ENGINEERING COLLEGE",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER AIDED DESIGN",
+                            "college_name": "COLLEGE--",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "7 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. PRABHU",
+                    "dob": "23-04-1992",
+                    "date_of_joining": "02-12-2019",
+                    "aicte_id": "ENGINEERING GUINDY--",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "KRS COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "",
+                            "college_name": "ENGINEERING GUINDY--",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. D. SARAVANA SUNDAR",
+                    "dob": "20-07-1980",
+                    "date_of_joining": "08-05-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL",
+                            "college_name": "SONA COLLEGE OF TECHNOLOGY",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER AIDED DESIGN",
+                            "college_name": "THANGAVELU ENGINEERING COLLEGE--",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. S. EABEN RAJKUMAR",
+                    "dob": "28-07-1970",
+                    "date_of_joining": "08-05-2023",
+                    "aicte_id": "PH.D. MECHANICAL COLLEGE OF ENGINEERING GUINDY-",
+                    "phd_thesis_title": "TRIBOLOGICAL AND DRILLING STUDIES OF AI B4C MICA HYBRID METAL MATRIX COMPOSITES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "GOVERNMENT COLLEGE OF ENGINEERING (AUTONOMOUS)--IMBATORE",
+                            "year_of_passing": "1999"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "PRODUCTION TECHNOLOGY",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY-",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "19 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. M. MANI",
+                    "dob": "14-08-1991",
+                    "date_of_joining": "10-06-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "OTHERS-SAVEETHA SCHOOL OF ENGINEERING",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "INDUSTRIAL SAFETY",
+                            "college_name": "CAUVERY COLLEGE OF ENGINEERING AND TECHNOLOGY--",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. G. BAKKIYARAJ",
+                    "dob": "20-04-1984",
+                    "date_of_joining": "15-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "ANNAMALAI UNIVERSITY--",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "MANUFACTURING ENGINEERING",
+                            "college_name": "ANNAMALAI UNIVERSITY--",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. B. SUDHARSANAM",
+                    "dob": "12-05-1989",
+                    "date_of_joining": "08-05-2023",
+                    "aicte_id": "COLLEGE--",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "THANGAVELU ENGINEERING COLLEGE",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER AIDED DESIGN",
+                            "college_name": "COLLEGE--",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. K. PARTHIBAN",
+                    "dob": "02-06-1980",
+                    "date_of_joining": "04-07-2016",
+                    "aicte_id": "COLLEGE--",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "OTHERS-PERIYAR UNIVERSITY",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER AIDED DESIGN",
+                            "college_name": "COLLEGE--",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "13 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. R. RAVIKUMAR",
+                    "dob": "26-05-1981",
+                    "date_of_joining": "05-07-2022",
+                    "aicte_id": "COLLEGE--",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "JAYA ENGINEERING COLLEGE--",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER AIDED DESIGN",
+                            "college_name": "COLLEGE--",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

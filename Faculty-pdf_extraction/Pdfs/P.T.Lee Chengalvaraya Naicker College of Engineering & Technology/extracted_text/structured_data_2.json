@@ -1,0 +1,228 @@
+{
+    "faculty_details": [
+        {
+            "department": "Electrical and Electronics Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. S. PRABAKARAN",
+                    "dob": "11-07-1968",
+                    "date_of_joining": "19-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "INVESTIGATION ON HYBRID PARTICLE SWARM OPTIMIZATION ALGORITHM FOR SOLVING EMISSION CONSTRAINED ECONOMIC DISPATCH AND PROFIT BASED UNIT COMMITMENT PROBLEM",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ENGINEERING",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "1999"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ELECTRICAL ENGINEERING",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "22 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. K. VENKATESAN",
+                    "dob": "19-02-1975",
+                    "date_of_joining": "23-03-2022",
+                    "aicte_id": "111300636858",
+                    "phd_thesis_title": "UNIT COMMITMENT AI TECHNIQUES UNDER DEREGULATED ENVIRONMENT",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.E.",
+                            "specialization": "POWER SYSTEMS ENGINEERING",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ELECTRICAL ENGINEERING",
+                            "college_name": "JNTU ANANTHAPUR",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "20 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. K. POONKODI",
+                    "dob": "18-10-1988",
+                    "date_of_joining": "18-01-2013",
+                    "aicte_id": "11559896453",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ELECTRONICS ENGINEERING",
+                            "college_name": "AMMAN COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "10 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. K. GOMATHY",
+                    "dob": "29-11-1985",
+                    "date_of_joining": "02-01-2012",
+                    "aicte_id": "1794132149",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ELECTRONICS ENGINEERING",
+                            "college_name": "ENGINEERING COLLEGE",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "11 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. B. RAJA PAGALVAN",
+                    "dob": "23-04-1981",
+                    "date_of_joining": "09-08-2009",
+                    "aicte_id": "1736867999",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ENGINEERING",
+                            "college_name": "ENGINEERING COLLEGE GUINDY",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "13 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. C. RAGUPATHI",
+                    "dob": "11-10-1989",
+                    "date_of_joining": "02-07-2014",
+                    "aicte_id": "12298205545",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "SATHIYABAMA UNIVERSITY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "8 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. M. BHARANI",
+                    "dob": "18-10-1978",
+                    "date_of_joining": "21-08-2015",
+                    "aicte_id": "17416736147",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ENGINEERING",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "7 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. S. MANIMEGALAI",
+                    "dob": "10-02-1981",
+                    "date_of_joining": "23-03-2023",
+                    "aicte_id": "13602981048",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ENGINEERING",
+                            "college_name": "CHENNAI",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. V. UMA",
+                    "dob": "05-04-1992",
+                    "date_of_joining": "18-05-2023",
+                    "aicte_id": "111303166185",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ELECTRONICS AND DRIVES",
+                            "college_name": "C ABDUL HAKEEM COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

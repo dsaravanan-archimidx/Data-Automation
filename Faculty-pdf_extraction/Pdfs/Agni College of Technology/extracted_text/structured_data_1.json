@@ -1,0 +1,218 @@
+{
+    "faculty_details": [
+        {
+            "department": "Aerospace Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. SK. NARENDRANATHAN",
+                    "dob": "12-03-1985",
+                    "date_of_joining": "22-02-2022",
+                    "aicte_id": "AUTONOMOUS",
+                    "phd_thesis_title": "EXPERIMENTAL STUDY ON APPROPRIATE METHODOLOGIES FOR FUELLING COMPRESSION IGNITION ENGINE BY USING PUNNAI OIL",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "MAILAM ENGINEERING COLLEGE",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ENERGY ENGINEERING",
+                            "college_name": "PSG COLLEGE OF TECHNOLOGY",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": " ",
+                            "college_name": "DISTANCE COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "14 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. T. THANDIAL SELVAM",
+                    "dob": "04-02-1990",
+                    "date_of_joining": "08-07-2022",
+                    "aicte_id": "12991770180",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "AERONAUTICAL ENGINEERING",
+                            "college_name": "MOHAMED SATHAK ENGINEERING COLLEGE",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": " ",
+                            "college_name": "ANNA UNIVESITY REGIONAL ENGINEERING CAMPUS, TIRUNELVELI",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "8 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. V. SANGEETHA",
+                    "dob": "27-08-1988",
+                    "date_of_joining": "01-03-2019",
+                    "aicte_id": "9312430650",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "AERONAUTICAL ENGINEERING",
+                            "college_name": "V S B ENGINEERING COLLEGE",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": " ",
+                            "college_name": "MANIMEKALAI COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "6 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. A. SHANKAR",
+                    "dob": "06-02-1992",
+                    "date_of_joining": "16-08-2021",
+                    "aicte_id": "2991752787",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "AERONAUTICAL ENGINEERING",
+                            "college_name": "K C G COLLEGE OF TECHNOLOGY",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": " ",
+                            "college_name": "MADRAS INSTITUTE OF TECHNOLOGY CHROMPET",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. PRASANTH",
+                    "dob": "25-05-1992",
+                    "date_of_joining": "20-08-2021",
+                    "aicte_id": "3234393634",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "AERONAUTICAL ENGINEERING",
+                            "college_name": "NEHRU INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": " ",
+                            "college_name": "MADRAS INSTITUTE OF TECHNOLOGY CHROMPET",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. A. SURENDER PAUL",
+                    "dob": "15-10-1989",
+                    "date_of_joining": "18-03-2022",
+                    "aicte_id": "2280326668",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "AERONAUTICAL ENGINEERING",
+                            "college_name": "PMR ENGINEERING COLLEGE",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "AERONAUTICAL ENGINEERING",
+                            "college_name": "HINDUSTHAN INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "7 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. K. YOKESVARAN",
+                    "dob": "07-04-1990",
+                    "date_of_joining": "09-07-2022",
+                    "aicte_id": "12508132283",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "AERONAUTICAL ENGINEERING",
+                            "college_name": "INFANT JESUS COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "AERONAUTICAL ENGINEERING",
+                            "college_name": "HINDUSTAN INSTITUTE OF TECHNOLOGY AND SCIENCE",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "8 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

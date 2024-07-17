@@ -1,0 +1,38 @@
+{
+    "faculty_details": [
+        {
+            "department": "ELECTRICAL AND HIGH VOLTAGE ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "MR. M. RAJA",
+                    "dob": "09-06-1984",
+                    "date_of_joining": "17-03-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "0",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ENGINEERING",
+                            "college_name": "GUINDY",
+                            "year_of_passing": "2009"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

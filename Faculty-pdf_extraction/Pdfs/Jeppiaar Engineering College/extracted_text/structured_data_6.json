@@ -1,0 +1,166 @@
+{
+    "faculty_details": [
+        {
+            "department": "BioTechnology",
+            "faculty_members": [
+                {
+                    "name": "DR. STANLEY. SHALEESHA",
+                    "dob": "24-04-1972",
+                    "date_of_joining": "01-11-2002",
+                    "aicte_id": "431135338",
+                    "phd_thesis_title": "DECONTAMINATION OF CHROMIUM FROM DIFFERENT WASTE WATER SAMPLES USING SEEDS OF MORINGA OLEIFERA",
+                    "year_of_starting": "2002",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - ZOOLOGY",
+                            "college_name": "SARAH TUCKER COLLEGE",
+                            "year_of_passing": "1992"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - FISHERY",
+                            "college_name": "MADURAI KAMARAJ SCIENCES UNIVERSITY",
+                            "year_of_passing": "1994"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "RET SH EE AR RS C-M HS FS OW UA NM DI AN TA IT OH NAN",
+                            "year_of_passing": "2002"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "20 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. J. VERONICA SHALINI",
+                    "dob": "01-04-1975",
+                    "date_of_joining": "22-07-2005",
+                    "aicte_id": "431135563",
+                    "phd_thesis_title": "ADHESION MOLECULES IN RELATION TO SQUAMOUS CELL CARCINOMA OF UTERINE CERVIX",
+                    "year_of_starting": "2004",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - ZOOLOGY",
+                            "college_name": "GOVT COLLEGE FOR WOMEN AUTONOMOUS",
+                            "year_of_passing": "1995"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - ZOOLOGY",
+                            "college_name": "GOVT COLLEGE FOR WOMEN",
+                            "year_of_passing": "1997"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "BIOLOGY",
+                            "college_name": "REGIONAL CANCER CENTRE TRIVANDRUM",
+                            "year_of_passing": "2004"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "11 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. R S A. SORNA KUMAR",
+                    "dob": "02-03-1990",
+                    "date_of_joining": "22-12-2016",
+                    "aicte_id": "3357019015",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "JEPPIAAR ENGINEERING COLLEGE",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "BIOPHARMACEUTICAL TECHNOLOGY",
+                            "college_name": "ANNA UNIVERSITY CHENNAI",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. V. JEYAMANIKANDAN",
+                    "dob": "20-01-1988",
+                    "date_of_joining": "02-01-2012",
+                    "aicte_id": "468841372",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "P S R ENGINEERING COLLEGE",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "BIOTECHNOLOGY",
+                            "college_name": "KALASALINGAM UNIVERSITY",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "11 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. T. GOPI ANAND",
+                    "dob": "08-10-1985",
+                    "date_of_joining": "18-07-2016",
+                    "aicte_id": "3209467471",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "CHEMICAL ENGINEERING",
+                            "college_name": "ANNA UNIVERSITY A C",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "CHEMICAL ENGINEERING",
+                            "college_name": "ANNA UNIVERSITY A C",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "6 Years",
+                            "previous_position": "5 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

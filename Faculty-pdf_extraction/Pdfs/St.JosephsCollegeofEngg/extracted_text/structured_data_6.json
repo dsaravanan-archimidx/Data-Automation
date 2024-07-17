@@ -1,0 +1,130 @@
+{
+    "faculty_details": [
+        {
+            "department": "Instrumentation and Control Engineering",
+            "faculty_members": [
+                {
+                    "name": "MR. RANGAM. VIJAYA",
+                    "dob": "07-06-1984",
+                    "date_of_joining": "13-06-2008",
+                    "aicte_id": "1453937954",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Instrumentation and Control Engineering",
+                            "college_name": "RAMRAJ ELECTRONICS AND COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ELECTRONICS AND CONTROL ENGINEERING",
+                            "college_name": "SATHAYBAMA UNIVERSITY",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "11 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. R. JOYLIN RINI",
+                    "dob": "03-07-1991",
+                    "date_of_joining": "02-08-2017",
+                    "aicte_id": "13580795238",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "INSTRUMENTATION ENGINEERING",
+                            "college_name": "PANIMALAR COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ELECTRONICS AND POWER DRIVES",
+                            "college_name": "RAJALAKSHMI COLLEGE",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "Instrumentation and Control Engineering",
+            "faculty_members": [
+                {
+                    "name": "MS. L R. SWATHIKA",
+                    "dob": "21-09-1994",
+                    "date_of_joining": "02-08-2017",
+                    "aicte_id": "13580817347",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "INSTRUMENTATION ENGINEERING",
+                            "college_name": "ST JOSEPHS COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "INSTRUMENTATION ENGINEERING",
+                            "college_name": "ST JOSEPHS COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. T. ABIMALA",
+                    "dob": "09-02-1987",
+                    "date_of_joining": "02-08-2017",
+                    "aicte_id": "13580795170",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "INSTRUMENTATION AND CONTROL ENGINEERING",
+                            "college_name": "TAMILNADU COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "INSTRUMENTATION ENGINEERING",
+                            "college_name": "ST JOSEPHS COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

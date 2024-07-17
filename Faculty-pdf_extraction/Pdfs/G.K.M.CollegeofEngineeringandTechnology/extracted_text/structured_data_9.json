@@ -1,0 +1,78 @@
+{
+    "faculty_details": [
+        {
+            "department": " ",
+            "faculty_members": [
+                {
+                    "name": "MS. S. HARINI",
+                    "dob": "04-04-1983",
+                    "date_of_joining": "01-07-2013",
+                    "aicte_id": "2736714873",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "9 Years",
+                    "educational_qualification": [
+                        {
+                            "degree": "MASTER OF BUSINESS ADMINISTRATION",
+                            "specialization": "OTHERS-AU",
+                            "college_name": "AU",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "Current",
+                            "previous_position": "Previous"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. S. PUSHPA SHEELA",
+                    "dob": "26-11-1987",
+                    "date_of_joining": "02-12-2021",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "1 Years",
+                    "educational_qualification": [
+                        {
+                            "degree": "MASTER OF BUSINESS ADMINISTRATION",
+                            "specialization": "BUSINESS ENGINEERING",
+                            "college_name": "ADHIPARASAKTHI COLLEGE",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "Current",
+                            "previous_position": "Previous"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. EBIN RICHARD",
+                    "dob": "04-04-1983",
+                    "date_of_joining": "03-01-2013",
+                    "aicte_id": "2736714904",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "10 Years",
+                    "educational_qualification": [
+                        {
+                            "degree": "MASTER OF BUSINESS ADMINISTRATION",
+                            "specialization": "OTHERS-BU",
+                            "college_name": "BU",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "Current",
+                            "previous_position": "Previous"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

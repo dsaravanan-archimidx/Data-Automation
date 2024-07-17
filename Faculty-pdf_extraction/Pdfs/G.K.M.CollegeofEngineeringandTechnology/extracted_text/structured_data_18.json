@@ -1,0 +1,44 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-Mathematics",
+            "faculty_members": [
+                {
+                    "name": "DR. G. VENKATESAN",
+                    "dob": "05-06-1995",
+                    "date_of_joining": "01-03-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "INVESTIGATIONS ON HYDROMAGNETIC PULSATING FLOW OF OLDROYD B NANOFLUID BETWEEN TWO PARALLEL WALLS WITH THERMAL RADIATIONS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "OTHERS-UNIVERSITY",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "OTHERS-UINVERSITY",
+                            "year_of_passing": "2017"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MATHEMATICS",
+                            "college_name": "OTHERS-UNIVERSITY",
+                            "year_of_passing": "2022"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

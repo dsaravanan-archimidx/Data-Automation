@@ -1,0 +1,171 @@
+{
+    "faculty_details": [
+        {
+            "department": "MECHANICAL",
+            "faculty_members": [
+                {
+                    "name": "DR. S. KARTHIKAYAN",
+                    "dob": "06-03-1979",
+                    "date_of_joining": "14-12-2020",
+                    "aicte_id": "19524854570",
+                    "phd_thesis_title": "EXPERIMENTAL STUDY ONDICI ENGINE FUELLED WITH DIFFERENT PROPORTIONS OF UNMODIFIED SIMAROUBA GLAUCA OIL",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "AUTOMOBILE ENGINEERING",
+                            "college_name": "ANNAI TERESA COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "SATHYABAMA",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "OTHERS-SATHYABAMA",
+                            "college_name": "MADRAS",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "14 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. P. PALANI KUMAR",
+                    "dob": "01-06-1984",
+                    "date_of_joining": "20-02-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "EFFECT OF SLIDING SPEED AND RAISE IN TEMPERATURE AT CONTACT INTERPHASE ON COFFICIENT OF FRICTION DURING FULL SLIDING OF SS 304",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "AUTOMOBILE ENGINEERING",
+                            "college_name": "INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMBUSTION ENGINEERING AND ENGINEERING TECHNOLOGY",
+                            "college_name": "UNIVERSAL COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "OTHERS - TRIPOLOGY",
+                            "college_name": "NITK",
+                            "year_of_passing": "2022"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "MECHANICAL",
+            "faculty_members": [
+                {
+                    "name": "MR. P V. NANDHAKUMAR",
+                    "dob": "06-09-1981",
+                    "date_of_joining": "25-07-2016",
+                    "aicte_id": "17394358057",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "KANCHI PALLAVAN ENGINEERING COLLEGE",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "MANUFACTURING ENGINEERING",
+                            "college_name": "SHRI ANDAL ALAGAR ENGINEERING COLLEGE",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "9 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. C. VENKATESAN",
+                    "dob": "06-05-1989",
+                    "date_of_joining": "01-06-2020",
+                    "aicte_id": "19610332947",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "THIRUMALAI ENGINEERING COLLEGE",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "THERMAL ENGINEERING",
+                            "college_name": "THIRUVALLUVAR COLLEGE OF ENGINEERING AND ENGINEERING TECHNOLOGY",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. SELVA PRABHU",
+                    "dob": "25-11-1992",
+                    "date_of_joining": "17-06-2019",
+                    "aicte_id": "110541172618",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "PET ENGINEERING COLLEGE",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "THERMAL ENGINEERING",
+                            "college_name": "MOHAMED SATHAK ENGINEERING COLLEGE",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

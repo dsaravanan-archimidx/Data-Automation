@@ -1,0 +1,323 @@
+{
+    "faculty_details": [
+        {
+            "department": "Computer Science",
+            "faculty_members": [
+                {
+                    "name": "DR. S. SUBBURAM",
+                    "dob": "30-05-1968",
+                    "date_of_joining": "12-06-2019",
+                    "aicte_id": "17429452073",
+                    "phd_thesis_title": "PERFORMANCE ENHANCEMENT OF ON DEMAND ROUTING PROTOCOL FOR MOBILE ADHOC NETWORK",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER",
+                            "college_name": "NATIONAL ENGINEERING COLLEGE (AUTONOMOUS)",
+                            "year_of_passing": "1989"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "SCIENCE AND ENGINEERING",
+                            "college_name": "KALASALINGAM COLLEGE OF ENGINEERING",
+                            "year_of_passing": "1997"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MOBILE ADHOC NETWORK",
+                            "college_name": "OTHERS-SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "26 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. S. SIVASUBRAMANIAN",
+                    "dob": "07-04-1975",
+                    "date_of_joining": "03-08-2022",
+                    "aicte_id": "17464291288",
+                    "phd_thesis_title": "PERFORMANCE ORIENTED QUERY PROCESSING IN GEO BASED LOCATION SEARCH ENGINES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "OTHERS-SN COLLEGE",
+                            "year_of_passing": "1995"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "OTHERS-BHARATH INSTITUTE OF SCIENCE AND TECHNOLOGY",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "STRATEGIES TO IMPROVE REALIBILTY IN VEHICULAR ADHOC NETWORKS AGAINST HYBRID JAMMING ATTACKS",
+                            "college_name": "OTHERS-ICE UNIVERSITY",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "20 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. G B. SANTHI",
+                    "dob": "03-04-1984",
+                    "date_of_joining": "10-05-2022",
+                    "aicte_id": "12190555806",
+                    "phd_thesis_title": "STRATEGIES TO IMPROVE REALIBILTY IN VEHICULAR ADHOC NETWORKS AGAINST HYBRID JAMMING ATTACKS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "INFORMATION TECHNOLOGY",
+                            "college_name": "G K M COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE ENGINEERING AND TECHNOLOGY",
+                            "college_name": "G K M COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "STRATEGIES TO IMPROVE REALIBILTY IN VEHICULAR ADHOC NETWORKS AGAINST HYBRID JAMMING ATTACKS",
+                            "college_name": "OTHERS-ANNA UNIVERSITY",
+                            "year_of_passing": "2022"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "12 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. M. MAHIMA",
+                    "dob": "09-09-1994",
+                    "date_of_joining": "08-09-2021",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "INDIRA GANDHI COLLEGE OF ENGINEERING AND TECHNOLOGY FOR WOMEN",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE ENGINEERING AND TECHNOLOGY",
+                            "college_name": "G K M COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. S. KANMANI JEBASEELI",
+                    "dob": "18-08-1994",
+                    "date_of_joining": "13-12-2021",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "NEW PRINCE SHRI BHAVANI COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE ENGINEERING",
+                            "college_name": "JERUSALEM COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. E. JOTHI",
+                    "dob": "31-05-1983",
+                    "date_of_joining": "01-03-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "JERUSALEM COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE ENGINEERING",
+                            "college_name": "SRI VENKATESWARA COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. P. JEYAKANI",
+                    "dob": "10-04-1989",
+                    "date_of_joining": "29-11-2021",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "INFORMATION TECHNOLOGY",
+                            "college_name": "K L N COLLEGE OF INFORMATION TECHNOLOGY",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "OTHERS-AARUPADAI VEEDU INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. N. KALYANASUNDARAM",
+                    "dob": "10-07-1983",
+                    "date_of_joining": "15-02-2021",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "PERFORMANCE ANALYSIS OF ENERGY SAVING IN CLOUD COMPUTING",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "OTHERS-SRM COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "SCIENCE AND ENGINEERING",
+                            "college_name": "INSTITUTE OF SCIENCE AND TECHNOLOGY",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "PERFORMANCE ANALYSIS OF ENERGY SAVING IN CLOUD COMPUTING",
+                            "college_name": "OTHERS-VELS UNIVERSITY",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "8 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. D. JANSIRANI",
+                    "dob": "04-06-1984",
+                    "date_of_joining": "27-06-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "SCIENCE AND ENGINEERING",
+                            "college_name": "DHANALAKSHMI SRINIVASAN COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "INFORMATION TECHNOLOGY",
+                            "college_name": "OTHERS-SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2009"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "6 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. RAMESH KUMAR",
+                    "dob": "26-10-1989",
+                    "date_of_joining": "11-10-2021",
+                    "aicte_id": "19476752913",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "COMPUTER SCIENCE",
+                            "college_name": "SRI RAMANUJAR COLLEGE",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "COMPUTER SCIENCE ENGINEERING",
+                            "college_name": "SRI RAMANUJAR COLLEGE",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "13 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "faculty_details": [
+        {
+            "department": "Electrical and Electronics Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. S. ARUL KUMAR",
+                    "dob": "25-07-1982",
+                    "date_of_joining": "02-03-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "DESIGN AND CONTROL OF UNIFIED POWER CONDITIONER USING SOFT COMPUTING TECHNIQUES",
+                    "year_of_starting": "2004",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRICAL AND ELECTRONICS ENGINEERING",
+                            "college_name": "UNIVERSITY OF MADRAS",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "POWER SYSTEMS",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ENGINEERING",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "15 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. K. DEEPA",
+                    "dob": "18-06-1983",
+                    "date_of_joining": "20-02-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "CONDITION MONITORING FOR IDENTIFICATION AND DETECTION OF FAULT IN ELECTRICAL MACHINES",
+                    "year_of_starting": "2004",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS ENGINEERING",
+                            "college_name": "ST PETER'S COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "ELECTRONICS ENGINEERING",
+                            "college_name": "ALAGAPPA CHETTIAR COLLEGE OF TECHNOLOGY (AUTONOMOUS)",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ENGINEERING",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "9 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. K E. LAKSHMI PRABHA",
+                    "dob": "09-09-1983",
+                    "date_of_joining": "30-06-2008",
+                    "aicte_id": "1404286847",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "2005",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS ENGINEERING",
+                            "college_name": "MEENAKSHI COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2005"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "13 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. P. VINOTHKUMAR",
+                    "dob": "17-04-1988",
+                    "date_of_joining": "04-06-2012",
+                    "aicte_id": "11463916183",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "2010",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMMUNICATION ENGINEERING",
+                            "college_name": "SRR ENGINEERING COLLEGE",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "10 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. P. MUTHUMARI",
+                    "dob": "30-05-1989",
+                    "date_of_joining": "27-06-2019",
+                    "aicte_id": "17403846302",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "2010",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS ENGINEERING",
+                            "college_name": "KALASALINGAM COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. V. REVATHI",
+                    "dob": "22-01-1986",
+                    "date_of_joining": "27-06-2016",
+                    "aicte_id": "17394013483",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "2007",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS ENGINEERING AND TECHNOLOGY",
+                            "college_name": "ODAIYAPPA COLLEGE OF ENGINEERING TECHNOLOGY",
+                            "year_of_passing": "2007"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "11 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

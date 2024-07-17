@@ -1,0 +1,212 @@
+{
+    "faculty_details": [
+        {
+            "department": " ",
+            "faculty_members": [
+                {
+                    "name": "DR. S. SENTHIL KUMAR",
+                    "dob": "08-04-1976",
+                    "date_of_joining": "02-07-2008",
+                    "aicte_id": "1405587382",
+                    "phd_thesis_title": "FINANCE",
+                    "year_of_starting": "2004",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "FINANCE",
+                            "college_name": "SRI THEAGARAYA COLLEGE",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.COM",
+                            "specialization": "OTHERS",
+                            "college_name": "SRI THEAGARAYA COLLEGE",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "B.COM",
+                            "specialization": "OTHERS",
+                            "college_name": "SRI THEAGARAYA COLLEGE",
+                            "year_of_passing": "1996"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "14 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. A R. MEENAKSHI",
+                    "dob": "10-07-1976",
+                    "date_of_joining": "02-07-2001",
+                    "aicte_id": "1405934055",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2015",
+                    "educational_qualification": [
+                        {
+                            "degree": "MASTER OF M.B.A.",
+                            "specialization": "BUSINESS PLANNING AND ADMINISTRATION",
+                            "college_name": "INDIAN INSTITUTE OF BUSINESS PLANNING AND ADMINISTRATION",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "B.B.A.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "COLLEGE OF ARTS AND SCIENCE",
+                            "year_of_passing": "1996"
+                        },
+                        {
+                            "degree": "OTHERS",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "PGS COLLEGE OF BUSINESS ADMINISTRATION",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "21 Years",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. S. SHAHUL AMEED",
+                    "dob": "10-05-1983",
+                    "date_of_joining": "18-10-2010",
+                    "aicte_id": "1405659879",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2010",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "FINANCE AND MARKETING",
+                            "college_name": "MEENAKSHI AMMAN COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "B.B.A.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "UNIVERSITY OF MADRAS",
+                            "year_of_passing": "2005"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "10 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. J. MELOSHIYA PRIYADHARSHINI",
+                    "dob": "01-07-1994",
+                    "date_of_joining": "N/A",
+                    "aicte_id": "N/A",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "N/A",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "AUXILIUM COLLEGE",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "N/A",
+                            "previous_position": "N/A"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. L. PRAVEENA",
+                    "dob": "15-02-1990",
+                    "date_of_joining": "04-09-2019",
+                    "aicte_id": "17347105134",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2012",
+                    "educational_qualification": [
+                        {
+                            "degree": "MASTER OF M.B.A.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "KSR COLLEGE OF ARTS AND SCIENCE",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "B.B.M",
+                            "specialization": "BUSINESS MANAGEMENT",
+                            "college_name": "MANGALOOR UNIVERSITY",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. R. ELAVARASI",
+                    "dob": "29-05-1991",
+                    "date_of_joining": "N/A",
+                    "aicte_id": "N/A",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "N/A",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "COMPUTER SCIENCE AND ENGINEERING",
+                            "college_name": "SATHIYABAMA UNIVERSITY",
+                            "year_of_passing": "2008"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. M. KRISHNAMOORTHY",
+                    "dob": "06-07-1985",
+                    "date_of_joining": "18-10-2021",
+                    "aicte_id": "110551531756",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2009",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "VINAYAGA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "B.COM",
+                            "specialization": "COMMERCE",
+                            "college_name": "UNIVERSITY OF MADRAS",
+                            "year_of_passing": "2009"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

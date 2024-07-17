@@ -1,0 +1,232 @@
+{
+    "faculty_details": [
+        {
+            "department": "BUSINESS ADMINISTRATION",
+            "faculty_members": [
+                {
+                    "name": "DR. N. PADMAVATHY",
+                    "dob": "17-06-1981",
+                    "date_of_joining": "23-06-2003",
+                    "aicte_id": "420969824",
+                    "phd_thesis_title": "A STUDY ON RETENTION OF REPATRIATES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.B.A.",
+                            "specialization": "OTHERS",
+                            "college_name": "SIET",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "OTHERS - HR MARKETING",
+                            "college_name": "STMARYS COLLEGE",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MANAGEMENT",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "14 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "FINANCE AND MARKETING",
+            "faculty_members": [
+                {
+                    "name": "DR. E. GOPI",
+                    "dob": "01-07-1978",
+                    "date_of_joining": "03-07-2017",
+                    "aicte_id": "3645276705",
+                    "phd_thesis_title": "A STUDY ON CAUSE AND REMEDIES OF NON PERFORMING ASSETS IN PUBLIC SECTOR BANK",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "OTHERS - COMPANY LAW AND OTHERS",
+                            "college_name": "JAWAHAR SCIENCE COLLEGE",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "BUSINESS ADMINISTRATION",
+                            "college_name": "SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "MANAGEMENT",
+                            "college_name": "ALAGAPPA UNIV",
+                            "year_of_passing": "2008"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "15 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "HEALTH CARE AND HOSPITAL MANAGEMENT",
+            "faculty_members": [
+                {
+                    "name": "DR. R. AKILA",
+                    "dob": "13-06-1975",
+                    "date_of_joining": "04-06-2003",
+                    "aicte_id": "419821949",
+                    "phd_thesis_title": "A STUDY ON EMOTIONAL INTELLIGENCE COMPETENCIES AMONG CALL HANDLERS OF CALL CENTRES IN CHENNAI CITY",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - HEALTH CARE AND HOSPITAL MANAGEMENT",
+                            "college_name": "SETHALAKSHMI RAMASAMY COLLEGE",
+                            "year_of_passing": "1996"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "MARKETING",
+                            "college_name": "MOTHER TERESA WOMEN UNIVERSITY",
+                            "year_of_passing": "1996"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "HUMAN RESOURCE MANAGEMENT",
+                            "college_name": "ALAGAPPA UNIVERSITY",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "23 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "COMMERCE",
+            "faculty_members": [
+                {
+                    "name": "DR. M. DURGARANI",
+                    "dob": "11-08-1984",
+                    "date_of_joining": "28-07-2008",
+                    "aicte_id": "43363339305",
+                    "phd_thesis_title": "WOMEN EMPOWERMENT THROUGH SELF HELP GROUPS A STUDY IN COIMBATORE DISTRICT",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.COM.",
+                            "specialization": "COMMERCE",
+                            "college_name": "VELAMMAL COLLEGE OF COMMERCE",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "MARKETING MANAGEMENT AND COMPUTER STUDIES",
+                            "college_name": "BHARATHIYAR UNIVERSITY",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "HR",
+                            "college_name": "HR UNIVERSITY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "13 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "ELECTRONICS AND INSTRUMENTATION ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "MS. M J. BENITA",
+                    "dob": "20-04-1992",
+                    "date_of_joining": "21-01-2022",
+                    "aicte_id": "111335710100",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "INSTRUMENTATION",
+                            "college_name": "ELECTRONICS AND INSTRUMENTATION ENGINEERING COLLEGE",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "MARKETING AND HR",
+                            "college_name": "JEPPIAAR ENGINEERING COLLEGE",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "GENERAL COMMERCE",
+            "faculty_members": [
+                {
+                    "name": "DR. B. KARUTHA PANDIAN",
+                    "dob": "08-12-1994",
+                    "date_of_joining": "03-01-2022",
+                    "aicte_id": "43363247985",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.COM.",
+                            "specialization": "",
+                            "college_name": "GENERAL COLLEGE",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "M.B.A.",
+                            "specialization": "FINANCE HR",
+                            "college_name": "JEPPIAAR ENGINEERING COLLEGE",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

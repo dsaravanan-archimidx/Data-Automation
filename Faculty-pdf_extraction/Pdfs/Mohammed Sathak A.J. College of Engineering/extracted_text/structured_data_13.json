@@ -1,0 +1,79 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-English",
+            "faculty_members": [
+                {
+                    "name": "MRS. S. USHA",
+                    "dob": "16-10-1977",
+                    "date_of_joining": "17-07-2019",
+                    "aicte_id": "17383794063",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2001",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "COLLEGE FOR WOMEN",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "MA",
+                            "specialization": "ENGLISH",
+                            "college_name": "ACHI COLLEGE FOR WOMEN",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ENGLISH",
+                            "college_name": "BHARATHIDASAN UNIVERSITY",
+                            "year_of_passing": "2007"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "16 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. K. SAIPRIYA",
+                    "dob": "09-08-1971",
+                    "date_of_joining": "27-06-2016",
+                    "aicte_id": "1478897093",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "1991",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "VAISHNAV COLLEGE",
+                            "year_of_passing": "1991"
+                        },
+                        {
+                            "degree": "M.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "LADY DOAK COLLEGE",
+                            "year_of_passing": "1994"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "ENGLISH",
+                            "college_name": "MADRAS CHRISTIAN COLLEGE",
+                            "year_of_passing": "1998"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "17 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

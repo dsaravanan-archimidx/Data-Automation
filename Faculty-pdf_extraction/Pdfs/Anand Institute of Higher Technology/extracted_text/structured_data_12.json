@@ -1,0 +1,446 @@
+{
+    "faculty_details": [
+        {
+            "department": "Chemistry",
+            "faculty_members": [
+                {
+                    "name": "DR. P R. SANTHI",
+                    "dob": "18-08-1967",
+                    "date_of_joining": "14-11-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "SYNTHESISCHARACTERIZATION AND BIOLOGICAL ACTIVITIES OF MANNICH BASES OF MALEIC HYDRAZIDE WITH SOME TRANSITION METAL ION COMPLEXES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "OTHERS-GOVERNMENT COLLEGE FOR WOMEN",
+                            "year_of_passing": "1988"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "OTHERS-GOVERNMENT COLLEGE FOR MEN",
+                            "year_of_passing": "1991"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "OTHERS-GOVERNMENT COLLEGE FOR MEN",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "30 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. K. MANVIZHI",
+                    "dob": "29-07-1979",
+                    "date_of_joining": "02-11-2005",
+                    "aicte_id": "PH.D.",
+                    "phd_thesis_title": "CHEMISTRY",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "OTHERS-GOVERNMENT ARTS COLLEGE",
+                            "year_of_passing": "2000"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - INORGANIC CHEMISTRY",
+                            "college_name": "OTHERS-ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "OTHERS - GENERAL CHEMISTRY",
+                            "college_name": "OTHERS-ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2004"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "17 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. V. MANICKKAM",
+                    "dob": "10-06-1980",
+                    "date_of_joining": "15-11-2022",
+                    "aicte_id": "PH.D.",
+                    "phd_thesis_title": "NEW CARBON BONDED ANIONIC",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "OTHERS-GOVT COLLEGE FOR WOME",
+                            "year_of_passing": "2000"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "OTHERS-ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "OTHERS-BHARATHIDASAN UNIVERSITY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. A. PRASATH",
+                    "dob": "24-09-1989",
+                    "date_of_joining": "14-11-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "DEVELOPMENT OF NANO STRUCTURED OXIDE BASED ALTERNATIVE ANODE MATERIALS FOR LITIHIUM ION BATTERY",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "PONDICHERRY UNIVERSITY",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. D. SINDHUJA",
+                    "dob": "10-01-1992",
+                    "date_of_joining": "17-08-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "HETEROGENIZED TRANSITION METAL COMPLEXES OF CATALYTIC APPLICATIONS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "OTHERS-FATHIMA COLLEGE MADURAI",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "OTHERS-GANDHIGRAM RURAL INSTITUTE",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "OTHERS-NIT TRICHY",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. M. BHUVANESWARI",
+                    "dob": "22-12-1973",
+                    "date_of_joining": "01-07-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "INORGANIC CHEMISTRY",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "OTHERS-UNIVERSITY OF MADRAS",
+                            "year_of_passing": "1998"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "OTHERS-ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "OTHERS-BHARATHIAR UNIVERSITY",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. G. KARTHIGA DEVI",
+                    "dob": "30-07-1989",
+                    "date_of_joining": "01-03-2021",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "OTHERS-VVV COLLEGE",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "OTHERS-VHNSN COLLEGE",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "OTHERS - MPHIL",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "OTHERS-VHNSN COLLEGE",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. V. BANU",
+                    "dob": "15-01-1978",
+                    "date_of_joining": "14-11-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "OTHERS-GOVT COLLEGE",
+                            "year_of_passing": "2001"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "OTHERS-ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2010"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. B. KALPANA",
+                    "dob": "05-05-1994",
+                    "date_of_joining": "15-11-2021",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "OTHERS-GOVT ARTS COLLEGE FOR WOMEN SALEM",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "OTHERS-ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "OTHERS - MPHIL",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "OTHERS-SRI SARADHA COLLEGE FOR WOMEN SALEM",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. S. RAJALAKSHMI",
+                    "dob": "03-06-1987",
+                    "date_of_joining": "01-07-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "SYNTHESIS AND BIOLOGICAL STUDIES OF TETRAZOLE PYRIMIDINE AND TRIAZEPINE DERIVATIVES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "OTHERS-ARINGAR ANNA ARTS COLLEGE",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "OTHERS-QUEENMARYS COLLEGE",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "OTHERS-QUEEN MARYS COLLEGE",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. N. SELVAKUMARAN",
+                    "dob": "30-06-1984",
+                    "date_of_joining": "21-11-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "SYNTHESISCHARACTERIZATIO AND BIOLOGICAL EVALUATION OF NI II PD II CU I AND CU II COMPLEXES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "OTHERS-PERIYAR ARTS COLLEGE",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "OTHERS-MADURAI KAMRAJ UNIVERSITY",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "NATIONAL INSTITUTE OF TECHNOLOGY,TIRUCHIRAPPALLI",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "1 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. K. LAKSHMI",
+                    "dob": "29-03-1984",
+                    "date_of_joining": "29-06-2009",
+                    "aicte_id": "",
+                    "phd_thesis_title": "FACILE TEMPLATE ASSISTED SYNTHESIS AND CHARACTERIZATION OF TRANSITION METAL OXIDES FOR SUPERCAPACITOR ELECTRODE APPLICATION",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "OTHERS-AUXILIUM COLLEGE VELLORE",
+                            "year_of_passing": "2004"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "OTHERS-ANNA UNIVERSITY",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "OTHERS-ANNA UNIVERSITY",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "13 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. V. THANGARAJ",
+                    "dob": "13-05-1986",
+                    "date_of_joining": "01-07-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "SYNTHESIS AND CHARACTERIZATION OF INORGANIC METAL OXIDE BY SOL GEL SYNTHETIC METHOD",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "OTHERS-GOVT ARTS COLLEGE",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "OTHERS-SCHOOL OF PHYSICAL CHEMISTRY",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "OTHERS-THIRUVALLUVAR UNIVERSITY",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "faculty_details": [
+        {
+            "department": "MECHANICAL",
+            "faculty_members": [
+                {
+                    "name": "DR. T. SUNDER SELWYN",
+                    "dob": "18-06-1969",
+                    "date_of_joining": "03-06-2013",
+                    "aicte_id": "13376788632",
+                    "phd_thesis_title": "RELAIABILITY ANALYSIS OF WIND TURBINE AT HIGH UNCERTAIN WIND",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "GENERAL ENGINEERING",
+                            "college_name": "COLLEGE OF ENGINEERING TIRUNELVELI",
+                            "year_of_passing": "1990"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "COLLEGE OF ENGINEERING GUINDY",
+                            "year_of_passing": "1993"
+                        }
+                    ],
+                    "designation": "PRINCIPAL",
+                    "academic_experience": [
+                        {
+                            "current_position": "9 Years",
+                            "previous_position": "14 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "MECHANICAL",
+            "faculty_members": [
+                {
+                    "name": "DR. B. RAJMOHAN",
+                    "dob": "14-12-1990",
+                    "date_of_joining": "23-06-2014",
+                    "aicte_id": "12295603340",
+                    "phd_thesis_title": "FABRICATION AND SUITABILITY ANALYSIS OF NATURAL FIBRES REINFORCED BIO HYBRID COMPOSITES FOR AUTOMOBILE INTERIOR APPLICATIONS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "MECH",
+                            "college_name": "KALASALINGAM UNIVERSITY",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "DESIGN",
+                            "college_name": "AUM",
+                            "year_of_passing": "2014"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "ENGINEERING",
+                            "college_name": "ANNA UNIVERSITY",
+                            "year_of_passing": "2022"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "8 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

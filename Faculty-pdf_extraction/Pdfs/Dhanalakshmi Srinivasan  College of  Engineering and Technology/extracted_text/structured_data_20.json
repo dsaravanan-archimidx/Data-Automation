@@ -1,0 +1,277 @@
+{
+    "faculty_details": [
+        {
+            "department": "Chemistry",
+            "faculty_members": [
+                {
+                    "name": "DR. R. RAJKUMAR",
+                    "dob": "10-03-1985",
+                    "date_of_joining": "01-06-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "MULTICOMPONENT SYNTHESIS AND SPECTRAL CHARACTERIZATION OF SOME 1245 TETRASUBSTITUTED IMMIDAZOLES USING SULPHATED YTTRIA AS AN EFFICIENT CATALYST",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "ST JOSEPHS ARTS AND SCIENCE COLLEGE",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "9 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. T. CHANDRASEKARAN",
+                    "dob": "19-07-1986",
+                    "date_of_joining": "03-07-2019",
+                    "aicte_id": "7497735601",
+                    "phd_thesis_title": "STUDIES ON THE PREPARATION OF ACTIVATED CARBON AND ITS APPLICATION IN WATER TREATMENT",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "JAWAHAR SCIENCE COLLEGE",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "JAMAL MOHAMED COLLEGE",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "JAMAL MOHAMED COLLEGE",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. G. VELMURUGAN",
+                    "dob": "15-04-1986",
+                    "date_of_joining": "06-01-2020",
+                    "aicte_id": "11339888821",
+                    "phd_thesis_title": "A COMPARATIVE STUDY OF SYNTHESIS CHARACTERIZATION THERMAL AND ION EXCHANGE PROPERTIES OF TERPOLYMER COMPOSITES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "THANTHAI HANS ROVER COLLEGE",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "JAMAL MOHAMMED COLLEGE",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "BHARATHIDASAN UNIVERSITY",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. P. RAJAJI",
+                    "dob": "03-02-1992",
+                    "date_of_joining": "24-10-2022",
+                    "aicte_id": "43381072538",
+                    "phd_thesis_title": "VERSATILE FLUORESCENT BIOSENSING PLATFORM BASED ONDNA MEDIATED METAL ORGANIC FRAMEWORKS FOE ULTRASENSITIVE AND SELECTIVE DETECTION OF TOXIC METAL IONS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2017"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "SRM INSTITUTE OF SCIENCE AND TECNOLOGY",
+                            "year_of_passing": "2023"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. D. PADMAPRIYA",
+                    "dob": "08-11-1980",
+                    "date_of_joining": "07-06-2021",
+                    "aicte_id": "11339888336",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "ETHIRAJ COLLEGE",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "D G VAISHNAV COLLEGE",
+                            "year_of_passing": "2004"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. R. JAYASEELAN",
+                    "dob": "13-06-1984",
+                    "date_of_joining": "19-08-2022",
+                    "aicte_id": "43381784833",
+                    "phd_thesis_title": "SYNTHESIS AND CHARACTERIZATION FOR BINARY OXIDE OF BARIUM TITANATE DOPED TITANIA NANORODS TIN NIOXIDE AND MCNT",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "ST JOSEPHS ARTS COLLEGE",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "7 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. S. KUMAR",
+                    "dob": "21-03-1993",
+                    "date_of_joining": "06-01-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "SYNTHESIS AND CHARACTERIZATION OF NANOFILLER LOADED POLYBENZIXAZINE AND POLIMIDE NANOCOMPOSITES FOR DIELECTRIC AND UV SHOELDING APPLICATIONS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "MUTHURANGAM GOVRNMENT ARTS COLLEGE",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "THIRUVALLUVAR UNIVERSITY",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "THIRUVALLUVAR UNIVERSITY",
+                            "year_of_passing": "2021"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. R. SASI KALA",
+                    "dob": "16-06-1985",
+                    "date_of_joining": "06-01-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "SYNTHESIS CHARACTERIZATION AND APPLICATIONS OF RARE EARTH METAL LOADED COPPER OXIDE NANOPARTICLES",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "THEIVANAI AMMAL COLLEGE FOR WOMEN",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "ANNAMALAI UNIVERSITY",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "CHEMISTRY",
+                            "college_name": "B S ABDUR RAHMAN CRESENT UNIVERSITY",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

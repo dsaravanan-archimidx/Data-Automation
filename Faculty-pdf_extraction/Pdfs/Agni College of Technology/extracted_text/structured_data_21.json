@@ -1,0 +1,73 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-English",
+            "faculty_members": [
+                {
+                    "name": "MRS. A. MARY SURYA KALA",
+                    "dob": "11-10-1969",
+                    "date_of_joining": "12-10-2021",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "1996",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "CHELAMMAL COLLEGE",
+                            "year_of_passing": "1991"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "ENGLISH",
+                            "college_name": "PACHAIYAPPAS COLLEGE",
+                            "year_of_passing": "1993"
+                        },
+                        {
+                            "degree": "M.A",
+                            "specialization": "ENGLISH",
+                            "college_name": "QUEEN MARYS COLLEGE",
+                            "year_of_passing": "1996"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "20 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. A S. SWATHI",
+                    "dob": "15-02-1990",
+                    "date_of_joining": "09-06-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "2020",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.A.",
+                            "specialization": "ENGLISH",
+                            "college_name": "RAMASWAMY COLLEGE",
+                            "year_of_passing": "2017"
+                        },
+                        {
+                            "degree": "MA",
+                            "specialization": "ENGLISH",
+                            "college_name": "WOMENS CHRISTIAN COLLEGE",
+                            "year_of_passing": "2020"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

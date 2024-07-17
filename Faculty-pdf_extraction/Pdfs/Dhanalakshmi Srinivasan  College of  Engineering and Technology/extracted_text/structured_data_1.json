@@ -1,0 +1,375 @@
+{
+    "faculty_details": [
+        {
+            "department": "Aeronautical Engineering",
+            "faculty_members": [
+                {
+                    "name": "DR. R VAGGAR. MALLIKARJUN",
+                    "dob": "21-07-1958",
+                    "date_of_joining": "18-06-2018",
+                    "aicte_id": "7721976013",
+                    "phd_thesis_title": "EXPLORING THE AIRCRAFT DESIGN LIFE AND ENHANCEMENT OF COMPOSITE BONDED JOINTS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Aeronautical Engineering",
+                            "college_name": "KARNATAK UNIVERSITY",
+                            "year_of_passing": "1993"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Aeronautical Engineering",
+                            "college_name": "UNIVERSITY OF POONA",
+                            "year_of_passing": "1990"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": "Aeronautical Engineering",
+                            "college_name": "LOUISVILLE ASV L A UR NA IVY EA RSITY",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "10 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. S. SENTHILKUMAR",
+                    "dob": "12-06-1981",
+                    "date_of_joining": "03-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "ADVANCED COMPUTATIONAL FLOW ANALYSIS WITH EXPERIMENTAL INVESTIGATIONS OF ROCKET ENGINE NOZZLE",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Mechanical Engineering",
+                            "college_name": "PERIYAR UNIVERSITY",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Mechanical Engineering",
+                            "college_name": "CDHRNOSLIONGSYTICHTREOMOFPET",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": "Mechanical Engineering",
+                            "college_name": "OF ENGINEERING",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "12 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. V S. VINOTHKUMAR",
+                    "dob": "12-04-1991",
+                    "date_of_joining": "11-06-2018",
+                    "aicte_id": "4737689054",
+                    "phd_thesis_title": "STUDY ON INFLUENCE OF PROCESS PARAMETERS ON MICROSTRUCTURE AND MECHANICAL PROPERTIES OF INSITU ALUMINIUM TIB2COMPOSITE",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Aeronautical Engineering",
+                            "college_name": "VEL TECH",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Aeronautical Engineering",
+                            "college_name": "COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. A S. VIVEKANANDA",
+                    "dob": "03-06-1989",
+                    "date_of_joining": "11-07-2022",
+                    "aicte_id": "43358512801",
+                    "phd_thesis_title": "STUDY ON INFLUENCE OF PROCESS PARAMETERS ON MICROSTRUCTURE AND MECHANICAL PROPERTIES OF INSITU ALUMINIUM TIB2COMPOSITE",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Production Engineering",
+                            "college_name": "MADRAS INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2010"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Engineering Design",
+                            "college_name": "GUINDY",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "Ph.D.",
+                            "specialization": "Engineering",
+                            "college_name": "GUINDY",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. DAS. DURLAB",
+                    "dob": "08-10-1993",
+                    "date_of_joining": "02-12-2019",
+                    "aicte_id": "9319777704",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Aeronautical Engineering",
+                            "college_name": "SAMS COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "Aeronautical Engineering",
+                            "college_name": "HINDUSTAN INSTITUTE OF TECHNOLOGY AND SCIENCE",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. MUZEER",
+                    "dob": "20-05-1996",
+                    "date_of_joining": "06-02-2023",
+                    "aicte_id": "43358513266",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TECH.",
+                            "specialization": "Aerospace Engineering",
+                            "college_name": "LBRCE",
+                            "year_of_passing": "2017"
+                        },
+                        {
+                            "degree": "M.TECH.",
+                            "specialization": "Aerospace Engineering",
+                            "college_name": "MRCET",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MS. S. SUNITHA",
+                    "dob": "16-08-1995",
+                    "date_of_joining": "06-02-2023",
+                    "aicte_id": "43358513221",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Aeronautical Engineering",
+                            "college_name": "NEHRU INSTITUTE OF TECHNOLOGY (AUTONOMOUS)",
+                            "year_of_passing": "2016"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Aeronautical Engineering",
+                            "college_name": "SRI RAMAKRISHNA ENGINEERING COLLEGE",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. M. NATESAN",
+                    "dob": "05-10-1989",
+                    "date_of_joining": "26-06-2013",
+                    "aicte_id": "2186559951",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Aeronautical Engineering",
+                            "college_name": "DHANALAKSHMI SRINIVASAN COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2011"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Aeronautical Engineering",
+                            "college_name": "MADRAS INSTITUTE OF TECHNOLOGY CHROMPET",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "9 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. ARAVIND",
+                    "dob": "07-08-1991",
+                    "date_of_joining": "11-06-2018",
+                    "aicte_id": "7721711351",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Aeronautical Engineering",
+                            "college_name": "KARPAGAM UNIVERSITY",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Aeronautical Engineering",
+                            "college_name": "OTHERS - AEROSPACE ENGINEERING",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "4 Years",
+                            "previous_position": "3 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. C. AJITH",
+                    "dob": "23-11-1990",
+                    "date_of_joining": "04-01-2021",
+                    "aicte_id": "9434433938",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Aeronautical Engineering",
+                            "college_name": "NOORUL ISLAM COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Aeronautical Engineering",
+                            "college_name": "DHANALAKSHMI SRINIVASAN COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "2 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MRS. M. SRI VINAYAGA",
+                    "dob": "17-10-1995",
+                    "date_of_joining": "21-06-2021",
+                    "aicte_id": "43358513096",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Aeronautical Engineering",
+                            "college_name": "TAGORE ENGINEERING COLLEGE",
+                            "year_of_passing": "2017"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Aeronautical Engineering",
+                            "college_name": "DHANALAKSHMI SRINIVASAN COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. S. NIBRAS FAROUK",
+                    "dob": "16-03-1994",
+                    "date_of_joining": "26-04-2019",
+                    "aicte_id": "43358513078",
+                    "phd_thesis_title": "Title of the Ph.D. Thesis",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "Aerospace Engineering",
+                            "college_name": "NOOR ISLAM CENTRE FOR HIGHER EDUCATION",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Aerospace Engineering",
+                            "college_name": "MADRAS INSTITUTE OF TECHNOLOGY",
+                            "year_of_passing": "2017"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "3 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

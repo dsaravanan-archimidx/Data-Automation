@@ -1,0 +1,149 @@
+{
+    "faculty_details": [
+        {
+            "department": "Physics",
+            "faculty_members": [
+                {
+                    "name": "MR. K. MOHANRAJ",
+                    "dob": "19-02-1992",
+                    "date_of_joining": "05-05-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "ST JOSEPH COLLEGE",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "ST JOSEPH COLLEGE",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "PHYSICS",
+                            "college_name": "UNIVERSITY OF MADRAS",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. B. ARIVUDAINAMBI",
+                    "dob": "18-03-1986",
+                    "date_of_joining": "15-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "ISLAMIAH COLLEGE",
+                            "year_of_passing": "2008"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "SACRED HEART COLLEGE",
+                            "year_of_passing": "2012"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "PHYSICS",
+                            "college_name": "SACRED HEART COLLEGE",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. G. RAJA ANNAMALAI",
+                    "dob": "05-05-1979",
+                    "date_of_joining": "15-05-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "SPECTROSCOPIC STUDIES OF SOME ANCIENT POTTERIES OF TAMILNADU INDIA",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "TMBL COLLEGE",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "MANONMANIAM SUNDARNAR UNIVERSITY",
+                            "year_of_passing": "2006"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "PHYSICS",
+                            "college_name": "MANONMANIAM SUNDARNAR UNIVERSITY",
+                            "year_of_passing": "2016"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "MR. L. PRAKASH",
+                    "dob": "07-06-1991",
+                    "date_of_joining": "05-02-2018",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "PHYSICS AND SCIENCE",
+                            "college_name": "SIVAKAMIAMMAL ARTS COLLEGE",
+                            "year_of_passing": "2013"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "PHYSICS",
+                            "college_name": "SACRED HEART COLLEGE",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "M.PHIL",
+                            "specialization": "PHYSICS",
+                            "college_name": "SACRED HEART COLLEGE",
+                            "year_of_passing": "2018"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "5 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

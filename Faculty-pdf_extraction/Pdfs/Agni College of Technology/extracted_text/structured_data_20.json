@@ -1,0 +1,113 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-Chemistry",
+            "faculty_members": [
+                {
+                    "name": "DR. S. SHUNMUGAKANI",
+                    "dob": "05-06-1973",
+                    "date_of_joining": "01-09-2005",
+                    "aicte_id": "CHEMISTRY OTHERS - CHEMISTRY OTHERS-BHARATHIDASAN UNIVERSITY 2005",
+                    "phd_thesis_title": "BETA CYCLODEXTRIN PROMOTED OXIDATION OF BASIC AMINOACIDS BY PEROXOMONOSULPHATE CATALYTIC EFFECT OF CU II IONS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "OTHERS-PMT COLLEGE",
+                            "year_of_passing": "1993"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "OTHERS-KGS ARTS COLLEGE",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "OTHERS-CHEMISTRY",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSOCIATE PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "17 Years",
+                            "previous_position": "2 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. J. VINOTH KUMAR",
+                    "dob": "06-06-1994",
+                    "date_of_joining": "09-11-2022",
+                    "aicte_id": "AU1 PH.D. CHEMISTRY OTHERS-SRM UNIVERSITY 2023",
+                    "phd_thesis_title": "SURFACE FUNCTIONALIZED FLUORESCENT CARBON NANODOTS FOR CATALYTIC REDUCTION OF IONIC DYES AND ANTI COUNTERFEITING APPLICATIONS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "OTHERS-ST JOSEPHS COLLEGE OF ARTS",
+                            "year_of_passing": "2015"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - CHEMISTRY",
+                            "college_name": "SCT IH EE NR CS E-ST JOSEPHS COLLEGE OF ARTS AND",
+                            "year_of_passing": "2019"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": " ",
+            "faculty_members": [
+                {
+                    "name": "DR. J. BINU CLARA",
+                    "dob": "11-11-1984",
+                    "date_of_joining": "01-11-2021",
+                    "aicte_id": "AU1 M.PHIL OTHERS - BIOCHEMISTRY OTHERS-UNIVERSITY OF MADRAS 2008",
+                    "phd_thesis_title": "EVALUATING THE EFFECT OF DOISMIN ON TRAGETING THE ACTIVATED HSC IN DIMETHYLNITROSAMINE INDUCED LIVER FIBROSIS ON INVIVO ADN INVITRO STUDY",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - BIOCHEMISTRY",
+                            "college_name": "OTHERS-BHARATHI WOMENS COLLEGE",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - BIOCHEMISTRY",
+                            "college_name": "OTHERS-UNIVERSITY OF MADRAS",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "OTHERS - BIOCHEMISTRY",
+                            "college_name": "OTHERS-UNIVERSITY OF MADRAS",
+                            "year_of_passing": "2015"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "1 Years",
+                            "previous_position": "4 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

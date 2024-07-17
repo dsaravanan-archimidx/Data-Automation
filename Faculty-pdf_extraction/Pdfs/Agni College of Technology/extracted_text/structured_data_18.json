@@ -1,0 +1,38 @@
+{
+    "faculty_details": [
+        {
+            "department": "Power Electronics and Drives",
+            "faculty_members": [
+                {
+                    "name": "MRS. SOMAKUMAR. RADHIKA",
+                    "dob": "04-11-1987",
+                    "date_of_joining": "04-01-2013",
+                    "aicte_id": "H",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "2013",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.TEC",
+                            "specialization": "EEE",
+                            "college_name": "COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "M.TEC",
+                            "specialization": "POWER ELECTRONICS AND DRIVES",
+                            "college_name": "COLLEGE OF ELECTRONICS",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "10 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

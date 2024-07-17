@@ -1,0 +1,38 @@
+{
+    "faculty_details": [
+        {
+            "department": "Computer Science and Engineering",
+            "faculty_members": [
+                {
+                    "name": "MS. M. VANITHA SHEBA",
+                    "dob": "11-07-1988",
+                    "date_of_joining": "20-06-2011",
+                    "aicte_id": "1723666010",
+                    "phd_thesis_title": " ",
+                    "year_of_starting": "2011",
+                    "educational_qualification": [
+                        {
+                            "degree": "M.E.",
+                            "specialization": "Computer Science and Engineering",
+                            "college_name": "OTHERS-SASTRA",
+                            "year_of_passing": "2009"
+                        },
+                        {
+                            "degree": "B.E.",
+                            "specialization": "SCIENCE AND ENGINEERING",
+                            "college_name": "UNIVERSITY",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "COMPUTER COLLEGE OF SCIENCE AND ENGINEERING",
+                            "previous_position": "ENGINEERING GUINDY--"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

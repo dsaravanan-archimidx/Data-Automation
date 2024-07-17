@@ -1,0 +1,79 @@
+{
+    "faculty_details": [
+        {
+            "department": "S&H-Physics",
+            "faculty_members": [
+                {
+                    "name": "DR. R. JOSEPHINE USHA",
+                    "dob": "29-07-1983",
+                    "date_of_joining": "01-03-2023",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "INVESTIGATION ON THE GROWTH AND PHYSICOCHEMICAL PROPERTIES OF ORGANOMETALLIC NLO CRYSTALS OF ATCC ATMC MMTC AND CMTC",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "HOLY CROSS COLLEGE",
+                            "year_of_passing": "2003"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "ST JOSEPHS COLLEGE",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "PHYSICS",
+                            "college_name": "MADRAS UNIVERSITY",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "0 Years"
+                        }
+                    ]
+                },
+                {
+                    "name": "DR. E. ANNIE RATHNA KUMARI",
+                    "dob": "23-05-1985",
+                    "date_of_joining": "14-09-2022",
+                    "aicte_id": "AU1",
+                    "phd_thesis_title": "SYNTHESIS AND PHOTO LUMINESCENCE STUDIES OF CIRTAIN LANTHANIDE IONS DY3 EU3 SN3 ACTIVATED PHOSPHATE BASED PHOSPHORS FOR PC WLED APPLICATIONS",
+                    "year_of_starting": "",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "LADY DOAK COLLEGE",
+                            "year_of_passing": "2005"
+                        },
+                        {
+                            "degree": "M.SC.",
+                            "specialization": "OTHERS - PHYSICS",
+                            "college_name": "THE AMERICAN COLLEGE",
+                            "year_of_passing": "2007"
+                        },
+                        {
+                            "degree": "PH.D.",
+                            "specialization": "PHYSICS",
+                            "college_name": "COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2022"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "0 Years",
+                            "previous_position": "6 Years"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+[
+    {
+        "faculty_details": [
+            {
+                "department": "SCHOOL OF ARCHITECTURE & PLANNING",
+                "faculty_members": [
+                    {
+                        "name": "DR. VEDAMUTHU. RANEE MARIA",
+                        "dob": "09-10-1961",
+                        "date_of_joining": "07-11-2022",
+                        "aicte_id": "PH.D. ARCHITECTURE PLANNING-- 2003",
+                        "phd_thesis_title": "SOCIAL MANIFESTATION OF HOUSE IN RURAL TAMILNADU",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "M.ARCH.",
+                                "specialization": "ARCHITECTURE PLANNING",
+                                "college_name": " ",
+                                "year_of_passing": "1991"
+                            }
+                        ],
+                        "designation": "PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "0 Years",
+                                "previous_position": "35 Years"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "department": "OTHERS",
+                "faculty_members": [
+                    {
+                        "name": "MS. C. DIVYA",
+                        "dob": "06-10-1985",
+                        "date_of_joining": "20-06-2017",
+                        "aicte_id": "PRESERVATION",
+                        "phd_thesis_title": "HISTORIC CONSERVATION",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.ARCH.",
+                                "specialization": "ARCHITECTURE",
+                                "college_name": "SRM UNIV",
+                                "year_of_passing": "2008"
+                            },
+                            {
+                                "degree": "MASTERS",
+                                "specialization": "OTHERS",
+                                "college_name": "UNIVERISITY OF SOUTHERN CALIFORNIA",
+                                "year_of_passing": "2010"
+                            }
+                        ],
+                        "designation": "ASSOCIATE PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "5 Years",
+                                "previous_position": "3 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MS. S K. AATHIRAI",
+                        "dob": "31-03-1992",
+                        "date_of_joining": "20-05-2019",
+                        "aicte_id": "",
+                        "phd_thesis_title": "",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.ARCH.",
+                                "specialization": "ARCHITECTURE",
+                                "college_name": " ",
+                                "year_of_passing": "2014"
+                            },
+                            {
+                                "degree": "M.ARCH.",
+                                "specialization": "CONSERVATION",
+                                "college_name": "CEPT UNIVERSITY",
+                                "year_of_passing": "2017"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "4 Years",
+                                "previous_position": "0 Years"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MR. V. BALAKRISHNAN",
+                        "dob": "31-10-1985",
+                        "date_of_joining": "02-01-2023",
+                        "aicte_id": "0 SCIENCE MANAGEMENT",
+                        "phd_thesis_title": "CONSTRUCTION OF",
+                        "year_of_starting": "",
+                        "educational_qualification": [
+                            {
+                                "degree": "B.ARCH.",
+                                "specialization": "ARCHITECTURE",
+                                "college_name": "SRM UNIVERSITY",
+                                "year_of_passing": "2008"
+                            },
+                            {
+                                "degree": "MASTER",
+                                "specialization": "OTHERS",
+                                "college_name": "LOUGHBOROUGH UNIV",
+                                "year_of_passing": "2009"
+                            }
+                        ],
+                        "designation": "ASSISTANT PROFESSOR",
+                        "academic_experience": [
+                            {
+                                "current_position": "0 Years",
+                                "previous_position": "1 Years"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

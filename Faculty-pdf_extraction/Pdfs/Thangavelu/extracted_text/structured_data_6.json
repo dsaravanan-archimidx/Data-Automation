@@ -1,0 +1,178 @@
+{
+    "faculty_details": [
+        {
+            "department": "MECHANICAL ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "MR. S. LOGESHWARAN",
+                    "dob": "21-05-1993",
+                    "date_of_joining": "08-05-2023",
+                    "aicte_id": "M.E. CAD/CAM ENGINEERING 2016",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "0 Years",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "H. UNIVERSITY",
+                            "year_of_passing": "2014"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "THANGAVELU",
+                            "previous_position": "AICTE ID: M.E. CAD/CAM ENGINEERING 2016"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "MECHANICAL ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "MR. U. RAJASEKAR",
+                    "dob": "20-06-1990",
+                    "date_of_joining": "08-05-2023",
+                    "aicte_id": "M.E. DESIGN TECHNOLOGY",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "0 Years",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "T J INSTITUTE OF ENGINEERING",
+                            "year_of_passing": "2012"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "ENGINEERING",
+                            "previous_position": "AICTE ID: DESIGN TECHNOLOGY"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "ELECTRONICS AND COMMUNICATION TECHNOLOGY",
+            "faculty_members": [
+                {
+                    "name": "MR. N. BALAJI",
+                    "dob": "15-12-1984",
+                    "date_of_joining": "15-05-2023",
+                    "aicte_id": "AU1 M.E. SYSTEMS TECHNOLOGY",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "0 Years",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS AND COMMUNICATION TECHNOLOGY",
+                            "college_name": "AGNI COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2005"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "COMMUNICATION SYSTEMS",
+                            "previous_position": "AICTE ID: AU1 M.E. SYSTEMS TECHNOLOGY"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "MECHANICAL ENGINEERING AND TECHNOLOGY",
+            "faculty_members": [
+                {
+                    "name": "MR. G. RAVICHANDRAN",
+                    "dob": "12-05-1975",
+                    "date_of_joining": "15-05-2023",
+                    "aicte_id": "AU1 INTERNAL COMBUSTION ENGINEERING",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "0 Years",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "MECHANICAL ENGINEERING",
+                            "college_name": "OTHERS - COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "1998"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "OTHERS - ENGINE",
+                            "previous_position": "AICTE ID: AU1 INTERNAL COMBUSTION ENGINEERING"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "MR. D. SINGARAYAR",
+                    "dob": "10-11-1989",
+                    "date_of_joining": "10-05-2023",
+                    "aicte_id": "M.E. COMMUNICATION SYSTEMS",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "0 Years",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+                            "college_name": "R. V. S COLLEGE OF ENGINEERING",
+                            "year_of_passing": "2011"
+                        }
+                    ],
+                    "designation": "ASSISTANT PROFESSOR",
+                    "academic_experience": [
+                        {
+                            "current_position": "THANGAVELU COMMUNICATION",
+                            "previous_position": "AICTE ID: M.E. COMMUNICATION SYSTEMS"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "department": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+            "faculty_members": [
+                {
+                    "name": "MRS. M. NIRANJALA CHETTIAR",
+                    "dob": "18-02-1980",
+                    "date_of_joining": "04-07-2013",
+                    "aicte_id": "",
+                    "phd_thesis_title": "",
+                    "year_of_starting": "9 Years",
+                    "educational_qualification": [
+                        {
+                            "degree": "B.E.",
+                            "specialization": "ELECTRONICS AND COMMUNICATION ENGINEERING",
+                            "college_name": "GOVERNMENT COLLEGE OF ENGINEERING AND TECHNOLOGY",
+                            "year_of_passing": "2002"
+                        },
+                        {
+                            "degree": "M.E.",
+                            "specialization": "APPLIED ELECTRONICS",
+                            "college_name": "SATHYABAMA UNIVERSITY",
+                            "year_of_passing": "2013"
+                        }
+                    ],
+                    "designation": " ",
+                    "academic_experience": [
+                        {
+                            "current_position": "(AUTONOMOUS)",
+                            "previous_position": "OTHERS- APPLIED ELECTRONICS"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
